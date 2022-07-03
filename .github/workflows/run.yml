@@ -1,0 +1,60 @@
+name: Build V2Ray rules dat files
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "**/README.md"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+
+      - name: Checkout to "build" branch
+        uses: actions/checkout@v3
+        with:
+          ref: build
+
+      - name: Run build
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          mkdir -p ./publish
+          python main.py
+
+      - name: Set variables
+        run: |
+          # ref https://github.com/Loyalsoldier/v2ray-rules-dat/blob/master/.github/workflows/run.yml
+          echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+
+      - name: Release and upload assets
+        uses: softprops/action-gh-release@v0.1.6
+        with:
+          name: ${{ env.RELEASE_NAME }}
+          tag_name: ${{ env.TAG_NAME }}
+          draft: false
+          prerelease: false
+          files: |
+            ./publish/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Git push assets to "release" branch
+        run: |
+          cd publish
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          git add .
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin release
