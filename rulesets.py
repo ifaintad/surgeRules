@@ -10,6 +10,8 @@ ADBLOCK3 = {
 BAN_PROGRAM_AD = {
     "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"}
 
+BANNING_RULES = [ADBLOCK, ADBLOCK3, HIJACKING, BAN_PROGRAM_AD]
+
 # direct rules
 APPLE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list"}
@@ -24,7 +26,13 @@ DIRECT_IP = {
 DIRECT_PRIVATE_TRACKER = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list"}
 
-# proxy roles
+
+DIRECT_RULES = [
+    APPLE, MICROSOFT, DIRECT_LAN, DIRECT_CN, DIRECT_IP, DIRECT_PRIVATE_TRACKER
+]
+
+
+# media rules
 YOUTUBE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list",
     "domain_keywords": ["youtube", "youtubego"],
@@ -37,6 +45,12 @@ DISNEY_PLUS = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list",
     "domain_keywords": ["disney", "disneymagicmoments", "20thcenturystudios"],
 }
+
+
+MEDIA_RULES = [
+    YOUTUBE, NETFLIX, DISNEY_PLUS
+]
+
 # PAYPAL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
 
 # gfw list
