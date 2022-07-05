@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,17jita.com
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,343480.com
-DOMAIN-SUFFIX,356884.com,DIRECT
 DOMAIN-SUFFIX,360.cn,DIRECT
 DOMAIN-SUFFIX,360.com,DIRECT
 DOMAIN-SUFFIX,360buy.com,DIRECT
@@ -51,7 +50,6 @@ DOMAIN-SUFFIX,51ym.me,DIRECT
 DOMAIN-SUFFIX,58.com,DIRECT
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,8686c.com,DIRECT
-DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,abchina.com,DIRECT
 DOMAIN-SUFFIX,accuweather.com,DIRECT
 DOMAIN-SUFFIX,acfun.tv,DIRECT
@@ -91,11 +89,9 @@ DOMAIN-SUFFIX,astm.org
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,autonavi.com,DIRECT
 DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,b612.net,DIRECT
 DOMAIN-SUFFIX,bababian.com,DIRECT
 DOMAIN-SUFFIX,baduziyuan.com
-DOMAIN-SUFFIX,baidubcr.com,DIRECT
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,battle.net,DIRECT
 DOMAIN-SUFFIX,battlenet.com
@@ -155,7 +151,6 @@ DOMAIN-SUFFIX,cn,DIRECT
 DOMAIN-SUFFIX,cnbeta.com,DIRECT
 DOMAIN-SUFFIX,cnbetacdn.com,DIRECT
 DOMAIN-SUFFIX,cnlang.org
-DOMAIN-SUFFIX,com-hs-hkdy.com
 DOMAIN-SUFFIX,cootekservice.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,ctrip.com,DIRECT
@@ -206,7 +201,6 @@ DOMAIN-SUFFIX,frdic.com,DIRECT
 DOMAIN-SUFFIX,fresh-ideas.cc,DIRECT
 DOMAIN-SUFFIX,futu5.com,DIRECT
 DOMAIN-SUFFIX,futunn.com,DIRECT
-DOMAIN-SUFFIX,g-cores.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,geetest.com,DIRECT
@@ -237,7 +231,6 @@ DOMAIN-SUFFIX,homeinns.com
 DOMAIN-SUFFIX,hongxiu.com,DIRECT
 DOMAIN-SUFFIX,hori-gz.com
 DOMAIN-SUFFIX,hostbuf.com,DIRECT
-DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,hujiang.com
 DOMAIN-SUFFIX,huxiucdn.com,DIRECT
 DOMAIN-SUFFIX,huya.com,DIRECT
@@ -277,7 +270,6 @@ DOMAIN-SUFFIX,jianshu.com,DIRECT
 DOMAIN-SUFFIX,jianshu.io,DIRECT
 DOMAIN-SUFFIX,jianshuapi.com,DIRECT
 DOMAIN-SUFFIX,jiathis.com,DIRECT
-DOMAIN-SUFFIX,jidian.im,DIRECT
 DOMAIN-SUFFIX,jomodns.com,DIRECT
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,jsboxbbs.com
@@ -312,11 +304,9 @@ DOMAIN-SUFFIX,luoo.net,DIRECT
 DOMAIN-SUFFIX,lxdns.com,DIRECT
 DOMAIN-SUFFIX,lxjapp.com
 DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,mai.tn
 DOMAIN-SUFFIX,maoyan.com,DIRECT
 DOMAIN-SUFFIX,maoyun.tv,DIRECT
 DOMAIN-SUFFIX,mbcloud.com
-DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,meipai.com,DIRECT
 DOMAIN-SUFFIX,meitu.com,DIRECT
 DOMAIN-SUFFIX,meituan.com,DIRECT
@@ -331,7 +321,6 @@ DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com,DIRECT
 DOMAIN-SUFFIX,miaopai.com,DIRECT
-DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,miui.com,DIRECT
 DOMAIN-SUFFIX,miwifi.com,DIRECT
 DOMAIN-SUFFIX,mob.com,DIRECT
@@ -341,9 +330,6 @@ DOMAIN-SUFFIX,moke.com,DIRECT
 DOMAIN-SUFFIX,morethan.tv
 DOMAIN-SUFFIX,mpg.de
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,mubu.com,DIRECT
 DOMAIN-SUFFIX,mxhichina.com,DIRECT
 DOMAIN-SUFFIX,myanonamouse.net
@@ -352,7 +338,6 @@ DOMAIN-SUFFIX,myilibrary.com
 DOMAIN-SUFFIX,myqcloud.com,DIRECT
 DOMAIN-SUFFIX,myunlu.com,DIRECT
 DOMAIN-SUFFIX,myzaker.com,DIRECT
-DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,ncore.cc
@@ -364,9 +349,6 @@ DOMAIN-SUFFIX,novipnoad.com
 DOMAIN-SUFFIX,nuomi.com,DIRECT
 DOMAIN-SUFFIX,nvidia.com,DIRECT
 DOMAIN-SUFFIX,oecd-ilibrary.org
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oracle.com,DIRECT
@@ -375,7 +357,6 @@ DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,ourdvs.com,DIRECT
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,ovid.com
 DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordbibliographies.com
@@ -429,7 +410,6 @@ DOMAIN-SUFFIX,ronghub.com,DIRECT
 DOMAIN-SUFFIX,rrmj.tv,DIRECT
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,ruguoapp.com,DIRECT
-DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,s-reader.com,DIRECT
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,sandai.net,DIRECT
@@ -441,7 +421,6 @@ DOMAIN-SUFFIX,seafile.com,DIRECT
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,sf-express.com,DIRECT
-DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,siam.org
 DOMAIN-SUFFIX,sina.com,DIRECT
 DOMAIN-SUFFIX,sinaapp.com,DIRECT
@@ -495,7 +474,6 @@ DOMAIN-SUFFIX,ttmeiju.com,DIRECT
 DOMAIN-SUFFIX,tudou.com,DIRECT
 DOMAIN-SUFFIX,udache.com,DIRECT
 DOMAIN-SUFFIX,udacity.com,DIRECT
-DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com,DIRECT
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,un.org
@@ -506,7 +484,6 @@ DOMAIN-SUFFIX,upyun.com,DIRECT
 DOMAIN-SUFFIX,uxengine.net,DIRECT
 DOMAIN-SUFFIX,v-56.com,DIRECT
 DOMAIN-SUFFIX,veryzhun.com
-DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,wandoujia.com,DIRECT
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,weather.com,DIRECT
@@ -523,15 +500,9 @@ DOMAIN-SUFFIX,werewolf.53site.com
 DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wkcdn.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
-DOMAIN-SUFFIX,xbox.com
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,xhostfire.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiachufang.com,DIRECT
@@ -564,12 +535,10 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
 DOMAIN-SUFFIX,zealer.com,DIRECT
 DOMAIN-SUFFIX,zgslb.net,DIRECT
 DOMAIN-SUFFIX,zhangle.com
-DOMAIN-SUFFIX,zhangzishi.cc,DIRECT
 DOMAIN-SUFFIX,zhihu.com,DIRECT
 DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 DOMAIN-SUFFIX,zimuzu.io
-DOMAIN-SUFFIX,zimuzu.tv,DIRECT
 DOMAIN-SUFFIX,zmz002.com,DIRECT
 DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
@@ -602,7 +571,6 @@ USER-AGENT,MegaWerewolf*,DIRECT
 USER-AGENT,MicroMessenger%20Client,DIRECT
 USER-AGENT,MicroMessenger*,DIRECT
 USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
 USER-AGENT,Moke*,DIRECT
 USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,QQ*,DIRECT

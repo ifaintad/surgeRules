@@ -3382,7 +3382,6 @@ IP-CIDR,182.88.0.0/14,no-resolve
 IP-CIDR,182.92.0.0/16,no-resolve
 IP-CIDR,182.96.0.0/11,no-resolve
 IP-CIDR,183.0.0.0/10,no-resolve
-IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,183.160.0.0/13,no-resolve
 IP-CIDR,183.168.0.0/15,no-resolve
 IP-CIDR,183.170.0.0/16,no-resolve

@@ -17,10 +17,7 @@ DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cdn20.com
 DOMAIN-SUFFIX,apple.com.cn
-DOMAIN-SUFFIX,apple.com.mwcloudcdn.com
-DOMAIN-SUFFIX,apple.com.mwcname.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,applemusic.com
@@ -29,7 +26,6 @@ DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,icloud-apple.cn
@@ -48,7 +44,6 @@ DOMAIN-SUFFIX,icloud.ie
 DOMAIN-SUFFIX,icloud.is
 DOMAIN-SUFFIX,icloud.jp
 DOMAIN-SUFFIX,icloud.lv
-DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloud.om
 DOMAIN-SUFFIX,icloud.org
 DOMAIN-SUFFIX,icloud.pt
@@ -58,7 +53,6 @@ DOMAIN-SUFFIX,icloud.si
 DOMAIN-SUFFIX,icloud.sk
 DOMAIN-SUFFIX,icloud.vn
 DOMAIN-SUFFIX,icloudads.net
-DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,icloudbox.net
 DOMAIN-SUFFIX,icloudbrowser.net
 DOMAIN-SUFFIX,icloude.com
@@ -76,7 +70,6 @@ DOMAIN-SUFFIX,icloudsecure.net
 DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,ios-icloud.com
 DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,itunes.com.edgekey.net
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
