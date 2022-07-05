@@ -100,7 +100,6 @@
 518.sdinfo.net
 51weidashi.com
 52lubo.cn
-537901.com
 5675146.com
 58.xgo.com.cn
 5814889.com
@@ -188,7 +187,6 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.lz13.cn
 a.m.shuhuangge.org
 a.market.xiaomi.com
 a.nanhuwang.com
@@ -313,7 +311,6 @@ add.mmyuer.com
 add.sina.com.cn
 addata.ku6.com
 addl.easetuner.com
-adds.weatherology.com
 adfarm.mediaplex.com
 adfile.wifi8.com
 adfront.auction.co.kr
@@ -345,8 +342,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -362,7 +359,6 @@ adstat.cp11.ott.cibntv.net
 adstil.indiatimes.com
 adstream.123.sogoucdn.com
 adsys.chinacloudapp.cn
-adsys.sinovision.net
 adtrk.me
 adv2.downsave.com
 advapi.ahtv.cn
@@ -581,6 +577,7 @@ bbdm.051661.com
 bbs.hasi.wang
 bbs.netbig.com
 bbs.ozchinese.com
+bbs.qmzdd.com
 bbs.tuitui.info
 bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
@@ -622,7 +619,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beerto.cn
@@ -672,7 +668,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -848,6 +843,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cn.api.push.le.com
@@ -1229,7 +1225,6 @@ e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
-e.t71q.com
 e.tdtsd.com
 e.tiantianedu.net
 e.tick0.com
@@ -1318,7 +1313,6 @@ extstat.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
-f.520tingshu.com
 f.f70123.com
 f.fj95560.com
 f.hongm.com
@@ -1567,7 +1561,6 @@ html.sunday8.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
-hubojd.com
 huiyi.in
 hungerstrikeforaids.org
 huodong.pl.youku.com
@@ -1661,6 +1654,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
+imgad0.pconline.com.cn
 imgc.cymzc.com
 imgp.cymzc.com
 imneinei.com
@@ -1684,6 +1678,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1982,6 +1977,7 @@ m.casbanlly.com
 m.cbeif.com
 m.ccunf.com
 m.cdfzcz.com
+m.cenrs.com
 m.chexiw.com
 m.chfuw.com
 m.cjieh.com
@@ -2118,6 +2114,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2286,7 +2283,6 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2341,7 +2337,6 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
-new.zhqiu.com
 new96.ca
 news-imgpb.51y5.net
 news.s9377.com
@@ -2553,7 +2548,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2602,7 +2596,6 @@ rbs.haiyunx.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
-recordhistory.org
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2825,7 +2818,6 @@ spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
 srv.thespacereporter.com
-ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3252,6 +3244,7 @@ www.wangruowang.org
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3403,7 +3396,6 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
-zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn
