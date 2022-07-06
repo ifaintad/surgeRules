@@ -100,6 +100,7 @@
 518.sdinfo.net
 51weidashi.com
 52lubo.cn
+537901.com
 5675146.com
 58.xgo.com.cn
 5814889.com
@@ -121,7 +122,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -157,6 +157,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -343,7 +344,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -364,6 +364,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -619,6 +620,7 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beerto.cn
@@ -662,6 +664,7 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -837,13 +840,13 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
+clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cn.api.push.le.com
@@ -965,7 +968,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -993,7 +995,6 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1230,7 +1231,6 @@ e.tiantianedu.net
 e.tick0.com
 e.tiojk.com
 e.tuoaa.com
-e.ueram.com
 e.v02u9.cn
 e.vbaiu.com
 e.vouky.com
@@ -1313,6 +1313,7 @@ extstat.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
+f.520tingshu.com
 f.f70123.com
 f.fj95560.com
 f.hongm.com
@@ -1479,6 +1480,7 @@ goupaoerdai.com
 gouzhibao.cn
 govids.net
 gpydym.cn
+graphis.ne.jp
 great-firewall.com
 great-roc.org
 greatroc.tw
@@ -1514,7 +1516,6 @@ haiwai-ic.ksosoft.com
 haiwengji.net
 hanju18.net
 hao123rt.com
-hapic1.jhkxwl.com
 hbdt.luomi.com
 hbngfy.com
 hc.baidu.cn
@@ -1654,7 +1655,6 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
-imgad0.pconline.com.cn
 imgc.cymzc.com
 imgp.cymzc.com
 imneinei.com
@@ -1678,7 +1678,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1831,6 +1830,7 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
+jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -2136,7 +2136,6 @@ m.tiojk.com
 m.tuopp.com
 m.twldmx.com
 m.txtxr.com
-m.ueram.com
 m.vbaou.com
 m.vbieu.com
 m.vbinu.com
@@ -2290,6 +2289,7 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+mshow.fang.com
 msn.wrating.com
 msnclick.wrating.com
 mstzym.com
@@ -2337,6 +2337,7 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
+new.zhqiu.com
 new96.ca
 news-imgpb.51y5.net
 news.s9377.com
@@ -2548,6 +2549,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2818,6 +2820,7 @@ spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
 srv.thespacereporter.com
+ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3329,7 +3332,6 @@ xyrhd.com
 xyrkl.com
 xyy.code.weddingeeos.com
 xzq.greenxf.net
-xzzyi.com
 y.3957957.com
 y.damifan.cn
 y.hk9600.com
@@ -3396,6 +3398,7 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
+zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn
