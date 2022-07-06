@@ -157,6 +157,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -187,6 +188,7 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
+a.lz13.cn
 a.m.shuhuangge.org
 a.market.xiaomi.com
 a.nanhuwang.com
@@ -364,7 +366,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -967,6 +968,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -981,6 +983,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -994,7 +997,6 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -2113,7 +2115,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2335,6 +2336,7 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
+new.zhqiu.com
 new96.ca
 news-imgpb.51y5.net
 news.s9377.com
@@ -2484,7 +2486,6 @@ pic.pxstda.com
 pic.usingde.com
 pic1.onetad.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic8.onetad.com
 picsinfog.com
@@ -2512,6 +2513,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2859,6 +2861,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2961,7 +2964,6 @@ timelog.moviebox.baofeng.com
 tips.logger.baofeng.com
 titi.qifajiang.cn
 tjf.lyhuayun.com
-tjhuajiantang.com
 tk.baidu.cn
 tk.baidu.com
 tkweb.baidu.com
@@ -3146,6 +3148,7 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
+wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3155,6 +3158,7 @@ wap.cmgame.com
 wap.moad.cn
 wap.mpush.qq.com
 wap.txwdn.com
+wap.wooboo.com.cn
 wap001.bytravel.cn
 wap3.ucweb.com
 wapssl.ff113300.com
@@ -3395,7 +3399,6 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
-zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn

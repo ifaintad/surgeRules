@@ -407,7 +407,6 @@ IP-CIDR,18.237.140.160/29,no-resolve
 IP-CIDR,18.252.145.156/30,no-resolve
 IP-CIDR,18.252.145.160/28,no-resolve
 IP-CIDR,18.252.145.192/27,no-resolve
-IP-CIDR,18.252.165.140/30,no-resolve
 IP-CIDR,18.252.4.0/30,no-resolve
 IP-CIDR,18.252.4.16/29,no-resolve
 IP-CIDR,18.252.56.0/23,no-resolve
