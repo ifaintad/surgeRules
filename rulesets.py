@@ -48,9 +48,14 @@ DISNEY_PLUS = {
     "domain_keywords": ["disney", "disneymagicmoments", "20thcenturystudios"],
 }
 
+TELGRAM = {
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list",
+    "domain_keywords": ["nicegram", "telegram"],
+}
+
 
 MEDIA_RULES = [
-    YOUTUBE, NETFLIX, DISNEY_PLUS
+    YOUTUBE, NETFLIX, DISNEY_PLUS, TELGRAM
 ]
 
 # PAYPAL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
