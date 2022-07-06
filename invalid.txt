@@ -100,7 +100,6 @@
 518.sdinfo.net
 51weidashi.com
 52lubo.cn
-537901.com
 5675146.com
 58.xgo.com.cn
 5814889.com
@@ -122,6 +121,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -157,7 +157,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -208,7 +207,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -331,6 +329,7 @@ adm.265g.com
 adm.72zx.com
 adm.86wan.com
 adm.baidu.cn
+adm.funshion.com
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
@@ -344,6 +343,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -664,7 +664,6 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -840,13 +839,13 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cn.api.push.le.com
@@ -995,6 +994,7 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1480,7 +1480,6 @@ goupaoerdai.com
 gouzhibao.cn
 govids.net
 gpydym.cn
-graphis.ne.jp
 great-firewall.com
 great-roc.org
 greatroc.tw
@@ -1830,7 +1829,6 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
-jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -1950,7 +1948,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2289,7 +2286,6 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-mshow.fang.com
 msn.wrating.com
 msnclick.wrating.com
 mstzym.com
@@ -2337,7 +2333,6 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
-new.zhqiu.com
 new96.ca
 news-imgpb.51y5.net
 news.s9377.com
@@ -3398,7 +3393,6 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
-zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn
