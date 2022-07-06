@@ -353,12 +353,17 @@ class SurgeRules:
             proxy_rule_set.domain_keyword_set)
         domain_set_used = proxy_rule_set.domain_keyword_set.union(
             FORCE_DOMAIN_KEYWORDS)
+
+        proxy_raw_dict = rulesets.PROXY_RAW_DICT
+        proxy_raw_dict_domain_keywords = set(
+            proxy_raw_dict.get("domain_keywords", [])).union(unused_domain_keywords)
+        proxy_raw_dict["domain_keywords"] = proxy_raw_dict_domain_keywords
+
         proxy_ruleset_obj = RuleItem(
-            n_retries=self.n_retries, **rulesets.PROXY_RAW_LIST
+            n_retries=self.n_retries, **proxy_raw_dict
         )
         proxy_ruleset_obj.update_list(
             exist_rules=exist_rules,
-            # proxy_rule_set.rule_set,
             unused_domain_keywords=unused_domain_keywords,
             domain_keywords_readonly=domain_set_used,
             invalid_domains=invalid_domains
@@ -372,5 +377,5 @@ if __name__ == "__main__":
         banning_rules_dicts=rulesets.BANNING_RULES,
         direct_rules_dicts=rulesets.DIRECT_RULES,
         media_rules_dict=rulesets.MEDIA_RULES,
-        proxy_raw_list_dict=rulesets.PROXY_RAW_LIST
+        proxy_raw_list_dict=rulesets.PROXY_RAW_DICT
     ).get_all_rule_set()

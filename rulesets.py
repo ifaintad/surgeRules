@@ -48,22 +48,22 @@ DISNEY_PLUS = {
     "domain_keywords": ["disney", "disneymagicmoments", "20thcenturystudios"],
 }
 
-TELGRAM = {
+TELEGRAM = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list",
     "domain_keywords": ["nicegram", "telegram"],
 }
 
 
 MEDIA_RULES = [
-    YOUTUBE, NETFLIX, DISNEY_PLUS, TELGRAM
+    YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM
 ]
 
 # PAYPAL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
 
 # gfw list
-PROXY_RAW_LIST = {
+PROXY_RAW_DICT = {
     "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt",
     "file_name": "Proxy.list",
     "has_prefix": False,
-    "filter_top_level_banned_domain": True
+    "filter_top_level_banned_domain": True,
 }
