@@ -207,6 +207,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -329,7 +330,6 @@ adm.265g.com
 adm.72zx.com
 adm.86wan.com
 adm.baidu.cn
-adm.funshion.com
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
@@ -342,8 +342,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -1313,7 +1313,6 @@ extstat.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
-f.520tingshu.com
 f.f70123.com
 f.fj95560.com
 f.hongm.com
@@ -1561,6 +1560,7 @@ html.sunday8.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
+hubojd.com
 huiyi.in
 hungerstrikeforaids.org
 huodong.pl.youku.com
@@ -1677,6 +1677,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1948,6 +1949,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2482,6 +2484,7 @@ pic.pxstda.com
 pic.usingde.com
 pic1.onetad.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic8.onetad.com
 picsinfog.com
@@ -2815,7 +2818,6 @@ spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
 srv.thespacereporter.com
-ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3009,6 +3011,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3143,7 +3146,6 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
-wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3393,6 +3395,7 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
+zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn

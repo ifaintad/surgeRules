@@ -1,4 +1,9 @@
 # Based on https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,pinterest
 DOMAIN-SUFFIX,.au
 DOMAIN-SUFFIX,.de
 DOMAIN-SUFFIX,.eu
