@@ -188,7 +188,6 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.lz13.cn
 a.m.shuhuangge.org
 a.market.xiaomi.com
 a.nanhuwang.com
@@ -209,7 +208,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -349,6 +347,7 @@ ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
+adsapi.manhuaren.com
 adscdn.baidu.cn
 adsclick.yx.js.cn
 adscript.gmarket.co.kr
@@ -794,6 +793,8 @@ cdn.newapi.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
+cdn.zampda.net
+cdn.zampdsp.com
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -884,6 +885,7 @@ cosoyoo.com
 couchcoaster.jp
 count.game.pps.tv
 count.knowsky.com
+count5.pconline.com.cn
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
@@ -968,7 +970,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -983,7 +984,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -997,6 +997,7 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1013,6 +1014,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+dkdlsj.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1350,6 +1352,7 @@ feedback.whalecloud.com
 feelssh.com
 fei232.bhzje7ua9.com
 fembsflungod.com
+fen.dkdlsj.com
 fenvm.com
 ff.nsg.org.ua
 fff.yuyouge.com
@@ -1562,7 +1565,6 @@ html.sunday8.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
-hubojd.com
 huiyi.in
 hungerstrikeforaids.org
 huodong.pl.youku.com
@@ -1679,7 +1681,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1695,6 +1696,7 @@ j.chaorenjiaoshi.com
 j.dipowang.cn
 j.hongyangpai.com
 j.jimeilm.com
+j.mp
 j.qijijs.top
 j.sc1369.com
 j.xinshipu.com
@@ -1951,7 +1953,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2115,6 +2116,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2200,7 +2202,6 @@ maisoncherry.com
 maizhong.org
 maplew.com
 market.21cn.com
-maskbaby.com.cn
 mass.mall044.com
 match.rtbidder.net
 material.istreamsche.com
@@ -2269,6 +2270,7 @@ mobileads.dx.cn
 mobileads.google.com
 mobileads.msn.com
 mobiorg8.com
+mohu.ml
 mon.xtgreat.com
 moodoocrv.com.cn
 moons.66bhy.com
@@ -2372,7 +2374,6 @@ nstat.tudou.com
 nsy.hnzyfs.com
 ntsna.gov.tw
 ntx.quanliyouxi.cn
-nwejs.alcryp.com
 nwejs.myzcoffice.com
 nxrxt.con
 ny.visiontimes.com
@@ -2486,6 +2487,7 @@ pic.pxstda.com
 pic.usingde.com
 pic1.onetad.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic8.onetad.com
 picsinfog.com
@@ -2513,7 +2515,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2808,6 +2809,7 @@ sonomoyo.com
 sorazone.net
 sos0easy.com
 sostibet.org
+sou.dkdlsj.com
 sp.fastclick.net
 sp.wndoor.com
 sp.yixui.com
@@ -2861,7 +2863,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3013,7 +3014,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3082,6 +3082,7 @@ utk.baidu.com
 uu-gg.com
 uu.feipukeplus.com
 uu.zeverdg.com
+uvclick.com
 uyghurstudies.org
 v.dbncp.com
 v.e7002.com
@@ -3158,7 +3159,6 @@ wap.cmgame.com
 wap.moad.cn
 wap.mpush.qq.com
 wap.txwdn.com
-wap.wooboo.com.cn
 wap001.bytravel.cn
 wap3.ucweb.com
 wapssl.ff113300.com
@@ -3364,9 +3364,9 @@ youjia2016.com
 youtubecn.com
 youxi.kugou.com
 youzehui.com
+ypmob.com
 yrt7dgkf.exashare.com
 ysej.code.weddingeeos.com
-ytguowang.com
 ytmx.2r3485.cn
 yts.ytsyyey.com
 yun1.yahoo001.com
@@ -3399,6 +3399,7 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
+zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn
