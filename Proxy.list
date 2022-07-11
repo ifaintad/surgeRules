@@ -4,15 +4,6 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,pinterest
-DOMAIN-SUFFIX,.au
-DOMAIN-SUFFIX,.de
-DOMAIN-SUFFIX,.eu
-DOMAIN-SUFFIX,.fr
-DOMAIN-SUFFIX,.jp
-DOMAIN-SUFFIX,.my
-DOMAIN-SUFFIX,.sg
-DOMAIN-SUFFIX,.tw
-DOMAIN-SUFFIX,.uk
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,1000giri.net
@@ -348,6 +339,7 @@ DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atlaspost.com
 DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,auntology.fandom.com
 DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,authorizeddns.org
@@ -1039,6 +1031,7 @@ DOMAIN-SUFFIX,ddns.ms
 DOMAIN-SUFFIX,ddns.name
 DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,ddns.us
+DOMAIN-SUFFIX,de
 DOMAIN-SUFFIX,de-sci.org
 DOMAIN-SUFFIX,deadline.com
 DOMAIN-SUFFIX,deaftone.com
@@ -1302,6 +1295,7 @@ DOMAIN-SUFFIX,etowns.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,etvonline.hk
+DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,eucasino.com
 DOMAIN-SUFFIX,eulam.com
@@ -1486,6 +1480,7 @@ DOMAIN-SUFFIX,fpmtmexico.org
 DOMAIN-SUFFIX,fq.wikia.com
 DOMAIN-SUFFIX,fqok.org
 DOMAIN-SUFFIX,fqrouter.com
+DOMAIN-SUFFIX,fr
 DOMAIN-SUFFIX,franklc.com
 DOMAIN-SUFFIX,freakshare.com
 DOMAIN-SUFFIX,free-gate.org
@@ -1804,6 +1799,7 @@ DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,guruonline.hk
 DOMAIN-SUFFIX,gutteruncensored.com
 DOMAIN-SUFFIX,gvlib.com
+DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gwins.org
@@ -2285,6 +2281,7 @@ DOMAIN-SUFFIX,journalchretien.net
 DOMAIN-SUFFIX,journalofdemocracy.org
 DOMAIN-SUFFIX,joymiihub.com
 DOMAIN-SUFFIX,joyourself.com
+DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,jp.hao123.com
 DOMAIN-SUFFIX,jpl.nasa.gov
 DOMAIN-SUFFIX,jpopforum.net
@@ -2741,6 +2738,7 @@ DOMAIN-SUFFIX,muzi.com
 DOMAIN-SUFFIX,muzi.net
 DOMAIN-SUFFIX,muzu.tv
 DOMAIN-SUFFIX,mx981.com
+DOMAIN-SUFFIX,my
 DOMAIN-SUFFIX,my-formosa.com
 DOMAIN-SUFFIX,my-proxy.com
 DOMAIN-SUFFIX,my.mail.ru
@@ -3538,6 +3536,7 @@ DOMAIN-SUFFIX,sfileydy.com
 DOMAIN-SUFFIX,sfshibao.com
 DOMAIN-SUFFIX,sftindia.org
 DOMAIN-SUFFIX,sftuk.org
+DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,shadeyouvpn.com
 DOMAIN-SUFFIX,shadow.ma
 DOMAIN-SUFFIX,shadowsky.xyz
@@ -3719,7 +3718,6 @@ DOMAIN-SUFFIX,sproxy.info
 DOMAIN-SUFFIX,squirly.info
 DOMAIN-SUFFIX,squirrelvpn.com
 DOMAIN-SUFFIX,srcf.ucam.org
-DOMAIN-SUFFIX,srocket.us
 DOMAIN-SUFFIX,ss-link.com
 DOMAIN-SUFFIX,ss.carryzhou.com
 DOMAIN-SUFFIX,ss.pythonic.life
@@ -3888,6 +3886,7 @@ DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
 DOMAIN-SUFFIX,teco-hk.org
+DOMAIN-SUFFIX,teco-mo.org
 DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
@@ -4168,6 +4167,7 @@ DOMAIN-SUFFIX,tvider.com
 DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvplayvideos.com
 DOMAIN-SUFFIX,tvunetworks.com
+DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,tw-blog.com
 DOMAIN-SUFFIX,tw-npo.org
 DOMAIN-SUFFIX,tw.answers.yahoo.com
@@ -4290,6 +4290,7 @@ DOMAIN-SUFFIX,uhrp.org
 DOMAIN-SUFFIX,uighur.narod.ru
 DOMAIN-SUFFIX,uighur.nl
 DOMAIN-SUFFIX,uighurbiz.net
+DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,uku.im
 DOMAIN-SUFFIX,ulike.net
 DOMAIN-SUFFIX,ulop.net
