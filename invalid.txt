@@ -123,6 +123,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -188,7 +189,6 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.lz13.cn
 a.m.shuhuangge.org
 a.market.xiaomi.com
 a.nanhuwang.com
@@ -208,6 +208,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -244,8 +245,8 @@ acsystem.wasu.tv
 activate.wip3.adobe.com
 actives.youku.com
 acwgf.com
-ad-analysis.pconline.com.cn
 ad-gb.mgid.com
+ad-stat.ksosoft.com
 ad.1111cpc.com
 ad.17173.com
 ad.accessmediaproductions.com
@@ -289,7 +290,6 @@ ad.spielothek.so
 ad.stsywl.com
 ad.test.ximalaya.com
 ad.thepaper.cn
-ad.thsi.cn
 ad.userporn.com
 ad.vidaroo.com
 ad.vryeye.com
@@ -500,6 +500,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -990,6 +991,7 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1205,6 +1207,7 @@ e.okfhn.com
 e.opqsr.com
 e.oyrim.com
 e.pbino.com
+e.picbr.com
 e.pomkl.com
 e.pubbirdf.com
 e.pwjhg.com
@@ -1651,7 +1654,6 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
-imgad0.3conline.com
 imgc.cymzc.com
 imgp.cymzc.com
 imneinei.com
@@ -1913,7 +1915,6 @@ linkbide.com
 listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
-lives.l.cp81.ott.cibntv.net
 liveupdate.mac.sandai.net
 livingonline.us
 lkf1.m.sanhao3.com
@@ -1948,6 +1949,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -1962,7 +1964,6 @@ m.afoux.com
 m.anmeilai.net
 m.aqiudaohang.com
 m.assigned.cn
-m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.bapkt.com
@@ -2032,7 +2033,6 @@ m.hellomingpian.com
 m.heygugu.com
 m.hk7799.net
 m.hkmqp.com
-m.hogyp.com
 m.hpfjy.com
 m.hpzyl.com
 m.hsbkr.com
@@ -2095,6 +2095,7 @@ m.osndy.com
 m.oyrim.com
 m.panda.voiceads.cn
 m.pbino.com
+m.picbr.com
 m.plixi.com
 m.pomkl.com
 m.pougg.com
@@ -2416,7 +2417,6 @@ otf.msn.com
 otnd.org
 ow.s1.shuhuangge.org
 ow.s2.shuhuangge.org
-owin.biqugego.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2595,7 +2595,6 @@ rangwang.biz
 raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
-rcmd.pop.ijinshan.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2891,7 +2890,6 @@ suoluo.org
 surv.xbizmedia.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3009,6 +3007,7 @@ tweetmylast.fm
 tweets.seraph.me
 twelve.today
 twimg.edgesuite.net
+twitbrowser.net
 twldmx.com
 twstar.net
 twyac.org
@@ -3039,7 +3038,6 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.yeyoucdn.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3152,6 +3150,7 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
+wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3209,7 +3208,6 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3276,7 +3274,6 @@ xc.08an.com
 xc.mydrivers.com
 xcyjzs.net
 xcyrc.com
-xd.code.tanwanyx.com
 xdbwc.com
 xfm.pp.ru
 xfywn.com
@@ -3403,7 +3400,6 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
-zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn
