@@ -250,7 +250,7 @@ class RuleItem:
 
         if self.filter_top_level_banned_domain:
             rule_list.extend(
-                [f"DOMAIN-SUFFIX,.{tld}" for tld in TOP_LEVEL_DOMAINS])
+                [f"DOMAIN-SUFFIX,{tld}" for tld in TOP_LEVEL_DOMAINS])
 
         rule_list = sorted(list(set(rule_list)))
 
