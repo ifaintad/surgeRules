@@ -246,7 +246,6 @@ activate.wip3.adobe.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
-ad-stat.ksosoft.com
 ad.1111cpc.com
 ad.17173.com
 ad.accessmediaproductions.com
@@ -292,7 +291,6 @@ ad.test.ximalaya.com
 ad.thepaper.cn
 ad.userporn.com
 ad.vidaroo.com
-ad.vryeye.com
 ad.walkgame.com
 ad.wang502.com
 ad.winningpartner.com
@@ -365,6 +363,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -500,7 +499,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -620,7 +618,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beerto.cn
@@ -844,6 +841,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cn.api.push.le.com
@@ -1323,6 +1321,7 @@ f1.bizhiku.net
 f1.luoshenbest.cn
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
+f5.mtqys.com
 f56g.me
 f8272.com
 fa.corp.163.com
@@ -1677,6 +1676,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1906,7 +1906,6 @@ leorockwell.com
 lg2.jointreport-switch.com
 lg4.jointreport-switch.com
 li.anyysz.com
-liangziweixg.com
 lib.haotv8.com
 liba.haotv8.com
 lightson.vpsboard.com
@@ -1949,7 +1948,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2062,7 +2060,6 @@ m.kewro.com
 m.kjfhe.com
 m.kl6636.net
 m.ksttwz.com
-m.kubiqq.com
 m.kwjkd.com
 m.kxhie.com
 m.lancedu.com
@@ -2340,6 +2337,7 @@ new.ltheanine.cn
 new.zhqiu.com
 new96.ca
 news-imgpb.51y5.net
+news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sinchew.com.my
@@ -2502,6 +2500,7 @@ plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
 pm.sdaiv.com
+po.funshion.com
 politicalconsultation.org
 pomhz.com
 pop.91mangrandi.com
@@ -2836,7 +2835,6 @@ ssh.hxlif.com
 ssh.jsyzw132.com
 ssh.szxiuchang.com
 ssh.yezijizhang.com
-ssl.hyhzy.cn
 ssl.ymapp.com
 ssp.08160.cn
 ssp.86str.com
@@ -2909,7 +2907,6 @@ t.adcrops.net
 t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
-t.cr-nielsen.com
 t.dmtrck.com
 t.l.qq.com
 t.orzdream.com
@@ -3215,7 +3212,6 @@ wqqsa.puzihua.com
 wqsph.net
 wqyd.org
 ws341.com
-wsjhk.com
 wsoe.kwiago.com
 wsp.marketgid.com
 wth.lenovomm.com
@@ -3358,7 +3354,6 @@ yizhenya.com
 ykatr.youku.com
 ykxwn.com
 yl850555.com
-yndianju.com
 yongyuelm.com
 youjia2016.com
 youtubecn.com
