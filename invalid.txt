@@ -95,7 +95,6 @@
 4207008.com
 4336wang.cn
 456juhd.com
-4dq.com
 4xhyr.shuimujinggong.com
 513hch.com
 518.sdinfo.net
@@ -124,7 +123,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -159,7 +157,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -203,7 +200,6 @@ a.wlfnb.com
 a.xinwenge.net
 a.yangshengtang123.com
 a.yjbys.com
-a1.gexing.me
 a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
@@ -275,7 +271,6 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
@@ -344,7 +339,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -365,7 +359,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -673,7 +666,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -947,6 +939,7 @@ dailylog.storm.baofeng.com
 daima.23yy.com
 daima.chazidian.com
 daima.diaoben.net
+daima.dsxdn.com
 daima.huoche.net
 daima.ijq.tv
 daima.mubite.cn
@@ -994,6 +987,7 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1301,7 +1295,6 @@ en.shenyun.com
 epernn.cn
 epochtimes.ie
 epro.sohu.com
-er.dlhygj.com
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
 esrpxyahzna.bid
@@ -1489,13 +1482,13 @@ goupaoerdai.com
 gouzhibao.cn
 govids.net
 gpydym.cn
-graphis.ne.jp
 great-firewall.com
 great-roc.org
 greatroc.tw
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
 groups.google.cn
+gscxs.cn
 gso0.com
 gt.yy.com
 gtmsdd.alicdn.com
@@ -1587,7 +1580,6 @@ i.dreamfull.cn
 i.jyhwt.cn
 i.ma.social-touch.com
 i.tansuotv.com
-iad0ssl.pconline.com.cn
 iadc.qwapi.com
 iads.xinmin.cn
 iask.bz
@@ -1738,6 +1730,7 @@ jhakie.com
 jhzl001.com
 ji.dazhantai.com
 jiaeasy.net
+jiansuo.dsxdn.com
 jiaoben.eastday.com
 jiaoben.junmeng.com
 jias.haotxt.com
@@ -1754,7 +1747,6 @@ jmonitor.jiuzhilan.com
 jobso.tv
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -1906,7 +1898,6 @@ ld.kuaigames.com
 lds.lenovomm.com
 ldy.adqku.cn
 leak.360.cn
-left21.hk
 legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
@@ -2076,7 +2067,9 @@ m.kxhie.com
 m.lancedu.com
 m.laojiayoufang.com
 m.lovezhishou.com
+m.lusrg.cn
 m.lyjz001.com
+m.lzida.com
 m.lzytt.com
 m.mgsue.cn
 m.mightiger.net
@@ -2122,6 +2115,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.sjuqc.com
@@ -2217,6 +2211,7 @@ maturejp.com
 maw.wnbfw.com
 mb.zam.com
 mcore.vcgame.cn
+md.sh5e.com
 md0z4dh.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
@@ -2296,8 +2291,11 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+msminico.cn
+msn.com.nsatc.net
 msn.wrating.com
 msnclick.wrating.com
+msphoneclick.kuwo.cn
 mstzym.com
 mtj.baidu.cn
 mtty-cdn.mtty.xin
@@ -2313,6 +2311,7 @@ my1fc.m.b5200.net
 my1fimg.m.b5200.net
 mychinamyhome.com
 myforum.com.uk
+myftp.info
 myjsym.zichenit.com
 mymm.zichenit.com
 mytzdhz.cn
@@ -2368,7 +2367,6 @@ njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
 nnedbx.com
-noberlmall.com
 nofile.io
 notify.oupeng.com
 noxagile.duapp.com
@@ -2588,6 +2586,7 @@ quanliyouxi.cn
 quannengshen.org
 qvodzy.org
 qweqwe.mctvhp.cn
+qytyf.com
 qzdag.com
 qzdfc.com
 r.0.0.0.0.cn
@@ -2606,6 +2605,7 @@ rangwang.biz
 raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
+rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2664,7 +2664,6 @@ s.hnhgw.cn
 s.hzht666.com
 s.iroby.com
 s.iuuff.com
-s.jlminte.com
 s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
@@ -2719,7 +2718,6 @@ same.jrj.com.cn
 same01.jrj.com.cn
 same02.jrj.com.cn
 same03.jrj.com.cn
-sangxi.top
 sankie.net
 savebt.net
 sax.mobile.sina.cn
@@ -2764,6 +2762,7 @@ shangfang.org
 shanghaironghua.com
 shanglinli.com
 share.gzdsw.com
+sharecool.org
 sharpdaily.com.hk
 sharrysweb.com
 shbywsd.cn
@@ -3021,6 +3020,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3216,7 +3216,6 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3256,6 +3255,7 @@ www.wangruowang.org
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3399,6 +3399,7 @@ zeutch.com
 zgdfz6h7po.me
 zgksb.com
 zgsddh.com
+zgunion.cn
 zgzcjj.net
 zhanbin.net
 zhangzishi.cc
@@ -3409,6 +3410,7 @@ zhreader.com
 zhuanfakong.com
 zhuba8.com
 zhybzp.cn
+zimuzu.tv
 zkaip.com
 zkrdy.com
 zmj.guanqinjie.cn
