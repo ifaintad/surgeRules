@@ -644,6 +644,7 @@ IP-CIDR,3.26.82.240/29,no-resolve
 IP-CIDR,3.26.83.0/24,no-resolve
 IP-CIDR,3.26.84.0/22,no-resolve
 IP-CIDR,3.26.88.0/27,no-resolve
+IP-CIDR,3.30.40.84/30,no-resolve
 IP-CIDR,3.32.190.244/30,no-resolve
 IP-CIDR,3.32.190.248/29,no-resolve
 IP-CIDR,3.34.37.0/24,no-resolve
