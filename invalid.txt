@@ -81,7 +81,6 @@
 35baba.cn
 360baidus.com
 360jiaquan.com
-360vip.front99.com
 365bibi.com
 365safego.com
 366safego.com
@@ -102,6 +101,7 @@
 5188yy.com
 51weidashi.com
 52lubo.cn
+537901.com
 5675146.com
 58.xgo.com.cn
 5814889.com
@@ -188,10 +188,10 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.lz13.cn
 a.m.shuhuangge.org
 a.market.xiaomi.com
 a.nanhuwang.com
+a.qinghua5.com
 a.shenchuang.com
 a.shuoshuodaquan.net
 a.soonyou123.com
@@ -207,7 +207,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -273,7 +272,6 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
@@ -341,7 +339,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -363,7 +360,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -426,6 +422,7 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
+angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anreson.net
@@ -586,7 +583,6 @@ bc.geocities.yahoo.co.jp
 bcjjg.bugsevent.com
 bcjxf.bugsevent.com
 bd.ershenghuo.com
-bd.gow100.com
 bd.soarfi.cn
 bd.wayqq.cn
 bd1.52che.com
@@ -847,7 +843,6 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cn.api.push.le.com
@@ -915,7 +910,6 @@ crs.baidu.cn
 cs.dqwjzm.com
 ct.210189.com
 ctfriend.net
-ctsywy.com
 cupid.iqiyi.com
 cut.qumi.com
 cyad1.cyworld.com
@@ -998,6 +992,7 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1324,7 +1319,6 @@ exp.qumi.com
 ext.theglobalweb.com
 extmoney.i1608.com
 extstat.com
-exx.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
@@ -1378,6 +1372,7 @@ filmy.olabloga.pl
 finding.hardwareheaven.com
 findnsave.idahostatesman.com
 fips.uimserv.net
+firefang.cn
 fjkst.com
 flash.2144.com
 flgg.us
@@ -1778,6 +1773,7 @@ js.cncrk.com
 js.cnmo.com
 js.dkqapp.cn
 js.feitian001.com
+js.firefang.cn
 js.gewuwen.com
 js.hslyqs.com
 js.icast.cn
@@ -1872,6 +1868,7 @@ kho3au7l4z.me
 kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
+kissbbao.cn
 kn.aishake.cn
 kn.barnfps.com
 kn.chapnap.com
@@ -1880,7 +1877,6 @@ kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
 kn.qqqmdq.com
-kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
 knnwdyou.com
@@ -2580,7 +2576,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2647,7 +2642,6 @@ ret.xinlongrubber.com
 richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
-rk.rongchengxxw.com
 rm.ra.icast.cn
 rmcxw.cn
 rmjdw132.info
@@ -2786,7 +2780,6 @@ shangfang.org
 shanghaironghua.com
 shanglinli.com
 share.gzdsw.com
-sharecool.org
 sharpdaily.com.hk
 sharrysweb.com
 shbywsd.cn
@@ -3030,7 +3023,6 @@ tuisong.baidu.cn
 tuisong.baidu.com
 tw.voa.mobi
 tw13b093.sandai.net
-twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3045,7 +3037,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
+u.63kc.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3172,7 +3164,6 @@ vwkhdi.cn
 vwws6.net
 w.bobocn.cn
 w.homes.yahoo.net
-w.idaiwan.com
 w.jscsd.cn
 w.yamaidei.cn
 w.yinyuehu.cn
@@ -3210,7 +3201,6 @@ wep016.top
 wexiaobo.org
 wezhiyong.org
 wha.la
-whatblocked.com
 whn.star-media.cn
 whodns.xyz
 widget.crowdignite.com
@@ -3279,6 +3269,7 @@ www.wangruowang.org
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3348,7 +3339,6 @@ xpjkf888.com
 xq199.com
 xs.swagger1.com
 xskywalker.net
-xszqapp.com
 xtwjx.cn
 xtzxmy.com
 xul478.com
@@ -3445,6 +3435,7 @@ znsv.baidu.cn
 zonghexinwen.net
 zp22938576.com
 zqworks.com
+zqzxz.com
 zreder.com
 zrpfk.com
 zs0613.mengchengbao.com
@@ -3463,6 +3454,7 @@ zytwq.net
 zyz.91friend.com
 zyz1.91friend.com
 zyzc9.com
+zzjs2.firefang.cn
 zzsx8.com
 zzy.mipujia.com
 zzy1.mipujia.com
