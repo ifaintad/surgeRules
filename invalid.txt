@@ -122,6 +122,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -133,7 +134,6 @@
 801.tianyaui.cn
 803.tianyaui.cn
 806.tianyaui.cn
-8066hg.com
 808.tianya.cn
 808.tianyaui.cn
 813690.top
@@ -158,7 +158,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -172,7 +171,6 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
-a.cn.duoyi.com
 a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -190,6 +188,7 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
+a.lz13.cn
 a.m.shuhuangge.org
 a.market.xiaomi.com
 a.nanhuwang.com
@@ -311,7 +310,6 @@ add.mmyuer.com
 add.sina.com.cn
 addata.ku6.com
 addl.easetuner.com
-adds.weatherology.com
 adfarm.mediaplex.com
 adfile.wifi8.com
 adfront.auction.co.kr
@@ -365,6 +363,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -488,7 +487,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -678,6 +676,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -998,7 +997,6 @@ demo.opera-mini.net
 derekhsu.homeip.net
 detuns.com
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
@@ -1671,7 +1669,6 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
-imgad0.pconline.com.cn
 imgc.cymzc.com
 imges.wu65.com
 imgp.cymzc.com
@@ -1696,6 +1693,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1739,6 +1737,7 @@ jct.maptu.cn
 jd.c-ptsp.com.cn
 jdb.jiudingcapital.cn
 jdb.jiudingcapital.com
+jdg.bjygfd.com
 jdlcg.cn
 jdlhg.com
 jfhe.0769371.com
@@ -2247,9 +2246,9 @@ meiti1.net
 memorybbs.com
 menghuanzs.com
 mengmengdas.com
+mepn.com
 mergersandinquisitions.org
 meripet.biz
-mesotw.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2337,7 +2336,6 @@ myforum.com.uk
 myftp.info
 myjsym.zichenit.com
 mymm.zichenit.com
-mynumber.org
 mytzdhz.cn
 myycrw.com
 n.cosbot.cn
@@ -2396,6 +2394,7 @@ notify.oupeng.com
 noxagile.duapp.com
 npdaqy6x1j.me
 nryiou.cn
+nsc.gov.tw
 nsclick.baidu.cn
 nsnmiaomu.cn
 nstat.tudou.com
@@ -2857,7 +2856,6 @@ spt.dictionary.com
 sqd.jstdjq.com
 srocket.us
 srv.thespacereporter.com
-ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -2930,7 +2928,6 @@ syilm.net
 sync.fastclick.net
 syndication-o.twitter.com
 syofew6o.net
-sytcyf.com
 sytz1288.com
 szrk3.com
 szxc868.com
@@ -3024,7 +3021,6 @@ tt3sm4.cn
 ttlm.cc
 ttlowe.com
 ttm.htfmbt.com
-ttts.miyue17.com
 tui.orzdream.com
 tuiguang.178.com
 tuisong.baidu.cn
@@ -3047,6 +3043,7 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3198,7 +3195,6 @@ warbler.iconfactory.net
 wax.weibo.com.cn
 wazero.online
 wda.ydt.com.cn
-wdf5.com
 wdgsl.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
@@ -3380,11 +3376,11 @@ yess.imneinei.com
 yeyeclub.com
 yfycy.com
 ygyzx.cn
+yhtcd.com
 yidulive.net
 yingsuoss.com
 yinooo.com
 yinyuehu.cn
-yiwuds.com
 yizhenya.com
 yk0712.com
 ykatr.youku.com
@@ -3403,6 +3399,7 @@ ytmx.2r3485.cn
 yts.ytsyyey.com
 yun1.yahoo001.com
 yunanfuwuqi.com
+yundingjiayuan.com
 yunpifu.cn
 yuyue008.cn
 yxs.tymsyx.com
