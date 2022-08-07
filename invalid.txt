@@ -71,6 +71,7 @@
 285680.com
 2m2n.com
 3.guidaye.com
+3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -157,6 +158,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -186,7 +188,6 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.lz13.cn
 a.market.xiaomi.com
 a.nanhuwang.com
 a.qinghua5.com
@@ -205,6 +206,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -336,6 +338,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -663,6 +666,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -707,7 +711,6 @@ c.panqis.cn
 c.piliangzhuce.cn
 c.ptffw.net
 c.shunlige.com
-c.sss1989.com
 c.start280.com
 c.statstat888.com
 c.t98u8f.com
@@ -837,7 +840,6 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -961,7 +963,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -972,6 +973,7 @@ dd.iaskgo.com
 dd.mangofortune.net
 dd.sina.com.cn
 dd.wx16999.com
+ddanq.com
 ddd.yuyouge.com
 ddhw.info
 ddkkrrla.m.qxs.la
@@ -1179,7 +1181,6 @@ e.jwiyr.com
 e.jxxiangchu.com
 e.kewro.com
 e.kjfhe.com
-e.kjhfy.com
 e.kl6636.net
 e.ksttwz.com
 e.kunpp.com
@@ -1349,6 +1350,7 @@ fdc89.jp
 feedback.whalecloud.com
 feelssh.com
 fei232.bhzje7ua9.com
+feifeiss.com
 fembsflungod.com
 fen.dkdlsj.com
 fenvm.com
@@ -1548,6 +1550,7 @@ hidein.net
 himemix.net
 hk.rd.yahoo.com
 hk32168.com
+hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
 hm.baidu.cn
@@ -1587,6 +1590,7 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
+ic.ksosoft.com
 icdxc.com
 icloud.net.cn
 icloudapple.cn
@@ -1607,7 +1611,6 @@ im1.56zzw.com
 image.139y.com
 image.9duw.com
 image.haiyunx.com
-image.hj217.com
 image.p4p.sogou.com
 image.qj175.com
 imageplus.baidu.cn
@@ -1682,7 +1685,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1690,7 +1692,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1962,6 +1963,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2072,7 +2074,6 @@ m.jwiyr.com
 m.jyhwt.cn
 m.kewro.com
 m.kjfhe.com
-m.kjhfy.com
 m.kl6636.net
 m.ksttwz.com
 m.kwjkd.com
@@ -2571,7 +2572,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2596,7 +2596,6 @@ qtmojo.cn
 qtweeter.com
 quanliyouxi.cn
 quannengshen.org
-questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qytyf.com
@@ -2845,6 +2844,7 @@ sponsors.s2ki.com
 spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
+src.duanxin520.com
 srocket.us
 srv.thespacereporter.com
 ss.cnnic.cn
@@ -2998,6 +2998,7 @@ tono-oka.jp
 tool.btrabbit.la
 torlock.com
 total.xinmin.cn
+toutiao.2haha.com
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
@@ -3121,7 +3122,6 @@ v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
-vangmobi.com
 vcbn65.xyz
 vcfs6ip5h6.bid
 vdapprecv.app.cntvwb.cn
@@ -3176,7 +3176,6 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
-wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3427,9 +3426,7 @@ zhangzishi.cc
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
-zhuba8.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
