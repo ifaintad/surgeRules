@@ -4,6 +4,7 @@
 01daa.lutgh.com
 01daa.luvbr.com
 01daa.luytr.com
+0592weixin.com
 0756sjlm.com.cn
 09mk.cn
 0x01e7.website
@@ -71,7 +72,6 @@
 285680.com
 2m2n.com
 3.guidaye.com
-3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -122,7 +122,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -172,6 +171,7 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
+a.cn.duoyi.com
 a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -206,7 +206,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -338,7 +337,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -660,13 +658,13 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -833,10 +831,10 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
+clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
-client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
@@ -913,6 +911,7 @@ ctfriend.net
 cupid.iqiyi.com
 cut.qumi.com
 cyad1.cyworld.com
+cycy.kxrxh.com
 cylinderlongcheng.com
 cytode.us
 cz01016102.ms758.com
@@ -963,6 +962,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1223,6 +1223,7 @@ e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
 e.sjuqc.com
+e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
@@ -1590,7 +1591,6 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
-ic.ksosoft.com
 icdxc.com
 icloud.net.cn
 icloudapple.cn
@@ -1711,7 +1711,6 @@ j520s.gzcl999.cn
 j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
-jamyangnorbu.com
 jandyx.com
 japanfirst.asianfreeforum.com
 jb.asqql.com
@@ -1894,6 +1893,7 @@ kualianyingxiao.cn
 kukuku.uk
 kuzai.cooguo.com
 kxmav2.com
+kxrxh.com
 kyoyue.com
 kyzhecmvpiaw.com
 l.minisplat.cn
@@ -1905,6 +1905,7 @@ l2.soarfi.cn
 l9bdhcgihw.neihanw.com
 lajizhan.org
 langjiyisheng.com
+lanterncn.cn
 lanxiangji.com
 lausan.hk
 lb.statsevent.com
@@ -2264,7 +2265,6 @@ mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
-mip.yuelvxing.com
 mitao.com.tw
 miui.hftaili.com
 mjs.csyymp4.com
@@ -2572,6 +2572,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2959,6 +2960,7 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
+tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3041,7 +3043,6 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3176,6 +3177,7 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
+wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
