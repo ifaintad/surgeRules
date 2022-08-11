@@ -83,6 +83,7 @@
 35baba.cn
 360baidus.com
 360jiaquan.com
+360vip.front99.com
 365bibi.com
 365safego.com
 366safego.com
@@ -124,6 +125,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -159,7 +161,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -207,7 +208,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -273,11 +273,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -339,6 +341,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -422,7 +425,6 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
-angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anreson.net
@@ -481,8 +483,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.film
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -670,6 +670,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -680,6 +681,7 @@ bt641499.gotoip4.com
 bthergyuan.com
 btku.me
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -844,6 +846,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -969,7 +972,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dc.cp21.ott.cibntv.net
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -997,6 +999,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1229,6 +1232,7 @@ e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
 e.sjuqc.com
+e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
@@ -1686,7 +1690,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1766,7 +1769,6 @@ js.139y.com
 js.45bubu.com
 js.51taifu.com
 js.5iydz.com
-js.adxkj.com
 js.bxwns.com
 js.cncrk.com
 js.cnmo.com
@@ -1874,13 +1876,11 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
 knnwdyou.com
-kob.adxkj.com
 kod4pc293.com
 kooyum.com
 koukou7.com
@@ -2130,11 +2130,11 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.sjuqc.com
 m.slandr.net
+m.sosjyx.com
 m.srrux.com
 m.suehy.com
 m.sxxca.com
@@ -2331,6 +2331,7 @@ myjsym.zichenit.com
 mymm.zichenit.com
 mytzdhz.cn
 myycrw.com
+n.a.mosenni.com
 n.cosbot.cn
 n.ma.social-touch.com
 n.wjr1x.cn
@@ -2361,7 +2362,6 @@ new.ltheanine.cn
 new.zhqiu.com
 new96.ca
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2575,6 +2575,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2599,6 +2600,7 @@ qtmojo.cn
 qtweeter.com
 quanliyouxi.cn
 quannengshen.org
+questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qytyf.com
@@ -2635,6 +2637,7 @@ resetgey.com
 resolver.gslb.mi-idc.com
 resource.baomihua.com
 ret.xinlongrubber.com
+rh.greenbetterkids.com
 richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
@@ -2816,6 +2819,7 @@ site.img.4tube.com
 siteks.uk.to
 sixth.biz
 sj1.3987.com
+sjj.jsyjwj.com
 skatehot.net
 sl.xawjwl.com
 slb.sxuantang.com
@@ -2926,6 +2930,7 @@ sync.teamrtb.net
 syndication-o.twitter.com
 syofew6o.net
 sytz1288.com
+szfaq.com
 szrk3.com
 szxc868.com
 szxpsg.com
@@ -3247,6 +3252,7 @@ wth.lenovomm.com
 wtpn.twenga.co.uk
 wtpn.twenga.de
 wukangrui.net
+wuliao.ganji.cn
 wuliao.juqingba.cn
 wumii.cn
 wuqdebjfhjas.bid
@@ -3430,6 +3436,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
