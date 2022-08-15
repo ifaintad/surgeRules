@@ -686,6 +686,7 @@ DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cbtc.org.hk
 DOMAIN-SUFFIX,cccat.cc
 DOMAIN-SUFFIX,cccat.co
+DOMAIN-SUFFIX,ccdtr.org
 DOMAIN-SUFFIX,cchere.com
 DOMAIN-SUFFIX,ccim.org
 DOMAIN-SUFFIX,cclife.ca
@@ -801,7 +802,6 @@ DOMAIN-SUFFIX,chinese-memorial.org
 DOMAIN-SUFFIX,chinese.donga.com
 DOMAIN-SUFFIX,chinese.engadget.com
 DOMAIN-SUFFIX,chinese.irib.ir
-DOMAIN-SUFFIX,chinese.soifind.com
 DOMAIN-SUFFIX,chinesedaily.com
 DOMAIN-SUFFIX,chinesedailynews.com
 DOMAIN-SUFFIX,chinesedemocracy.com
@@ -1893,7 +1893,6 @@ DOMAIN-SUFFIX,hizb-ut-tahrir.org
 DOMAIN-SUFFIX,hizbuttahrir.org
 DOMAIN-SUFFIX,hjclub.info
 DOMAIN-SUFFIX,hk-pub.com
-DOMAIN-SUFFIX,hk.frienddy.com
 DOMAIN-SUFFIX,hk.geocities.com
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.hao123img.com
