@@ -102,10 +102,10 @@
 4xhyr.shuimujinggong.com
 513hch.com
 518.sdinfo.net
-5188yy.com
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -161,6 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -210,6 +211,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -280,6 +282,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -341,7 +344,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -504,7 +506,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -537,6 +538,7 @@ b.cyone.com.cn
 b.e.f.ip6.arpa
 b.epinv.com
 b.flyreading.cn
+b.gwylm.com
 b.kuangtuiguoo18888.com
 b.livesport.eu
 b.nvrentao8.com
@@ -844,7 +846,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -886,7 +887,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countubn.light.soufun.com
 couqm.com.cn
 cp.ggyapp.com
 cpc.sohu.com
@@ -994,6 +994,7 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
+delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.jointreport-switch.com
@@ -1280,7 +1281,6 @@ e.yyjhf.com
 e.zhuyuanp.club
 e.zhuyuanp.shop
 e.zhuyuanp.top
-e.zjkdaikuan.com
 e.zunss.com
 e701.net
 e704.net
@@ -1465,12 +1465,12 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 gm682.com
 gmhz.org
 gmota.g188.net
 gmozomg.izihost.org
 go-pki.com
+go.10086.cn
 go.gogolm.xyz
 go.gotourl.xyz
 go.gotourls.bid
@@ -1697,7 +1697,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pclady.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1967,6 +1966,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2640,13 +2640,11 @@ rh.greenbetterkids.com
 richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
-rk.rongchengxxw.com
 rm.ra.icast.cn
 rmcxw.cn
 rmjdw132.info
 rmtx.ra.icast.cn
 rnfrfxqztlno.com
-roadshow.hk
 rosi.okkkk.com
 router.ctc
 rp.baidu.cn
@@ -2728,7 +2726,6 @@ sa.hao123.com
 safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 saferwet.com
-saiq.me
 same.chinadaily.com.cn
 same.jrj.com.cn
 same01.jrj.com.cn
@@ -2753,6 +2750,7 @@ script.vccoo.com
 sd.0.0.0.0.cn
 sd.kk3g.net
 sdapprecv.app.cntvwb.cn
+sdk.cmgame.com
 sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
 sdn.penggua.com.cn
@@ -3037,7 +3035,6 @@ tweetmylast.fm
 tweets.seraph.me
 twelve.today
 twimg.edgesuite.net
-twitbrowser.net
 twldmx.com
 twstar.net
 twyac.org
@@ -3047,7 +3044,6 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3278,6 +3274,7 @@ www.wangruowang.org
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3364,6 +3361,7 @@ xyy.code.weddingeeos.com
 xzq.greenxf.net
 y.3957957.com
 y.damifan.cn
+y.gwylm.com
 y.hk9600.com
 y.hzht666.com
 y.zxwdw.com
@@ -3432,6 +3430,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
@@ -3461,6 +3460,7 @@ zytwq.net
 zyz.91friend.com
 zyz1.91friend.com
 zyzc9.com
+zzcw.office-mall.net
 zzsx8.com
 zzy.mipujia.com
 zzy1.mipujia.com
