@@ -105,7 +105,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -199,6 +198,7 @@ a.shenchuang.com
 a.shuoshuodaquan.net
 a.soonyou123.com
 a.starstar19999.com
+a.startui19999.com
 a.tujidao.com
 a.tuuituii2999.com
 a.waczt.cn
@@ -227,7 +227,6 @@ aa.zldh123.com
 aam.adsremote.scrippsnetworks.com
 ab-gb.mgid.com
 ab.goodsblock.mgid.com
-ab.meishiba.com.cn
 ab.sc115.com
 abc.dooccn.com
 abc.eastlady.cn
@@ -282,7 +281,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -344,6 +342,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -365,6 +364,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -623,7 +623,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -674,6 +673,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -684,7 +684,6 @@ bt641499.gotoip4.com
 bthergyuan.com
 btku.me
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -846,6 +845,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -888,6 +888,7 @@ count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
+cp.5jjx.net
 cp.ggyapp.com
 cpc.sohu.com
 cpcv.cc
@@ -971,6 +972,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -987,21 +989,18 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
-delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1559,6 +1558,7 @@ hk32168.com
 hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
+hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
@@ -1690,6 +1690,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2357,7 +2358,6 @@ networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
-new96.ca
 news-imgpb.51y5.net
 news.s9377.com
 news.sina.com.hk
@@ -2508,7 +2508,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2595,7 +2594,6 @@ qoiusky.com
 qp.yunanfuwuqi.com
 qq.guansenff.cn
 qq.irs01.com
-qq.tapiche.cn
 qt002x.corp.youdao.com
 qtmojo.cn
 qtweeter.com
@@ -2663,6 +2661,7 @@ rvb.quanliyouxi.cn
 s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
+s.5jjx.net
 s.baidu.com
 s.bmgan.com
 s.caduka.cn
@@ -2750,7 +2749,6 @@ script.vccoo.com
 sd.0.0.0.0.cn
 sd.kk3g.net
 sdapprecv.app.cntvwb.cn
-sdk.cmgame.com
 sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
 sdn.penggua.com.cn
@@ -2832,6 +2830,7 @@ soft.chaomeng8.com
 softsmirror.cf
 sohu.irs01.com
 sohu.wrating.com
+somennew.com
 sonicbbs.cc
 sonomoyo.com
 sorazone.net
@@ -3044,6 +3043,7 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3065,6 +3065,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3426,11 +3427,11 @@ zgunion.cn
 zgzcjj.net
 zhanbin.net
 zhangzishi.cc
+zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
@@ -3460,7 +3461,6 @@ zytwq.net
 zyz.91friend.com
 zyz1.91friend.com
 zyzc9.com
-zzcw.office-mall.net
 zzsx8.com
 zzy.mipujia.com
 zzy1.mipujia.com
