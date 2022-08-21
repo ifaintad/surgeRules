@@ -104,9 +104,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -127,6 +125,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -162,6 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -283,6 +283,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -320,7 +321,6 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
-adimg.qxlsjw.com
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -344,6 +344,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -427,6 +428,7 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
+angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anreson.net
@@ -485,7 +487,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -507,7 +508,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -667,6 +667,7 @@ blogspot.cat
 blogtd.net
 bmfinn.com
 bmg.wnbfw.com
+bmw2ep.paomifen.cn
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
@@ -676,6 +677,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -684,7 +686,6 @@ bt.byr.cn
 bt.neu6.edu.cn
 bt641499.gotoip4.com
 bthergyuan.com
-btku.me
 btlaunch.baidu.com
 business.92wy.com
 bwsj.hk
@@ -846,10 +847,10 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -891,7 +892,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countpvn.light.fang.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1624,7 +1624,6 @@ im1.56zzw.com
 image.139y.com
 image.9duw.com
 image.haiyunx.com
-image.hj217.com
 image.p4p.sogou.com
 image.qj175.com
 imageplus.baidu.cn
@@ -1697,10 +1696,10 @@ ioc.mmakd.top
 ip.hivps.xyz
 ip2.pxene.com
 iphonelog.shouji.baofeng.com
-iphoto.wang
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1783,6 +1782,7 @@ js.5iydz.com
 js.bxwns.com
 js.cncrk.com
 js.cnmo.com
+js.cnscdj.com
 js.dkqapp.cn
 js.feitian001.com
 js.gewuwen.com
@@ -1977,6 +1977,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2139,10 +2140,12 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.sjuqc.com
 m.slandr.net
+m.sosjyx.com
 m.srrux.com
 m.suehy.com
 m.sxxca.com
@@ -2178,6 +2181,7 @@ m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
 m.wrating.com
+m.wuqutu.com
 m.wxhh678.com
 m.xcy8.com
 m.xdkje.com
@@ -2273,6 +2277,7 @@ mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
+mip.yuelvxing.com
 mist.vip
 mitao.com.tw
 miui.hftaili.com
@@ -2584,7 +2589,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2633,7 +2637,6 @@ rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
 realtime.monitor.ppweb.com.cn
-recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2760,6 +2763,7 @@ script.vccoo.com
 sd.0.0.0.0.cn
 sd.kk3g.net
 sdapprecv.app.cntvwb.cn
+sdk.cmgame.com
 sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
 sdn.penggua.com.cn
@@ -3055,7 +3059,6 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3198,7 +3201,6 @@ wap.138lm.com
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3445,7 +3447,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
@@ -3475,6 +3476,7 @@ zytwq.net
 zyz.91friend.com
 zyz1.91friend.com
 zyzc9.com
+zzcw.office-mall.net
 zzsx8.com
 zzy.mipujia.com
 zzy1.mipujia.com
