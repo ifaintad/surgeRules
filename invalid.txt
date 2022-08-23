@@ -104,6 +104,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 52lubo.cn
 58.xgo.com.cn
 5814889.com
@@ -125,6 +126,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -161,7 +163,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -175,7 +176,6 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
-a.cn.duoyi.com
 a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -213,7 +213,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -364,6 +363,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -483,7 +483,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -508,7 +508,6 @@ ar9.atwola.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
-asianwomensfilm.de
 ask.gaykes.com
 assets.210189.com
 assets.2343sdxs.com
@@ -529,7 +528,6 @@ aty.hd.sohu.com
 aty.sohu.com
 avpa.dzone.com
 avualrhg9p.bid
-ax.ggfeng.com
 ayabreya.xyz
 b.53yao.com
 b.9dreams.net
@@ -732,7 +730,6 @@ c.ynlysg.com
 c.zmjuan.org
 c.zxyywdj.org
 c0i8h8ac7e.bid
-c1.4qx.net
 c1.668559.com
 c1.keyrun.cn
 c1.minisplat.cn
@@ -840,7 +837,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -972,7 +968,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1001,6 +996,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1485,6 +1481,7 @@ gongminliliang.com
 good.ta80.com
 gooddns.info
 goods.tudou.com
+google.com.fj
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1573,6 +1570,7 @@ hpqxznpb.bid
 ht.www.sogou.com
 html.350.com
 html.sunday8.com
+html.yuntzs.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1694,7 +1692,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1765,7 +1762,6 @@ jmonitor.jiuzhilan.com
 jobso.tv
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
@@ -1853,7 +1849,6 @@ jwqj.net
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
-jyd.fjzdmy.com
 jzm81.com
 k.85wa.cn
 k.ctsywy.com
@@ -2516,7 +2511,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2550,7 +2544,6 @@ powergg.top
 pp.sxjkc.cn
 ppjia55.com
 ppurifier.game.xiaomi.com
-ppx.hgo7r.cn
 pq.stat.ku6.com
 pr.atwola.com
 practivate.adobe.com
@@ -2587,7 +2580,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2667,6 +2659,7 @@ rs1.rensheng5.com
 rtb-p.kejet.net
 rtb.eanalyzer.de
 rtb.metrigo.com
+rtbstat.zcdsp.com
 rtycminnesota.org
 rudy.adsnative.com
 runetki.joyreactor.ru
@@ -2754,7 +2747,6 @@ sb88b.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
-sc.ggfeng.com
 sc.shayugg.com
 scc.0.0.0.0.cn
 schemas.android.com
@@ -2763,7 +2755,6 @@ script.vccoo.com
 sd.0.0.0.0.cn
 sd.kk3g.net
 sdapprecv.app.cntvwb.cn
-sdk.cmgame.com
 sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
 sdn.penggua.com.cn
@@ -2773,7 +2764,6 @@ secure-chn.imrworldwide.com
 secure.img-cdn.mediaplex.com
 secure.raxcdn.com
 seen.h01ce.cn
-seen.hgo7r.cn
 selfie.snapmobileasia.net
 serrano.hardwareheaven.com
 servedby.keygamesnetwork.com
@@ -2952,7 +2942,6 @@ szyr474.com
 t.2d-c.cn
 t.adcrops.net
 t.adxchina.cn
-t.cnsjx.net
 t.collect.yinyuetai.com
 t.dmtrck.com
 t.l.qq.com
@@ -3213,6 +3202,7 @@ warbler.iconfactory.net
 wax.weibo.com.cn
 wazero.online
 wda.ydt.com.cn
+wdf5.com
 wdgsl.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
@@ -3264,7 +3254,6 @@ wth.lenovomm.com
 wtpn.twenga.co.uk
 wtpn.twenga.de
 wukangrui.net
-wuliao.ganji.cn
 wuliao.juqingba.cn
 wumii.cn
 wuqdebjfhjas.bid
@@ -3310,7 +3299,6 @@ x.ligatus.com
 x.zhuyuanp.top
 x9377a.com
 xa.yimg.com
-xabaitai.com
 xacqp.com
 xau.sxmutan.com
 xbp.code.weddingeeos.com
@@ -3451,7 +3439,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
