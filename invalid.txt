@@ -105,6 +105,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -171,6 +172,7 @@ a.198banjia.com
 a.53yao.com
 a.armystar.com
 a.baidu.cn
+a.baomihua.com
 a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
@@ -340,7 +342,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -362,7 +363,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -387,6 +387,7 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ai-wen.net
 aid.chinayk.com
@@ -504,7 +505,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -620,6 +620,7 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -773,7 +774,6 @@ cdgxq.com
 cdhoc.piyaji.cn
 cdig.info
 cdn.5bong.com
-cdn.aegins.com
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
@@ -844,7 +844,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -887,6 +886,7 @@ count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
+cp.5jjx.net
 cp.ggyapp.com
 cpc.sohu.com
 cpcv.cc
@@ -916,6 +916,7 @@ cs.dqwjzm.com
 ct.210189.com
 ctfriend.net
 cupid.iqiyi.com
+cusp.hk
 cut.qumi.com
 cyad1.cyworld.com
 cycy.kxrxh.com
@@ -993,6 +994,7 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
+delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.jointreport-switch.com
@@ -1047,9 +1049,7 @@ dm.sanwen8.com
 dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
-dm50.jkyd.net
 dm50.yxlady.com
-dmt.qcrx.cn
 dn3.ixinwei.com
 dnvus.com
 do69ifsly4.me
@@ -1322,7 +1322,6 @@ exp.qumi.com
 ext.theglobalweb.com
 extmoney.i1608.com
 extstat.com
-eyouv.cn
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
@@ -1344,6 +1343,7 @@ facebookma.cn
 fail.hk
 falun.caltech.edu
 falundafa-sacramento.org
+falundata.com
 falundata.org
 fan-qiang.com
 fangmincn.org
@@ -1855,6 +1855,7 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
+jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -1885,6 +1886,7 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
+kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1940,7 +1942,6 @@ liba.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
-linyao.dxsdb.com
 listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
@@ -1993,6 +1994,7 @@ m.afoux.com
 m.anmeilai.net
 m.aqiudaohang.com
 m.assigned.cn
+m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.bapkt.com
@@ -2620,6 +2622,8 @@ qtmojo.cn
 qtweeter.com
 quanliyouxi.cn
 quannengshen.org
+queene.cn
+questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
@@ -2640,10 +2644,10 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
-realtime.monitor.ppweb.com.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2684,6 +2688,7 @@ ry51w.cn
 s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
+s.5jjx.net
 s.baidu.com
 s.bmgan.com
 s.caduka.cn
@@ -2913,6 +2918,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3298,7 +3304,6 @@ www.wangruowang.org
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3318,6 +3323,7 @@ x9377a.com
 xa.yimg.com
 xacqp.com
 xau.sxmutan.com
+xavingtsun.com
 xbp.code.weddingeeos.com
 xc.08an.com
 xc.mydrivers.com
@@ -3326,6 +3332,7 @@ xcyjzs.net
 xcyrc.com
 xdbwc.com
 xdyjt.com
+xe2c.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3458,6 +3465,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
