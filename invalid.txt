@@ -85,6 +85,7 @@
 360baidus.com
 360jiaquan.com
 360vip.front99.com
+361315.cc
 365bibi.com
 365safego.com
 366safego.com
@@ -126,7 +127,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -214,6 +214,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -277,11 +278,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -342,7 +345,9 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -387,7 +392,6 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
-agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ai-wen.net
 aid.chinayk.com
@@ -844,6 +848,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -916,7 +921,6 @@ cs.dqwjzm.com
 ct.210189.com
 ctfriend.net
 cupid.iqiyi.com
-cusp.hk
 cut.qumi.com
 cyad1.cyworld.com
 cycy.kxrxh.com
@@ -994,14 +998,12 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
-delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1265,7 +1267,6 @@ e.xmgysweb.com
 e.xpjis.com
 e.yageben.com
 e.yangjingbang.net
-e.yerpt.com
 e.yidulive.net
 e.yingchengtou.com
 e.ynnke.com
@@ -1603,6 +1604,7 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
+ic.ksosoft.com
 icdxc.com
 icloud.net.cn
 icloudapple.cn
@@ -1855,7 +1857,6 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
-jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -1932,7 +1933,6 @@ legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
 leorockwell.com
-lessplay.com
 lg2.jointreport-switch.com
 lg4.jointreport-switch.com
 lhafy.com
@@ -1978,7 +1978,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -1994,7 +1993,6 @@ m.afoux.com
 m.anmeilai.net
 m.aqiudaohang.com
 m.assigned.cn
-m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.bapkt.com
@@ -2310,7 +2308,6 @@ moupdate10332052.wps.cn
 moutaihotel.cn
 movie.miaiche.cn
 mpro.baidu.com
-mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
@@ -2398,6 +2395,7 @@ njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
 nnedbx.com
+nobodycanstop.us
 nofile.io
 notify.oupeng.com
 noxagile.duapp.com
@@ -2623,7 +2621,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
@@ -2644,7 +2641,6 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2918,7 +2914,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2998,6 +2993,7 @@ tcsovi.org
 td.mpush.cn
 tdrec.youku.com
 tech2.in.com
+teco-mo.org
 teen.77rog.com
 terren.cntv.cn
 test.eduancm.com
@@ -3304,6 +3300,7 @@ www.wangruowang.org
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3465,7 +3462,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
