@@ -106,7 +106,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -127,6 +126,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -163,7 +163,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -278,13 +277,11 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -345,12 +342,12 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
+adsapi.manhuaren.com
 adscdn.baidu.cn
 adsclick.yx.js.cn
 adscript.gmarket.co.kr
@@ -364,6 +361,7 @@ adstil.indiatimes.com
 adstream.123.sogoucdn.com
 adsys.chinacloudapp.cn
 adtrk.me
+aduu.cn
 adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
@@ -509,6 +507,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -686,6 +685,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -778,6 +778,7 @@ cdgxq.com
 cdhoc.piyaji.cn
 cdig.info
 cdn.5bong.com
+cdn.aegins.com
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
@@ -992,6 +993,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1080,7 +1082,6 @@ dqq.lnfund.org.cn
 dr.holaworld.cn
 drmcmm.baidu.cn
 drmcmm.baidu.com
-drmingxia.org
 drsw.m.yuyouge.com
 drvmy.ats68.cn
 drxrc.com
@@ -1344,7 +1345,6 @@ facebookma.cn
 fail.hk
 falun.caltech.edu
 falundafa-sacramento.org
-falundata.com
 falundata.org
 fan-qiang.com
 fangmincn.org
@@ -1588,7 +1588,7 @@ hwt.player888.cn
 hxstfxx.cn
 hxueu.code.weddingeeos.com
 hyfh.benbaisteel.com
-hyunke.com
+hyz86.com
 hz.shouyoutv.com
 hz.youku.com
 hzsod71wov.me
@@ -1604,7 +1604,6 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
-ic.ksosoft.com
 icdxc.com
 icloud.net.cn
 icloudapple.cn
@@ -1887,7 +1886,6 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1978,6 +1976,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2165,7 +2164,6 @@ m.txtxr.com
 m.ueram.com
 m.vaxyz.com
 m.vbaou.com
-m.vbieu.com
 m.vbinu.com
 m.verpt.com
 m.vichc.com
@@ -2398,6 +2396,7 @@ nnedbx.com
 nobodycanstop.us
 nofile.io
 notify.oupeng.com
+nowskip.com
 noxagile.duapp.com
 npdaqy6x1j.me
 nryiou.cn
@@ -2473,6 +2472,7 @@ p.yizuya.com
 p.ynjczy.net
 p1.18zhongyao.com
 p1.qinsx.cn
+p2.hyz86.com
 p2.qinsx.cn
 p2pmid.baofeng.com
 p4p.sina.com.cn
@@ -2993,7 +2993,6 @@ tcsovi.org
 td.mpush.cn
 tdrec.youku.com
 tech2.in.com
-teco-mo.org
 teen.77rog.com
 terren.cntv.cn
 test.eduancm.com
@@ -3169,6 +3168,7 @@ videondun.com
 videopush.baidu.cn
 vimg.dwstatic.com
 vip.cainiaofx.com
+vip.hyz86.com
 vip.id528.com
 vip.jindu179.com
 vip.mall044.com
