@@ -213,6 +213,7 @@ DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,google.cn,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,hamreus.com
@@ -538,7 +539,6 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 DOMAIN-SUFFIX,zimuzu.io
-DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
