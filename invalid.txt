@@ -106,7 +106,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -127,6 +126,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -278,13 +278,11 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -345,7 +343,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -456,7 +453,6 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
-api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
@@ -510,6 +506,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -704,6 +701,7 @@ c.cyto-biotherapy.com
 c.danangmo.cn
 c.dokrmob.com
 c.dzytjqcc.com
+c.effectivemeasure.net
 c.guangtui1999.com
 c.idasui.cn
 c.iogous.com
@@ -800,6 +798,7 @@ cdn.vamaker.com
 cdn.xianliao.me
 cdn1.res.nx5.com
 cdn1.res.uzham.com
+cdntest.a8tiyu.com
 cdpa.url.tw
 cdpusa.org
 cdsget.51y5.net
@@ -847,6 +846,7 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
@@ -1238,7 +1238,6 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
-e.sjuqc.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1340,7 +1339,6 @@ f1.bizhiku.net
 f1.luoshenbest.cn
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
-f5.mtqys.com
 f56g.me
 fa.corp.163.com
 facebook.br
@@ -1560,6 +1558,7 @@ hi686.com
 hiad.vmall.com
 hidein.net
 himemix.net
+hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
 hk32168.com
 hkctu.org.hk
@@ -1610,7 +1609,6 @@ ibros.org
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
-idcqi.com
 idealads.net
 ids.deliver.ifeng.com
 iebar.baidu.com
@@ -1676,6 +1674,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
+imgad0.3conline.com
 imgc.cymzc.com
 imges.wu65.com
 imgp.cymzc.com
@@ -1703,7 +1702,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1711,6 +1709,7 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1772,9 +1771,9 @@ jjyy.gaopengqcdz.cn
 jkjjkj.top
 jmonitor.jiuzhilan.com
 jobso.tv
+johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
@@ -1946,7 +1945,6 @@ linkbide.com
 listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
-lives.l.cp81.ott.cibntv.net
 liveupdate.mac.sandai.net
 lkf1.m.sanhao3.com
 ll.gxsky.com
@@ -1980,7 +1978,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2145,10 +2142,8 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
-m.sjuqc.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2248,6 +2243,7 @@ md.sh5e.com
 md0z4dh.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
+me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
 media-static.jointreport-switch.com
@@ -2282,6 +2278,7 @@ mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
+mip.yuelvxing.com
 mist.vip
 mitao.com.tw
 miui.hftaili.com
@@ -2329,6 +2326,7 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
+msxiaona.cn
 mtj.baidu.cn
 mtl.ttsqgs.com
 mtty-cdn.mtty.xin
@@ -2650,7 +2648,6 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2703,6 +2700,7 @@ s.cr-nielsen.com
 s.ddstu.com
 s.de123.net
 s.dsjcfw.com
+s.effectivemeasure.net
 s.ekeide.com
 s.haiyunx.com
 s.hk9600.com
@@ -2799,6 +2797,7 @@ setting.crashlytics.com
 settings.crashlytics.com
 sfloushi.com
 sftuk.org
+sg-cdn.effectivemeasure.net
 sgbfjs.info
 sh.qihoo.com
 shadowsocks-r.com
@@ -2883,6 +2882,7 @@ spt.dictionary.com
 sqd.jstdjq.com
 srocket.us
 srv.thespacereporter.com
+ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -2925,6 +2925,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2955,6 +2956,7 @@ swx.0.0.0.0.cn
 sy.jlhygy.com
 sy.kcxsyz.com
 syilm.net
+sykty.com
 sync.fastclick.net
 sync.teamrtb.net
 syndication-o.twitter.com
@@ -3098,7 +3100,6 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3309,6 +3310,7 @@ www.gmiddle.com
 www.gmiddle.net
 www.oxid.it
 www.wangruowang.org
+www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
