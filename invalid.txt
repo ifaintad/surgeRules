@@ -125,6 +125,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -161,7 +162,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -213,7 +213,6 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -343,8 +342,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -399,6 +398,7 @@ aishang.bid
 aishiguolong.com
 aishowbger.com
 aj-gb.mgid.com
+ajapk.com
 ajhdf.com
 ajnad.aljazeera.net
 ajuhd.com
@@ -460,7 +460,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -507,7 +506,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -775,7 +773,6 @@ cca.mob.com
 ccbaihehq.com
 cdgxq.com
 cdhoc.piyaji.cn
-cdig.info
 cdn.5bong.com
 cdn.aiclicash.com
 cdn.app.kachapt.cn
@@ -976,6 +973,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1253,7 +1251,6 @@ e.vbaiu.com
 e.vouky.com
 e.wcjup.com
 e.weixingshexiangji.net
-e.wjhehaofc.com
 e.wkjhd.com
 e.wnxcg.com
 e.wonwg.com
@@ -1328,6 +1325,7 @@ ezine.oupeng.com
 ezpc.tk
 ezucods.cn
 f.fj95560.com
+f.haoxinjaju.com
 f.hongm.com
 f.qcwzx.net.cn
 f.yijikm.com
@@ -1467,6 +1465,7 @@ ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
 gm682.com
+gma1.com
 gmhz.org
 gmota.g188.net
 gmozomg.izihost.org
@@ -1484,7 +1483,6 @@ gongminliliang.com
 good.ta80.com
 gooddns.info
 goods.tudou.com
-google.com.et
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1670,7 +1668,6 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
-imgad0.3conline.com
 imgc.cymzc.com
 imges.wu65.com
 imgp.cymzc.com
@@ -1698,6 +1695,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1890,7 +1888,6 @@ kn.zstjy.com
 knnwdyou.com
 kod4pc293.com
 kooyum.com
-koukou7.com
 kqy1.com
 kr.sybspools.com
 ksdsuzhou.com
@@ -1971,7 +1968,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2135,6 +2131,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2155,10 +2152,8 @@ m.tiojk.com
 m.tuopp.com
 m.twldmx.com
 m.txtxr.com
-m.ueram.com
 m.vaxyz.com
 m.vbaou.com
-m.vbieu.com
 m.vbinu.com
 m.verpt.com
 m.vichc.com
@@ -2169,7 +2164,6 @@ m.weboser.com
 m.weixingshexiangji.net
 m.wervp.com
 m.wgewj.cn
-m.wjhehaofc.com
 m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
@@ -2272,7 +2266,6 @@ mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
-mip.yuelvxing.com
 mist.vip
 mitao.com.tw
 miui.hftaili.com
@@ -2284,7 +2277,6 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2303,6 +2295,7 @@ mostat.wps.cn
 moupdate10332052.wps.cn
 moutaihotel.cn
 movie.miaiche.cn
+mpettis.com
 mpro.baidu.com
 mps.weekslw.com
 mqq.zgdmsj.cn
@@ -2540,6 +2533,7 @@ player.800directories.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
+pm.sdaiv.com
 politicalconsultation.org
 pomhz.com
 pop.91mangrandi.com
@@ -2766,7 +2760,6 @@ schemas.android.com
 sciencelolb.com
 script.vccoo.com
 sd.0.0.0.0.cn
-sd.kk3g.net
 sdapprecv.app.cntvwb.cn
 sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
@@ -3065,6 +3058,7 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3334,6 +3328,7 @@ xe2c.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
+xhbqczl.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
@@ -3463,7 +3458,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
@@ -3491,8 +3485,6 @@ zxr.fzxrjx.com
 zyf.fzdfwy.com
 zymo.mps.weibo.com
 zytwq.net
-zyz.91friend.com
-zyz1.91friend.com
 zyzc9.com
 zzsx8.com
 zzy.mipujia.com
