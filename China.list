@@ -1,6 +1,5 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China.list
 DOMAIN,analytics.strava.com
-DOMAIN,api.steampowered.com,DIRECT
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com

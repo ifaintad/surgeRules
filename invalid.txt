@@ -105,6 +105,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -125,7 +126,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -135,6 +135,7 @@
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
 801.tianyaui.cn
+801.tianyaui.com
 803.tianyaui.cn
 806.tianyaui.cn
 808.tianya.cn
@@ -213,6 +214,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -245,6 +247,7 @@ acm.dzwww.com
 acsystem.wasu.cn
 acsystem.wasu.tv
 activate.wip3.adobe.com
+active.baofeng.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
@@ -347,6 +350,7 @@ ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
+adsapi.manhuaren.com
 adscdn.baidu.cn
 adsclick.yx.js.cn
 adscript.gmarket.co.kr
@@ -485,6 +489,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -683,6 +688,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -847,7 +853,6 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -888,6 +893,7 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
+countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -973,7 +979,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1325,7 +1330,6 @@ ezine.oupeng.com
 ezpc.tk
 ezucods.cn
 f.fj95560.com
-f.haoxinjaju.com
 f.hongm.com
 f.qcwzx.net.cn
 f.yijikm.com
@@ -1603,6 +1607,7 @@ ibros.org
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
+id528.com
 idealads.net
 ids.deliver.ifeng.com
 iebar.baidu.com
@@ -1668,6 +1673,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
+imgad0.pconline.com.cn
 imgc.cymzc.com
 imges.wu65.com
 imgp.cymzc.com
@@ -1695,7 +1701,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1935,6 +1940,7 @@ linkbide.com
 listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
+lives.l.cp81.ott.cibntv.net
 liveupdate.mac.sandai.net
 lkf1.m.sanhao3.com
 ll.gxsky.com
@@ -1968,6 +1974,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2131,7 +2138,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2168,7 +2174,6 @@ m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
 m.wrating.com
-m.wsxxu.com
 m.wuqutu.com
 m.wxhh678.com
 m.xcy8.com
@@ -2307,6 +2312,7 @@ ms.jyhwt.cn
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -2583,7 +2589,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2899,7 +2904,6 @@ sta.holagames.com
 sta.jcjk0451.com
 stage64.hk
 staging.admin.e.mi.com
-stat.10jqka.com.cn
 stat.pptv.com
 stat.tudou.com
 stat.youku.com
@@ -3058,7 +3062,6 @@ tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3295,7 +3298,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
