@@ -86,7 +86,7 @@ DOMAIN_SUFFIX_ALWAYS_BAN = {
 
 
 DOMAIN_SUFFIX_ALWAYS_DIRECT = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_ban",
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_direct",
     "file_name": "AlwaysDirect.list",
     "has_prefix": False,
     "filter_top_level_banned_domain": False,
