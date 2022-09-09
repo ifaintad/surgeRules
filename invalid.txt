@@ -106,7 +106,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -164,6 +163,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -215,6 +215,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -345,7 +346,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -391,6 +391,7 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ai-wen.net
 aid.chinayk.com
@@ -456,6 +457,7 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
+api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
@@ -487,6 +489,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -623,6 +626,7 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -684,6 +688,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -842,7 +847,6 @@ click.hd.sohu.com
 click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
-click1n.soufun.com
 clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
@@ -851,6 +855,7 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -882,7 +887,6 @@ connect.summit.co.uk
 cookiemapping.wrating.com
 coolnay.com
 cooolyi.cn
-coop.pop.baofeng.com
 cop.my
 coro.benbaisteel.com
 corocksi.com
@@ -892,6 +896,7 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
+counter.ksosoft.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1698,7 +1703,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1885,7 +1889,6 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -2137,7 +2140,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2304,6 +2306,7 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
+ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2502,7 +2505,6 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
-phpad.cqnews.net
 pic.14bobo.com
 pic.2u.com.cn
 pic.adver.com.tw
@@ -2636,6 +2638,7 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -3057,7 +3060,6 @@ twstar.net
 twyac.org
 tx.lwinl.com
 txtad.jijiplayer.com
-tylll.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
@@ -3083,6 +3085,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3197,6 +3200,7 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
+wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3291,6 +3295,7 @@ wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
+www.monlamit.org
 www.oxid.it
 www.wangruowang.org
 www9.effectivemeasure.net
