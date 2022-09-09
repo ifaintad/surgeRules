@@ -68,3 +68,10 @@ jobs:
         with:
           commit_message: Automated Change ${{ env.COMMIT_DATE }}
           branch: release
+
+      - name: Update profiles on running instance
+        run: |
+          if [ ${{ env.GIT_BRANCH_NAME }} == 'main' ]
+          then
+            curl -XPOST -H "Authorization: Token ${{ secrets.SBC_INSTANCE_TOKEN }}" -H "Content-Type: application/json" ${{ secrets.SBC_INSTANCE_URL }}/api/v1/update-all-profiles
+          fi
