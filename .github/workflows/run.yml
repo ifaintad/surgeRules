@@ -69,6 +69,10 @@ jobs:
           commit_message: Automated Change ${{ env.COMMIT_DATE }}
           branch: release
 
+      - name: Git branch name
+        id: git-branch-name
+        uses: EthanSK/git-branch-name-action@v1
+
       - name: Update profiles on running instance
         run: |
           if [ ${{ env.GIT_BRANCH_NAME }} == 'main' ]
