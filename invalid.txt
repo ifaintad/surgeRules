@@ -74,7 +74,6 @@
 285680.com
 2m2n.com
 3.guidaye.com
-3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -277,11 +276,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -304,7 +305,6 @@ ad1.netshelter.net
 ad1.p5w.net
 ad1.xiaomi.com
 ad7.tagphi.net
-adapi.lenovogame.com
 adcitrus.com
 adcl.pchome.com.tw
 adclient.uimserv.net
@@ -367,6 +367,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -462,6 +463,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -531,7 +533,6 @@ aty.hd.sohu.com
 aty.sohu.com
 avpa.dzone.com
 avualrhg9p.bid
-ax.ggfeng.com
 ayabreya.xyz
 b.53yao.com
 b.9dreams.net
@@ -686,7 +687,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -978,6 +978,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1006,7 +1007,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1287,7 +1287,6 @@ e.zunss.com
 e701.net
 e704.net
 e719.net
-eap.big5.enorth.com.cn
 eclick.baidu.cn
 ecsm.vs.com
 ed.aijielang.cn
@@ -1474,6 +1473,7 @@ gmhz.org
 gmota.g188.net
 gmozomg.izihost.org
 go-pki.com
+go.10086.cn
 go.gogolm.xyz
 go.gotourl.xyz
 go.gotourls.bid
@@ -1707,7 +1707,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1887,7 +1886,6 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1976,6 +1974,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2428,6 +2427,7 @@ oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
 okjhb.xyz
+okkkk.com
 old.nabble.com
 omega7o.com
 one.520319.cn
@@ -2465,6 +2465,7 @@ p1.18zhongyao.com
 p1.qinsx.cn
 p2.hyz86.com
 p2.qinsx.cn
+p2.ykauto.cn
 p2pmid.baofeng.com
 p3tt.com
 p4p.sina.com.cn
@@ -2476,7 +2477,6 @@ panluan.net
 paopaod.qiyipic.com
 papajia55.com
 parking.zunmi.cn
-parser.houyi.baofeng.net
 partner.catchy.com
 partners.fshealth.com
 partners.vouchedfor.co.uk
@@ -2615,7 +2615,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
@@ -2655,7 +2654,6 @@ richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
 rm.ra.icast.cn
-rm.sina.com.cn
 rmcxw.cn
 rmjdw132.info
 rmtx.ra.icast.cn
@@ -2936,7 +2934,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3023,7 +3020,6 @@ tngrnow.net
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
-top.h.qhmsg.com
 total.xinmin.cn
 toutiao.2haha.com
 toutiao.jxnews.com.cn
@@ -3061,13 +3057,11 @@ twldmx.com
 twstar.net
 twyac.org
 tx.lwinl.com
-txt.go.sohu.com
 txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
 u.63kc.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3089,7 +3083,6 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3128,7 +3121,6 @@ urlet.cn
 urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
-userimg.qunar.com
 ushuarencity.echainhost.com
 usinfo.state.gov
 usr.mgid.com
@@ -3205,7 +3197,6 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
-wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3266,7 +3257,6 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3468,6 +3458,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
