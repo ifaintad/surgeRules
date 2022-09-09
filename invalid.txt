@@ -20,6 +20,7 @@
 1.hnyouneng.com
 1.hslyqs.com
 1.jeasyui.net
+1.mgff.com
 1.panduoduo.net
 1.qtmojo.cn
 1.rengshu.com
@@ -106,6 +107,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -126,6 +128,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -162,7 +165,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -186,6 +188,7 @@ a.giantrealm.com
 a.holagames.com
 a.irs01.com
 a.itiexue.net
+a.kandiaoyu.com
 a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
@@ -213,6 +216,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -276,13 +280,11 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -463,7 +465,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -625,7 +626,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -687,6 +687,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -978,7 +979,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1473,7 +1473,6 @@ gmhz.org
 gmota.g188.net
 gmozomg.izihost.org
 go-pki.com
-go.10086.cn
 go.gogolm.xyz
 go.gotourl.xyz
 go.gotourls.bid
@@ -1598,6 +1597,7 @@ i.ma.social-touch.com
 i.tansuotv.com
 i2.akjunshi.com
 i5.akjunshi.com
+iad0ssl.pcauto.com.cn
 iadc.qwapi.com
 iads.xinmin.cn
 iask.bz
@@ -1700,6 +1700,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1707,6 +1708,7 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1974,7 +1976,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2137,7 +2138,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2310,6 +2310,7 @@ ms.jyhwt.cn
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -2465,7 +2466,6 @@ p1.18zhongyao.com
 p1.qinsx.cn
 p2.hyz86.com
 p2.qinsx.cn
-p2.ykauto.cn
 p2pmid.baofeng.com
 p3tt.com
 p4p.sina.com.cn
@@ -2636,6 +2636,7 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2782,7 +2783,6 @@ sesawe.org
 setting.crashlytics.com
 settings.crashlytics.com
 sfloushi.com
-sftuk.org
 sg-cdn.effectivemeasure.net
 sgbfjs.info
 sh.qihoo.com
@@ -2867,8 +2867,10 @@ sponsors.s2ki.com
 spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
+src.duanxin520.com
 srocket.us
 srv.thespacereporter.com
+ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3197,6 +3199,7 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 wallornot.org
+wan.360.cn
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
