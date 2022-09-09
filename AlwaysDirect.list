@@ -1,1 +1,2 @@
-# Based on https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_ban
+# Based on https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_direct
+DOMAIN-SUFFIX,res.smzdm.com
