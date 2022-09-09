@@ -23,6 +23,21 @@ def get_rule_value(rule):
         return rule.split("//")[0].split("#")[0].strip()
 
 
+def get_exclude_rules(n_retries=5):
+    session = requests.session()
+    n_retries = n_retries
+
+    url = rulesets.EXCLUDE_RULES
+    session.mount(url, HTTPAdapter(max_retries=n_retries))
+    resp = session.get(url)
+    return [
+        r.strip().replace(" ", "") for r in resp.content.decode().split("\n")
+        if r.strip() and not r.strip().startswith("#")]
+
+
+EXCLUDE_RULES = get_exclude_rules()
+
+
 FORCE_DOMAIN_KEYWORDS = {
     "google", "blogspot", "facebook", "pinterest",
     "googleapis"}
@@ -119,8 +134,11 @@ class RuleItem:
         self.n_retries = n_retries
         self.session.mount(url, HTTPAdapter(max_retries=n_retries))
         resp = self.session.get(url)
-        self.raw_list = [r.strip() for r in resp.content.decode().split("\n")
-                         if r.strip() and not r.strip().startswith("#")]
+        raw_list = [
+            r.strip().replace(" ", "") for r in resp.content.decode().split("\n")
+            if r.strip() and not r.strip().startswith("#")]
+
+        self.raw_list = [r for r in raw_list if r not in EXCLUDE_RULES]
 
         self._list = None
         self.filter_top_level_banned_domain = filter_top_level_banned_domain
@@ -343,8 +361,19 @@ class SurgeRules:
 
         used_rules = used_rules.union(exist_rules.difference(exist_rules_copy))
 
+        self.build_special_list()
+
         self.build_extra_proxy_list(
             proxy_rule_set, used_rules, invalid_domains)
+
+    def build_special_list(self):
+        for ruleset in [
+                rulesets.DOMAIN_SUFFIX_ALWAYS_PROXY,
+                rulesets.DOMAIN_SUFFIX_ALWAYS_BAN,
+                rulesets.DOMAIN_SUFFIX_ALWAYS_DIRECT]:
+            ruleset_obj = RuleItem(n_retries=self.n_retries, **ruleset)
+            ruleset_obj.update_list([])
+            ruleset_obj.write_rules(self.output_dir)
 
     def build_extra_proxy_list(
             self, proxy_rule_set: RuleSets, exist_rules, invalid_domains):

@@ -67,3 +67,30 @@ PROXY_RAW_DICT = {
     "has_prefix": False,
     "filter_top_level_banned_domain": True,
 }
+
+
+DOMAIN_SUFFIX_ALWAYS_PROXY = {
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_proxy",
+    "file_name": "AlwaysProxy.list",
+    "has_prefix": False,
+    "filter_top_level_banned_domain": False,
+
+}
+
+DOMAIN_SUFFIX_ALWAYS_BAN = {
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_ban",
+    "file_name": "AlwaysBan.list",
+    "has_prefix": False,
+    "filter_top_level_banned_domain": False,
+}
+
+
+DOMAIN_SUFFIX_ALWAYS_DIRECT = {
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_ban",
+    "file_name": "AlwaysDirect.list",
+    "has_prefix": False,
+    "filter_top_level_banned_domain": False,
+}
+
+
+EXCLUDE_RULES = "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/rules_exclude"
