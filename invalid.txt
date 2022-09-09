@@ -106,6 +106,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -163,7 +164,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -215,6 +215,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -278,11 +279,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -344,8 +347,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -462,6 +465,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -669,7 +673,6 @@ bmw2ep.paomifen.cn
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -686,7 +689,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -852,6 +854,7 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -977,7 +980,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1006,7 +1008,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1699,6 +1700,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1885,6 +1887,7 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
+kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -2136,6 +2139,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2486,7 +2490,6 @@ pbs.lenovomm.com
 pc.107788.com
 pc.ctsywy.com
 pc.quansj.cn
-pc.uf.ksosoft.com
 pcauto.irs01.com
 pd.sogou.com
 peace.ca
@@ -2876,7 +2879,6 @@ sscefsol.com.cn
 ssh.hxlif.com
 ssh.jsyzw132.com
 ssh.szxiuchang.com
-ssl-cdn.media.innity.net
 ssl.hyhzy.cn
 ssl.ymapp.com
 ssp.08160.cn
@@ -2906,7 +2908,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2981,7 +2982,6 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
-tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3082,6 +3082,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3090,7 +3091,6 @@ ujikdd041o.cn
 uk3oi.adgze.cn
 ukeiae.com
 ulic.baidu.com
-ulink.cc
 um.hd.sohu.com
 un.52rkl.cn
 un.soarfi.cn
@@ -3143,6 +3143,7 @@ v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
+vas.funshion.com
 vcbn65.xyz
 vcfs6ip5h6.bid
 vdapprecv.app.cntvwb.cn
