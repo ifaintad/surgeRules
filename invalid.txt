@@ -74,6 +74,7 @@
 285680.com
 2m2n.com
 3.guidaye.com
+3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -106,6 +107,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -162,6 +164,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -277,11 +280,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -461,6 +466,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -469,6 +475,7 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -486,7 +493,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -623,6 +629,7 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -684,7 +691,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -1003,7 +1009,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1435,7 +1440,6 @@ gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gaozhisheng.net
-gas.data.pplive.com
 gc.keefung-zs.com
 gcapi.sy.kugou.com
 gcs1.cn
@@ -1698,7 +1702,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1706,7 +1709,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pclady.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1974,7 +1976,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2224,7 +2225,6 @@ maizhong.org
 maplew.com
 market.21cn.com
 mass.mall044.com
-mastodon.host
 match.rtbidder.net
 material.istreamsche.com
 material.mtty.xin
@@ -2242,7 +2242,6 @@ me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
 mediapro.pro.cn
-megavideo.com
 meiti1.net
 menghuanzs.com
 mengmengdas.com
@@ -2366,7 +2365,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2935,7 +2933,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -2985,6 +2982,7 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
+tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3461,7 +3459,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
