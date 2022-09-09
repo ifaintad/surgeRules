@@ -215,7 +215,6 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -488,6 +487,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -645,6 +645,7 @@ bitinka.com.ar
 bitz.ai
 bixia.fymm.cn
 biyibia.com
+biz.gexing.com
 biz.weibo.com
 biz.weibo.com.cn
 biz5.kankan.com
@@ -851,6 +852,7 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -889,8 +891,10 @@ cosmic.monar.ch
 cosoyoo.com
 couchcoaster.jp
 count.game.pps.tv
+count6.pconline.com.cn
 counter.csdn.net
 counter.kingsoft.com
+countpvn.light.fang.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1284,9 +1288,9 @@ e.zhuyuanp.top
 e.zunss.com
 e701.net
 e704.net
-e705.net
 e719.net
 eclick.baidu.cn
+ecmc.bdimg.com
 ecsm.vs.com
 ed.aijielang.cn
 ed.sczhilong.cn
@@ -1670,6 +1674,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
 img80.net
+imgad0.pconline.com.cn
 imgc.cymzc.com
 imges.wu65.com
 imgp.cymzc.com
@@ -1705,6 +1710,7 @@ itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
 ivy.pcbaby.com.cn
+ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1769,7 +1775,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
@@ -2139,6 +2144,7 @@ m.sanitwealth.com
 m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
+m.sjuqc.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2298,13 +2304,11 @@ mostat.wps.cn
 moupdate10332052.wps.cn
 moutaihotel.cn
 movie.miaiche.cn
-mpettis.com
 mpro.baidu.com
 mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2428,7 +2432,6 @@ oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
 okjhb.xyz
-okkkk.com
 old.nabble.com
 omega7o.com
 one.520319.cn
@@ -2744,6 +2747,7 @@ safe.tsgpay.cn
 saferwet.com
 same.chinadaily.com.cn
 same.jrj.com.cn
+same.mzy2014.com
 same01.jrj.com.cn
 same02.jrj.com.cn
 same03.jrj.com.cn
@@ -2865,6 +2869,7 @@ sponsors.s2ki.com
 spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
+src.duanxin520.com
 srocket.us
 srv.thespacereporter.com
 ss.cnnic.cn
@@ -3296,7 +3301,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3457,12 +3461,10 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
 zlne800.com
-zlsw.nnjxqd.com
 zmj.guanqinjie.cn
 zmlled.cn
 znsv.baidu.cn
