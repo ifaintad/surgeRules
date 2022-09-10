@@ -106,6 +106,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -135,7 +136,6 @@
 7z66.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
-8.jrj.com
 801.tianyaui.cn
 803.tianyaui.cn
 806.tianyaui.cn
@@ -164,6 +164,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -279,11 +280,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -346,7 +349,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -452,7 +454,6 @@ api.dreamfull.cn
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
-api.gi.igexin.com
 api.goulegu.com
 api.joybj.com
 api.ketedata.com
@@ -464,6 +465,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -578,6 +580,7 @@ banners.beted.com
 banners.expressindia.com
 base.filedot.xyz
 bb.tuku.cc
+bb1429.com
 bbcc.yxlady.com
 bbcoe.cn
 bbdm.051661.com
@@ -853,6 +856,7 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -860,7 +864,6 @@ cn.api.push.le.com
 cn.dayabook.com
 cn.giganews.com
 cn.ibtimes.com
-cn.sandscotaicentral.com
 cn.tatami-solutions.com
 cn.voa.mobi
 cn2.streetvoice.com
@@ -979,6 +982,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1007,7 +1011,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1424,7 +1427,6 @@ g1.0573ren.com
 g1.08160.cn
 g1.corp.163.com
 g2q3e.cn
-g3.iqilu.com
 g9s.sgzs999.com
 gad.kugou.com
 game.ifeng.com
@@ -1568,6 +1570,7 @@ hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
+hnctsm.com
 home.so-net.net.tw
 houdaolj.com
 hougaige.com
@@ -1709,7 +1712,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pclady.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1775,7 +1777,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
@@ -1801,7 +1802,6 @@ js.mingxianshanghang.cn
 js.mnkan.com
 js.mumayi.net
 js.paochala.net
-js.ptmind.com
 js.pub.tom.com
 js.pyangzi.com
 js.saiqizhi.com
@@ -1980,7 +1980,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2143,6 +2142,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2245,7 +2245,6 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
-media.tianjimedia.com
 mediapro.pro.cn
 meiti1.net
 menghuanzs.com
@@ -2310,7 +2309,6 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2371,7 +2369,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2496,7 +2493,6 @@ pbs.lenovomm.com
 pc.107788.com
 pc.ctsywy.com
 pc.quansj.cn
-pc.uf.ksosoft.com
 pcauto.irs01.com
 pd.sogou.com
 peace.ca
@@ -2624,7 +2620,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
@@ -2649,7 +2644,6 @@ rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
-recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2919,7 +2913,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2945,7 +2938,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3400,7 +3392,6 @@ xyrhd.com
 xyrkl.com
 xyy.code.weddingeeos.com
 xz.ercfh.com
-xzq.greenxf.net
 y.3957957.com
 y.damifan.cn
 y.gwylm.com
@@ -3472,6 +3463,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
