@@ -53,7 +53,7 @@ jobs:
           mkdir /tmp/rules
           cp ./publish/* /tmp/rules
 
-      - name: Checkout to "build" branch
+      - name: Checkout to "release" branch
         uses: actions/checkout@v3
         with:
           ref: release
