@@ -1,5 +1,7 @@
 # rules
 
+import os
+
 # banned rules
 ADBLOCK = {
     "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list"}
@@ -94,3 +96,6 @@ DOMAIN_SUFFIX_ALWAYS_DIRECT = {
 
 
 EXCLUDE_RULES = "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/rules_exclude"
+
+
+print(f"{os.environ.get('TEST_VARIABLE', 1) + 1}")
