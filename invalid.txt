@@ -20,7 +20,6 @@
 1.hnyouneng.com
 1.hslyqs.com
 1.jeasyui.net
-1.mgff.com
 1.panduoduo.net
 1.qtmojo.cn
 1.rengshu.com
@@ -107,6 +106,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -164,7 +164,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -178,7 +177,6 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
-a.cn.duoyi.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -372,7 +370,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -462,6 +459,7 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
+api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
@@ -494,6 +492,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -631,7 +630,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -859,7 +857,6 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1709,7 +1706,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1717,6 +1713,7 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1896,6 +1893,7 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
+kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1985,6 +1983,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2320,7 +2319,6 @@ ms.jyhwt.cn
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -3093,6 +3091,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3464,12 +3463,12 @@ zgunion.cn
 zgzcjj.net
 zhanbin.net
 zhangzishi.cc
-zhao.1984.city
 zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
