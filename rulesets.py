@@ -1,3 +1,5 @@
+import os
+
 # rules
 
 # banned rules
@@ -69,28 +71,41 @@ PROXY_RAW_DICT = {
 }
 
 
-DOMAIN_SUFFIX_ALWAYS_PROXY = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_proxy",
-    "file_name": "AlwaysProxy.list",
-    "has_prefix": False,
-    "filter_top_level_banned_domain": False,
+DOMAIN_SUFFIX_ALWAYS_PROXY = {}
+DOMAIN_SUFFIX_ALWAYS_BAN = {}
+DOMAIN_SUFFIX_ALWAYS_DIRECT = {}
+EXCLUDE_RULES = {}
 
-}
-
-DOMAIN_SUFFIX_ALWAYS_BAN = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_ban",
-    "file_name": "AlwaysBan.list",
-    "has_prefix": False,
-    "filter_top_level_banned_domain": False,
-}
+extra_repo = os.getenv("EXTRA_GITHUB_REPO")
+extra_repo_token = os.getenv("EXTRA_GITHUB_REPO_TOKEN")
 
 
-DOMAIN_SUFFIX_ALWAYS_DIRECT = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/always_direct",
-    "file_name": "AlwaysDirect.list",
-    "has_prefix": False,
-    "filter_top_level_banned_domain": False,
-}
+if extra_repo and extra_repo_token:
+    DOMAIN_SUFFIX_ALWAYS_PROXY = {
+        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/always_proxy",
+        "file_name": "AlwaysProxy.list",
+        "has_prefix": False,
+        "filter_top_level_banned_domain": False,
+        "token": extra_repo_token
+    }
 
+    DOMAIN_SUFFIX_ALWAYS_BAN = {
+        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/always_ban",
+        "file_name": "AlwaysBan.list",
+        "has_prefix": False,
+        "filter_top_level_banned_domain": False,
+        "token": extra_repo_token
+    }
 
-EXCLUDE_RULES = "https://raw.githubusercontent.com/ifaintad/surgeRulesSpecial/main/rules_exclude"
+    DOMAIN_SUFFIX_ALWAYS_DIRECT = {
+        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/always_direct",
+        "file_name": "AlwaysDirect.list",
+        "has_prefix": False,
+        "filter_top_level_banned_domain": False,
+        "token": extra_repo_token
+    }
+
+    EXCLUDE_RULES = {
+        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/rules_exclude",
+        "token": extra_repo_token
+    }

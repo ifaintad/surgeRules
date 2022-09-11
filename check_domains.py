@@ -1,4 +1,5 @@
 from multiprocessing.pool import ThreadPool
+
 from dns.exception import DNSException
 from dns.resolver import resolve as dns_resolve
 from tqdm import tqdm

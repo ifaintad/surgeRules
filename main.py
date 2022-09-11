@@ -1,10 +1,11 @@
-import rulesets
 import itertools
+import os
+from urllib.parse import urlsplit
+
 import requests
 from requests.adapters import HTTPAdapter
-from urllib.parse import urlsplit
-import os
 
+import rulesets
 from check_domains import get_invalid_domains
 
 DEBUG = False
@@ -23,19 +24,30 @@ def get_rule_value(rule):
         return rule.split("//")[0].split("#")[0].strip()
 
 
-def get_exclude_rules(n_retries=5):
+def get_raw_list(url, n_retries=5, token=None):
     session = requests.session()
-    n_retries = n_retries
-
-    url = rulesets.EXCLUDE_RULES
     session.mount(url, HTTPAdapter(max_retries=n_retries))
-    resp = session.get(url)
-    return [
+    headers = {}
+
+    if token is not None:
+        # We assume the repo is a github (private) repo
+        headers = {
+            "Authorization": f"token {token}",
+            "Accept": "application/vnd.github.v3+json"
+        }
+
+    resp = session.get(url, headers=headers)
+    raw_list = [
         r.strip().replace(" ", "") for r in resp.content.decode().split("\n")
         if r.strip() and not r.strip().startswith("#")]
 
+    return raw_list
 
-EXCLUDE_RULES = get_exclude_rules()
+
+try:
+    exclude_rules = get_raw_list(rulesets.EXCLUDE_RULES["url"], rulesets.EXCLUDE_RULES["token"])
+except Exception:
+    exclude_rules = []
 
 
 FORCE_DOMAIN_KEYWORDS = {
@@ -129,16 +141,11 @@ class RuleSets:
 class RuleItem:
     def __init__(self, url, file_name=None, n_retries=10, has_prefix=True,
                  domain_keywords=None,
-                 filter_top_level_banned_domain=False):
-        self.session = requests.session()
-        self.n_retries = n_retries
-        self.session.mount(url, HTTPAdapter(max_retries=n_retries))
-        resp = self.session.get(url)
-        raw_list = [
-            r.strip().replace(" ", "") for r in resp.content.decode().split("\n")
-            if r.strip() and not r.strip().startswith("#")]
+                 filter_top_level_banned_domain=False, token=None):
 
-        self.raw_list = [r for r in raw_list if r not in EXCLUDE_RULES]
+        raw_list = get_raw_list(url, n_retries=n_retries, token=token)
+
+        self.raw_list = [r for r in raw_list if r not in exclude_rules]
 
         self._list = None
         self.filter_top_level_banned_domain = filter_top_level_banned_domain
