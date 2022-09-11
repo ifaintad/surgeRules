@@ -151,7 +151,12 @@ class RuleItem:
         self.filter_top_level_banned_domain = filter_top_level_banned_domain
 
         self.file_name = file_name or urlsplit(url).path.split("/")[-1]
-        self.url = url
+
+        if token is None:
+            self.ref_url = url
+        else:
+            self.ref_url = None
+
         self.has_prefix = has_prefix
 
         domain_keywords = domain_keywords or []
@@ -268,7 +273,10 @@ class RuleItem:
 
     def write_rules(self, output_dir):
         rule_list = self.list[:]
-        rule_list.insert(0, f"# Based on {self.url}")
+        if self.ref_url:
+            rule_list.insert(0, f"# Based on {self.ref_url}")
+        else:
+            rule_list.insert(0, f"# Based on a private repo (unknown)")
 
         rule_list.extend(
             [f"DOMAIN-KEYWORD,{url}" for url in self.domain_keywords])
