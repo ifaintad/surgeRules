@@ -20,6 +20,7 @@
 1.hnyouneng.com
 1.hslyqs.com
 1.jeasyui.net
+1.mgff.com
 1.panduoduo.net
 1.qtmojo.cn
 1.rengshu.com
@@ -106,7 +107,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -178,6 +178,7 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
+a.cn.duoyi.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -348,6 +349,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -370,6 +372,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -982,7 +985,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1011,6 +1013,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1590,6 +1593,7 @@ hungerstrikeforaids.org
 huodong.pl.youku.com
 huodong.vip.youku.com
 hwt.player888.cn
+hxadt.com
 hxstfxx.cn
 hxueu.code.weddingeeos.com
 hyfh.benbaisteel.com
@@ -1705,6 +1709,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2315,6 +2320,7 @@ ms.jyhwt.cn
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -3458,12 +3464,12 @@ zgunion.cn
 zgzcjj.net
 zhanbin.net
 zhangzishi.cc
+zhao.1984.city
 zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
