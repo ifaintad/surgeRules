@@ -126,6 +126,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -175,7 +176,6 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
-a.cn.duoyi.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -344,6 +344,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -428,7 +429,6 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
-angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anreson.net
@@ -625,7 +625,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -686,7 +685,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -846,7 +844,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -996,19 +993,18 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.cp61.ott.cibntv.net
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
+delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1710,7 +1706,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -2641,10 +2636,10 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
+recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2672,6 +2667,7 @@ rpaulfrank.com
 rplog.baidu.com
 rqgsf.com
 rs1.rensheng5.com
+rt.funshion.net
 rtb-p.kejet.net
 rtb.eanalyzer.de
 rtb.metrigo.com
@@ -2871,7 +2867,6 @@ sponsors.s2ki.com
 spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
-src.duanxin520.com
 srocket.us
 srv.thespacereporter.com
 ss.cnnic.cn
@@ -3464,7 +3459,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
