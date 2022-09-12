@@ -74,6 +74,7 @@
 285680.com
 2m2n.com
 3.guidaye.com
+3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -106,7 +107,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -216,7 +216,6 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -307,6 +306,7 @@ ad1.netshelter.net
 ad1.p5w.net
 ad1.xiaomi.com
 ad7.tagphi.net
+adasad.myweb.hinet.net
 adcitrus.com
 adcl.pchome.com.tw
 adclient.uimserv.net
@@ -346,7 +346,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -489,6 +488,9 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
+appleone.film
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -510,6 +512,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -529,6 +532,7 @@ atm.sina.com
 atm.youku.com
 atomicblast.lol
 att.stargame.com
+aty.cp45.ott.cibntv.net
 aty.hd.sohu.com
 aty.sohu.com
 avpa.dzone.com
@@ -626,7 +630,6 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -662,6 +665,8 @@ blog.kangye.org
 blog.sina.com.tw
 blog.syx86.cn
 blog.workflow.is
+blogad01.myweb.hinet.net
+blogad02.myweb.hinet.net
 blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogspot.cat
@@ -687,7 +692,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -780,7 +784,6 @@ ccbaihehq.com
 cdgxq.com
 cdhoc.piyaji.cn
 cdn.5bong.com
-cdn.aegins.com
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
@@ -796,7 +799,6 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
-cdn.optaim.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
@@ -969,6 +971,7 @@ daima123.cc
 dairuqi.com
 daitdai.com
 dajusha.baywords.com
+dandan11.top
 dandan13.top
 dandan15.top
 dante2007.com
@@ -1094,7 +1097,6 @@ ds.jlbksy.com
 dsadas.hydp188.com
 dsaeerf.com
 dshrx.com
-dsjsee.dqgpb.com
 dsp.send.microad-cn.com
 dspserver.ad.cmvideo.cn
 dts.akamai.startappexchange.com
@@ -1450,7 +1452,6 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
-gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1556,6 +1557,7 @@ hhly88.com
 hhppyt.com
 hhqda.pop.t5yx.cn
 hi686.com
+hiad.myweb.hinet.net
 hiad.vmall.com
 hidein.net
 himemix.net
@@ -1704,7 +1706,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1715,6 +1716,7 @@ iutr.uozwys.top
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
+j.baminw.cn
 j.br.baidu.com
 j.ccnovel.com
 j.chaorenjiaoshi.com
@@ -1891,6 +1893,7 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
+kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1980,7 +1983,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2143,6 +2145,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2562,7 +2565,6 @@ prc.rjje4.com
 pre.ra.icast.cn
 prerollads.ign.com
 proton.flurry.com
-ps.3fenge.com
 psblog.name
 psiphon.civisec.org
 ptdrw.com
@@ -2644,6 +2646,7 @@ rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
+recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2658,6 +2661,7 @@ rh.greenbetterkids.com
 richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
+rk.rongchengxxw.com
 rm.ra.icast.cn
 rmcxw.cn
 rmjdw132.info
@@ -2846,7 +2850,6 @@ sm.0.0.0.0.cn
 sm.toutiao.com
 sm1.todgo.com
 sm2.todgo.com
-snnnyy.com
 sobartop.baidu.com
 soft.chaomeng8.com
 softsmirror.cf
@@ -3086,6 +3089,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3462,6 +3466,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
