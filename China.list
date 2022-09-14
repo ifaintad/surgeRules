@@ -360,7 +360,6 @@ DOMAIN-SUFFIX,ovid.com
 DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordbibliographies.com
 DOMAIN-SUFFIX,oxfordmusiconline.com
-DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,paypal-mktg.com,DIRECT
 DOMAIN-SUFFIX,paypal.com,DIRECT
@@ -538,6 +537,7 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 DOMAIN-SUFFIX,zimuzu.io
+DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
