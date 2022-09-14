@@ -45,7 +45,8 @@ def get_raw_list(url, n_retries=5, token=None):
 
 
 try:
-    exclude_rules = get_raw_list(rulesets.EXCLUDE_RULES["url"], rulesets.EXCLUDE_RULES["token"])
+    exclude_rules = get_raw_list(rulesets.EXCLUDE_RULES["url"],
+                                 token=rulesets.EXCLUDE_RULES["token"])
 except Exception:
     exclude_rules = []
 
