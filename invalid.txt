@@ -20,11 +20,11 @@
 1.hnyouneng.com
 1.hslyqs.com
 1.jeasyui.net
-1.mgff.com
 1.panduoduo.net
 1.qtmojo.cn
 1.rengshu.com
 1.tulaoshi.com
+1.tuxi.com.cn
 1.win7china.com
 1.wps.cn
 1.xiaopin5.com
@@ -60,6 +60,7 @@
 2.heiyange.com
 2.mobixs.cn
 2.rengshu.com
+2.tuxi.com.cn
 2.win7china.com
 2012ui.com
 20150930.cf
@@ -106,8 +107,8 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -128,6 +129,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -164,7 +166,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -280,13 +281,11 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -349,9 +348,11 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
+ads1.lfengmobile.com
 ads2.opensubtitles.org
 adscdn.baidu.cn
 adsclick.yx.js.cn
@@ -372,6 +373,7 @@ advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
 adx.kat.ph
+adx.open-adx.com
 adytx.com
 adz.zwee.ly
 ae-gb.mgid.com
@@ -466,10 +468,10 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
+apk.idate520.com
 apk.supfast.net
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
@@ -492,7 +494,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -630,6 +631,7 @@ bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -693,6 +695,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -712,6 +715,7 @@ c.dokrmob.com
 c.dzytjqcc.com
 c.effectivemeasure.net
 c.guangtui1999.com
+c.gzsanxiaomingshi.cn
 c.idasui.cn
 c.iogous.com
 c.k429fma.com
@@ -843,6 +847,7 @@ cjhq.baidu.cn
 cjhq.baidu.com
 cjmooter.xcache.kinxcdn.com
 cl.d0z.net
+cl.he9630.com
 cleaner.baidu.com
 click-cn.plista.com
 click.cheshi-img.com
@@ -1157,6 +1162,7 @@ e.dzairen.com
 e.e70123.com
 e.ehxyz.com
 e.emgwq.com
+e.enjuk.com
 e.ennmt.com
 e.fbaix.com
 e.fbaot.com
@@ -1224,6 +1230,7 @@ e.nejup.com
 e.nfkos.com
 e.nmtouzi.com
 e.nnfiy.com
+e.nwxzs.com
 e.nxypz.com
 e.oesnw.com
 e.okfhn.com
@@ -1453,7 +1460,6 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
-gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1473,6 +1479,7 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
+gload.adhood.com
 gm682.com
 gma1.com
 gmhz.org
@@ -1527,6 +1534,7 @@ h.canmg.cn
 h.irs01.com
 h1.18sd.cn
 h2.18sd.cn
+h5.super-dreamers.com
 h5.taihao.cc
 h8.bec.com
 haitaoad.nosdn.127.net
@@ -1604,7 +1612,6 @@ hzsod71wov.me
 i.dreamfull.cn
 i.jyhwt.cn
 i.ma.social-touch.com
-i.syasn.com
 i.tansuotv.com
 i2.akjunshi.com
 i5.akjunshi.com
@@ -1797,7 +1804,6 @@ js.cncrk.com
 js.cnmo.com
 js.dkqapp.cn
 js.feitian001.com
-js.gewuwen.com
 js.hslyqs.com
 js.icast.cn
 js.jianbaimei.com
@@ -1853,7 +1859,6 @@ js9318.bllzgqbyp.com
 jsadt.com
 jskrnekewe.mofans.net
 jsnywl.kfi8.com
-json.gewuwen.com
 jspg.cc
 jssd.uumeitu.com
 jt.yunxiufang.net
@@ -1897,7 +1902,6 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1942,6 +1946,8 @@ legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
 leorockwell.com
+lg2.jointreport-switch.com
+lg4.jointreport-switch.com
 lhafy.com
 li.anyysz.com
 lib.haotv8.com
@@ -2004,6 +2010,7 @@ m.anmeilai.net
 m.aqiudaohang.com
 m.assigned.cn
 m.axsre.com
+m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
 m.bapkt.com
 m.bbvjs.com
@@ -2022,6 +2029,7 @@ m.chfuw.com
 m.cjieh.com
 m.ckikq.com
 m.codlw.com
+m.couas.com
 m.cqytjzgc.com
 m.ctsywy.com
 m.cuoas.com
@@ -2037,6 +2045,7 @@ m.dxmci.com
 m.efeiy.com
 m.ehxyz.com
 m.emgwq.com
+m.enjuk.com
 m.ennmt.com
 m.fbaix.com
 m.fbaot.com
@@ -2248,6 +2257,7 @@ maturejp.com
 maw.wnbfw.com
 mb.zam.com
 mcore.vcgame.cn
+md.he9630.com
 md.sh5e.com
 md0z4dh.com
 mdpjnppsbjv.bid
@@ -2259,7 +2269,6 @@ mediapro.pro.cn
 meiti1.net
 menghuanzs.com
 mengmengdas.com
-mepn.com
 mergersandinquisitions.org
 meripet.biz
 mg.5pk
@@ -2322,9 +2331,11 @@ ms.cmcm.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
+ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -2397,6 +2408,7 @@ nighost.org
 ninth.biz
 niwd.zhybw88.com
 njs.imagicskin.com
+njs.myyage.com
 njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
@@ -2514,6 +2526,7 @@ pegasus.cmcm.com
 pei-ads.playboy.com
 pf.h5game.cn
 pfd.org.hk
+photo.dhford.cn
 photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
@@ -2564,7 +2577,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2631,12 +2643,12 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
 qzdfc.com
 r.0.0.0.0.cn
+r.5207470.com
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
@@ -2653,6 +2665,7 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rc.mgwcn.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2684,6 +2697,7 @@ rpaulfrank.com
 rplog.baidu.com
 rqgsf.com
 rs1.rensheng5.com
+rsas.szzek.com
 rtb-p.kejet.net
 rtb.eanalyzer.de
 rtb.metrigo.com
@@ -2698,6 +2712,7 @@ s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
 s.5jjx.net
+s.652748.com
 s.baidu.com
 s.bmgan.com
 s.caduka.cn
@@ -2718,6 +2733,7 @@ s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
 s.meimeidaren.com
+s.okmgy.cn
 s.phpwind.com
 s.qd.qingting.fm
 s.qd.qingtingfm.com
@@ -2759,6 +2775,7 @@ s5.keydot.net
 s8.dnaxddnc.com
 s8forum.com
 sa.hao123.com
+safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 saferwet.com
 same.chinadaily.com.cn
@@ -2957,7 +2974,6 @@ syilm.net
 sykty.com
 sync.fastclick.net
 sync.teamrtb.net
-sync2.audtd.com
 syndication-o.twitter.com
 syofew6o.net
 sytz1288.com
@@ -3009,6 +3025,7 @@ teen.77rog.com
 terren.cntv.cn
 test.eduancm.com
 test.ott.youku.com
+tf.hdfdm.com
 tf.hftaili.com
 tg.1155t.cn
 tg.52digua.com
@@ -3186,6 +3203,7 @@ vip.id528.com
 vip.jindu179.com
 vip.mall044.com
 vip.pinghuhome.com
+vip.zhuba8.com
 vista.tgbus.com
 vista.tgbusdata.cn
 vj.x-ssp.com
@@ -3309,7 +3327,7 @@ wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
-www.lamenhu.com
+www.monlamit.org
 www.oxid.it
 www.wangruowang.org
 www9.effectivemeasure.net
@@ -3319,6 +3337,7 @@ wwww.640640.com
 wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
+wxtz.houmags.com
 wxwm1.ikuailian.com
 wxwm2.ikuailian.com
 wy.ce22d.cn
@@ -3420,7 +3439,6 @@ ydlnt.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
-yeyeclub.com
 yfycy.com
 ygyzx.cn
 yhtcd.com
