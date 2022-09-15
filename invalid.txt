@@ -5,7 +5,6 @@
 01daa.lutgh.com
 01daa.luvbr.com
 01daa.luytr.com
-0592weixin.com
 0594003.com
 0756sjlm.com.cn
 09mk.cn
@@ -106,7 +105,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -164,6 +162,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -215,6 +214,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -278,11 +278,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -346,6 +348,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -463,6 +466,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -472,7 +476,6 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -593,7 +596,6 @@ bc.geocities.yahoo.co.jp
 bcjjg.bugsevent.com
 bcjxf.bugsevent.com
 bd.ershenghuo.com
-bd.soarfi.cn
 bd.wayqq.cn
 bd1.52che.com
 bd1.fengdu100.com
@@ -624,7 +626,6 @@ bdjs1.ixiumei.com
 bdlm1.hc360.com
 bdlncs1.familydoctor.com.cn
 bds.hainan.net
-bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
 beacon.qq.com
@@ -691,7 +692,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -1011,7 +1011,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1291,7 +1290,6 @@ e.zhuyuanp.top
 e.zunss.com
 e701.net
 e704.net
-e719.net
 eclick.baidu.cn
 ecsm.vs.com
 ed.aijielang.cn
@@ -1452,6 +1450,7 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
+gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1714,9 +1713,9 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pcauto.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
+izaobao.us
 j.6avz.com
 j.br.baidu.com
 j.ccnovel.com
@@ -1879,6 +1878,7 @@ keontech.net
 ker.pic2pic.site
 kermit.macnn.com
 keryt.jnservo.com
+keyyou.net
 kgcjgsa8.net
 khmusic.com.tw
 kho3au7l4z.me
@@ -1919,8 +1919,6 @@ l.minisplat.cn
 l.mnjkw.cn
 l.supfast.net
 l.youku.com
-l1.soarfi.cn
-l2.soarfi.cn
 l9bdhcgihw.neihanw.com
 lajizhan.org
 langjiyisheng.com
@@ -1982,7 +1980,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2373,7 +2370,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news.cxxtv.com
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2625,6 +2621,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2647,9 +2644,11 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
+recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2903,7 +2902,6 @@ ssp.thescenseproject.com
 ssp1.dmpdsp.com
 sss.camp
 sss.sege.xxx
-sss.soarfi.cn
 sss.zbred.com
 sstc360.com
 st.holaworld.cn
@@ -3093,6 +3091,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3103,7 +3102,6 @@ ukeiae.com
 ulic.baidu.com
 um.hd.sohu.com
 un.52rkl.cn
-un.soarfi.cn
 un.winasdaq.com
 undm.qibulo.com
 unicast.msn.com
@@ -3114,7 +3112,6 @@ union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
