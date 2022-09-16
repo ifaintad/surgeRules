@@ -104,6 +104,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 52lubo.cn
 58.xgo.com.cn
 5814889.com
@@ -162,7 +163,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -278,13 +278,11 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -348,7 +346,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -365,7 +362,6 @@ adstil.indiatimes.com
 adstream.123.sogoucdn.com
 adsys.chinacloudapp.cn
 adtrk.me
-aduu.cn
 adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
@@ -459,14 +455,12 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
-api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -493,6 +487,8 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -692,6 +688,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -856,7 +853,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1011,6 +1007,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1450,7 +1447,6 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
-gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1713,6 +1709,7 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1862,6 +1859,7 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
+jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -1878,7 +1876,6 @@ keontech.net
 ker.pic2pic.site
 kermit.macnn.com
 keryt.jnservo.com
-keyyou.net
 kgcjgsa8.net
 khmusic.com.tw
 kho3au7l4z.me
@@ -1893,6 +1890,7 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
+kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1980,6 +1978,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2594,7 +2593,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2621,7 +2619,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2644,11 +2641,9 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
-recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 res.cocounion.com
@@ -2885,6 +2880,7 @@ ss.subo.me
 ss.swagger1.com
 ss.sysad.cn
 ss.sysadult.cn
+sscefsol.com
 sscefsol.com.cn
 ssh.hxlif.com
 ssh.jsyzw132.com
@@ -3091,7 +3087,6 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3300,7 +3295,6 @@ wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
-www.monlamit.org
 www.oxid.it
 www.wangruowang.org
 www9.effectivemeasure.net
