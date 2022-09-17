@@ -104,7 +104,6 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
 58.xgo.com.cn
 5814889.com
@@ -126,7 +125,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -163,6 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -346,6 +345,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -470,6 +470,7 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -487,8 +488,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -510,6 +509,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -778,7 +778,6 @@ cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
 ccbaihehq.com
-cdgxq.com
 cdhoc.piyaji.cn
 cdn.5bong.com
 cdn.aiclicash.com
@@ -1111,6 +1110,7 @@ dyb.jdcbuy.com
 dz2017.zdzxyplyt.com
 dzisou.com
 dzl.baidu.com
+e-gold.com
 e-traderland.net
 e.0.0.0.0.cn
 e.0.0.0.0.com.cn
@@ -1701,7 +1701,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1709,7 +1708,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1859,7 +1857,6 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
-jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -1890,7 +1887,6 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -2274,7 +2270,6 @@ mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
-mist.vip
 mitao.com.tw
 miui.hftaili.com
 mjs.csyymp4.com
@@ -2593,6 +2588,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2760,7 +2756,6 @@ savebt.net
 sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
-say2.info
 sb88b.com
 sc.58mingtian.cn
 sc.chinaiiss.com
@@ -2800,7 +2795,6 @@ shanglinli.com
 shangz99991.com
 share.gzdsw.com
 sharpdaily.com.hk
-sharrysweb.com
 shbywsd.cn
 shenghuo.xiaomi.com
 shenyian.net
@@ -3025,7 +3019,6 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 total.xinmin.cn
-toutiao.2haha.com
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
@@ -3234,6 +3227,7 @@ wezhiyong.org
 wha.la
 whn.star-media.cn
 whodns.xyz
+whu.cwpush.com
 widget.crowdignite.com
 widget.directory.dailycommercial.com
 widget.kelkoo.com
@@ -3460,6 +3454,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
