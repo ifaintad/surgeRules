@@ -8,4 +8,5 @@ jobs:
 
     steps:
       - name: Update profiles on running instance
+        run: |
           curl -XPOST -H "Authorization: Token ${{ secrets.SBC_INSTANCE_TOKEN }}" -H "Content-Type: application/json" ${{ secrets.SBC_INSTANCE_URL }}/api/v1/update-all-profiles
