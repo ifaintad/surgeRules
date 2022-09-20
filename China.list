@@ -468,7 +468,6 @@ DOMAIN-SUFFIX,tmzvps.com
 DOMAIN-SUFFIX,tophub.today
 DOMAIN-SUFFIX,toutiao.com,DIRECT
 DOMAIN-SUFFIX,trellocdn.com
-DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,udacity.com,DIRECT
@@ -537,6 +536,7 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 DOMAIN-SUFFIX,zimuzu.io
+DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com

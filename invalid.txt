@@ -162,7 +162,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -214,7 +213,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -278,6 +276,7 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
@@ -344,6 +343,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -459,6 +459,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -485,9 +486,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.community
-appleone.film
-appleone.guide
+appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -688,7 +687,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -848,6 +846,7 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
+clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -982,7 +981,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1517,6 +1515,7 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
+gvt0.com
 gx38.cn
 gyca9f.dahuangcheng.cn
 gz00005.top
@@ -1569,7 +1568,6 @@ hkgreenradio.org
 hkhrm.org.hk
 hkupop.hku.hk
 hm.baidu.cn
-hm.baidu.com
 hmma.baidu.cn
 hmp33.com
 hnctsm.com
@@ -1706,7 +1704,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1863,7 +1860,6 @@ junefourth-20.net
 justicefortenzin.org
 jwg365.cn
 jwqj.net
-jwz.3conline.com
 jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
@@ -2869,6 +2865,7 @@ spem.at
 sphwq.net
 sponsors.s2ki.com
 spproxy.autobytel.com
+spring4u.info
 spt.dictionary.com
 sqd.jstdjq.com
 srocket.us
@@ -2913,7 +2910,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3044,6 +3040,7 @@ tt3sm4.cn
 ttlm.cc
 ttlowe.com
 ttm.htfmbt.com
+ttmeiju.com
 tui.orzdream.com
 tuiguang.178.com
 tuisong.baidu.cn
@@ -3086,10 +3083,12 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
 uid.ksosoft.com
+uid.mdbchina.com
 ujikdd041o.cn
 uk3oi.adgze.cn
 ukeiae.com
@@ -3260,7 +3259,6 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3301,7 +3299,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3409,6 +3406,7 @@ yfycy.com
 ygyzx.cn
 yhtcd.com
 yidulive.net
+yieldmanager.com
 yingsuoss.com
 yinooo.com
 yinyuehu.cn
@@ -3461,7 +3459,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
