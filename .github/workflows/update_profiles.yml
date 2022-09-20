@@ -1,4 +1,4 @@
-name: Build V2Ray rules dat files
+name: Update profiles on instance
 on:
   workflow_dispatch:
 
