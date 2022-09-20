@@ -162,7 +162,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -212,7 +211,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
-a2.b310.com
 a2.huanqiumil.com
 a4.yeshj.com
 a5.yeshj.com
@@ -792,6 +790,7 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
+cdn.optaim.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
@@ -881,6 +880,7 @@ connect.summit.co.uk
 cookiemapping.wrating.com
 coolnay.com
 cooolyi.cn
+coop.pop.baofeng.com
 cop.my
 coro.benbaisteel.com
 corocksi.com
@@ -981,7 +981,6 @@ databank.air.yoyi.com.cn
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
-dc.xhct66.com
 dc2.csdn.net
 dcw.hdswgc.com
 dd.dante2007.com
@@ -1002,7 +1001,6 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
-delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.opera-mini.net
@@ -1112,7 +1110,6 @@ dyb.jdcbuy.com
 dz2017.zdzxyplyt.com
 dzisou.com
 dzl.baidu.com
-e-gold.com
 e-traderland.net
 e.0.0.0.0.cn
 e.0.0.0.0.com.cn
@@ -1174,7 +1171,6 @@ e.hk7799.net
 e.hkmqp.com
 e.hmhqp.com
 e.hpzyl.com
-e.huaas.com
 e.hunpp.com
 e.hyzui.com
 e.icyrd.com
@@ -1286,6 +1282,7 @@ e.yyjhf.com
 e.zhuyuanp.club
 e.zhuyuanp.shop
 e.zhuyuanp.top
+e.zjkdaikuan.com
 e.zunss.com
 e701.net
 e704.net
@@ -1652,7 +1649,6 @@ img.jizzads.com
 img.kanuxian.cn
 img.khlxw.com
 img.kuwanpx.com
-img.libdd.com
 img.meipic.net
 img.qdscgj.com
 img.qqgeshou.com
@@ -1704,7 +1700,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1712,11 +1707,11 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
 j.6avz.com
+j.baminw.cn
 j.br.baidu.com
 j.ccnovel.com
 j.chaorenjiaoshi.com
@@ -1979,7 +1974,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2032,6 +2026,7 @@ m.ennmt.com
 m.fbaix.com
 m.fbaot.com
 m.fcaot.com
+m.feirs.com
 m.fengwanwl.com
 m.fhxsw.org
 m.fimky.com
@@ -2143,6 +2138,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2307,7 +2303,6 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2504,6 +2499,7 @@ pegasus.cmcm.com
 pei-ads.playboy.com
 pf.h5game.cn
 pfd.org.hk
+photo.dhford.cn
 photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
@@ -2870,7 +2866,6 @@ spt.dictionary.com
 sqd.jstdjq.com
 srocket.us
 srv.thespacereporter.com
-ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3083,6 +3078,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3297,6 +3293,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3437,6 +3434,7 @@ yzh.jyjhkz.com
 yzytb.com
 z.clickvip.shop
 z2.lnymd.com
+zads.care2.com
 zb.nxing.cn
 zbz.m.qxs.la
 zdjby.cn
