@@ -1,0 +1,11 @@
+name: Build V2Ray rules dat files
+on:
+  workflow_dispatch:
+
+jobs:
+  update_profiles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update profiles on running instance
+          curl -XPOST -H "Authorization: Token ${{ secrets.SBC_INSTANCE_TOKEN }}" -H "Content-Type: application/json" ${{ secrets.SBC_INSTANCE_URL }}/api/v1/update-all-profiles
