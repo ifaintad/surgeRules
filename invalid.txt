@@ -104,7 +104,6 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
 58.xgo.com.cn
 5814889.com
@@ -126,6 +125,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -162,13 +162,13 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
 a-dxk.play.api.3g.youku.com
 a.198banjia.com
 a.53yao.com
+a.5ykj.com
 a.armystar.com
 a.baidu.cn
 a.baomihua.com
@@ -213,6 +213,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -276,7 +277,6 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
@@ -343,7 +343,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -459,7 +458,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -486,7 +484,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -668,7 +665,6 @@ blogspot.cat
 blogtd.net
 bmfinn.com
 bmg.wnbfw.com
-bmw2ep.paomifen.cn
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
@@ -794,6 +790,7 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
+cdn.optaim.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
@@ -846,7 +843,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -1405,6 +1401,7 @@ freechinaforum.org
 freekwonpyong.org
 ft.pnop.com
 fuckcnnic.net
+fujianryt.com
 fun.ynet.com
 funf.tw
 funshion.net.cn
@@ -1483,6 +1480,7 @@ goagent.codeplex.com
 godns.work
 gog9.qzdfc.com
 golden1.sohu.com
+goldstep.net
 gongmeng.info
 gongminliliang.com
 good.ta80.com
@@ -1515,7 +1513,6 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
-gvt0.com
 gx38.cn
 gyca9f.dahuangcheng.cn
 gz00005.top
@@ -1977,7 +1974,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2493,7 +2489,6 @@ pb.wang502.com
 pbs.lenovomm.com
 pc.107788.com
 pc.ctsywy.com
-pc.quansj.cn
 pcauto.irs01.com
 pd.sogou.com
 peace.ca
@@ -2644,6 +2639,7 @@ rd.e.sogou.com
 rdiqt.cn
 red.bayimg.net
 regist.fotoable.com
+remotedu.cn
 res.cocounion.com
 res.dxpmedia.com
 res.icast.cn
@@ -2965,6 +2961,7 @@ t2.vbxx.net
 t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
+taiwanjustice.com
 tamiaode.tk
 tangoutianxia.com
 tanxlog.istreamsche.com
@@ -3040,7 +3037,6 @@ tt3sm4.cn
 ttlm.cc
 ttlowe.com
 ttm.htfmbt.com
-ttmeiju.com
 tui.orzdream.com
 tuiguang.178.com
 tuisong.baidu.cn
@@ -3083,12 +3079,10 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
 uid.ksosoft.com
-uid.mdbchina.com
 ujikdd041o.cn
 uk3oi.adgze.cn
 ukeiae.com
@@ -3299,6 +3293,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3406,7 +3401,6 @@ yfycy.com
 ygyzx.cn
 yhtcd.com
 yidulive.net
-yieldmanager.com
 yingsuoss.com
 yinooo.com
 yinyuehu.cn
