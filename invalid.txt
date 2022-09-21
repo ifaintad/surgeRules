@@ -105,6 +105,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -162,6 +163,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -213,7 +215,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -343,6 +344,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -484,6 +486,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -790,7 +793,6 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
-cdn.optaim.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
@@ -843,6 +845,7 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
+clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -1051,6 +1054,7 @@ dm.riji.cn
 dm.sanwen.net
 dm.sanwen8.com
 dm.sb580.com
+dm.ws8.org
 dm.yjbys.com
 dm1.tom61.com
 dm50.yxlady.com
@@ -1466,6 +1470,7 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
+gload.adhood.com
 gm682.com
 gma1.com
 gmhz.org
@@ -1701,6 +1706,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1708,6 +1714,8 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pcauto.com.cn
+ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1749,6 +1757,7 @@ jdg.bjygfd.com
 jdlcg.cn
 jdlhg.com
 jfhe.0769371.com
+jfm4.pop.baofeng.net
 jfqu36.club
 jfqu37.xyz
 jhakie.com
@@ -1775,6 +1784,7 @@ johtzj.com
 joinmva.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
@@ -2047,7 +2057,6 @@ m.gglay.com
 m.gtiou.com
 m.gtnde.com
 m.guaas.com
-m.guifei99.com
 m.gwdqp.com
 m.gxkyl.com
 m.haowj.com.cn
@@ -2866,6 +2875,7 @@ spt.dictionary.com
 sqd.jstdjq.com
 srocket.us
 srv.thespacereporter.com
+ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3213,6 +3223,7 @@ wda.ydt.com.cn
 wdf5.com
 wdgsl.com
 wdzsb.com.cn
+web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
@@ -3453,6 +3464,7 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
+zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
