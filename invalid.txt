@@ -40,7 +40,6 @@
 127.in-addr.arpa
 13023.url.7wkw.com
 138138138.top
-138lm.com
 142904.com
 163.wrating.com
 176um.com
@@ -105,7 +104,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -163,7 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -173,7 +171,6 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
-a.baomihua.com
 a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
@@ -486,7 +483,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -557,6 +553,7 @@ b9377h.com
 b99u.top
 ba.fqzds.com
 bad1.51gxqm.com
+badao37.net
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
@@ -591,6 +588,7 @@ bc.geocities.yahoo.co.jp
 bcjjg.bugsevent.com
 bcjxf.bugsevent.com
 bd.ershenghuo.com
+bd.gow100.com
 bd.wayqq.cn
 bd1.52che.com
 bd1.fengdu100.com
@@ -623,7 +621,6 @@ bdlncs1.familydoctor.com.cn
 bds.hainan.net
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -686,6 +683,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -845,7 +843,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -1054,7 +1051,6 @@ dm.riji.cn
 dm.sanwen.net
 dm.sanwen8.com
 dm.sb580.com
-dm.ws8.org
 dm.yjbys.com
 dm1.tom61.com
 dm50.yxlady.com
@@ -1174,6 +1170,7 @@ e.hk7799.net
 e.hkmqp.com
 e.hmhqp.com
 e.hpzyl.com
+e.huaas.com
 e.hunpp.com
 e.hyzui.com
 e.icyrd.com
@@ -1411,6 +1408,7 @@ funf.tw
 funshion.net.cn
 futuremessage.org
 fxc.aiquxs.com
+fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
@@ -1470,7 +1468,6 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 gm682.com
 gma1.com
 gmhz.org
@@ -1714,8 +1711,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pcauto.com.cn
-ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1784,7 +1779,6 @@ johtzj.com
 joinmva.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
@@ -1924,6 +1918,7 @@ l.mnjkw.cn
 l.supfast.net
 l.youku.com
 l9bdhcgihw.neihanw.com
+laigame7.com
 lajizhan.org
 langjiyisheng.com
 lanterncn.cn
@@ -1973,6 +1968,7 @@ lsxmg.com
 ltheanine.cn
 lthxz.cn
 lubosheng.cn
+lucting.cn
 lw2.gamecopyworld.com
 lwnne.cn
 lyjk.1391.com
@@ -2057,6 +2053,7 @@ m.gglay.com
 m.gtiou.com
 m.gtnde.com
 m.guaas.com
+m.guifei99.com
 m.gwdqp.com
 m.gxkyl.com
 m.haowj.com.cn
@@ -2147,7 +2144,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2373,6 +2369,7 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
+news.cxxtv.com
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2655,7 +2652,6 @@ res.icast.cn
 res.limei.com
 res3.feedsportal.com
 resetgey.com
-resource.baomihua.com
 ret.xinlongrubber.com
 rh.greenbetterkids.com
 richmedia.yimg.com
@@ -2800,7 +2796,6 @@ shadowsocks9.com
 shangfang.org
 shanghaironghua.com
 shanglinli.com
-shangz99991.com
 share.gzdsw.com
 sharpdaily.com.hk
 shbywsd.cn
@@ -2875,7 +2870,6 @@ spt.dictionary.com
 sqd.jstdjq.com
 srocket.us
 srv.thespacereporter.com
-ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3207,7 +3201,6 @@ wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
 wap.114so.cn
-wap.138lm.com
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
@@ -3223,7 +3216,6 @@ wda.ydt.com.cn
 wdf5.com
 wdgsl.com
 wdzsb.com.cn
-web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
@@ -3304,7 +3296,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
