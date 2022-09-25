@@ -104,6 +104,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -124,6 +125,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -160,7 +162,7 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -193,7 +195,6 @@ a.lwinl.com
 a.market.xiaomi.com
 a.nanhuwang.com
 a.qinghua5.com
-a.shangz99991.com
 a.shenchuang.com
 a.shuoshuodaquan.net
 a.soonyou123.com
@@ -212,7 +213,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -342,7 +342,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -484,7 +483,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -623,7 +621,6 @@ bdlncs1.familydoctor.com.cn
 bds.hainan.net
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -637,7 +634,6 @@ biantailajiao.in
 bic2011.org
 bigbos.top
 bigboy.eurogamer.net
-bing135.com
 biq.keefung-zs.com
 bitc.bme.emory.edu
 bitinka.com.ar
@@ -852,7 +848,6 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -893,7 +888,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -998,6 +992,8 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.cp61.ott.cibntv.net
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1381,7 +1377,6 @@ file.bmob.cn
 filmy.olabloga.pl
 finding.hardwareheaven.com
 findnsave.idahostatesman.com
-finead.cn
 fips.uimserv.net
 fjkst.com
 flash.2144.com
@@ -1504,7 +1499,6 @@ goupaoerdai.com
 gouzhibao.cn
 govids.net
 gpydym.cn
-gqswg.com
 great-firewall.com
 great-roc.org
 greatroc.tw
@@ -1709,6 +1703,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1716,11 +1711,11 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pclady.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
 j.6avz.com
+j.baminw.cn
 j.br.baidu.com
 j.ccnovel.com
 j.chaorenjiaoshi.com
@@ -1893,6 +1888,7 @@ kissbbao.cn
 kn.aishake.cn
 kn.barnfps.com
 kn.chapnap.com
+kn.chgdf.cn
 kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
@@ -1971,7 +1967,6 @@ lp.jiuzhilan.com
 ls.webmd.com
 lsxmg.com
 ltheanine.cn
-lthxz.cn
 lubosheng.cn
 lucting.cn
 lw2.gamecopyworld.com
@@ -1985,6 +1980,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2170,7 +2166,6 @@ m.tiojk.com
 m.tuopp.com
 m.twldmx.com
 m.txtxr.com
-m.vaxyz.com
 m.vbaou.com
 m.vbinu.com
 m.verpt.com
@@ -2314,7 +2309,6 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2598,6 +2592,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2854,7 +2849,6 @@ soft.chaomeng8.com
 softsmirror.cf
 sohu.irs01.com
 sohu.wrating.com
-somennew.com
 sonicbbs.cc
 sonomoyo.com
 sorazone.net
@@ -2915,7 +2909,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2990,7 +2983,6 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
-tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3014,6 +3006,7 @@ thxnr.com
 thyvjboy.com
 thywords.com.tw
 tiangoutai.com
+tianqi777.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
@@ -3463,7 +3456,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
