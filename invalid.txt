@@ -104,6 +104,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -160,7 +161,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -249,6 +249,7 @@ ad-gb.mgid.com
 ad.1111cpc.com
 ad.17173.com
 ad.accessmediaproductions.com
+ad.adhouyi.cn
 ad.bjmama.net
 ad.cmvideo.cn
 ad.crichd.in
@@ -274,11 +275,13 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
+ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -456,6 +459,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -482,7 +486,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -517,7 +520,6 @@ aswgbzsw.xingtangshuo.com
 aswl.d3kdh34.pw
 aswl.dfs3e4.pw
 aswlx.cn
-atas.io
 atm.cp31.ott.cibntv.net
 atm.sina.com
 atm.youku.com
@@ -668,6 +670,7 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -889,6 +892,7 @@ cosmic.monar.ch
 cosoyoo.com
 couchcoaster.jp
 count.game.pps.tv
+count6.pconline.com.cn
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
@@ -1006,13 +1010,11 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
 dh54wf.xyz
-dhxyzx.cn
 diaojiaoji168.com
 diaopic.14bobo.com
 difnxm.cn
@@ -1452,6 +1454,7 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
+gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1696,7 +1699,6 @@ inskin.vo.llnwd.net
 install2.kugou.com
 inte.sohu.com
 international-news.newsmagazine.asia
-internetpopculture.com
 ioc.mmakd.top
 ip.hivps.xyz
 ip2.pxene.com
@@ -1866,6 +1868,7 @@ jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
 jzm81.com
+k-doujin.net
 k.85wa.cn
 k.ctsywy.com
 k1w5.me
@@ -1893,6 +1896,7 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
+kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1980,11 +1984,11 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
+m.52tushuo.com
 m.551144.com
 m.640640.com
 m.7180443.com
@@ -2327,7 +2331,6 @@ mtty-cdn.mtty.xin
 mtw.tl
 mtxsk.com
 mubite.cn
-musicade.net
 mwa.xingyimin.com
 mwlucuvbyrff.com
 mx.hao123.com
@@ -2382,6 +2385,7 @@ newspeak.cc
 nex.corp.163.com
 nextcps.com
 nfh.cnshef.com
+ngodupdongchung.com
 nic.cz.cc
 nighost.org
 ninth.biz
@@ -2503,7 +2507,6 @@ pearlher.org
 pegasus.cmcm.com
 pei-ads.playboy.com
 pf.h5game.cn
-pfd.org.hk
 photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
@@ -2535,7 +2538,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingbi.diudou.com
-pixiu.shangshufang.ksosoft.com
 pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
@@ -2593,6 +2595,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2618,7 +2621,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2777,6 +2779,7 @@ sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
 sdn.penggua.com.cn
 sdownload.stargame.com
+searchignited.com
 sebar.thand.info
 secure-chn.imrworldwide.com
 secure.img-cdn.mediaplex.com
@@ -3115,7 +3118,6 @@ uqszvk.code.weddingeeos.com
 uqum.52shouyou.com.cn
 uranus.sohu.com
 urh.tylll.com
-urhu.cn
 url.222bz.com
 urlet.cn
 urls.api.twitter.com
@@ -3259,6 +3261,7 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
+worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3457,7 +3460,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
