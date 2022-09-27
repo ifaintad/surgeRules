@@ -104,7 +104,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -125,6 +124,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -161,6 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -211,6 +212,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -275,13 +277,11 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.outsidehub.com
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
 ad.proxy.sh
 ad.rambler.ru
-ad.reachlocal.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
 ad.shuoshuomi.com
@@ -291,6 +291,7 @@ ad.spielothek.so
 ad.stsywl.com
 ad.test.ximalaya.com
 ad.thepaper.cn
+ad.userporn.com
 ad.vidaroo.com
 ad.vryeye.com
 ad.walkgame.com
@@ -320,6 +321,7 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
+adimg.cqnews.net
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -343,7 +345,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -365,6 +366,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -459,7 +461,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -486,6 +487,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -507,6 +509,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -670,7 +673,6 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -686,7 +688,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -1010,6 +1011,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1230,6 +1232,7 @@ e.oyrim.com
 e.pbino.com
 e.picbr.com
 e.pomkl.com
+e.puooi.com
 e.pwjhg.com
 e.pyerc.com
 e.qiaoyuwang.com
@@ -1252,6 +1255,7 @@ e.tick0.com
 e.tiojk.com
 e.tuoaa.com
 e.ueram.com
+e.uissm.com
 e.v02u9.cn
 e.vaxyz.com
 e.vbaiu.com
@@ -1270,6 +1274,7 @@ e.xikdn.com
 e.xlsschina15.net
 e.xmgysweb.com
 e.xpjis.com
+e.xxkio.com
 e.yageben.com
 e.yangjingbang.net
 e.yidulive.net
@@ -1329,6 +1334,7 @@ exp.qumi.com
 ext.theglobalweb.com
 extmoney.i1608.com
 extstat.com
+eyouv.cn
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
@@ -1535,6 +1541,7 @@ haitaoad.nosdn.127.net
 haiwai-ic.ksosoft.com
 haiwengji.net
 hanju18.net
+hanunyi.com
 hao123rt.com
 hbdt.luomi.com
 hbngfy.com
@@ -1706,7 +1713,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1896,7 +1902,6 @@ kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
 kn.nykps.com
-kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
@@ -1984,6 +1989,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2135,6 +2141,7 @@ m.plixi.com
 m.pomkl.com
 m.pougg.com
 m.prazpf.cn
+m.puooi.com
 m.pwjhg.com
 m.pyerc.com
 m.qcw.com
@@ -2149,7 +2156,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2170,6 +2176,7 @@ m.tiojk.com
 m.tuopp.com
 m.twldmx.com
 m.txtxr.com
+m.uissm.com
 m.vbaou.com
 m.vbinu.com
 m.verpt.com
@@ -2196,6 +2203,7 @@ m.xikdn.com
 m.xkqpco.com
 m.xlsschina15.net
 m.xpjis.com
+m.xxkio.com
 m.yangjingbang.net
 m.yingchengtou.com
 m.ynnke.com
@@ -2373,6 +2381,7 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
+news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2499,6 +2508,7 @@ pb.wang502.com
 pbs.lenovomm.com
 pc.107788.com
 pc.ctsywy.com
+pc.uf.ksosoft.com
 pcauto.irs01.com
 pd.sogou.com
 peace.ca
@@ -2512,6 +2522,7 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
+phpad.cqnews.net
 pic.14bobo.com
 pic.2u.com.cn
 pic.adver.com.tw
@@ -2595,7 +2606,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2829,6 +2839,7 @@ sifuhu.cn
 sifuji.cn
 sifuka.cn
 sigbusa.com
+simba.6.cn
 sina.wrating.com
 sina.yinstar.org
 sinaaliyun.cn
@@ -3261,7 +3272,6 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3464,6 +3474,7 @@ zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
 zlne800.com
+zlsw.nnjxqd.com
 zmj.guanqinjie.cn
 zmlled.cn
 znsv.baidu.cn
