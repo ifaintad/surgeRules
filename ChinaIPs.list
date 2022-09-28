@@ -567,15 +567,10 @@ IP-ASN,208577,no-resolve
 IP-ASN,208679,no-resolve
 IP-ASN,209100,no-resolve
 IP-ASN,210041,no-resolve
-IP-ASN,210320,no-resolve
-IP-ASN,210426,no-resolve
-IP-ASN,210714,no-resolve
 IP-ASN,210903,no-resolve
-IP-ASN,210934,no-resolve
 IP-ASN,211481,no-resolve
 IP-ASN,211843,no-resolve
 IP-ASN,212237,no-resolve
-IP-ASN,212292,no-resolve
 IP-ASN,23650,no-resolve
 IP-ASN,23724,no-resolve
 IP-ASN,23771,no-resolve
@@ -646,7 +641,6 @@ IP-ASN,24430,no-resolve
 IP-ASN,24444,no-resolve
 IP-ASN,24445,no-resolve
 IP-ASN,24489,no-resolve
-IP-ASN,24490,no-resolve
 IP-ASN,24495,no-resolve
 IP-ASN,24547,no-resolve
 IP-ASN,24575,no-resolve
@@ -690,7 +684,6 @@ IP-ASN,38379,no-resolve
 IP-ASN,38380,no-resolve
 IP-ASN,38381,no-resolve
 IP-ASN,38439,no-resolve
-IP-ASN,38564,no-resolve
 IP-ASN,38587,no-resolve
 IP-ASN,38834,no-resolve
 IP-ASN,4134,no-resolve
@@ -736,7 +729,6 @@ IP-ASN,49953,no-resolve
 IP-ASN,55439,no-resolve
 IP-ASN,55461,no-resolve
 IP-ASN,55468,no-resolve
-IP-ASN,55515,no-resolve
 IP-ASN,55641,no-resolve
 IP-ASN,55786,no-resolve
 IP-ASN,55826,no-resolve
@@ -4968,8 +4960,7 @@ IP-CIDR,203.119.128.0/17,no-resolve
 IP-CIDR,203.119.24.0/22,no-resolve
 IP-CIDR,203.119.28.0/23,no-resolve
 IP-CIDR,203.119.30.0/24,no-resolve
-IP-CIDR,203.119.32.0/24,no-resolve
-IP-CIDR,203.119.34.0/23,no-resolve
+IP-CIDR,203.119.32.0/22,no-resolve
 IP-CIDR,203.119.80.0/22,no-resolve
 IP-CIDR,203.119.85.0/24,no-resolve
 IP-CIDR,203.12.100.0/23,no-resolve
