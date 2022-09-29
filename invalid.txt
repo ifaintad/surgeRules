@@ -102,6 +102,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -143,6 +144,7 @@
 85655095.com
 8800271.com.cn
 88210212.com
+888.izhufu.net
 888.jiuwanwang.com
 88818122.cn
 888zr022.com
@@ -159,7 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -343,8 +345,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -460,6 +462,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -486,7 +489,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -577,7 +579,6 @@ banners.beevpn.com
 banners.beted.com
 banners.expressindia.com
 base.filedot.xyz
-bax.xiawu.com
 bb.tuku.cc
 bb1429.com
 bbcc.yxlady.com
@@ -626,7 +627,6 @@ bdlncs1.familydoctor.com.cn
 bds.hainan.net
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
-beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -724,7 +724,6 @@ c.piliangzhuce.cn
 c.ptffw.net
 c.queene.cn
 c.shunlige.com
-c.sss1989.com
 c.start280.com
 c.statstat888.com
 c.t98u8f.com
@@ -982,14 +981,12 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
 dc2.csdn.net
 dcw.hdswgc.com
 dd.dante2007.com
-dd.iaskgo.com
 dd.mangofortune.net
 dd.sina.com.cn
 dd.wx16999.com
@@ -1056,7 +1053,6 @@ dm.riji.cn
 dm.sanwen.net
 dm.sanwen8.com
 dm.sb580.com
-dm.ws8.org
 dm.yjbys.com
 dm1.tom61.com
 dm50.jkyd.net
@@ -1462,6 +1458,7 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
+gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1714,6 +1711,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1721,7 +1719,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1919,7 +1916,6 @@ ktv0311.com
 kuaipai666.cn
 kualianyingxiao.cn
 kukuku.uk
-kuyic.m.gxwztv.com
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
@@ -1982,6 +1978,7 @@ lubosheng.cn
 lucting.cn
 lw2.gamecopyworld.com
 lwnne.cn
+lxqcgj.com
 lyjk.1391.com
 lyrymy.com
 lz.chaelc.com
@@ -1991,6 +1988,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2382,7 +2380,6 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
-new.yokaunion.com
 new.zhqiu.com
 news-imgpb.51y5.net
 news.s9377.com
@@ -2550,6 +2547,7 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingbi.diudou.com
+pixiu.shangshufang.ksosoft.com
 pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
@@ -2627,6 +2625,7 @@ qoiusky.com
 qp.yunanfuwuqi.com
 qq.guansenff.cn
 qq.irs01.com
+qq.tapiche.cn
 qt002x.corp.youdao.com
 qtmojo.cn
 qtweeter.com
@@ -2702,6 +2701,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.cr-nielsen.com
@@ -3097,6 +3097,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
