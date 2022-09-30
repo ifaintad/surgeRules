@@ -101,8 +101,8 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -144,12 +144,12 @@
 85655095.com
 8800271.com.cn
 88210212.com
-888.izhufu.net
 888.jiuwanwang.com
 88818122.cn
 888zr022.com
 88cncc.com
 88shu.cn
+89-64.org
 8hykthze.cricket
 8jd2lfsq.me
 8z1.net
@@ -162,6 +162,7 @@
 95105012.com
 9565365.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -345,7 +346,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -489,6 +489,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -524,6 +525,7 @@ aswgbzsw.xingtangshuo.com
 aswl.d3kdh34.pw
 aswl.dfs3e4.pw
 aswlx.cn
+athena.wan.sogou.com
 atm.cp31.ott.cibntv.net
 atm.sina.com
 atm.youku.com
@@ -627,6 +629,7 @@ bdlncs1.familydoctor.com.cn
 bds.hainan.net
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -1008,7 +1011,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1035,6 +1037,7 @@ dl.g.youku.com
 dl.img80.net
 dl.nx5.com
 dl.sybspools.com
+dl.wan.sogoucdn.com
 dl.youjia2016.com
 dl1sw.baidu.com
 dload.qd.qingting.fm
@@ -1229,7 +1232,6 @@ e.oyrim.com
 e.pbino.com
 e.picbr.com
 e.pomkl.com
-e.puooi.com
 e.pwjhg.com
 e.pyerc.com
 e.qiaoyuwang.com
@@ -1252,7 +1254,6 @@ e.tick0.com
 e.tiojk.com
 e.tuoaa.com
 e.ueram.com
-e.uissm.com
 e.v02u9.cn
 e.vaxyz.com
 e.vbaiu.com
@@ -1271,7 +1272,6 @@ e.xikdn.com
 e.xlsschina15.net
 e.xmgysweb.com
 e.xpjis.com
-e.xxkio.com
 e.yageben.com
 e.yangjingbang.net
 e.yidulive.net
@@ -1988,7 +1988,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2140,7 +2139,6 @@ m.plixi.com
 m.pomkl.com
 m.pougg.com
 m.prazpf.cn
-m.puooi.com
 m.pwjhg.com
 m.pyerc.com
 m.qcw.com
@@ -2176,7 +2174,6 @@ m.tiojk.com
 m.tuopp.com
 m.twldmx.com
 m.txtxr.com
-m.uissm.com
 m.vbaou.com
 m.vbinu.com
 m.verpt.com
@@ -2203,7 +2200,6 @@ m.xikdn.com
 m.xkqpco.com
 m.xlsschina15.net
 m.xpjis.com
-m.xxkio.com
 m.yangjingbang.net
 m.yingchengtou.com
 m.ynnke.com
@@ -2457,6 +2453,7 @@ oomyv.com
 opendn.xyz
 openervpn.in
 openstorage.ad.cmvideo.cn
+orn.jp
 orz.hupu.com
 otf.msn.com
 otnd.org
@@ -2547,7 +2544,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingbi.diudou.com
-pixiu.shangshufang.ksosoft.com
 pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
@@ -2588,7 +2584,6 @@ publish.ad.youth.cn
 pubs.hiddennetwork.com
 pull.push.sogou.com
 pups.baidu.cn
-pupu.xnhh120.com
 push.126.net
 push.5z5zw.com
 push.feng.com
@@ -2605,7 +2600,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -3097,7 +3091,6 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3311,7 +3304,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3472,6 +3464,7 @@ zhreader.com
 zhuanfakong.com
 zhybzp.cn
 zimuzu.tv
+zizcy.com
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
