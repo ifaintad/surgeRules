@@ -17,6 +17,7 @@
 1.hao123.com
 1.hnyouneng.com
 1.hslyqs.com
+1.iqeq.com.cn
 1.jeasyui.net
 1.panduoduo.net
 1.qtmojo.cn
@@ -25,7 +26,6 @@
 1.win7china.com
 1.wps.cn
 1.xiaopin5.com
-1.xiaozhizhijia.com
 1.zw3e.com
 10.tt
 100.51.198.in-addr.arpa
@@ -101,8 +101,8 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -123,7 +123,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -161,8 +160,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -176,7 +173,6 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
-a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -367,7 +363,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -456,13 +451,13 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
+api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -489,7 +484,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -511,6 +505,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -859,7 +854,6 @@ client.tenddata.com
 cliushow.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
-cmule.org
 cn.api.push.le.com
 cn.dayabook.com
 cn.giganews.com
@@ -986,7 +980,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 dc.csdn.net
 dc.liuliang100.com
-dc.vmoters.com
 dc2.csdn.net
 dcw.hdswgc.com
 dd.dante2007.com
@@ -1011,6 +1004,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1029,7 +1023,6 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
-dkdlsj.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1306,6 +1299,7 @@ eee.eh39.co
 eee.kj78.org
 eee.ttyy888.co
 eeee500.com
+effectivemeasure.net
 ehd.baike.com
 ehxyz.com
 ein.51yingfa.com
@@ -1358,7 +1352,6 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fast-cdn.dianjoy.com
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1458,7 +1451,6 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
-gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1496,6 +1488,7 @@ goldstep.net
 gongmeng.info
 gongminliliang.com
 good.ta80.com
+gooday.xyz
 gooddns.info
 goods.tudou.com
 googlescholar.comUSA
@@ -1568,12 +1561,12 @@ hhqda.pop.t5yx.cn
 hi686.com
 hiad.myweb.hinet.net
 hiad.vmall.com
-hidein.net
 himemix.net
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
 hk32168.com
 hkctu.org.hk
+hkfuy.com
 hkgreenradio.org
 hkhrm.org.hk
 hkupop.hku.hk
@@ -1711,7 +1704,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1719,6 +1711,7 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1988,6 +1981,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2212,6 +2206,7 @@ m.ywbwsm.com
 m.yyeks.com
 m.yyjhf.com
 m.yzjlsb.com
+m.zaoss.com
 m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
@@ -2320,6 +2315,7 @@ ms.cmcm.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
+ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
@@ -2396,6 +2392,7 @@ nighost.org
 ninth.biz
 niwd.zhybw88.com
 njs.imagicskin.com
+njs.myyage.com
 njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
@@ -2677,7 +2674,6 @@ rp.baidu.cn
 rp.baidu.com
 rpaulfrank.com
 rplog.baidu.com
-rqgsf.com
 rs1.rensheng5.com
 rsas.szzek.com
 rtb-p.kejet.net
@@ -2695,7 +2691,6 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
-s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.cr-nielsen.com
@@ -2706,6 +2701,7 @@ s.effectivemeasure.net
 s.ekeide.com
 s.haiyunx.com
 s.hk9600.com
+s.hkfuy.com
 s.hnhgw.cn
 s.hzht666.com
 s.iroby.com
@@ -3203,6 +3199,7 @@ w.yinyuehu.cn
 w1.diaoyou.com
 w3.yinyuehu.cn
 w5sac788c1.360doc.cn
+waiwaier.com
 wallornot.org
 wan.360.cn
 wangmeng.baidu.cn
