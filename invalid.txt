@@ -26,6 +26,7 @@
 1.win7china.com
 1.wps.cn
 1.xiaopin5.com
+1.xiaozhizhijia.com
 1.zw3e.com
 10.tt
 100.51.198.in-addr.arpa
@@ -123,6 +124,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -342,6 +344,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -388,6 +391,7 @@ ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
 agr.voiceads.cn
+ahyau.com
 ai-wen.net
 aid.chinayk.com
 aim.yoyi.com.cn
@@ -458,6 +462,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -505,7 +510,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -686,6 +690,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx01.optimix.asia
@@ -778,6 +783,7 @@ ccbaihehq.com
 cccrir.com
 cdhoc.piyaji.cn
 cdn.5bong.com
+cdn.adsk2.co
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
@@ -852,6 +858,7 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cn.api.push.le.com
@@ -861,6 +868,7 @@ cn.ibtimes.com
 cn.tatami-solutions.com
 cn.voa.mobi
 cn2.streetvoice.com
+cnbole.net
 cnetwidget.creativemark.co.uk
 cnpinzhuo.com
 code.3shangyou.com
@@ -1053,7 +1061,6 @@ dm.yjbys.com
 dm1.tom61.com
 dm50.jkyd.net
 dm50.yxlady.com
-dmt.qcrx.cn
 dn3.ixinwei.com
 dnvus.com
 do69ifsly4.me
@@ -1299,7 +1306,6 @@ eee.eh39.co
 eee.kj78.org
 eee.ttyy888.co
 eeee500.com
-effectivemeasure.net
 ehd.baike.com
 ehxyz.com
 ein.51yingfa.com
@@ -1416,7 +1422,6 @@ fzh999.com
 fzh999.net
 g-cores.com
 g.ad8.cc
-g.chuiyao.com
 g.corp.163.com
 g.usingde.com
 g.uusee.com
@@ -1451,6 +1456,7 @@ gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
+gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1711,7 +1717,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pcbaby.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1935,7 +1940,6 @@ legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
 leorockwell.com
-lhafy.com
 li.anyysz.com
 lib.haotv8.com
 liba.haotv8.com
@@ -1981,7 +1985,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2147,7 +2150,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2597,6 +2599,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2691,6 +2694,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.cr-nielsen.com
@@ -2941,7 +2945,6 @@ sw.cailawyer.cn
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
-sy.kcxsyz.com
 syilm.net
 sykty.com
 sync.fastclick.net
@@ -3301,6 +3304,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3355,7 +3359,6 @@ xihuashuale.com
 xiliweisha.cn
 xin.ygqczh.com
 xinasiaj.com
-xinhuanet.org
 xixicui.icu
 xj40666.vip
 xjq.jxmqkj.com
@@ -3460,7 +3463,6 @@ zhongzicili.cc
 zhreader.com
 zhuanfakong.com
 zhybzp.cn
-zimuzu.tv
 zizcy.com
 zjm.zzmmkj.com
 zkaip.com
