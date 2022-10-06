@@ -103,7 +103,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -124,6 +123,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -161,7 +161,7 @@
 91zgm.com
 95105012.com
 9565365.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -211,7 +211,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -345,7 +344,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -487,7 +485,8 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.guide
+appleone.audio
+appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -628,6 +627,7 @@ bdlncs1.familydoctor.com.cn
 bds.hainan.net
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+beacon.qq.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -678,6 +678,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -849,7 +850,6 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
-client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
@@ -1008,6 +1008,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1053,7 +1054,6 @@ dm.sanwen.net
 dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
-dm50.jkyd.net
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
@@ -1151,6 +1151,7 @@ e.dzairen.com
 e.e70123.com
 e.ehxyz.com
 e.emgwq.com
+e.enjuk.com
 e.ennmt.com
 e.fbaix.com
 e.fbaot.com
@@ -1237,6 +1238,7 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
+e.sjuqc.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1285,7 +1287,6 @@ e.zhuyuanp.shop
 e.zhuyuanp.top
 e.zjkdaikuan.com
 e.zunss.com
-e701.net
 e7015.com
 e704.net
 e705.net
@@ -1708,7 +1709,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2001,6 +2001,7 @@ m.afoux.com
 m.anmeilai.net
 m.aqiudaohang.com
 m.assigned.cn
+m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.bapkt.com
@@ -2150,6 +2151,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2311,6 +2313,7 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
+ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2539,7 +2542,6 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
-pingbi.diudou.com
 pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
@@ -2559,7 +2561,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2625,7 +2626,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2916,7 +2916,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3200,6 +3199,7 @@ w.yamaidei.cn
 w.yinyuehu.cn
 w1.diaoyou.com
 w3.yinyuehu.cn
+w3989.com
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
@@ -3298,11 +3298,13 @@ wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
+www.monlamit.org
 www.wangruowang.org
 www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3459,7 +3461,6 @@ zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
-zimuzu.tv
 zizcy.com
 zjm.zzmmkj.com
 zkaip.com
