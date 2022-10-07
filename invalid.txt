@@ -56,6 +56,7 @@
 2.heiyange.com
 2.mobixs.cn
 2.rengshu.com
+2.tuxi.com.cn
 2.win7china.com
 2012ui.com
 20150930.cf
@@ -123,7 +124,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -152,7 +152,6 @@
 89-64.org
 8hykthze.cricket
 8jd2lfsq.me
-8z1.net
 9.e.f.ip6.arpa
 9001700.com
 90053999.com
@@ -161,7 +160,6 @@
 91zgm.com
 95105012.com
 9565365.com
-9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -216,6 +214,7 @@ a5.yeshj.com
 a6.bjdianyue.com
 a6.taobanapp.com
 a6s.1cakeclub.com
+a6s.modoupai.com
 a6s.ruyiqufu.com
 a6s.ve001nz.com
 aa-gb.mgid.com
@@ -364,6 +363,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -453,12 +453,14 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
+api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -485,8 +487,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
-appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -625,6 +625,7 @@ bdjs1.ixiumei.com
 bdlm1.hc360.com
 bdlncs1.familydoctor.com.cn
 bds.hainan.net
+bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
 beacon.qq.com
@@ -779,7 +780,6 @@ ccbaihehq.com
 cccrir.com
 cdhoc.piyaji.cn
 cdn.5bong.com
-cdn.adsk2.co
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
@@ -987,6 +987,7 @@ dc.liuliang100.com
 dc2.csdn.net
 dcw.hdswgc.com
 dd.dante2007.com
+dd.iaskgo.com
 dd.mangofortune.net
 dd.sina.com.cn
 dd.wx16999.com
@@ -1055,6 +1056,7 @@ dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
 dm50.yxlady.com
+dmt.qcrx.cn
 dn3.ixinwei.com
 dnvus.com
 do69ifsly4.me
@@ -1238,7 +1240,6 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
-e.sjuqc.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1326,7 +1327,6 @@ exp.17wo.cn
 exp.qumi.com
 ext.theglobalweb.com
 extmoney.i1608.com
-extstat.com
 eyouv.cn
 ezine.oupeng.com
 ezpc.tk
@@ -1444,6 +1444,7 @@ gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gaozhisheng.net
+gas.data.pplive.com
 gc.keefung-zs.com
 gcapi.sy.kugou.com
 gcs1.cn
@@ -1600,7 +1601,6 @@ hxadt.com
 hxstfxx.cn
 hxueu.code.weddingeeos.com
 hyfh.benbaisteel.com
-hyz86.com
 hz.shouyoutv.com
 hz.youku.com
 hzsod71wov.me
@@ -1922,6 +1922,7 @@ l.minisplat.cn
 l.mnjkw.cn
 l.supfast.net
 l.youku.com
+l2.soarfi.cn
 l9bdhcgihw.neihanw.com
 laigame7.com
 lajizhan.org
@@ -1939,6 +1940,7 @@ legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
 leorockwell.com
+lg4.jointreport-switch.com
 li.anyysz.com
 lib.haotv8.com
 liba.haotv8.com
@@ -2001,7 +2003,6 @@ m.afoux.com
 m.anmeilai.net
 m.aqiudaohang.com
 m.assigned.cn
-m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.bapkt.com
@@ -2019,6 +2020,7 @@ m.chfuw.com
 m.cjieh.com
 m.ckikq.com
 m.codlw.com
+m.couas.com
 m.cqytjzgc.com
 m.ctsywy.com
 m.cuoas.com
@@ -2210,6 +2212,7 @@ m.ywbwsm.com
 m.yyjhf.com
 m.yzjlsb.com
 m.zenffs.cn
+m.zenwq.com
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
@@ -2244,6 +2247,7 @@ maturejp.com
 maw.wnbfw.com
 mb.zam.com
 mcore.vcgame.cn
+md.he9630.com
 md.sh5e.com
 md0z4dh.com
 mdpjnppsbjv.bid
@@ -2313,7 +2317,6 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2630,7 +2633,6 @@ quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
-qzdfc.com
 r.0.0.0.0.cn
 r.ow.0.0.0.0.cn
 r.pixgold.com
@@ -2694,6 +2696,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.cr-nielsen.com
@@ -2713,6 +2716,7 @@ s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
 s.meimeidaren.com
+s.okmgy.cn
 s.phpwind.com
 s.qd.qingting.fm
 s.qd.qingtingfm.com
@@ -2735,6 +2739,7 @@ s.youmi.net
 s.yunpifu.cn
 s.zgclmw.cn
 s.zjhoudao.com
+s.zxwdw.com
 s1.cmfu.com
 s1.hnhbyxdq.com
 s1.huiqituan.com
@@ -2887,6 +2892,7 @@ sscefsol.com
 sscefsol.com.cn
 ssh.hxlif.com
 ssh.jsyzw132.com
+ssh.lifu11.com
 ssh.szxiuchang.com
 ssl.hyhzy.cn
 ssl.ymapp.com
@@ -3298,7 +3304,6 @@ wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
-www.monlamit.org
 www.wangruowang.org
 www9.effectivemeasure.net
 wwww.495495.com
@@ -3332,6 +3337,7 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
+xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3373,6 +3379,7 @@ xoredi.com
 xpe.cxaerp.com
 xpjkf888.com
 xq199.com
+xs.he9630.com
 xs.swagger1.com
 xskywalker.net
 xtwjx.cn
@@ -3397,6 +3404,7 @@ y.damifan.cn
 y.gwylm.com
 y.hk9600.com
 y.hzht666.com
+y.shuoshuocm.com
 y0.cn
 yageben.com
 yanglaopt.net
@@ -3461,6 +3469,7 @@ zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
+zimuzu.tv
 zizcy.com
 zjm.zzmmkj.com
 zkaip.com
