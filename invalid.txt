@@ -122,6 +122,7 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -159,7 +160,6 @@
 95105012.com
 9565365.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -208,6 +208,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
+a2.b310.com
 a2.huanqiumil.com
 a4.yeshj.com
 a5.yeshj.com
@@ -460,6 +461,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -679,6 +681,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -688,6 +691,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -853,8 +857,8 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
+cm.mct01.com
 cm.p4p.cn.yahoo.com
 cmule.org
 cn.api.push.le.com
@@ -1009,7 +1013,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1128,6 +1131,7 @@ e.anmeilai.net
 e.baidu.cn
 e.bapkt.com
 e.bbvjs.com
+e.bentengcn.com
 e.bokanedu.net
 e.bvoer.com
 e.cbeif.com
@@ -1714,6 +1718,8 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pcbaby.com.cn
+ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1889,7 +1895,6 @@ kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
 kissbbao.cn
-km.jianduankm.com
 kn.aishake.cn
 kn.barnfps.com
 kn.chapnap.com
@@ -1985,7 +1990,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2318,7 +2322,6 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -2596,7 +2599,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2690,6 +2692,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -3064,6 +3067,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3210,8 +3214,8 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
-wap.wooboo.com.cn
 wap001.bytravel.cn
 wap3.ucweb.com
 wapssl.ff113300.com
@@ -3331,6 +3335,7 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
+xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3462,6 +3467,7 @@ zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
+zimuzu.tv
 zizcy.com
 zjm.zzmmkj.com
 zkaip.com
