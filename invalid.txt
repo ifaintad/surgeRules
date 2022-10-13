@@ -131,6 +131,7 @@
 7z66.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
+8.jrj.com
 801.tianyaui.cn
 803.tianyaui.cn
 806.tianyaui.cn
@@ -159,7 +160,7 @@
 91zgm.com
 95105012.com
 9565365.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -210,6 +211,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -364,7 +366,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -461,7 +462,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -646,7 +646,6 @@ bigboy.eurogamer.net
 biq.keefung-zs.com
 bitc.bme.emory.edu
 bitinka.com.ar
-bitz.ai
 bixia.fymm.cn
 biyibia.com
 biz.weibo.com
@@ -681,7 +680,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -691,7 +689,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -857,8 +854,8 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
-cm.mct01.com
 cm.p4p.cn.yahoo.com
 cmule.org
 cn.api.push.le.com
@@ -1002,6 +999,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1056,6 +1054,7 @@ dm.ppzuowen.com
 dm.pw0.cn
 dm.riji.cn
 dm.sanwen.net
+dm.sanwen8.com
 dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
@@ -1074,6 +1073,7 @@ dontmovetochina.com
 doubleclick.tv002.com
 doubleplay-conf-yql.media.yahoo.com
 dowei.org
+down.91wangmeng.com
 down.bugeyu.com
 down.dashendown.com
 down.xiazaiyuan.net
@@ -1131,7 +1131,6 @@ e.anmeilai.net
 e.baidu.cn
 e.bapkt.com
 e.bbvjs.com
-e.bentengcn.com
 e.bokanedu.net
 e.bvoer.com
 e.cbeif.com
@@ -1186,6 +1185,7 @@ e.irauz.com
 e.irkuj.com
 e.iruad.com
 e.ishowms.com
+e.jdaot.com
 e.jgkto.com
 e.jiaas.com
 e.jiirz.com
@@ -1329,7 +1329,6 @@ exp.17wo.cn
 exp.qumi.com
 ext.theglobalweb.com
 extmoney.i1608.com
-eyouv.cn
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
@@ -1710,7 +1709,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1718,8 +1716,6 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
-ivy.pcbaby.com.cn
-ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 izaobao.us
@@ -1788,7 +1784,6 @@ johtzj.com
 joinmva.com
 jossuer.net
 joyfuldoors.com
-jp88.cc
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2084,6 +2079,7 @@ m.irauz.com
 m.irkuj.com
 m.iruad.com
 m.jcwwxn.com
+m.jdaot.com
 m.jgkto.com
 m.jhcgood.com
 m.jieyixiu.com
@@ -2153,6 +2149,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2218,7 +2215,6 @@ m.zuopp.com
 m1.xcy8.com
 m2.qinsx.cn
 m5.apk.67mo.com
-m9.xcdf.cn
 m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
@@ -2692,7 +2688,6 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
-s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2707,7 +2702,6 @@ s.hnhgw.cn
 s.hzht666.com
 s.iroby.com
 s.iuuff.com
-s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
 s.meimeidaren.com
@@ -2715,7 +2709,6 @@ s.phpwind.com
 s.qd.qingting.fm
 s.qd.qingtingfm.com
 s.qtad.qingting.fm
-s.ryre.cn
 s.sh.qihoo.com
 s.shiftrro.com
 s.so.360.cn
@@ -2917,6 +2910,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2947,8 +2941,10 @@ swx.0.0.0.0.cn
 sy.jlhygy.com
 sy.sxjxhg.com
 syilm.net
+sync.audtd.com
 sync.fastclick.net
 sync.teamrtb.net
+sync2.audtd.com
 syndication-o.twitter.com
 syofew6o.net
 sytz1288.com
@@ -3016,6 +3012,7 @@ tianqi777.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
+tibetansports.org
 timelog.moviebox.baofeng.com
 tips.logger.baofeng.com
 titi.qifajiang.cn
@@ -3067,7 +3064,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3214,7 +3210,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3251,7 +3246,6 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
-wiki.phonegap.com
 willw.net
 winvestern.com.cn
 winwhispers.info
@@ -3307,7 +3301,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3329,13 +3322,11 @@ xau.sxmutan.com
 xbp.code.weddingeeos.com
 xc.08an.com
 xc.mydrivers.com
-xcdf.cn
 xcyjzs.net
 xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
-xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
