@@ -141,6 +141,7 @@
 846.move7.com
 85058s.com
 85655095.com
+85cc.us
 8800271.com.cn
 88210212.com
 888.jiuwanwang.com
@@ -159,6 +160,7 @@
 91zgm.com
 95105012.com
 9565365.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -366,6 +368,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -391,6 +394,7 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -490,7 +494,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -677,7 +680,6 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -693,6 +695,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -989,6 +992,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1015,7 +1019,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1301,6 +1304,7 @@ e.zunss.com
 e7015.com
 e704.net
 e705.net
+eap.big5.enorth.com.cn
 eclick.baidu.cn
 ecsm.vs.com
 ed.aijielang.cn
@@ -1951,6 +1955,7 @@ legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
 leorockwell.com
+lfyuanai.com
 li.anyysz.com
 lib.haotv8.com
 liba.haotv8.com
@@ -2066,7 +2071,6 @@ m.ganrs.com
 m.gbieg.com
 m.gcaij.com
 m.gcheg.com
-m.gdt.vip1790.cn
 m.gglay.com
 m.gtiou.com
 m.gtnde.com
@@ -2300,7 +2304,7 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mmg.aty.cp45.ott.cibntv.net
+mnxtu.com
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -3081,7 +3085,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
