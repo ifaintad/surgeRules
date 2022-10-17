@@ -102,7 +102,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -161,7 +160,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9565365.com
 9566180.com
 99909988.com
 9dtiny.cn
@@ -347,6 +345,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -465,6 +464,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -492,8 +492,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.audio
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -540,7 +538,6 @@ aty.sohu.com
 avcity.tv
 avpa.dzone.com
 avualrhg9p.bid
-ax.ggfeng.com
 ayabreya.xyz
 b.53yao.com
 b.9dreams.net
@@ -686,6 +683,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -695,6 +693,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -804,6 +803,7 @@ cdn.newapi.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
+cdn.zampdsp.com
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -990,6 +990,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1016,7 +1017,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1341,6 +1341,7 @@ extmoney.i1608.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
+f.f70123.com
 f.fj95560.com
 f.hongm.com
 f.qcwzx.net.cn
@@ -1430,7 +1431,6 @@ fzh999.net
 g-cores.com
 g.ad8.cc
 g.corp.163.com
-g.usingde.com
 g.uusee.com
 g.w5b454.com
 g.wrating.com
@@ -1587,7 +1587,6 @@ hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
-hnctsm.com
 home.so-net.net.tw
 houdaolj.com
 hougaige.com
@@ -1719,7 +1718,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1787,6 +1785,7 @@ jiu.njdkgm.com
 jiyou2014.com
 jjhd47.115seo.com
 jjx.xjtxcj.com
+jjxgly.com
 jjyy.gaopengqcdz.cn
 jkjjkj.top
 jmonitor.jiuzhilan.com
@@ -1795,7 +1794,6 @@ johtzj.com
 joinmva.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -1941,7 +1939,6 @@ l9bdhcgihw.neihanw.com
 laigame7.com
 lajizhan.org
 langjiyisheng.com
-lanterncn.cn
 lanxiangji.com
 lausan.hk
 lb.statsevent.com
@@ -2000,7 +1997,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2165,7 +2161,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2415,7 +2410,6 @@ njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
 nnedbx.com
-nobodycanstop.us
 nofile.io
 notify.oupeng.com
 nowskip.com
@@ -2496,7 +2490,6 @@ p1.qinsx.cn
 p2.hyz86.com
 p2.qinsx.cn
 p2pmid.baofeng.com
-p3tt.com
 p4p.sina.com.cn
 p4pfile.com
 package01.com
@@ -2610,6 +2603,7 @@ pvdata.ku6.com
 pvlog.hd.baofeng.com
 pvlog.moviebox.baofeng.net
 px.powerlinks.com
+pyerc.com
 pyzkk.com
 q.s.cr-nielsen.com
 q6rwa.eschangchi.com
@@ -2709,6 +2703,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2784,7 +2779,6 @@ sb88b.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
-sc.ggfeng.com
 sc.shayugg.com
 scc.0.0.0.0.cn
 schemas.android.com
@@ -2932,7 +2926,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -2979,7 +2972,6 @@ t.adcrops.net
 t.adxchina.cn
 t.collect.yinyuetai.com
 t.dmtrck.com
-t.l.qq.com
 t.orzdream.com
 t.pingzei.com
 t.tzcccm.com
@@ -3325,7 +3317,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3353,6 +3344,7 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
+xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3484,8 +3476,8 @@ zhiyuanteam.com
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
+zimuzu.tv
 zizcy.com
-zjbdt.com
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
