@@ -70,7 +70,6 @@
 285680.com
 2m2n.com
 3.guidaye.com
-3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -102,7 +101,6 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
 58.xgo.com.cn
 5814889.com
@@ -124,7 +122,6 @@
 6tsbe1zs.me
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -212,6 +209,7 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -345,6 +343,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -492,6 +491,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -513,7 +513,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -678,6 +677,7 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+bole.shangshufang.ksosoft.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -1014,7 +1014,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1038,6 +1037,7 @@ dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
 dl.img80.net
+dl.jianshunrui.com
 dl.nx5.com
 dl.sybspools.com
 dl.wan.sogoucdn.com
@@ -1161,6 +1161,7 @@ e.dzairen.com
 e.e70123.com
 e.ehxyz.com
 e.emgwq.com
+e.enjuk.com
 e.ennmt.com
 e.fbaix.com
 e.fbaot.com
@@ -1800,7 +1801,6 @@ js.45bubu.com
 js.51taifu.com
 js.5iydz.com
 js.bxwns.com
-js.cdjqjy.com
 js.cncrk.com
 js.cnmo.com
 js.dkqapp.cn
@@ -1995,6 +1995,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2044,6 +2045,7 @@ m.dxmci.com
 m.efeiy.com
 m.ehxyz.com
 m.emgwq.com
+m.enjuk.com
 m.ennmt.com
 m.fbaix.com
 m.fbaot.com
@@ -2158,7 +2160,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.sjaidu.com
 m.slandr.net
@@ -2244,6 +2245,7 @@ maizhong.org
 maplew.com
 market.21cn.com
 match.rtbidder.net
+match.rundsp.com
 material.istreamsche.com
 material.mtty.xin
 mathiew-badimon.com
@@ -2336,7 +2338,6 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
-msxiaona.cn
 msypr.com
 mtj.baidu.cn
 mtl.ttsqgs.com
@@ -2447,6 +2448,7 @@ oascentral.sina.com
 oascentral.sina.com.hk
 oask.xulizui6.com
 office365love.com
+office365tw.com
 oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
@@ -2608,6 +2610,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2701,6 +2704,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2950,6 +2954,7 @@ sw.cailawyer.cn
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
+sy.sxjxhg.com
 syilm.net
 sync.audtd.com
 sync.fastclick.net
@@ -3031,6 +3036,7 @@ tk.baidu.cn
 tk.baidu.com
 tkweb.baidu.com
 tngrnow.net
+tongji.home.soufun.com
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
@@ -3100,7 +3106,6 @@ uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
 uid.ksosoft.com
-uid.mdbchina.com
 ujikdd041o.cn
 uk3oi.adgze.cn
 ukeiae.com
@@ -3118,7 +3123,6 @@ union001.com
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3306,6 +3310,7 @@ ww363.onetad.com
 ww366.onetad.com
 ww78.onetad.com
 ww8.onetad.com
+ww881.smartadserver.com
 ww9.onetad.com
 wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
@@ -3412,6 +3417,7 @@ y.hk9600.com
 y.hzht666.com
 y0.cn
 yageben.com
+yakbutterblues.com
 yanglaopt.net
 yao.zzsdjq.com
 ybp.yahoo.com
