@@ -84,6 +84,6 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: '${{secrets.DEPLOY_PROFILES_GITHUB_REPO_OWNER}}',
               repo: '${{secrets.DEPLOY_PROFILES_GITHUB_REPO}}',
-              workflow_id: '${{DEPLOY_PROFILES_GITHUB_REPO_ACTION_YAML}}',
+              workflow_id: '${{secrets.DEPLOY_PROFILES_GITHUB_REPO_ACTION_YAML}}',
               ref: 'main'
             })
