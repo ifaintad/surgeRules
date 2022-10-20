@@ -103,6 +103,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -347,6 +348,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -419,6 +421,7 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -474,7 +477,6 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -493,6 +495,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -514,7 +517,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -859,6 +861,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1004,7 +1007,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.cp61.ott.cibntv.net
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1016,6 +1018,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1385,9 +1388,9 @@ fge9vbrzwt.bid
 fghm.ga25.com
 fghmimg.ga25.com
 file.bmob.cn
-filmy.olabloga.pl
 finding.hardwareheaven.com
 findnsave.idahostatesman.com
+finler.net
 fips.uimserv.net
 fjkst.com
 flash.2144.com
@@ -1451,6 +1454,7 @@ gamebox.kugou.com
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
+gao.ynet.com
 gaozhisheng.net
 gc.keefung-zs.com
 gcapi.sy.kugou.com
@@ -1573,6 +1577,7 @@ hhqda.pop.t5yx.cn
 hi686.com
 hiad.myweb.hinet.net
 hiad.vmall.com
+hihistory.net
 himemix.net
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
@@ -2336,7 +2341,6 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -2392,7 +2396,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news.cxxtv.com
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2710,6 +2713,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2908,6 +2912,7 @@ ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
 ssp.86str.com
+ssp.chaohutechan.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
@@ -3225,7 +3230,6 @@ w6061.move7.com
 waiwaier.com
 wallornot.org
 wan.360.cn
-wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3355,6 +3359,7 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
+xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
