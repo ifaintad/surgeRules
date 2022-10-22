@@ -101,9 +101,9 @@
 513hch.com
 518.sdinfo.net
 51jumintong.com
+51vipedu.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -135,6 +135,7 @@
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
 801.tianyaui.cn
+801.tianyaui.com
 803.tianyaui.cn
 806.tianyaui.cn
 808.tianya.cn
@@ -163,7 +164,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -177,6 +178,7 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
+a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -214,7 +216,6 @@ a1.vdolady.com
 a1.yuuedu.com
 a2.b310.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -355,6 +356,7 @@ ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
 adscdn.baidu.cn
+adsclick.yx.js.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adshare.freedocast.com
@@ -371,6 +373,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -461,6 +464,7 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
+api.moogos.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
@@ -471,7 +475,6 @@ api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
-apk.idate520.com
 apk.supfast.net
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
@@ -495,6 +498,8 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -695,6 +700,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -804,7 +810,6 @@ cdn.newapi.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
-cdn.zampda.net
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -1364,6 +1369,7 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fast-cdn.dianjoy.com
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1548,6 +1554,7 @@ haiwengji.net
 hanju18.net
 hanunyi.com
 hao123rt.com
+hbalx.cn
 hbdt.luomi.com
 hbngfy.com
 hc.baidu.cn
@@ -1719,6 +1726,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1939,6 +1947,7 @@ l9bdhcgihw.neihanw.com
 laigame7.com
 lajizhan.org
 langjiyisheng.com
+lanterncn.cn
 lanxiangji.com
 lausan.hk
 lb.statsevent.com
@@ -1997,7 +2006,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2074,6 +2082,7 @@ m.gtiou.com
 m.gtnde.com
 m.guaas.com
 m.guifei99.com
+m.gujinyue.com
 m.gwdqp.com
 m.haowj.com.cn
 m.harbinbaojia.net
@@ -2081,7 +2090,6 @@ m.hellomingpian.com
 m.heygugu.com
 m.hk7799.net
 m.hkmqp.com
-m.hpfjy.com
 m.hpzyl.com
 m.hsbkr.com
 m.huyulh.com
@@ -2164,7 +2172,6 @@ m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
 m.sanjiangge.com
-m.sbenx.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2518,7 +2525,6 @@ pb.wang502.com
 pbs.lenovomm.com
 pc.107788.com
 pc.ctsywy.com
-pc.uf.ksosoft.com
 pcauto.irs01.com
 pd.sogou.com
 peace.ca
@@ -2548,7 +2554,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2665,6 +2670,7 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2678,7 +2684,6 @@ res.limei.com
 res3.feedsportal.com
 resetgey.com
 ret.xinlongrubber.com
-rh.greenbetterkids.com
 richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
@@ -2971,7 +2976,6 @@ syofew6o.net
 sytz1288.com
 szrk3.com
 szxc868.com
-szxpsg.com
 szyr474.com
 t.2d-c.cn
 t.adcrops.net
@@ -3085,7 +3089,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3140,6 +3143,7 @@ uqum.52shouyou.com.cn
 uranus.sohu.com
 urh.tylll.com
 url.222bz.com
+url.tudown.com
 urlet.cn
 urls.api.twitter.com
 us.bannyat.com
@@ -3211,7 +3215,6 @@ vvv.ieduw.com
 vvvulqn7.com
 vwkhdi.cn
 vwws6.net
-w.bobocn.cn
 w.homes.yahoo.net
 w.idaiwan.com
 w.jscsd.cn
@@ -3245,7 +3248,6 @@ wda.ydt.com.cn
 wdf5.com
 wdgsl.com
 wdzsb.com.cn
-web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
