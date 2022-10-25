@@ -102,7 +102,6 @@
 513hch.com
 518.sdinfo.net
 51jumintong.com
-51vipedu.com
 51weidashi.com
 52lubo.cn
 58.xgo.com.cn
@@ -177,6 +176,7 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
+a.cn.duoyi.com
 a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -214,7 +214,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
-a2.b310.com
 a2.huanqiumil.com
 a4.b2b168.com
 a4.yeshj.com
@@ -353,7 +352,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -375,6 +373,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -683,13 +682,13 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+bosiwangzi.cn
 br.hao123.com
 brakefluid.website
 brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -995,6 +994,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1063,7 +1063,6 @@ dm.jinshasi.cn
 dm.jsyst.cn
 dm.jy135.com
 dm.ppzuowen.com
-dm.pw0.cn
 dm.riji.cn
 dm.sanwen.net
 dm.sanwen8.com
@@ -1191,6 +1190,7 @@ e.hmhqp.com
 e.hpzyl.com
 e.huaas.com
 e.hunpp.com
+e.huoas.com
 e.hyzui.com
 e.icyrd.com
 e.iierq.com
@@ -1326,6 +1326,7 @@ eiv.baidu.cn
 ellawine.org
 en.shenyun.com
 epernn.cn
+epochtimes.ie
 epro.sohu.com
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
@@ -1632,6 +1633,7 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
+ic.ksosoft.com
 ichaosheng.com
 icloud.net.cn
 icloudapple.cn
@@ -1707,7 +1709,6 @@ imneinei.com
 imp.asahi.com
 impp.mn
 impservicetest.dictapp.youdao.com
-in.jxhcyc.com
 inccnd.com
 include.xs2345.com
 index.woai310.com
@@ -1726,7 +1727,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2171,7 +2171,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2200,7 +2199,6 @@ m.vsxet.com
 m.wcjup.com
 m.weboser.com
 m.weixingshexiangji.net
-m.wervp.com
 m.wgewj.cn
 m.wjhehaofc.com
 m.wkjhd.com
@@ -2623,7 +2621,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2717,7 +2714,6 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
-s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2787,6 +2783,7 @@ same03.jrj.com.cn
 sankie.net
 savebt.net
 saveliuxiaobo.com
+savetibet.fr
 sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
@@ -2916,7 +2913,6 @@ ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
 ssp.86str.com
-ssp.chaohutechan.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
@@ -3092,7 +3088,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3115,6 +3110,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3361,7 +3357,6 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
-xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3410,7 +3405,6 @@ xuzhiyong.net
 xxad.cc
 xxp.gytygc.com
 xxwkjl.com
-xxxa.aikeapp.com
 xy.shijialianzuishuai.com
 xyd.sxmdxy.com
 xyly2016.com
@@ -3491,7 +3485,6 @@ zhangzishi.cc
 zhongzicili.cc
 zhreader.com
 zhuanfakong.com
-zimuzu.tv
 zizcy.com
 zjm.zzmmkj.com
 zkaip.com
