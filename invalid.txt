@@ -104,6 +104,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -126,7 +127,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -164,6 +164,8 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -177,7 +179,6 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
-a.dianjoy.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -327,7 +328,6 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
-adimg.daumcdn.net
 adimg.qxlsjw.com
 adimg.vue.weibo.com
 adimgs.xici.net
@@ -358,7 +358,6 @@ ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
 adscdn.baidu.cn
-adsclick.yx.js.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adshare.freedocast.com
@@ -699,7 +698,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -753,7 +751,6 @@ c1.668559.com
 c1.keyrun.cn
 c1.minisplat.cn
 c1.ulink.cc
-c1.xcy8.com
 c3.moogos.com
 c6.bjdianyue.com
 c6.lnymd.com
@@ -788,7 +785,6 @@ cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
 ccbaihehq.com
-cccrir.com
 cdhoc.piyaji.cn
 cdn.5bong.com
 cdn.aiclicash.com
@@ -1017,7 +1013,6 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
-delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.opera-mini.net
@@ -1327,7 +1322,6 @@ ehxyz.com
 ein.51yingfa.com
 eiv.baidu.cn
 ellawine.org
-en.shenyun.com
 epernn.cn
 epochtimes.ie
 epro.sohu.com
@@ -1341,7 +1335,6 @@ event.ksosoft.com
 eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
-evise.com
 evoke-windowsservices-tas.msedge
 exp.17wo.cn
 exp.qumi.com
@@ -1373,7 +1366,6 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fast-cdn.dianjoy.com
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1396,6 +1388,7 @@ fge9vbrzwt.bid
 fghm.ga25.com
 fghmimg.ga25.com
 file.bmob.cn
+files2me.com
 finding.hardwareheaven.com
 findnsave.idahostatesman.com
 finler.net
@@ -1691,7 +1684,6 @@ img.taotaosou.cn
 img.tcdxt.com
 img.uyangyong.cn
 img.xa9t.com
-img.xcy8.com
 img.yingshidiguo.cn
 img.yuyue007.cn
 img.zsj18.com
@@ -1729,6 +1721,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1956,6 +1949,7 @@ lb.statsevent.com
 ld.hao123img.com
 ld.kuaigames.com
 lds.lenovomm.com
+ldy.350.com
 ldy.adqku.cn
 leak.360.cn
 legaltech.law.com
@@ -1972,7 +1966,6 @@ linkbide.com
 listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
-lives.l.cp81.ott.cibntv.net
 liveupdate.mac.sandai.net
 ll.gxsky.com
 ll.hudong.com
@@ -2009,6 +2002,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2213,7 +2207,6 @@ m.wonwg.com
 m.wrating.com
 m.wuqutu.com
 m.wxhh678.com
-m.xcy8.com
 m.xdkje.com
 m.xetvb.com
 m.xhaiu.com
@@ -2239,12 +2232,9 @@ m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
 m.zuopp.com
-m1.daumcdn.net
-m1.xcy8.com
 m2.qinsx.cn
 m5.apk.67mo.com
 m9.xcdf.cn
-m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
 ma.hao123.com
@@ -2356,7 +2346,6 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
-msxiaona.cn
 msypr.com
 mtj.baidu.cn
 mtl.ttsqgs.com
@@ -2589,7 +2578,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2657,7 +2645,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2666,7 +2653,6 @@ r.0.0.0.0.cn
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
-r.xcycm.com
 r.youmi.net
 r8nu86wg.me
 ra.gg
@@ -3090,7 +3076,6 @@ tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
 twelve.today
-twilightsex.com
 twimg.edgesuite.net
 twldmx.com
 twstar.net
@@ -3100,16 +3085,15 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
-u.xcy8.com
 u.yizuya.com
 u0.s.minisplat.cn
 u1.s.minisplat.cn
 u2.s.minisplat.cn
 u349036.ff112222.com
 ua.badongo.com
-uberproxy.net
 ubm.fangtoo.com
 uc.haoyunyuan.cc
 uc.xiansuper.com
@@ -3338,6 +3322,7 @@ wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
 www.wangruowang.org
+www1.american.edu
 www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
