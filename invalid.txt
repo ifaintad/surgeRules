@@ -166,7 +166,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -354,7 +354,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -569,7 +568,6 @@ b9377h.com
 b99u.top
 ba.fqzds.com
 bad1.51gxqm.com
-badao37.net
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
@@ -806,7 +804,6 @@ cdn.newapi.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
-cdn.zampda.net
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -863,6 +860,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1249,6 +1247,7 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
+e.sjuqc.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1287,7 +1286,6 @@ e.yidulive.net
 e.yingchengtou.com
 e.ynnke.com
 e.yoiur.com
-e.youweiprint.com
 e.ysdangan.com
 e.ysdhe.com
 e.yuxyz.com
@@ -1358,6 +1356,7 @@ facebookma.cn
 fail.hk
 falun.caltech.edu
 falundafa-sacramento.org
+falundafamuseum.org
 falundata.org
 fangmincn.org
 fanqiangyakexi.net
@@ -1583,6 +1582,7 @@ hkctu.org.hk
 hkfuy.com
 hkgreenradio.org
 hkhrm.org.hk
+hkreporter.loved.hk
 hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
@@ -1677,6 +1677,7 @@ img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
 img.uyangyong.cn
+img.wuben56.com
 img.xa9t.com
 img.yingshidiguo.cn
 img.yuyue007.cn
@@ -1714,6 +1715,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1992,6 +1994,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2208,7 +2211,6 @@ m.yangjingbang.net
 m.yingchengtou.com
 m.ynnke.com
 m.yoiur.com
-m.youweiprint.com
 m.ysdhe.com
 m.yuandajiayuan.com
 m.yuxyz.com
@@ -2220,7 +2222,6 @@ m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
 m.zuopp.com
-m1.daumcdn.net
 m2.qinsx.cn
 m5.apk.67mo.com
 m9.xcdf.cn
@@ -2547,6 +2548,7 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pix.tagcdn.com
+pixiu.shangshufang.ksosoft.com
 pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
@@ -2659,6 +2661,7 @@ rdiqt.cn
 red.bayimg.net
 regist.fotoable.com
 remotedu.cn
+req.startappservice.com
 res.cocounion.com
 res.dxpmedia.com
 res.icast.cn
@@ -2699,6 +2702,7 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
+s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2713,6 +2717,7 @@ s.hnhgw.cn
 s.hzht666.com
 s.iroby.com
 s.iuuff.com
+s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
 s.phpwind.com
@@ -2897,6 +2902,7 @@ ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
 ssp.86str.com
+ssp.chaohutechan.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
@@ -3340,6 +3346,7 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
+xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
