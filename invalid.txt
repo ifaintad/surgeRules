@@ -129,6 +129,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -166,7 +167,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -254,6 +255,7 @@ activate.wip3.adobe.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
+ad-stat.ksosoft.com
 ad.1111cpc.com
 ad.17173.com
 ad.accessmediaproductions.com
@@ -384,7 +386,6 @@ aercxy.com
 afd.baidu.cn
 afd.l.google.com
 aff.lmgtfy.com
-aff.svjump.com
 affil.mupromo.com
 affiliateprogram.keywordspy.com
 affiliatesmedia.sbobet.com
@@ -688,7 +689,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -1247,7 +1247,6 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
-e.sjuqc.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1502,6 +1501,7 @@ good.ta80.com
 gooday.xyz
 gooddns.info
 goods.tudou.com
+googlelabs.com
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1582,12 +1582,12 @@ hkctu.org.hk
 hkfuy.com
 hkgreenradio.org
 hkhrm.org.hk
-hkreporter.loved.hk
 hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
 home.so-net.net.tw
+hotpornshow.com
 houdaolj.com
 hougaige.com
 houyi.baofeng.net
@@ -1677,7 +1677,6 @@ img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
 img.uyangyong.cn
-img.wuben56.com
 img.xa9t.com
 img.yingshidiguo.cn
 img.yuyue007.cn
@@ -1786,7 +1785,6 @@ jkjjkj.top
 jmonitor.jiuzhilan.com
 jobso.tv
 johtzj.com
-joinmva.com
 jossuer.net
 joyfuldoors.com
 jpg.cooguo.com
@@ -1994,7 +1992,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2159,7 +2156,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2537,7 +2533,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2548,7 +2543,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pix.tagcdn.com
-pixiu.shangshufang.ksosoft.com
 pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
@@ -2655,13 +2649,13 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
 red.bayimg.net
 regist.fotoable.com
 remotedu.cn
-req.startappservice.com
 res.cocounion.com
 res.dxpmedia.com
 res.icast.cn
@@ -2702,7 +2696,6 @@ s.051352.com
 s.0594529.com
 s.5jjx.net
 s.baidu.com
-s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.ddstu.com
@@ -2902,7 +2895,6 @@ ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
 ssp.86str.com
-ssp.chaohutechan.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
@@ -3069,6 +3061,7 @@ tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
 twelve.today
+twilightsex.com
 twimg.edgesuite.net
 twldmx.com
 twstar.net
@@ -3078,7 +3071,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
@@ -3119,6 +3111,7 @@ union001.com
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3245,6 +3238,7 @@ werpig.com
 wexiaobo.org
 wezhiyong.org
 wha.la
+whcrdz.com
 whn.star-media.cn
 whodns.xyz
 whu.cwpush.com
@@ -3346,7 +3340,6 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
-xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3472,6 +3465,7 @@ zgsddh.com
 zgunion.cn
 zgzcjj.net
 zhanbin.net
+zhinengluyou.com
 zhongzicili.cc
 zhreader.com
 zizcy.com

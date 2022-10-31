@@ -1725,7 +1725,6 @@ DOMAIN-SUFFIX,googlegroups.com
 DOMAIN-SUFFIX,googlehosted.com
 DOMAIN-SUFFIX,googleideas.com
 DOMAIN-SUFFIX,googleinsidesearch.com
-DOMAIN-SUFFIX,googlelabs.com
 DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,googlemashups.com
 DOMAIN-SUFFIX,googlepagecreator.com
@@ -1936,6 +1935,7 @@ DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,hkpeanut.com
 DOMAIN-SUFFIX,hkptu.org
 DOMAIN-SUFFIX,hkreporter.com
+DOMAIN-SUFFIX,hkreporter.loved.hk
 DOMAIN-SUFFIX,hkusu.net
 DOMAIN-SUFFIX,hkvwet.com
 DOMAIN-SUFFIX,hkwcc.org.hk
@@ -1971,7 +1971,6 @@ DOMAIN-SUFFIX,hotair.com
 DOMAIN-SUFFIX,hotav.tv
 DOMAIN-SUFFIX,hotels.cn
 DOMAIN-SUFFIX,hotgoo.com
-DOMAIN-SUFFIX,hotpornshow.com
 DOMAIN-SUFFIX,hotpot.hk
 DOMAIN-SUFFIX,hotshame.com
 DOMAIN-SUFFIX,hotspotshield.com
@@ -2282,6 +2281,7 @@ DOMAIN-SUFFIX,jungleheart.com
 DOMAIN-SUFFIX,juoaa.com
 DOMAIN-SUFFIX,justdied.com
 DOMAIN-SUFFIX,justfreevpn.com
+DOMAIN-SUFFIX,justhost.ru
 DOMAIN-SUFFIX,justmysocks1.net
 DOMAIN-SUFFIX,justpaste.it
 DOMAIN-SUFFIX,justtristan.com
@@ -4210,7 +4210,6 @@ DOMAIN-SUFFIX,twiends.com
 DOMAIN-SUFFIX,twifan.com
 DOMAIN-SUFFIX,twiffo.com
 DOMAIN-SUFFIX,twiggit.org
-DOMAIN-SUFFIX,twilightsex.com
 DOMAIN-SUFFIX,twilog.org
 DOMAIN-SUFFIX,twimbow.com
 DOMAIN-SUFFIX,twimg.com
@@ -4899,7 +4898,6 @@ DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhenlibu.info
 DOMAIN-SUFFIX,zhenlibu1984.com
 DOMAIN-SUFFIX,zhenxiang.biz
-DOMAIN-SUFFIX,zhinengluyou.com
 DOMAIN-SUFFIX,zhongguo.ca
 DOMAIN-SUFFIX,zhongguorenquan.org
 DOMAIN-SUFFIX,zhongguotese.net
