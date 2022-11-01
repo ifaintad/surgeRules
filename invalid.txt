@@ -106,7 +106,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -168,6 +167,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -218,7 +218,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -255,7 +254,6 @@ activate.wip3.adobe.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
-ad-stat.ksosoft.com
 ad.1111cpc.com
 ad.17173.com
 ad.accessmediaproductions.com
@@ -860,7 +858,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -901,6 +898,7 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
+countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -942,7 +940,6 @@ cylinderlongcheng.com
 cytode.us
 cz01016102.ms758.com
 czdqhyo1.net
-czjiuding.cn
 d.107788.com
 d.businessinsider.com
 d.danangmo.cn
@@ -1501,7 +1498,6 @@ good.ta80.com
 gooday.xyz
 gooddns.info
 goods.tudou.com
-googlelabs.com
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1587,7 +1583,6 @@ hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
 home.so-net.net.tw
-hotpornshow.com
 houdaolj.com
 hougaige.com
 houyi.baofeng.net
@@ -1676,6 +1671,7 @@ img.supfast.net
 img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
+img.toppr.com.cn
 img.uyangyong.cn
 img.xa9t.com
 img.yingshidiguo.cn
@@ -2004,6 +2000,7 @@ m.77vcd.com
 m.abfirst.cn
 m.acaox.com
 m.achig.com
+m.adxpop.com
 m.afoux.com
 m.anmeilai.net
 m.assigned.cn
@@ -2456,7 +2453,6 @@ oomyv.com
 opendn.xyz
 openervpn.in
 openstorage.ad.cmvideo.cn
-orn.jp
 orz.hupu.com
 otf.msn.com
 otnd.org
@@ -2602,7 +2598,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2629,6 +2624,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2649,7 +2645,6 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2943,6 +2938,7 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
+swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3013,7 +3009,6 @@ thxnr.com
 thyvjboy.com
 thywords.com.tw
 tiangoutai.com
-tianqi777.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
@@ -3060,8 +3055,6 @@ twb98.com
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
-twelve.today
-twilightsex.com
 twimg.edgesuite.net
 twldmx.com
 twstar.net
@@ -3111,7 +3104,6 @@ union001.com
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3238,7 +3230,6 @@ werpig.com
 wexiaobo.org
 wezhiyong.org
 wha.la
-whcrdz.com
 whn.star-media.cn
 whodns.xyz
 whu.cwpush.com
@@ -3311,7 +3302,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3335,6 +3325,7 @@ xau.sxmutan.com
 xbp.code.weddingeeos.com
 xc.08an.com
 xc.mydrivers.com
+xcafe.in
 xcyjzs.net
 xcyrc.com
 xdbwc.com
