@@ -19,7 +19,6 @@
 1.hslyqs.com
 1.iqeq.com.cn
 1.jeasyui.net
-1.mgff.com
 1.panduoduo.net
 1.qtmojo.cn
 1.rengshu.com
@@ -170,7 +169,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -184,6 +183,7 @@ a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
+a.cn.duoyi.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -221,6 +221,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -287,6 +288,7 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
+ad.obuy.tw
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
@@ -357,8 +359,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -500,7 +502,9 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
 appleone.community
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -692,7 +696,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -758,6 +761,7 @@ c1.ulink.cc
 c3.moogos.com
 c6.bjdianyue.com
 c6.lnymd.com
+c8b.jcdb88.com
 cacaca.sp96878.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
@@ -768,7 +772,6 @@ canvas.thenextweb.com
 caob5.info
 caolvch.com
 cas.clickability.com
-cast.ra.icast.cn
 catalog.video.msn.com
 catfightpayperview.xxx
 cayanfang.com
@@ -1019,6 +1022,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1359,7 +1363,6 @@ facebookma.cn
 fail.hk
 falun.caltech.edu
 falundafa-sacramento.org
-falundafamuseum.org
 falundata.org
 fangmincn.org
 fanqiangyakexi.net
@@ -1501,7 +1504,6 @@ gog9.qzdfc.com
 golden1.sohu.com
 gongmeng.info
 gongminliliang.com
-good.ta80.com
 gooday.xyz
 gooddns.info
 goods.tudou.com
@@ -1718,6 +1720,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1780,6 +1783,7 @@ jifeidandar.com
 jingdian230.meilika.net
 jiu.njdkgm.com
 jiyou2014.com
+jizzthis.com
 jjhd47.115seo.com
 jjx.xjtxcj.com
 jjxgly.com
@@ -1877,7 +1881,6 @@ jx5m.com
 jxad.jx163.com
 jxlog.istreamsche.com
 jzm81.com
-k-doujin.net
 k.85wa.cn
 k.ctsywy.com
 k1w5.me
@@ -1995,6 +1998,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2058,7 +2062,6 @@ m.fouas.com
 m.foumm.com
 m.fstaw.com
 m.fwjoi.com
-m.fxbga.com
 m.fzyda.com
 m.gameyun907.net
 m.ganrs.com
@@ -2297,6 +2300,7 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
+mmg.aty.cp45.ott.cibntv.net
 mnxtu.com
 mob.huimee.net
 mobad.ijinshan.com
@@ -2536,7 +2540,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2566,6 +2569,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2697,6 +2701,7 @@ s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
 s.5jjx.net
+s.652748.com
 s.baidu.com
 s.caduka.cn
 s.coveredsys.cn
@@ -2738,7 +2743,6 @@ s.zgclmw.cn
 s.zjhoudao.com
 s.zxwdw.com
 s1.cmfu.com
-s1.hnhbyxdq.com
 s1.huiqituan.com
 s1.iigushi.com
 s1.kutongji.com
@@ -2897,7 +2901,6 @@ ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
 ssp.86str.com
-ssp.chaohutechan.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
@@ -2921,6 +2924,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3019,7 +3023,6 @@ tiangoutai.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
-tibetansports.org
 timelog.moviebox.baofeng.com
 tips.logger.baofeng.com
 titi.qifajiang.cn
@@ -3028,6 +3031,7 @@ tk.baidu.cn
 tk.baidu.com
 tkweb.baidu.com
 tngrnow.net
+tongji.home.soufun.com
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
