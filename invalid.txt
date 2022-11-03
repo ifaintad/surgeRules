@@ -107,7 +107,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -130,7 +129,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -168,6 +166,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -201,7 +200,6 @@ a.market.xiaomi.com
 a.mjlnbx.cn
 a.nanhuwang.com
 a.qinghua5.com
-a.shangz99991.com
 a.shenchuang.com
 a.shuoshuodaquan.net
 a.soonyou123.com
@@ -702,6 +700,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -865,7 +864,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1160,7 +1158,6 @@ e.dnfeu.com
 e.dsjre.com
 e.dunmm.com
 e.dxmci.com
-e.dzairen.com
 e.e70123.com
 e.ehxyz.com
 e.emgwq.com
@@ -1230,7 +1227,6 @@ e.neijh.com
 e.nejup.com
 e.nfkos.com
 e.nmtouzi.com
-e.nnfiy.com
 e.nxypz.com
 e.oesnw.com
 e.okfhn.com
@@ -1716,7 +1712,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1994,6 +1989,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2126,7 +2122,6 @@ m.nejup.com
 m.nfkos.com
 m.niegg.com
 m.nmtouzi.com
-m.nnfiy.com
 m.nouaa.com
 m.nthtcs.com
 m.ntxiangtai.com
@@ -2220,6 +2215,7 @@ m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
+m.zougg.com
 m.zuopp.com
 m2.qinsx.cn
 m5.apk.67mo.com
@@ -2321,7 +2317,6 @@ mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2652,7 +2647,6 @@ raremovie.cc
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
@@ -2790,7 +2784,6 @@ sdksitter.m.sjzhushou.com
 sdl.0.0.0.0.cn
 sdn.penggua.com.cn
 sdownload.stargame.com
-searchignited.com
 sebar.thand.info
 secure-chn.imrworldwide.com
 secure.img-cdn.mediaplex.com
@@ -3071,6 +3064,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
