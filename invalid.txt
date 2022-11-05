@@ -65,7 +65,6 @@
 20150930.cf
 2016bobo.cf
 2017.hk
-22.qingsongbar.com
 22lm.cc
 24haitao.net
 254.169.in-addr.arpa
@@ -107,6 +106,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -166,6 +166,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -217,6 +218,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -440,7 +442,6 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
-angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anyangruisi.com
@@ -513,7 +514,6 @@ appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoreapple.cn
-appsupdate.sinaapp.com
 apt.qumi.com
 aqgyju.cn
 aqqgli3vle.bid
@@ -522,6 +522,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -858,7 +859,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickm.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -940,6 +940,7 @@ cuihua.org
 cupid.iqiyi.com
 cut.qumi.com
 cwpush.com
+cy123.cc
 cyad1.cyworld.com
 cycy.kxrxh.com
 cylinderlongcheng.com
@@ -1006,7 +1007,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.cp61.ott.cibntv.net
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1018,6 +1018,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1162,7 +1163,6 @@ e.dxmci.com
 e.e70123.com
 e.ehxyz.com
 e.emgwq.com
-e.enjuk.com
 e.ennmt.com
 e.fbaix.com
 e.fbaot.com
@@ -1497,7 +1497,6 @@ gog9.qzdfc.com
 golden1.sohu.com
 gongmeng.info
 gongminliliang.com
-gooday.xyz
 gooddns.info
 goods.tudou.com
 googlescholar.comUSA
@@ -1533,6 +1532,7 @@ gzmjnx.cn
 gzqudou.com
 h.canmg.cn
 h.irs01.com
+h01.hotrank.com.tw
 h1.18sd.cn
 h2.18sd.cn
 h5.taihao.cc
@@ -1543,7 +1543,6 @@ haiwengji.net
 hanju18.net
 hanunyi.com
 hao123rt.com
-haohaowan8.com
 hbalx.cn
 hbdt.luomi.com
 hbngfy.com
@@ -1714,7 +1713,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2378,7 +2376,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2717,6 +2714,7 @@ s.qtad.qingting.fm
 s.sh.qihoo.com
 s.shiftrro.com
 s.so.360.cn
+s.staqnet.com
 s.temaidi.com
 s.trafficjam.cn
 s.uc627.com
@@ -3063,7 +3061,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
@@ -3119,7 +3116,6 @@ urlet.cn
 urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
-userapi.nytlog.com
 ushuarencity.echainhost.com
 usinfo.state.gov
 usr.mgid.com
