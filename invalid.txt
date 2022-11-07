@@ -128,7 +128,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -221,7 +220,6 @@ a5.yeshj.com
 a6.bjdianyue.com
 a6.taobanapp.com
 a6s.1cakeclub.com
-a6s.modoupai.com
 a6s.ruyiqufu.com
 a6s.ve001nz.com
 aa-gb.mgid.com
@@ -355,8 +353,9 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplusapi.pptv.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -401,10 +400,10 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
-ai.xinju.cc
 aid.chinayk.com
 aikan6.com
 aim.yoyi.com.cn
@@ -483,7 +482,6 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -503,6 +501,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -551,7 +550,6 @@ avpa.dzone.com
 avualrhg9p.bid
 ayabreya.xyz
 b.53yao.com
-b.9dreams.net
 b.cyone.com.cn
 b.e.f.ip6.arpa
 b.epinv.com
@@ -686,7 +684,6 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-bole.shangshufang.ksosoft.com
 bosiwangzi.cn
 br.hao123.com
 brakefluid.website
@@ -865,7 +862,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -890,7 +886,6 @@ code1fa.m.shushu8.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
-com.google
 comesgo.com
 config.mobisage.cn
 config.push.sogou.com
@@ -965,6 +960,7 @@ d1grtyyel8f1mh.cloudfront.net
 d2qkpebv23oowx.cloudfront.net
 d3rhr7kgmtrq1v.cloudfront.net
 d520m.gzcl999.cn
+d5nxst8fruw4z.cloudfront.net
 da.hunantv.com
 da.mgtv.com
 dabr.me
@@ -1020,7 +1016,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1231,7 +1226,6 @@ e.neijh.com
 e.nejup.com
 e.nfkos.com
 e.nmtouzi.com
-e.nnfiy.com
 e.nxypz.com
 e.oesnw.com
 e.okfhn.com
@@ -1342,7 +1336,6 @@ extmoney.i1608.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
-f.520tingshu.com
 f.fj95560.com
 f.hongm.com
 f.qcwzx.net.cn
@@ -1430,6 +1423,7 @@ fxxgw.com
 fydgold132.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1461,7 +1455,6 @@ gcs1.cn
 gd.cnhange.cn
 gd.jqgc.com
 gd.vodtw.com
-gdzf.org
 gen.alicdn.com
 geobanner.socialflirt.com
 gewuwen.com
@@ -1538,7 +1531,6 @@ h.canmg.cn
 h.irs01.com
 h1.18sd.cn
 h2.18sd.cn
-h5.super-dreamers.com
 h5.taihao.cc
 h8.bec.com
 haitaoad.nosdn.127.net
@@ -1626,11 +1618,13 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
+ic.ksosoft.com
 ichaosheng.com
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
 idemocracy.asia
+idianfang.com
 ids.deliver.ifeng.com
 iebar.baidu.com
 ifan.cz.cc
@@ -1678,7 +1672,6 @@ img.supfast.net
 img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
-img.toppr.com.cn
 img.uyangyong.cn
 img.xa9t.com
 img.yingshidiguo.cn
@@ -1700,7 +1693,6 @@ imneinei.com
 imp.asahi.com
 impp.mn
 impservicetest.dictapp.youdao.com
-in.jxhcyc.com
 include.xs2345.com
 index.woai310.com
 info.downsave.com
@@ -1932,7 +1924,6 @@ l.minisplat.cn
 l.mnjkw.cn
 l.supfast.net
 l.youku.com
-l2.soarfi.cn
 l9bdhcgihw.neihanw.com
 lajizhan.org
 langjiyisheng.com
@@ -1995,6 +1986,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2049,7 +2041,6 @@ m.ennmt.com
 m.fbaix.com
 m.fbaot.com
 m.fcaot.com
-m.fcuit.com
 m.feirs.com
 m.fengwanwl.com
 m.fhxsw.org
@@ -2080,6 +2071,7 @@ m.hk7799.net
 m.hkmqp.com
 m.hpzyl.com
 m.hsbkr.com
+m.htper.com
 m.huyulh.com
 m.hyzui.com
 m.icyrd.com
@@ -2250,7 +2242,6 @@ maturejp.com
 maw.wnbfw.com
 mb.zam.com
 mcore.vcgame.cn
-md.he9630.com
 md.sh5e.com
 md0z4dh.com
 mdpjnppsbjv.bid
@@ -2258,7 +2249,6 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
-media.jointreport-switch.com
 mediapro.pro.cn
 meiti1.net
 menghuanzs.com
@@ -2537,6 +2527,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2566,6 +2557,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2639,6 +2631,7 @@ qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
 r.0.0.0.0.cn
+r.5207470.com
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
@@ -2938,6 +2931,7 @@ store.videojj.com
 storm.logger.baofeng.com
 stream.heavenmedia.net
 streaming.rtbiddingplatform.com
+student.tw
 su.8881919.cc
 sub.topber.com
 subacme.rerouted.org
@@ -2951,7 +2945,6 @@ sw.cailawyer.cn
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
-sy.sxjxhg.com
 syilm.net
 sync.audtd.com
 sync.fastclick.net
@@ -3072,7 +3065,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
@@ -3092,6 +3084,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3165,7 +3158,6 @@ vi0.mzy2014.com
 vi1.ku6img.net
 vi1.mzy2014.com
 vi2.ku6img.net
-vica.info
 vichc.com
 video.ap.org
 video.cooguo.com
@@ -3312,7 +3304,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3342,7 +3333,6 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
-xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3352,7 +3342,6 @@ xhsxgnt.cn
 xhtd.99hg.wang
 xhydrs.cn
 xia.huishenghuiying.com
-xia.jihehuaban.com
 xianchawang.net
 xianjian.tw
 xiaohui2.cn
@@ -3471,7 +3460,6 @@ zhanbin.net
 zhinengluyou.com
 zhongzicili.cc
 zhreader.com
-zizcy.com
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
