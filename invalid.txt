@@ -12,6 +12,7 @@
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 1.201980.com
 1.21shebao.com
+1.bashenghuo.com
 1.chcx.cn
 1.glook.cn
 1.hao123.com
@@ -56,6 +57,7 @@
 2.0.192.in-addr.arpa
 2.21shebao.com
 2.5aigushi.com
+2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
 2.rengshu.com
@@ -106,6 +108,7 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -130,7 +133,6 @@
 716703.com
 73.sinawap.com
 749558.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -168,7 +170,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -194,7 +196,6 @@ a.irs01.com
 a.itiexue.net
 a.kandiaoyu.com
 a.kejixun.com
-a.kickass.to
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
@@ -358,7 +359,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -380,7 +380,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -498,6 +497,7 @@ app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
+appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -757,8 +757,8 @@ c1.ulink.cc
 c3.moogos.com
 c6.bjdianyue.com
 c6.lnymd.com
-ca.5173car.com
 cacaca.sp96878.com
+cache.xw126.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
 caliyuna.cn
@@ -996,7 +996,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1022,7 +1021,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1302,7 +1300,6 @@ e.zhuyuanp.shop
 e.zhuyuanp.top
 e.zjkdaikuan.com
 e.zunss.com
-e7015.com
 e704.net
 eclick.baidu.cn
 ecsm.vs.com
@@ -1623,8 +1620,6 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
-ic.ksosoft.com
-ichaosheng.com
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
@@ -1714,6 +1709,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1787,7 +1783,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -1835,7 +1830,6 @@ js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
-js205.dupinpu.com
 js2254.hfxcsl.cn
 js2553.xjzyq.com
 js257.0937jyg.com
@@ -1992,7 +1986,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2379,7 +2372,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2446,6 +2438,7 @@ oizoblog.com
 ojngisbfwwyp.com
 okjhb.xyz
 okkkk.com
+old-cat.net
 old.nabble.com
 omega7o.com
 one.520319.cn
@@ -2532,6 +2525,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2591,7 +2585,6 @@ push.feng.com
 push.music.baidu.com
 push.wandoujia.com
 pushchinawall.com
-putlocker.com
 pv.cheshi-img.com
 pvdata.ku6.com
 pvlog.hd.baofeng.com
@@ -2948,7 +2941,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3030,7 +3022,6 @@ tk.baidu.cn
 tk.baidu.com
 tkweb.baidu.com
 tngrnow.net
-tongji.home.soufun.com
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
@@ -3131,7 +3122,6 @@ us.bannyat.com
 us.bs.serving-sys.com
 ushuarencity.echainhost.com
 usinfo.state.gov
-usno.navy.mil
 usr.mgid.com
 usync.aws.rubiconproject.com
 utility.baidu.cn
@@ -3272,7 +3262,6 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 wodhid.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
