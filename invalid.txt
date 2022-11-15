@@ -108,7 +108,6 @@
 51jumintong.com
 51weidashi.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -134,7 +133,6 @@
 716703.com
 73.sinawap.com
 749558.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,7 +169,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -223,7 +221,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -365,6 +362,7 @@ ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
 adscdn.baidu.cn
+adsclick.yx.js.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adshare.freedocast.com
@@ -503,6 +501,9 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
+appleone.film
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -673,7 +674,6 @@ blog.cnyes.com
 blog.exblog.co.jp
 blog.istef.info
 blog.kangye.org
-blog.lester850.info
 blog.sina.com.tw
 blog.workflow.is
 blogad01.myweb.hinet.net
@@ -907,7 +907,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1162,6 +1161,7 @@ e.dnfeu.com
 e.dsjre.com
 e.dunmm.com
 e.dxmci.com
+e.e7001.com
 e.e70123.com
 e.ehxyz.com
 e.emgwq.com
@@ -1511,7 +1511,6 @@ great-roc.org
 greatroc.tw
 greenxfs.down.123ch.cn
 groups.google.cn
-gsearch.media
 gso0.com
 gt.yy.com
 gtmsdd.alicdn.com
@@ -1548,7 +1547,6 @@ hc.baidu.cn
 hc.baidu.com
 hcreditx.com
 hd.jiedaibao.com
-hd.ylddq.com
 hdad.baike.com
 hdb.maxli.cn
 heavenmedia.v3g4s.com
@@ -1671,7 +1669,6 @@ img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
 img.uyangyong.cn
-img.wuben56.com
 img.xa9t.com
 img.yingshidiguo.cn
 img.yuyue007.cn
@@ -1902,7 +1899,6 @@ kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
 knnwdyou.com
-kob.adxkj.com
 kod4pc293.com
 kooyum.com
 kovjo.com
@@ -2252,6 +2248,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2356,7 +2353,6 @@ nc004x.corp.youdao.com
 nc045x.corp.youdao.com
 ncachear.com
 nccwatch.org.tw
-nchte.com
 ndy.code.weddingeeos.com
 neirong.baidu.com
 nest.youwatch.org
@@ -2566,6 +2562,7 @@ prerollads.ign.com
 proton.flurry.com
 proxylist.org.uk
 proxytunnel.net
+prozz.net
 ps.3fenge.com
 psblog.name
 psiphon.civisec.org
@@ -2582,7 +2579,6 @@ punuomisi.cn
 pups.baidu.cn
 pupu.xnhh120.com
 push.126.net
-push.5z5zw.com
 push.feng.com
 push.music.baidu.com
 push.wandoujia.com
@@ -2591,7 +2587,6 @@ pv.cheshi-img.com
 pvdata.ku6.com
 pvlog.hd.baofeng.com
 pvlog.moviebox.baofeng.net
-pwj.biqugezw.com
 px.powerlinks.com
 pyerc.com
 pyzkk.com
@@ -2631,6 +2626,7 @@ qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
 r.0.0.0.0.cn
+r.5207470.com
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
@@ -2899,7 +2895,6 @@ ssp.thescenseproject.com
 ssp1.dmpdsp.com
 sss.camp
 sss.sege.xxx
-sss.wzjmr.com
 sss.zbred.com
 sstc360.com
 st.holaworld.cn
@@ -2967,6 +2962,7 @@ t.pingzei.com
 t.tzcccm.com
 t.youmi.net
 t2.vbxx.net
+t70123.com
 t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
@@ -2976,6 +2972,7 @@ tanxlog.istreamsche.com
 tanzanite.infomine.com
 taobaly.cn
 taobaoaliyun.cn
+taohanpai.com
 taolun.info
 tap-cdn.rubiconproject.com
 tap-t.rubiconproject.com
@@ -3065,7 +3062,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
@@ -3207,7 +3203,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3331,7 +3326,6 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
-xf.yellowto.com
 xfm.pp.ru
 xfywn.com
 xgmc6lu8fs.me
@@ -3413,6 +3407,7 @@ yidulive.net
 yingsuoss.com
 yinooo.com
 yinyuehu.cn
+yiranxian.cn
 yizhenya.com
 yk0712.com
 ykatr.youku.com
