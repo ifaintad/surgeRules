@@ -64,6 +64,7 @@
 2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
+201071.com
 2012ui.com
 20150930.cf
 2016bobo.cf
@@ -171,6 +172,8 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -222,6 +225,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -359,9 +363,9 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
+ads1.lfengmobile.com
 ads2.opensubtitles.org
 adscdn.baidu.cn
 adscript.gmarket.co.kr
@@ -403,7 +407,6 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
-agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -486,6 +489,7 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -498,6 +502,7 @@ app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
+appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -577,7 +582,6 @@ bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
-baidu.dsp.tansuotv.com
 baidu9635.com
 baidujs.cnys.com
 baidutv.baidu.com
@@ -693,7 +697,6 @@ brcache.madthumbs.com
 breached.to
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -873,6 +876,7 @@ cm.p4p.cn.yahoo.com
 cmule.org
 cn.api.push.le.com
 cn.dayabook.com
+cn.fmnnow.com
 cn.giganews.com
 cn.ibtimes.com
 cn.tatami-solutions.com
@@ -1011,7 +1015,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.cp61.ott.cibntv.net
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1023,6 +1026,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1479,7 +1483,6 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 gm682.com
 gmhz.org
 gmota.g188.net
@@ -1609,7 +1612,6 @@ hzsod71wov.me
 i.dreamfull.cn
 i.jyhwt.cn
 i.ma.social-touch.com
-i.tansuotv.com
 i2.akjunshi.com
 i5.akjunshi.com
 iadc.qwapi.com
@@ -1618,7 +1620,6 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
-ic.ksosoft.com
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
@@ -1979,6 +1980,7 @@ lwnne.cn
 lwq.wangketuan.com
 lyjk.1391.com
 lyrymy.com
+lyunsd.cn
 lz.chaelc.com
 m.027blzs.com
 m.0531mnk.net
@@ -1999,7 +2001,6 @@ m.acaox.com
 m.achig.com
 m.afoux.com
 m.anmeilai.net
-m.assigned.cn
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.bapkt.com
@@ -2147,7 +2148,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2158,7 +2158,6 @@ m.symaa.cn
 m.symab.cn
 m.symac.cn
 m.symad.cn
-m.tansuotv.com
 m.tcksbz888.com
 m.tiantianedu.net
 m.tiaopimiao.net
@@ -2168,7 +2167,6 @@ m.tuopp.com
 m.twldmx.com
 m.txtxr.com
 m.uissm.com
-m.vbaou.com
 m.vbieu.com
 m.vbinu.com
 m.verpt.com
@@ -2250,7 +2248,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2522,6 +2519,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2595,6 +2593,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2738,7 +2737,6 @@ s1.kutongji.com
 s1.mingmingtehui.com
 s1.nudezz.com
 s1.qiqutt.cn
-s1.tansuotv.com
 s1heng.com
 s2.dnaxddnc.com
 s2.mingmingtehui.com
@@ -2987,7 +2985,6 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
-tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
