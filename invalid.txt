@@ -1,5 +1,6 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
+0086555.com
 00880808.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -136,6 +137,7 @@
 716703.com
 73.sinawap.com
 749558.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -225,7 +227,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -362,6 +363,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -489,7 +491,6 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -502,7 +503,6 @@ app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
-appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -587,7 +587,6 @@ baidujs.cnys.com
 baidutv.baidu.com
 baiduzhidahao.cc
 baiwanchuangyi.com
-baixing.me
 bakgeekhome.tk
 banlv.baidu.com
 banner.automotiveworld.com
@@ -946,6 +945,7 @@ ct.210189.com
 ctfriend.net
 cupid.iqiyi.com
 cut.qumi.com
+cutscenes.net
 cwpush.com
 cy123.cc
 cyad1.cyworld.com
@@ -961,7 +961,6 @@ d.gossipcenter.com
 d.mingyihui.net
 d.ruiwen.com
 d.thelocal.com
-d.xinshipu.com
 d.yjbys.com
 d.yoyi.com.cn
 d1b183sg0nvnuh.cloudfront.net
@@ -1026,12 +1025,12 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
 dh.holaworld.cn
 dh54wf.xyz
+dharamsalanet.com
 diaojiaoji168.com
 difnxm.cn
 digdug.divxnetworks.com
@@ -1656,7 +1655,6 @@ img.ad.zhangyue.com
 img.cxxyft.com
 img.dawenxue.org
 img.dydab.com
-img.ercfh.com
 img.gou.wpscdn.cn
 img.gz9d.com
 img.il8r.com
@@ -1728,10 +1726,7 @@ j.dipowang.cn
 j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
-j.qiqivv.com
-j.qiqiww.com
 j.sc1369.com
-j.xinshipu.com
 j.ytbt.cc
 j17.shangc.net
 j17.xiumu.cn
@@ -1786,6 +1781,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2148,6 +2144,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2248,6 +2245,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2385,6 +2383,7 @@ ninth.biz
 niwd.zhybw88.com
 njs.imagicskin.com
 njs.myyage.com
+njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
 nnedbx.com
@@ -2519,7 +2518,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2602,8 +2600,6 @@ qgss8.com
 qianchuanghr.com
 qienkuen.org
 qingqu.la
-qiqivv.com
-qiqiww.com
 qiye11.ejunshi.net
 qjfcdn1220.0101122.com
 qjjtc.com
@@ -2929,7 +2925,6 @@ su.8881919.cc
 sub.topber.com
 subacme.rerouted.org
 subswin.com
-sulian.me
 suoluo.org
 surv.xbizmedia.com
 suvset.sohu.com
@@ -2985,6 +2980,7 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
+tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3062,6 +3058,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
@@ -3297,7 +3294,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3384,7 +3380,6 @@ xyrhd.com
 xyrkl.com
 xyy.code.weddingeeos.com
 xyy69.com
-xz.ercfh.com
 xzq.greenxf.net
 y.3957957.com
 y.damifan.cn
