@@ -157,7 +157,6 @@
 849558.com
 85058s.com
 85655095.com
-85cc.us
 8800271.com.cn
 88210212.com
 888.jiuwanwang.com
@@ -174,8 +173,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -227,6 +224,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -363,7 +361,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -409,6 +406,7 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -491,9 +489,11 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
+app.hytdsm.com
 app.ibaiducdn.com
 app.jgyee.com
 app.juwang.com
@@ -509,6 +509,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -530,6 +531,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -696,6 +698,7 @@ brcache.madthumbs.com
 breached.to
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -961,6 +964,7 @@ d.gossipcenter.com
 d.mingyihui.net
 d.ruiwen.com
 d.thelocal.com
+d.xinshipu.com
 d.yjbys.com
 d.yoyi.com.cn
 d1b183sg0nvnuh.cloudfront.net
@@ -1179,6 +1183,7 @@ e.fzyda.com
 e.gbieg.com
 e.gglay.com
 e.gxjfh.com
+e.gxkyl.com
 e.harbinbaojia.net
 e.hellomingpian.com
 e.hgrqp.com
@@ -1210,6 +1215,7 @@ e.jwiyr.com
 e.jxxiangchu.com
 e.kewro.com
 e.kjfhe.com
+e.kjhfy.com
 e.kl6636.net
 e.ksttwz.com
 e.kunpp.com
@@ -1460,7 +1466,6 @@ gd.jqgc.com
 gd.vodtw.com
 gen.alicdn.com
 geobanner.socialflirt.com
-gewuwen.com
 gf1352.com
 gfh.ahfzly.com
 gfw.org.ua
@@ -1727,6 +1732,7 @@ j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
 j.sc1369.com
+j.xinshipu.com
 j.ytbt.cc
 j17.shangc.net
 j17.xiumu.cn
@@ -1781,7 +1787,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2057,6 +2062,7 @@ m.gtnde.com
 m.guaas.com
 m.guifei99.com
 m.gwdqp.com
+m.gxkyl.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
@@ -2089,6 +2095,7 @@ m.jwiyr.com
 m.jyhwt.cn
 m.kewro.com
 m.kjfhe.com
+m.kjhfy.com
 m.kl6636.net
 m.ksttwz.com
 m.kwjkd.com
@@ -2144,7 +2151,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2270,6 +2276,7 @@ minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
 mitao.com.tw
+miui.hdfdm.com
 miui.hftaili.com
 mjs.csyymp4.com
 mkitgfs.com
@@ -2502,6 +2509,7 @@ photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
+photo.xunhuaji.cn
 photo.zhanhevr.cn
 pic.2u.com.cn
 pic.adver.com.tw
@@ -2980,7 +2988,6 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
-tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -2991,6 +2998,7 @@ teen.77rog.com
 terren.cntv.cn
 test.eduancm.com
 test.ott.youku.com
+tf.hdfdm.com
 tf.hftaili.com
 tg.1155t.cn
 tg.52digua.com
@@ -3058,7 +3066,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.yizuya.com
 u0.s.minisplat.cn
@@ -3091,7 +3098,6 @@ un.52rkl.cn
 un.winasdaq.com
 undm.qibulo.com
 unicast.msn.com
-union.dbba.cn
 union.mi.com
 union.mop.com
 union.star-media.cn
@@ -3294,6 +3300,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3382,7 +3389,6 @@ xyy.code.weddingeeos.com
 xyy69.com
 xzq.greenxf.net
 y.3957957.com
-y.damifan.cn
 y.gwylm.com
 y.hk9600.com
 y.hzht666.com
