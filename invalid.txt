@@ -2,6 +2,7 @@
 0.in-addr.arpa
 0086555.com
 00880808.com
+01.gxso.net
 01daa.lubih.com
 01daa.lutgh.com
 01daa.luvbr.com
@@ -65,7 +66,6 @@
 2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
-201071.com
 2012ui.com
 20150930.cf
 2016bobo.cf
@@ -110,6 +110,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 52lubo.cn
 537901.com
 58.xgo.com.cn
@@ -137,7 +138,6 @@
 716703.com
 73.sinawap.com
 749558.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -146,8 +146,12 @@
 7z66.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
+801.tianya.cn
 801.tianyaui.cn
+801.tianyaui.com
+803.tianya.cn
 803.tianyaui.cn
+806.tianya.cn
 806.tianyaui.cn
 808.tianya.cn
 808.tianyaui.cn
@@ -163,7 +167,6 @@
 88818122.cn
 888zr022.com
 88cncc.com
-88shu.cn
 8hykthze.cricket
 8jd2lfsq.me
 9.e.f.ip6.arpa
@@ -173,6 +176,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -315,6 +319,7 @@ ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
 ad.ylunion.com
+ad.zhidian3g.cn
 ad000000.com
 ad1.netshelter.net
 ad1.p5w.net
@@ -406,7 +411,6 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
-agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -442,7 +446,6 @@ amazingmagics.com
 amnyemachen.org
 ams.fx678.com
 analytics.126.net
-andmejs.com
 androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
@@ -489,7 +492,6 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -509,7 +511,6 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -531,7 +532,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -698,7 +698,6 @@ brcache.madthumbs.com
 breached.to
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -1029,9 +1028,9 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
-dfx.vnnv777.cn
 dh.holaworld.cn
 dh54wf.xyz
 dharamsalanet.com
@@ -1080,6 +1079,7 @@ dn3.ixinwei.com
 dnvus.com
 do69ifsly4.me
 dok-forum.net
+dol.tianya.cn
 dol.tianyaui.cn
 dolphin.ftimg.net
 dolphin4.ftimg.net
@@ -1624,6 +1624,7 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
+ic.ksosoft.com
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
@@ -1713,7 +1714,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1765,6 +1765,7 @@ jfm4.pop.baofeng.net
 jfqu36.club
 jfqu37.xyz
 jhakie.com
+jhtcdj.com
 jhzl001.com
 ji.dazhantai.com
 jiaeasy.net
@@ -2251,7 +2252,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2286,7 +2286,6 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mnxtu.com
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2324,6 +2323,7 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
+msxiaona.cn
 mtj.baidu.cn
 mtl.ttsqgs.com
 mtty-cdn.mtty.xin
@@ -2526,6 +2526,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2599,7 +2600,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2631,7 +2631,6 @@ qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
 r.0.0.0.0.cn
-r.5207470.com
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
@@ -2854,6 +2853,7 @@ sm.toutiao.com
 sm1.todgo.com
 sm2.todgo.com
 sobartop.baidu.com
+soft.zhidian3g.cn
 softsmirror.cf
 sohu.irs01.com
 sohu.wrating.com
@@ -3199,6 +3199,7 @@ w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
 wan.360.cn
+wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3300,7 +3301,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3454,6 +3454,7 @@ zgunion.cn
 zgzcjj.net
 zhanbin.net
 zhenlibu.info
+zhidian3g.cn
 zhinengluyou.com
 zhongzicili.cc
 zhreader.com
