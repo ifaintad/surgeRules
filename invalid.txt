@@ -7,6 +7,7 @@
 01daa.lutgh.com
 01daa.luvbr.com
 01daa.luytr.com
+0531kt.com
 0594003.com
 0756sjlm.com.cn
 09mk.cn
@@ -110,7 +111,6 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 52lubo.cn
 537901.com
 58.xgo.com.cn
@@ -138,6 +138,7 @@
 716703.com
 73.sinawap.com
 749558.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -146,6 +147,7 @@
 7z66.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
+8.jrj.com
 801.tianya.cn
 801.tianyaui.cn
 801.tianyaui.com
@@ -160,6 +162,7 @@
 8269996.com
 849558.com
 85058s.com
+8521448.com
 85655095.com
 8800271.com.cn
 88210212.com
@@ -176,7 +179,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -274,7 +277,6 @@ ad.crichd.in
 ad.csdn.net
 ad.daum.net
 ad.directmirror.com
-ad.dokrmob.com
 ad.dqwjzm.com
 ad.endpo.in
 ad.evozi.com
@@ -366,6 +368,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -487,11 +490,13 @@ api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
 apk.supfast.net
+apkcombo.com
 apkdo.com
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -505,6 +510,7 @@ app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
+appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -558,7 +564,9 @@ avcity.tv
 avpa.dzone.com
 avualrhg9p.bid
 ayabreya.xyz
+azerimix.com
 b.53yao.com
+b.9dreams.net
 b.cyone.com.cn
 b.e.f.ip6.arpa
 b.epinv.com
@@ -698,6 +706,7 @@ brcache.madthumbs.com
 breached.to
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -723,7 +732,6 @@ c.baidu.cn
 c.baidu.com
 c.cyto-biotherapy.com
 c.danangmo.cn
-c.dokrmob.com
 c.dzytjqcc.com
 c.effectivemeasure.net
 c.guangtui1999.com
@@ -871,7 +879,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -891,6 +898,7 @@ code.ttpaper.com
 code.wantaico.com
 code11.onetad.com
 code12.onetad.com
+code1984.com
 code1f.m.shushu8.com
 code1fa.m.shushu8.com
 code222.com
@@ -911,6 +919,7 @@ cosmic.monar.ch
 cosoyoo.com
 couchcoaster.jp
 count.game.pps.tv
+count.wk2.com
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
@@ -963,7 +972,6 @@ d.gossipcenter.com
 d.mingyihui.net
 d.ruiwen.com
 d.thelocal.com
-d.xinshipu.com
 d.yjbys.com
 d.yoyi.com.cn
 d1b183sg0nvnuh.cloudfront.net
@@ -1003,6 +1011,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dc.cp21.ott.cibntv.net
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1338,6 +1347,7 @@ event.ksosoft.com
 eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
+evise.com
 evoke-windowsservices-tas.msedge
 exp.17wo.cn
 exp.qumi.com
@@ -1357,6 +1367,7 @@ f1.luoshenbest.cn
 f1.pig66.com
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
+f5.dfcwg.com
 f56g.me
 fa.corp.163.com
 facebook.br
@@ -1624,7 +1635,6 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
-ic.ksosoft.com
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
@@ -1710,10 +1720,12 @@ international-news.newsmagazine.asia
 ioc.mmakd.top
 ip.hivps.xyz
 ip2.pxene.com
+iphone5.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1732,7 +1744,6 @@ j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
 j.sc1369.com
-j.xinshipu.com
 j.ytbt.cc
 j17.shangc.net
 j17.xiumu.cn
@@ -1920,7 +1931,6 @@ kukuku.uk
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
-kyad88.com
 kyoyue.com
 kyzhecmvpiaw.com
 l.minisplat.cn
@@ -1955,6 +1965,7 @@ listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
 liveupdate.mac.sandai.net
+lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2152,6 +2163,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2252,12 +2264,16 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
+mhd.1391.com
+mhdtestks3.1391.com
 miam4.cn
 michaelanti.com
 michaelmarketl.com
+microsoft-smb.cn
 microsoft.com.nsatc.net
 microsoftlinc.com
 microsoftmxfilantropia.com
@@ -2323,7 +2339,6 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
-msxiaona.cn
 mtj.baidu.cn
 mtl.ttsqgs.com
 mtty-cdn.mtty.xin
@@ -2371,6 +2386,7 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
+news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2526,7 +2542,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2600,6 +2615,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2631,6 +2647,7 @@ qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
 r.0.0.0.0.cn
+r.5207470.com
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
@@ -2874,6 +2891,7 @@ sponsors.s2ki.com
 spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
+sqtpks3.1391.com
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
@@ -3296,11 +3314,11 @@ wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
 www.wangruowang.org
-www2.xinmin.cn
 www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3428,6 +3446,7 @@ yrt7dgkf.exashare.com
 ysej.code.weddingeeos.com
 ytmx.2r3485.cn
 yts.ytsyyey.com
+yule8.net
 yun1.yahoo001.com
 yunanfuwuqi.com
 yunpifu.cn

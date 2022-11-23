@@ -222,7 +222,6 @@ DOMAIN-SUFFIX,microsoft-online.com.cn
 DOMAIN-SUFFIX,microsoft-ppe.com
 DOMAIN-SUFFIX,microsoft-sap-events.com
 DOMAIN-SUFFIX,microsoft-sbs-domains.com
-DOMAIN-SUFFIX,microsoft-smb.cn
 DOMAIN-SUFFIX,microsoft-tst.com
 DOMAIN-SUFFIX,microsoft365.com
 DOMAIN-SUFFIX,microsoftaccountguard.com
@@ -345,6 +344,7 @@ DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,msvevent.com
 DOMAIN-SUFFIX,msxiaobing.com
 DOMAIN-SUFFIX,msxiaoice.com
+DOMAIN-SUFFIX,msxiaona.cn
 DOMAIN-SUFFIX,mwf-service.akamaized.net
 DOMAIN-SUFFIX,myhomemsn.com
 DOMAIN-SUFFIX,mymicrosoft.com
