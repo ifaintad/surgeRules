@@ -147,7 +147,6 @@
 7z66.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
-8.jrj.com
 801.tianya.cn
 801.tianyaui.cn
 801.tianyaui.com
@@ -179,7 +178,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -490,13 +489,11 @@ api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
 apk.supfast.net
-apkcombo.com
 apkdo.com
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -510,7 +507,6 @@ app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
-appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -605,6 +601,7 @@ banner.telefragged.com
 banners.beevpn.com
 banners.beted.com
 banners.expressindia.com
+baoyatu.cc
 base.filedot.xyz
 bb.tuku.cc
 bb1429.com
@@ -706,7 +703,6 @@ brcache.madthumbs.com
 breached.to
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -919,7 +915,6 @@ cosmic.monar.ch
 cosoyoo.com
 couchcoaster.jp
 count.game.pps.tv
-count.wk2.com
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
@@ -1011,7 +1006,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dc.cp21.ott.cibntv.net
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1032,6 +1026,7 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
+delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.opera-mini.net
@@ -1253,7 +1248,6 @@ e.okfhn.com
 e.opqsr.com
 e.oyrim.com
 e.pbino.com
-e.picbr.com
 e.pomkl.com
 e.puooi.com
 e.pwjhg.com
@@ -1347,7 +1341,6 @@ event.ksosoft.com
 eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
-evise.com
 evoke-windowsservices-tas.msedge
 exp.17wo.cn
 exp.qumi.com
@@ -1367,7 +1360,6 @@ f1.luoshenbest.cn
 f1.pig66.com
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
-f5.dfcwg.com
 f56g.me
 fa.corp.163.com
 facebook.br
@@ -1493,6 +1485,7 @@ gg.zhongyao1.com
 gg0376.com
 gg1.yszyz.com
 gg2.dss9927.com
+gg570.com
 ggb.douguo.com
 ggdoubi.com
 ggg.zj.com
@@ -1638,7 +1631,6 @@ ibros.org
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
-idemocracy.asia
 idianfang.com
 ids.deliver.ifeng.com
 iebar.baidu.com
@@ -1720,12 +1712,10 @@ international-news.newsmagazine.asia
 ioc.mmakd.top
 ip.hivps.xyz
 ip2.pxene.com
-iphone5.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1965,7 +1955,6 @@ listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
 liveupdate.mac.sandai.net
-lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2143,7 +2132,6 @@ m.osndy.com
 m.oyrim.com
 m.panda.voiceads.cn
 m.pbino.com
-m.picbr.com
 m.plixi.com
 m.pomkl.com
 m.pougg.com
@@ -2264,7 +2252,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2386,7 +2373,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2447,6 +2433,7 @@ oascentral.lycos.com
 oascentral.sina.com
 oascentral.sina.com.hk
 oask.xulizui6.com
+odin.goo.mx
 office365love.com
 office365tw.com
 oikxlcv.wang
@@ -2609,13 +2596,11 @@ pvdata.ku6.com
 pvlog.hd.baofeng.com
 pvlog.moviebox.baofeng.net
 px.powerlinks.com
-pyerc.com
 pyzkk.com
 q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2642,6 +2627,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2778,7 +2764,6 @@ same03.jrj.com.cn
 sankie.net
 savebt.net
 saveliuxiaobo.com
-savetibet.fr
 sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
@@ -2858,7 +2843,6 @@ sinopitt.info
 siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
-sixth.biz
 sj1.3987.com
 sjrt.org
 skatehot.net
@@ -3064,6 +3048,7 @@ tt3sm4.cn
 ttlm.cc
 ttlowe.com
 ttm.htfmbt.com
+tu.njflfd.com
 tui.orzdream.com
 tuiguang.178.com
 tuisong.baidu.cn
@@ -3237,6 +3222,7 @@ wda.ydt.com.cn
 wdf5.com
 wdgsl.com
 wdzsb.com.cn
+web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
