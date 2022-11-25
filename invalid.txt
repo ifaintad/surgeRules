@@ -27,7 +27,6 @@
 1.qtmojo.cn
 1.rengshu.com
 1.tulaoshi.com
-1.tuxi.com.cn
 1.win7china.com
 1.wps.cn
 1.xiaopin5.com
@@ -65,7 +64,6 @@
 2.heiyange.com
 2.mobixs.cn
 2.rengshu.com
-2.tuxi.com.cn
 2.win7china.com
 2012ui.com
 20150930.cf
@@ -111,6 +109,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+52kmh.com
 52lubo.cn
 537901.com
 58.xgo.com.cn
@@ -125,6 +124,7 @@
 5vz3cfs0yd.me
 5yrra.deshuangwang.cn
 649558.com
+64si.com
 6615338.cn
 66992949.com
 6728812.com
@@ -147,12 +147,8 @@
 7z66.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
-801.tianya.cn
 801.tianyaui.cn
-801.tianyaui.com
-803.tianya.cn
 803.tianyaui.cn
-806.tianya.cn
 806.tianyaui.cn
 808.tianya.cn
 808.tianyaui.cn
@@ -179,6 +175,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -367,8 +364,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads1.lfengmobile.com
@@ -875,6 +872,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1026,7 +1024,6 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
-delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.opera-mini.net
@@ -1083,7 +1080,6 @@ dn3.ixinwei.com
 dnvus.com
 do69ifsly4.me
 dok-forum.net
-dol.tianya.cn
 dol.tianyaui.cn
 dolphin.ftimg.net
 dolphin4.ftimg.net
@@ -1716,6 +1712,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1779,6 +1776,7 @@ jingdian230.meilika.net
 jiu.njdkgm.com
 jiyou2014.com
 jizzthis.com
+jj123.com.cn
 jjhd47.115seo.com
 jjx.xjtxcj.com
 jjxgly.com
@@ -1993,7 +1991,6 @@ m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
-m.52tushuo.com
 m.551144.com
 m.640640.com
 m.7180443.com
@@ -2070,6 +2067,7 @@ m.hellomingpian.com
 m.heygugu.com
 m.hk7799.net
 m.hkmqp.com
+m.hpfjy.com
 m.hpzyl.com
 m.hsbkr.com
 m.huyulh.com
@@ -2152,6 +2150,7 @@ m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
 m.sanjiangge.com
+m.sbenx.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2433,7 +2432,6 @@ oascentral.lycos.com
 oascentral.sina.com
 oascentral.sina.com.hk
 oask.xulizui6.com
-odin.goo.mx
 office365love.com
 office365tw.com
 oikxlcv.wang
@@ -2453,6 +2451,7 @@ oomyv.com
 opendn.xyz
 openervpn.in
 openstorage.ad.cmvideo.cn
+ordns.he.net
 orz.hupu.com
 otf.msn.com
 otnd.org
@@ -2501,6 +2500,7 @@ pbs.lenovomm.com
 pc.107788.com
 pc.ctsywy.com
 pcauto.irs01.com
+pcmzn.com
 pd.sogou.com
 peace.ca
 pear.dleke.com
@@ -2601,6 +2601,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2627,7 +2628,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -3222,7 +3222,6 @@ wda.ydt.com.cn
 wdf5.com
 wdgsl.com
 wdzsb.com.cn
-web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
@@ -3399,7 +3398,6 @@ y.hzht666.com
 y.zxwdw.com
 y0.cn
 yageben.com
-yakbutterblues.com
 yanglaopt.net
 yao.zzsdjq.com
 ybp.yahoo.com
