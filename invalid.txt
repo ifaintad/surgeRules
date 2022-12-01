@@ -78,7 +78,6 @@
 285680.com
 2m2n.com
 3.guidaye.com
-3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -114,7 +113,6 @@
 52kmh.com
 52lubo.cn
 537901.com
-56cun04.jigsy.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -130,7 +128,6 @@
 6615338.cn
 66992949.com
 6728812.com
-68665565.com
 69duk.com
 6a4cc.lubue.com
 6a4cc.luvbr.com
@@ -140,6 +137,7 @@
 716703.com
 73.sinawap.com
 749558.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -176,7 +174,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -228,6 +225,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -263,6 +261,7 @@ activate.wip3.adobe.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
+ad-stat.ksosoft.com
 ad.1111cpc.com
 ad.17173.com
 ad.accessmediaproductions.com
@@ -363,13 +362,11 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adplus.goo.mx
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads1.lfengmobile.com
 ads2.opensubtitles.org
-adsapi.manhuaren.com
 adscdn.baidu.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
@@ -492,6 +489,7 @@ apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -511,6 +509,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -693,9 +692,9 @@ br.hao123.com
 brakefluid.website
 brand.sogou.com
 brcache.madthumbs.com
-breached.to
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -896,6 +895,7 @@ code222.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
+com.google
 comesgo.com
 config.mobisage.cn
 config.push.sogou.com
@@ -1025,7 +1025,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1429,7 +1428,6 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1544,6 +1542,7 @@ haiwengji.net
 hanju18.net
 hanunyi.com
 hao123rt.com
+haohaowan8.com
 hbalx.cn
 hbdt.luomi.com
 hbngfy.com
@@ -1625,6 +1624,7 @@ ibros.org
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
+iconpaper.org
 idianfang.com
 ids.deliver.ifeng.com
 iebar.baidu.com
@@ -1712,7 +1712,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1730,7 +1729,6 @@ j.dipowang.cn
 j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
-j.sc1369.com
 j.ytbt.cc
 j17.shangc.net
 j17.xiumu.cn
@@ -1884,6 +1882,7 @@ kho3au7l4z.me
 kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
+kissbbao.cn
 kn.aishake.cn
 kn.archrug.com
 kn.barnfps.com
@@ -2251,6 +2250,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2323,6 +2323,7 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
+msxiaona.cn
 mtj.baidu.cn
 mtl.ttsqgs.com
 mtty-cdn.mtty.xin
@@ -2371,6 +2372,7 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
+news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2432,7 +2434,6 @@ oascentral.sina.com
 oascentral.sina.com.hk
 oask.xulizui6.com
 ocbv0.baiyangzs.com
-odin.goo.mx
 office365love.com
 office365tw.com
 oikxlcv.wang
@@ -2529,7 +2530,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2603,6 +2603,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2749,6 +2750,7 @@ s1heng.com
 s2.dnaxddnc.com
 s2.mingmingtehui.com
 s2.yandui.com
+s3.rongnews.com
 s4.55.la
 s400cc.com
 s5.keydot.net
@@ -3140,6 +3142,7 @@ uu.feipukeplus.com
 uu.zeverdg.com
 uvclick.com
 uyghurcanadian.ca
+uyghurpress.com
 uyghurstudies.org
 v.dbncp.com
 v.irs01.com
@@ -3239,6 +3242,7 @@ wep016.top
 werpig.com
 wexiaobo.org
 wezhiyong.org
+wgnlz.com
 wha.la
 whn.star-media.cn
 whodns.xyz
@@ -3383,6 +3387,7 @@ xskywalker.net
 xtzxmy.com
 xul478.com
 xuzhiyong.net
+xx.m.gxwztv.com
 xxad.cc
 xxp.gytygc.com
 xxwkjl.com
