@@ -113,7 +113,6 @@
 51yes.com
 52kmh.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -226,7 +225,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -363,6 +361,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads1.lfengmobile.com
@@ -385,7 +384,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -509,6 +507,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -549,7 +548,6 @@ atm.sina.com
 atm.youku.com
 atomicblast.lol
 att.stargame.com
-aty.cp45.ott.cibntv.net
 aty.hd.sohu.com
 aty.sohu.com
 av.nightlife141.com
@@ -647,6 +645,7 @@ bdlncs1.familydoctor.com.cn
 bds.hainan.net
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
+bebelait.com
 becode.qiushibaike.com
 beeho.site
 beha.ksmobile.com
@@ -694,6 +693,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -761,7 +761,6 @@ c6.bjdianyue.com
 c6.lnymd.com
 cacaca.0571yy.com
 cacaca.sp96878.com
-cache.xw126.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
 caliyuna.cn
@@ -999,6 +998,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1019,7 +1019,6 @@ deals.ledgertranscript.com
 decodet.co
 dejing.laobanfa.com
 deletemer.online
-delicious.com
 deliver.ifeng.com
 delivery.dmkt-sp.jp
 demo.opera-mini.net
@@ -1417,6 +1416,7 @@ frdhq.cn
 free-ssh.com
 free4u.com.ar
 freechinaforum.org
+freedrive.cn
 freekwonpyong.org
 ft.pnop.com
 fuckcnnic.net
@@ -1429,6 +1429,7 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1502,6 +1503,7 @@ gongmeng.info
 gongminliliang.com
 gooddns.info
 goods.tudou.com
+googlelabs.com
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1626,7 +1628,6 @@ ibros.org
 icloud.net.cn
 icloudapple.cn
 ico.58pic.com
-iconpaper.org
 idianfang.com
 ids.deliver.ifeng.com
 iebar.baidu.com
@@ -1830,6 +1831,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -2000,7 +2002,6 @@ m.acaox.com
 m.achig.com
 m.afoux.com
 m.anmeilai.net
-m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.baiyangzs.com
@@ -2140,7 +2141,6 @@ m.pougg.com
 m.prazpf.cn
 m.puooi.com
 m.pwjhg.com
-m.pyerc.com
 m.qcw.com
 m.qhuik.com
 m.qsove.com
@@ -2327,6 +2327,7 @@ msn.wrating.com
 msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
+msxiaona.cn
 mtj.baidu.cn
 mtl.ttsqgs.com
 mtty-cdn.mtty.xin
@@ -2363,7 +2364,6 @@ nccwatch.org.tw
 ndy.code.weddingeeos.com
 neirong.baidu.com
 nest.youwatch.org
-net-fits.pro
 netflix.com.edgesuite.net
 netflixdnstest0.com
 netko0o.com
@@ -2375,6 +2375,7 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
+news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2564,6 +2565,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2605,6 +2607,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2631,7 +2634,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qvodzy.org
 qweqwe.mctvhp.cn
@@ -2641,6 +2643,7 @@ r.5207470.com
 r.ow.0.0.0.0.cn
 r.pixgold.com
 r.radikal.ru
+r.xcycm.com
 r.youmi.net
 r8nu86wg.me
 ra.gg
@@ -2685,7 +2688,6 @@ rpaulfrank.com
 rplog.baidu.com
 rs1.rensheng5.com
 rsas.szzek.com
-rsdlmonitor.com
 rtb-p.kejet.net
 rtb.eanalyzer.de
 rtb.metrigo.com
@@ -2705,7 +2707,6 @@ s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.cr-nielsen.com
-s.ddstu.com
 s.de123.net
 s.dsjcfw.com
 s.effectivemeasure.net
@@ -2716,6 +2717,7 @@ s.hnhgw.cn
 s.hzht666.com
 s.iroby.com
 s.iuuff.com
+s.jlminte.com
 s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
@@ -2896,7 +2898,6 @@ ss.sysadult.cn
 sscefsol.com.cn
 ssh.hxlif.com
 ssh.jsyzw132.com
-ssh.lifu11.com
 ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
@@ -2932,6 +2933,7 @@ statics.9669.com
 statisticsv2.yinyuetai.com
 stats.tudou.com
 statueofdemocracy.org
+stepchina.com
 stervapoimenialena.info
 stjzh.gdtarget.com
 store.videojj.com
