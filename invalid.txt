@@ -112,8 +112,6 @@
 51weidashi.com
 52kmh.com
 52lubo.cn
-537901.com
-56cun04.jigsy.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -174,7 +172,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -226,6 +223,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -291,7 +289,6 @@ ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
-ad.obuy.tw
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pixnet.in
@@ -338,7 +335,6 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
-adimg.qxlsjw.com
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -355,7 +351,6 @@ adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
 admeta.vo.llnwd.net
-admin.cooguo.com
 admob.xiaomi.com
 adnet.sohu.com
 adobe-dns-2.adobe.com
@@ -391,6 +386,7 @@ adz.zwee.ly
 ae-gb.mgid.com
 ae.hao123.com
 aercxy.com
+afantibbs.com
 afd.baidu.cn
 afd.l.google.com
 aff.lmgtfy.com
@@ -422,7 +418,6 @@ aj-gb.mgid.com
 ajhdf.com
 ajnad.aljazeera.net
 ajuhd.com
-ak47.cooguo.com
 akrwi.cn
 akuai.top
 akxsrsdbursfpx.bid
@@ -488,6 +483,7 @@ apkdo.com
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 aplestore.com
+aplleipods.com
 apnmedia.ask.com
 app.abc000.today
 app.eduancm.com
@@ -509,7 +505,7 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.film
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -574,7 +570,6 @@ b0.qinsx.cn
 b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
-b17.xiumu.cn
 b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
@@ -593,7 +588,6 @@ baiwanchuangyi.com
 bakgeekhome.tk
 banlv.baidu.com
 banner.automotiveworld.com
-banner.cooguo.com
 banner.telefragged.com
 banners.beevpn.com
 banners.beted.com
@@ -660,6 +654,7 @@ biantailajiao.in
 bic2011.org
 bigboy.eurogamer.net
 biq.keefung-zs.com
+bit.do
 bitc.bme.emory.edu
 bitinka.com.ar
 bixia.fymm.cn
@@ -797,7 +792,6 @@ cdn.5bong.com
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
-cdn.cooguo.com
 cdn.hivps.xyz
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
@@ -1553,6 +1547,7 @@ hbssjd.cn
 hc.baidu.cn
 hc.baidu.com
 hd.jiedaibao.com
+hd4.xyz
 hdad.baike.com
 hdb.maxli.cn
 heavenmedia.v3g4s.com
@@ -1699,6 +1694,7 @@ imp.asahi.com
 impp.mn
 impservicetest.dictapp.youdao.com
 in.mengpr.com
+in1.secure.uu.cc
 include.xs2345.com
 index.woai310.com
 info.downsave.com
@@ -1724,6 +1720,7 @@ its.caltech.edu
 itunes.com.edgekey.net
 itunesapple.cn
 iutr.uozwys.top
+ivy.pchouse.com.cn
 iwanad.baidu.com
 iwstat.tudou.com
 j.6avz.com
@@ -1736,7 +1733,6 @@ j.jimeilm.com
 j.qijijs.top
 j.ytbt.cc
 j17.shangc.net
-j17.xiumu.cn
 j520s.gzcl999.cn
 j7182.hfxcsl.cn
 jack.okkkk.com
@@ -1788,7 +1784,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
 js.05sun.com
@@ -1871,7 +1866,6 @@ jxad.jx163.com
 jxlog.istreamsche.com
 jzm81.com
 k.85wa.cn
-k.ctsywy.com
 k1w5.me
 k2team.kyiv.ua
 kafka8.com
@@ -1916,7 +1910,6 @@ ktv0311.com
 kuaipai666.cn
 kualianyingxiao.cn
 kukuku.uk
-kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
 kyoyue.com
@@ -2021,7 +2014,6 @@ m.cjieh.com
 m.ckikq.com
 m.codlw.com
 m.cqytjzgc.com
-m.ctsywy.com
 m.cuoas.com
 m.daishuxy.com
 m.dante2007.com
@@ -2049,6 +2041,7 @@ m.fouas.com
 m.foumm.com
 m.fstaw.com
 m.fwjoi.com
+m.fxbga.com
 m.fzyda.com
 m.gameyun907.net
 m.ganrs.com
@@ -2153,6 +2146,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2255,7 +2249,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2502,7 +2495,6 @@ pb.funshion.net.cn
 pb.wang502.com
 pbs.lenovomm.com
 pc.107788.com
-pc.ctsywy.com
 pcauto.irs01.com
 pcmzn.com
 pd.sogou.com
@@ -2532,6 +2524,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2542,7 +2535,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingbi.diudou.com
-pix.tagcdn.com
 pj5189.com
 pjtymy.cn
 playad.xjmg.com
@@ -3113,7 +3105,6 @@ unicast.msn.com
 union.mi.com
 union.mop.com
 union.star-media.cn
-union001.com
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
@@ -3172,7 +3163,6 @@ vi1.mzy2014.com
 vi2.ku6img.net
 vichc.com
 video.ap.org
-video.cooguo.com
 video.fdbox.com
 videondun.com
 videopush.baidu.cn
@@ -3265,6 +3255,7 @@ wkanc.51y5.net
 wkanc.com
 wl.51taifu.com
 wl.eastlady.cn
+wlcnew.jigsy.com
 wlkpa.cn
 wlx.sowiki.net
 wm.69shi.cn
