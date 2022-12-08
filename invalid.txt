@@ -111,7 +111,6 @@
 51weidashi.com
 52kmh.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -136,6 +135,7 @@
 716703.com
 73.sinawap.com
 749558.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,7 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -356,6 +356,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -366,6 +367,7 @@ adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -494,7 +496,6 @@ app.jgyee.com
 app.juwang.com
 app.tutanota.com
 app.waps.cn
-app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
@@ -504,10 +505,11 @@ apple.com.mwcloudcdn.com
 apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
-appleone.community
+appleclassicipod.com
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
+applestor.com
 appletv4.cn
 applog.mobike.com
 apppic.yingyongbei.com
@@ -518,6 +520,7 @@ appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoreapple.cn
+appsupdate.sinaapp.com
 apt.qumi.com
 aqgyju.cn
 aqqgli3vle.bid
@@ -526,6 +529,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -579,6 +583,7 @@ bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
+baidu.greenxf.cn
 baidu9635.com
 baidujs.cnys.com
 baidutv.baidu.com
@@ -820,6 +825,7 @@ chaojilamei.cn
 chengzhao95511.com
 chenpokong.net
 chenwen7788.com
+china-mmm.sa.com
 chinaaid.me
 chinacitynews.be
 chinacomments.org
@@ -860,6 +866,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -905,6 +912,7 @@ counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
 cp.ggyapp.com
+cp.greenxf.cn
 cpc.sohu.com
 cpcv.cc
 cpm.cm.kankan.com
@@ -1029,7 +1037,6 @@ dimg1.sz.net.cn
 dingchin.com.tw
 dip.pyangzi.com
 dip.szhyzkj.com
-dip.wl963.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
@@ -1120,6 +1127,7 @@ dyb.jdcbuy.com
 dz2017.zdzxyplyt.com
 dzisou.com
 dzl.baidu.com
+dzz.wankeedu.com
 e-traderland.net
 e.0.0.0.0.cn
 e.0.0.0.0.com.cn
@@ -1366,6 +1374,7 @@ fbc.ffychb.com
 fc-.cdn.bcebos.com
 fcsass.org.cn
 fdc89.jp
+feed.theta.sogou.com
 feedback.whalecloud.com
 feelssh.com
 fei232.bhzje7ua9.com
@@ -1421,6 +1430,7 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1579,6 +1589,7 @@ hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
+hnyny.com
 home.so-net.net.tw
 houdaolj.com
 hougaige.com
@@ -1683,7 +1694,6 @@ img2.126.net
 img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
-img3.fy1g.com
 img80.net
 imgc.cymzc.com
 imges.wu65.com
@@ -1712,7 +1722,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2144,6 +2153,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2287,7 +2297,6 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2473,7 +2482,6 @@ p.yizuya.com
 p.ynjczy.net
 p1.18zhongyao.com
 p1.qinsx.cn
-p2.hyz86.com
 p2.qinsx.cn
 p2pmid.baofeng.com
 p3tt.com
@@ -2873,6 +2881,7 @@ sponsors.s2ki.com
 spproxy.autobytel.com
 spt.dictionary.com
 sqd.jstdjq.com
+sqext.com
 sqtpks3.1391.com
 srhuafeng.com
 srocket.us
@@ -3168,7 +3177,6 @@ videondun.com
 videopush.baidu.cn
 vimg.dwstatic.com
 vip.cainiaofx.com
-vip.hyz86.com
 vip.id528.com
 vip.pinghuhome.com
 vista.tgbus.com
@@ -3302,6 +3310,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
