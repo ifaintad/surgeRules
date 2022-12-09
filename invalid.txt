@@ -171,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -223,7 +224,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -356,7 +356,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
+adplus.goo.mx
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -487,6 +487,7 @@ aplestore.com
 aplleipods.com
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -506,6 +507,8 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
+appleone.film
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -520,7 +523,6 @@ appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoreapple.cn
-appsupdate.sinaapp.com
 apt.qumi.com
 aqgyju.cn
 aqqgli3vle.bid
@@ -529,7 +531,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -653,6 +655,7 @@ beijingzx.org
 benshiw.net
 bes-progfree.com
 bestforchina.org
+bfdcdn.com
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -913,6 +916,7 @@ counter.kingsoft.com
 couqm.com.cn
 cp.ggyapp.com
 cp.greenxf.cn
+cp.jz5u.net
 cpc.sohu.com
 cpcv.cc
 cpm.cm.kankan.com
@@ -944,7 +948,6 @@ ct.210189.com
 ctfriend.net
 cupid.iqiyi.com
 cut.qumi.com
-cutscenes.net
 cwpush.com
 cy123.cc
 cyad1.cyworld.com
@@ -1353,7 +1356,6 @@ f.yueyetiyu.com
 f1.06ps.com
 f1.luoshenbest.cn
 f1.pig66.com
-f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
 f56g.me
 fa.corp.163.com
@@ -1367,6 +1369,7 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fast-cdn.dianjoy.com
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1374,7 +1377,6 @@ fbc.ffychb.com
 fc-.cdn.bcebos.com
 fcsass.org.cn
 fdc89.jp
-feed.theta.sogou.com
 feedback.whalecloud.com
 feelssh.com
 fei232.bhzje7ua9.com
@@ -1758,7 +1760,6 @@ jbflil.cn
 jbyy010.com
 jc.xuqinqi.cn
 jc1.dayfund.cn
-jct.maptu.cn
 jd.c-ptsp.com.cn
 jdb.jiudingcapital.cn
 jdb.jiudingcapital.com
@@ -1888,7 +1889,6 @@ kho3au7l4z.me
 kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
-kissbbao.cn
 kn.aishake.cn
 kn.archrug.com
 kn.barnfps.com
@@ -2153,7 +2153,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2258,7 +2257,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2606,6 +2604,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -3065,6 +3064,7 @@ tuituigui19999.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
+twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3263,6 +3263,7 @@ wkanc.51y5.net
 wkanc.com
 wl.51taifu.com
 wl.eastlady.cn
+wlcnew.jigsy.com
 wlkpa.cn
 wlx.sowiki.net
 wm.69shi.cn
@@ -3310,7 +3311,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
