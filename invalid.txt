@@ -17,7 +17,6 @@
 1.21shebao.com
 1.bashenghuo.com
 1.chcx.cn
-1.glook.cn
 1.hao123.com
 1.hnyouneng.com
 1.hslyqs.com
@@ -49,7 +48,6 @@
 163.wrating.com
 176um.com
 17un.co
-1984bbs.org
 1989report.hkja.org.hk
 1998cdp.org
 1d1px.net
@@ -111,6 +109,7 @@
 51weidashi.com
 52kmh.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -145,6 +144,7 @@
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
 801.tianyaui.cn
+801.tianyaui.com
 803.tianyaui.cn
 806.tianyaui.cn
 808.tianya.cn
@@ -172,7 +172,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -224,6 +223,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -335,6 +335,7 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
+adimg.cqnews.net
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -356,7 +357,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adplus.goo.mx
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -367,7 +368,6 @@ adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -487,7 +487,6 @@ aplestore.com
 aplleipods.com
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -507,8 +506,9 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
+appleone.blog
+appleone.community
 appleone.film
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -531,7 +531,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -812,6 +811,7 @@ cdn.newapi.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
+cdn.zampda.net
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -869,7 +869,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -916,7 +915,6 @@ counter.kingsoft.com
 couqm.com.cn
 cp.ggyapp.com
 cp.greenxf.cn
-cp.jz5u.net
 cpc.sohu.com
 cpcv.cc
 cpm.cm.kankan.com
@@ -1072,7 +1070,6 @@ dm.sanwen8.com
 dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
-dm50.jkyd.net
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
@@ -1369,7 +1366,6 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fast-cdn.dianjoy.com
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1721,9 +1717,11 @@ ip.hivps.xyz
 ip2.pxene.com
 iphonecase2013.com
 iphonelog.shouji.baofeng.com
+iphoto.wang
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -2153,6 +2151,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2257,6 +2256,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2517,6 +2517,7 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
+phpad.cqnews.net
 pic.2u.com.cn
 pic.adver.com.tw
 pic.aihaogou.com.cn
@@ -2541,7 +2542,6 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
-pingbi.diudou.com
 pj5189.com
 pjtymy.cn
 playad.xjmg.com
@@ -2946,6 +2946,7 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
+swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sxjxhg.com
@@ -3064,7 +3065,6 @@ tuituigui19999.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3156,6 +3156,7 @@ v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
+val.atm.cp31.ott.cibntv.net
 vcbn65.xyz
 vcfs6ip5h6.bid
 vdapprecv.app.cntvwb.cn
@@ -3263,7 +3264,6 @@ wkanc.51y5.net
 wkanc.com
 wl.51taifu.com
 wl.eastlady.cn
-wlcnew.jigsy.com
 wlkpa.cn
 wlx.sowiki.net
 wm.69shi.cn
@@ -3319,6 +3319,7 @@ wxwm2.ikuailian.com
 wy.ce22d.cn
 wysa.2wxb5.cn
 wyt.wwetjy.com
+wyttech.cn
 wzj.ywrjgzs.com
 x-wall.org
 x.9dagui.com
