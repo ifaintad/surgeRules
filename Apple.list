@@ -81,11 +81,10 @@ DOMAIN-SUFFIX,applenews.berlin
 DOMAIN-SUFFIX,applenews.hamburg
 DOMAIN-SUFFIX,applenews.tv
 DOMAIN-SUFFIX,applenewsformat.com
-DOMAIN-SUFFIX,appleone.audio
+DOMAIN-SUFFIX,appleone.blog
 DOMAIN-SUFFIX,appleone.chat
 DOMAIN-SUFFIX,appleone.cloud
 DOMAIN-SUFFIX,appleone.club
-DOMAIN-SUFFIX,appleone.guide
 DOMAIN-SUFFIX,appleone.host
 DOMAIN-SUFFIX,appleone.space
 DOMAIN-SUFFIX,appleone.tech
@@ -320,6 +319,7 @@ DOMAIN-SUFFIX,iphonexs.tv
 DOMAIN-SUFFIX,iphoto.eu
 DOMAIN-SUFFIX,iphoto.no
 DOMAIN-SUFFIX,iphoto.se
+DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,ipod.ca
 DOMAIN-SUFFIX,ipod.ch
 DOMAIN-SUFFIX,ipod.cm

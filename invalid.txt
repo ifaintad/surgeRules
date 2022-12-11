@@ -107,6 +107,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+5207470.com
 52kmh.com
 52lubo.cn
 537901.com
@@ -144,7 +145,6 @@
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
 801.tianyaui.cn
-801.tianyaui.com
 803.tianyaui.cn
 806.tianyaui.cn
 808.tianya.cn
@@ -171,7 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -335,7 +335,6 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
-adimg.cqnews.net
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -357,7 +356,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -368,6 +366,7 @@ adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -506,9 +505,10 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.blog
+appleone.audio
 appleone.community
 appleone.film
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -523,6 +523,7 @@ appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoreapple.cn
+appuu.cn
 apt.qumi.com
 aqgyju.cn
 aqqgli3vle.bid
@@ -739,6 +740,7 @@ c.piliangzhuce.cn
 c.ptffw.net
 c.queene.cn
 c.shunlige.com
+c.sss1989.com
 c.start280.com
 c.statstat888.com
 c.t98u8f.com
@@ -811,7 +813,6 @@ cdn.newapi.com
 cdn.puata.info
 cdn.vamaker.com
 cdn.xianliao.me
-cdn.zampda.net
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -1024,7 +1025,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1661,6 +1661,7 @@ img.ad.zhangyue.com
 img.cxxyft.com
 img.dawenxue.org
 img.dydab.com
+img.ercfh.com
 img.gou.wpscdn.cn
 img.gz9d.com
 img.il8r.com
@@ -1717,7 +1718,6 @@ ip.hivps.xyz
 ip2.pxene.com
 iphonecase2013.com
 iphonelog.shouji.baofeng.com
-iphoto.wang
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
@@ -2151,7 +2151,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2256,7 +2255,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2517,7 +2515,6 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
-phpad.cqnews.net
 pic.2u.com.cn
 pic.adver.com.tw
 pic.aihaogou.com.cn
@@ -2604,7 +2601,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2842,7 +2838,6 @@ sigbusa.com
 sina.wrating.com
 sina.yinstar.org
 sinaaliyun.cn
-sinoants.com
 sinonet.ca
 sinopitt.info
 siqwqjza.m.yikanxiaoshuo.net
@@ -2921,6 +2916,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3156,7 +3152,6 @@ v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
-val.atm.cp31.ott.cibntv.net
 vcbn65.xyz
 vcfs6ip5h6.bid
 vdapprecv.app.cntvwb.cn
@@ -3311,6 +3306,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3397,6 +3393,7 @@ xyrhd.com
 xyrkl.com
 xyy.code.weddingeeos.com
 xyy69.com
+xz.ercfh.com
 xzq.greenxf.net
 y.3957957.com
 y.gwylm.com
@@ -3465,9 +3462,7 @@ zgzcjj.net
 zhanbin.net
 zheng.cs12d.com
 zhenlibu.info
-zhidian3g.cn
 zhinengluyou.com
-zhongzicili.cc
 zhreader.com
 zjbdt.com
 zjm.zzmmkj.com
