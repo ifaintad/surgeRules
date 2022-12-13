@@ -155,6 +155,7 @@
 85058s.com
 8521448.com
 85655095.com
+85tgw.com
 8800271.com.cn
 88210212.com
 888.jiuwanwang.com
@@ -170,7 +171,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -223,7 +223,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -234,6 +233,7 @@ a6s.ve001nz.com
 aa-gb.mgid.com
 aa.goodsblock.mgid.com
 aa.tianya999.com
+aa.xiangxiangmf.com
 aa.zldh123.com
 aam.adsremote.scrippsnetworks.com
 ab-gb.mgid.com
@@ -271,7 +271,6 @@ ad.csdn.net
 ad.daum.net
 ad.directmirror.com
 ad.dqwjzm.com
-ad.duga.jp
 ad.endpo.in
 ad.evozi.com
 ad.flux.com
@@ -357,7 +356,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -531,7 +529,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -585,6 +582,7 @@ bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
+baidu.dsp.tansuotv.com
 baidu.greenxf.cn
 baidu9635.com
 baidujs.cnys.com
@@ -832,7 +830,6 @@ china-mmm.sa.com
 chinaaid.me
 chinacitynews.be
 chinacomments.org
-chinafreepress.org
 chinagreenparty.org
 chinaheh.com
 chinainterimgov.org
@@ -1024,7 +1021,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1427,6 +1423,7 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1482,6 +1479,7 @@ ggb.douguo.com
 ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
+gjczz.com
 gjreg.code.weddingeeos.com
 gm682.com
 gmhz.org
@@ -1498,6 +1496,7 @@ gog9.qzdfc.com
 golden1.sohu.com
 gongmeng.info
 gongminliliang.com
+good.ta80.com
 gooddns.info
 goods.tudou.com
 googlescholar.comUSA
@@ -1550,6 +1549,7 @@ hbssjd.cn
 hc.baidu.cn
 hc.baidu.com
 hd.jiedaibao.com
+hd.ylddq.com
 hd4.xyz
 hdad.baike.com
 hdb.maxli.cn
@@ -1615,6 +1615,7 @@ hzsod71wov.me
 i.dreamfull.cn
 i.jyhwt.cn
 i.ma.social-touch.com
+i.tansuotv.com
 i1.hk
 i2.akjunshi.com
 i5.akjunshi.com
@@ -1675,7 +1676,6 @@ img.supfast.net
 img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
-img.uyangyong.cn
 img.wan.sogou.com
 img.xa9t.com
 img.xcy8.com
@@ -1830,6 +1830,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -1867,7 +1868,6 @@ jwg365.cn
 jwqj.net
 jx5m.com
 jxad.jx163.com
-jxlog.istreamsche.com
 jzm81.com
 k.85wa.cn
 k1w5.me
@@ -2149,7 +2149,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2160,6 +2159,7 @@ m.symaa.cn
 m.symab.cn
 m.symac.cn
 m.symad.cn
+m.tansuotv.com
 m.tcksbz888.com
 m.tiantianedu.net
 m.tiaopimiao.net
@@ -2233,7 +2233,6 @@ maplew.com
 market.21cn.com
 match.rtbidder.net
 match.rundsp.com
-material.istreamsche.com
 material.mtty.xin
 mathiew-badimon.com
 matsushimakaede.com
@@ -2243,6 +2242,7 @@ mb.zam.com
 mcore.vcgame.cn
 md.sh5e.com
 md0z4dh.com
+mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2254,6 +2254,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2600,7 +2601,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2743,6 +2743,7 @@ s1.kutongji.com
 s1.mingmingtehui.com
 s1.nudezz.com
 s1.qiqutt.cn
+s1.tansuotv.com
 s1heng.com
 s2.dnaxddnc.com
 s2.mingmingtehui.com
@@ -2970,11 +2971,11 @@ t.youmi.net
 t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
+ta80.com
 taat00889.com
 tags2.adshell.net
 tamiaode.tk
 tangoutianxia.com
-tanxlog.istreamsche.com
 tanzanite.infomine.com
 taobaly.cn
 taobaoaliyun.cn
@@ -3204,7 +3205,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3336,6 +3336,7 @@ xdyjt.com
 xe2c.com
 xf.yellowto.com
 xfm.pp.ru
+xfo.monesyy.com
 xfywn.com
 xgmc6lu8fs.me
 xhbqczl.com
