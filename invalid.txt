@@ -30,7 +30,6 @@
 1.wps.cn
 1.xiaopin5.com
 1.xiaozhizhijia.com
-1.zw3e.com
 10.tt
 100.51.198.in-addr.arpa
 10086.cn.baidu.cdn.yiwk.com
@@ -135,6 +134,7 @@
 716703.com
 73.sinawap.com
 749558.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -223,6 +224,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -233,7 +235,6 @@ a6s.ve001nz.com
 aa-gb.mgid.com
 aa.goodsblock.mgid.com
 aa.tianya999.com
-aa.xiangxiangmf.com
 aa.zldh123.com
 aam.adsremote.scrippsnetworks.com
 ab-gb.mgid.com
@@ -335,6 +336,7 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
+adimg.cqnews.net
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -356,6 +358,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -486,6 +489,7 @@ aplestore.com
 aplleipods.com
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -505,7 +509,8 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.film
+appleone.community
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -1010,6 +1015,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1221,6 +1227,7 @@ e.lyjz001.com
 e.lzytt.com
 e.md0z4dh.com
 e.meizhuanghe.com
+e.miaoxinqipei.com
 e.mightiger.net
 e.miiuv.com
 e.mmkvi.com
@@ -1251,7 +1258,6 @@ e.resmv.com
 e.ricpt.com
 e.rmwdn.com
 e.romgv.com
-e.sanitwealth.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1771,6 +1777,7 @@ jhtcdj.com
 jhzl001.com
 ji.dazhantai.com
 jiaeasy.net
+jiajv.net
 jiansuo.dsxdn.com
 jiaoben.eastday.com
 jiaoben.junmeng.com
@@ -2107,6 +2114,7 @@ m.lzida.com
 m.lzytt.com
 m.maopuzw.com
 m.mgsue.cn
+m.miaoxinqipei.com
 m.mightiger.net
 m.miiuv.com
 m.miupp.com
@@ -2148,7 +2156,7 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
-m.sanitwealth.com
+m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2242,7 +2250,6 @@ mb.zam.com
 mcore.vcgame.cn
 md.sh5e.com
 md0z4dh.com
-mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2264,7 +2271,6 @@ mhdtestks3.1391.com
 miam4.cn
 michaelanti.com
 michaelmarketl.com
-microsoft-smb.cn
 microsoft.com.nsatc.net
 microsoftlinc.com
 microsoftmxfilantropia.com
@@ -2293,6 +2299,7 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
+mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2515,6 +2522,7 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
+phpad.cqnews.net
 pic.2u.com.cn
 pic.adver.com.tw
 pic.aihaogou.com.cn
@@ -2601,6 +2609,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -3060,6 +3069,7 @@ tuituigui19999.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
+twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3205,6 +3215,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3336,7 +3347,6 @@ xdyjt.com
 xe2c.com
 xf.yellowto.com
 xfm.pp.ru
-xfo.monesyy.com
 xfywn.com
 xgmc6lu8fs.me
 xhbqczl.com
