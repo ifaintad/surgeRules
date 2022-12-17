@@ -132,7 +132,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -168,7 +167,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -355,7 +353,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -442,6 +439,7 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
+angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anyangruisi.com
@@ -737,7 +735,6 @@ c.piliangzhuce.cn
 c.ptffw.net
 c.queene.cn
 c.shunlige.com
-c.sss1989.com
 c.start280.com
 c.statstat888.com
 c.t98u8f.com
@@ -844,6 +841,7 @@ cindy17club.com
 cip6.czpush.com
 circlethebayfortibet.org
 citizenscommission.hk
+civicparty.hk
 civildisobediencemovement.org
 ciyitan.com
 cjhq.baidu.cn
@@ -864,6 +862,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -908,7 +907,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countubn.light.soufun.com
 couqm.com.cn
 cp.ggyapp.com
 cp.greenxf.cn
@@ -938,7 +936,6 @@ crm-eve.b2b.alibaba-inc.com
 crossthewall.net
 crs.baidu.cn
 cs.dqwjzm.com
-csxjys.com
 ct.210189.com
 ctfriend.net
 cupid.iqiyi.com
@@ -978,6 +975,7 @@ daima.chazidian.com
 daima.diaoben.net
 daima.dsxdn.com
 daima.huoche.net
+daima.ijq.tv
 daima.mubite.cn
 daima123.cc
 dairuqi.com
@@ -1022,7 +1020,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1426,7 +1423,6 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.usingde.com
 g.uusee.com
@@ -1577,6 +1573,7 @@ hiad.myweb.hinet.net
 hiad.vmall.com
 hihistory.net
 himemix.net
+hjc1990.com
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
 hk32168.com
@@ -1679,7 +1676,6 @@ img.supfast.net
 img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
-img.uyangyong.cn
 img.wan.sogou.com
 img.xa9t.com
 img.xcy8.com
@@ -1839,6 +1835,7 @@ js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
+js205.dupinpu.com
 js2254.hfxcsl.cn
 js2553.xjzyq.com
 js257.0937jyg.com
@@ -2032,8 +2029,6 @@ m.djhhy.com
 m.dnfeu.com
 m.dsjre.com
 m.dxmci.com
-m.ee-skin.com
-m.ee-vip.net
 m.efeiy.com
 m.ehxyz.com
 m.emgwq.com
@@ -2320,6 +2315,7 @@ mpro.baidu.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
+ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2358,6 +2354,7 @@ n.zqqf0.cn
 nai.cpxkvc.com
 nav.winasdaq.com
 navi.gd.chinamobile.com
+nbhxgjz.com
 nbjjd.com
 nbkbgd.cn
 nbtvpn.com
@@ -2379,6 +2376,7 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
+news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2487,6 +2485,7 @@ p2pmid.baofeng.com
 p3tt.com
 p4p.sina.com.cn
 package01.com
+pad.zhywyl.cn
 page.bid.yahoo.com
 pagead.google.com
 painiuimg.com
@@ -2534,7 +2533,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2556,7 +2554,6 @@ plz.jandan.net
 pm.sdaiv.com
 politicalconsultation.org
 pomhz.com
-pop.91mangrandi.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
 popupad.cn
@@ -3065,7 +3062,7 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.tw
+twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3119,7 +3116,6 @@ union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3174,6 +3170,7 @@ vi1.ku6img.net
 vi1.mzy2014.com
 vi2.ku6img.net
 vichc.com
+victorjx.com
 video.ap.org
 video.fdbox.com
 videondun.com
@@ -3221,6 +3218,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
