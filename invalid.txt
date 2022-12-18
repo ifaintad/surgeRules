@@ -60,6 +60,7 @@
 2.mobixs.cn
 2.rengshu.com
 2.win7china.com
+201071.com
 2012ui.com
 20150930.cf
 2016bobo.cf
@@ -109,6 +110,7 @@
 5207470.com
 52kmh.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -132,6 +134,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -222,7 +225,6 @@ a2.huanqiumil.com
 a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
-a6.bjdianyue.com
 a6.taobanapp.com
 a6s.1cakeclub.com
 a6s.ruyiqufu.com
@@ -439,7 +441,6 @@ androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
 ane.yahoo.co.jp
-angsrvr.com
 anioscp.com
 anquan.baidu.cn
 anyangruisi.com
@@ -577,6 +578,7 @@ b99u.top
 ba.fqzds.com
 bad1.51gxqm.com
 bai3.gushiwen.org
+baiapk.com
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
 baidu.dsp.tansuotv.com
@@ -754,7 +756,6 @@ c1.minisplat.cn
 c1.ulink.cc
 c1.xcy8.com
 c3.moogos.com
-c6.bjdianyue.com
 c6.lnymd.com
 cacaca.0571yy.com
 cacaca.sp96878.com
@@ -862,7 +863,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1020,6 +1020,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1220,7 +1221,6 @@ e.lovezhishou.com
 e.lyjz001.com
 e.lzytt.com
 e.md0z4dh.com
-e.meizhuanghe.com
 e.miaoxinqipei.com
 e.mightiger.net
 e.miiuv.com
@@ -1423,6 +1423,7 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.usingde.com
 g.uusee.com
@@ -1524,6 +1525,7 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
+gvt0.com
 gx38.cn
 gyca9f.dahuangcheng.cn
 gz00005.top
@@ -1791,6 +1793,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jph.itiexue.net
 jrpt.jrptweb.org
 js.05sun.com
@@ -1822,7 +1825,6 @@ js.soonyou123.com
 js.szande.com.cn
 js.ubaike.cn
 js.um0592.com
-js.wo-x.cn
 js.wu65.com
 js.xiansuper.com
 js.xtgreat.com
@@ -1955,6 +1957,7 @@ ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
 lm.dawenxue.org
+lm.xiashu.la
 lml.jfjsp.com
 loandatec.com
 localnetwork.uop
@@ -1999,6 +2002,7 @@ m.acaox.com
 m.achig.com
 m.afoux.com
 m.anmeilai.net
+m.assigned.cn
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.baiyangzs.com
@@ -2232,6 +2236,7 @@ maisoncherry.com
 maizhong.org
 maplew.com
 market.21cn.com
+mastodon.host
 match.rtbidder.net
 match.rundsp.com
 material.mtty.xin
@@ -2254,7 +2259,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2315,7 +2319,6 @@ mpro.baidu.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2376,7 +2379,6 @@ neverforget8964.org
 new.ltheanine.cn
 new.zhqiu.com
 news-imgpb.51y5.net
-news-l.play.cp81.ott.cibntv.net
 news.s9377.com
 news.sina.com.hk
 news.sina.com.tw
@@ -2465,7 +2467,6 @@ ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
 p.bdjiazanmiaomu.com
-p.bjdianyue.com
 p.bnuni.com
 p.kjwx8.com
 p.l.ykimg.com
@@ -2603,6 +2604,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2918,6 +2920,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3062,7 +3065,6 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3229,6 +3231,7 @@ wazero.online
 wda.ydt.com.cn
 wdf5.com
 wdgsl.com
+web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
@@ -3311,6 +3314,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
