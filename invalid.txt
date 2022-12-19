@@ -51,6 +51,7 @@
 1998cdp.org
 1d1px.net
 1e2hyl3b.wq42211.com
+1i580.com
 1kmb.cn
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -83,6 +84,7 @@
 35baba.cn
 360baidus.com
 360jiaquan.com
+360shopping.com.cn
 360vip.front99.com
 361315.cc
 365bibi.com
@@ -110,7 +112,6 @@
 5207470.com
 52kmh.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -170,6 +171,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -334,6 +336,7 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
+adimg.cqnews.net
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -356,6 +359,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads1.lfengmobile.com
@@ -504,7 +508,8 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.film
+appleone.audio
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -863,6 +868,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1204,6 +1210,7 @@ e.jiirz.com
 e.jioeg.com
 e.jlkja.com
 e.jltdbyq.com
+e.jnsdkjzs.com
 e.joyxv.com
 e.juyzr.com
 e.jwiyr.com
@@ -1293,6 +1300,7 @@ e.yoiur.com
 e.ysdangan.com
 e.ysdhe.com
 e.yuxyz.com
+e.ywbwsm.com
 e.yycqc.com
 e.yyeks.com
 e.yyjhf.com
@@ -1525,7 +1533,6 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
-gvt0.com
 gx38.cn
 gyca9f.dahuangcheng.cn
 gz00005.top
@@ -1693,6 +1700,7 @@ img2.126.net
 img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
+img3.fy1g.com
 img80.net
 imgc.cymzc.com
 imges.wu65.com
@@ -1789,11 +1797,11 @@ jjxgly.com
 jjyy.gaopengqcdz.cn
 jkjjkj.top
 jmonitor.jiuzhilan.com
+jnsdkjzs.com
 jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jph.itiexue.net
 jrpt.jrptweb.org
 js.05sun.com
@@ -1833,7 +1841,6 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
-js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -1846,6 +1853,7 @@ js412.0937jyg.com
 js412.yexfes.com
 js50.yxlady.com
 js6882.mengchengbao.com
+js7004.hnfpgm.com
 js7129.dlkjgjmy.com
 js7129.shxqeps.com
 js7152.shxqeps.com
@@ -1853,6 +1861,7 @@ js74.0937jyg.com
 js74.yexfes.com
 js7405.mengchengbao.com
 js84.enyayinxiang.com
+js883.hnfpgm.com
 js9318.bllzgqbyp.com
 jsadt.com
 jskrnekewe.mofans.net
@@ -2198,7 +2207,6 @@ m.xetvb.com
 m.xhaiu.com
 m.xiangchim0.com
 m.xikdn.com
-m.xkqpco.com
 m.xlsschina15.net
 m.xpjis.com
 m.yangjingbang.net
@@ -2208,8 +2216,8 @@ m.yoiur.com
 m.ysdhe.com
 m.yuandajiayuan.com
 m.yuxyz.com
+m.ywbwsm.com
 m.yyjhf.com
-m.yzjlsb.com
 m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
@@ -2236,7 +2244,6 @@ maisoncherry.com
 maizhong.org
 maplew.com
 market.21cn.com
-mastodon.host
 match.rtbidder.net
 match.rundsp.com
 material.mtty.xin
@@ -2326,6 +2333,7 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+msltzer.cn
 msn.com.nsatc.net
 msn.wrating.com
 msnclick.wrating.com
@@ -2519,6 +2527,7 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
+phpad.cqnews.net
 pic.2u.com.cn
 pic.adver.com.tw
 pic.aihaogou.com.cn
@@ -2850,6 +2859,7 @@ site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
 sjrt.org
+sjum.cn
 skatehot.net
 sl.xawjwl.com
 slb.sxuantang.com
@@ -2884,6 +2894,7 @@ sqtpks3.1391.com
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
+ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -2920,7 +2931,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3056,6 +3066,7 @@ ttlowe.com
 ttm.htfmbt.com
 ttts.leztc.com
 tu.njflfd.com
+tuadong.com
 tui.orzdream.com
 tuiguang.178.com
 tuisong.baidu.cn
@@ -3065,6 +3076,7 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
+twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3231,7 +3243,6 @@ wazero.online
 wda.ydt.com.cn
 wdf5.com
 wdgsl.com
-web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
@@ -3262,6 +3273,7 @@ wiki.moegirl.org
 winvestern.com.cn
 winwhispers.info
 wip3.adobe.com
+wjguc.com
 wkanc.51y5.net
 wkanc.com
 wl.51taifu.com
