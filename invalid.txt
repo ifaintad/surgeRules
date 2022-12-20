@@ -170,7 +170,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -358,8 +357,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads1.lfengmobile.com
@@ -508,8 +507,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.audio
-appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -698,6 +695,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -809,6 +807,7 @@ cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
 cdn.puata.info
+cdn.tinglian.com
 cdn.vamaker.com
 cdn.xianliao.me
 cdn1.res.nx5.com
@@ -847,7 +846,6 @@ cindy17club.com
 cip6.czpush.com
 circlethebayfortibet.org
 citizenscommission.hk
-civicparty.hk
 civildisobediencemovement.org
 ciyitan.com
 cjhq.baidu.cn
@@ -1431,7 +1429,6 @@ fxtducb.cn
 fydgold132.com
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.usingde.com
 g.uusee.com
@@ -1568,7 +1565,6 @@ heib10.top
 heib12.top
 heix.pp.ru
 hejban.youwatch.org
-hejingroup.cn
 helloss.pw
 help.baotangwang.cn
 help.linksalpha.com
@@ -1582,7 +1578,6 @@ hiad.myweb.hinet.net
 hiad.vmall.com
 hihistory.net
 himemix.net
-hjc1990.com
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
 hk32168.com
@@ -1648,6 +1643,7 @@ igj5y.yongchanghengyuan.com
 iia1.pikacn.com
 iisl7wpf.me
 ikcode.baidu.com
+im.tv
 im1.56zzw.com
 image.139y.com
 image.9duw.com
@@ -1700,7 +1696,6 @@ img2.126.net
 img2.hrccb.com
 img2.jiuzhilan.com
 img2.qekun.com
-img3.fy1g.com
 img80.net
 imgc.cymzc.com
 imges.wu65.com
@@ -1841,6 +1836,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -2164,6 +2160,7 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
+m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2543,6 +2540,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2708,7 +2706,6 @@ s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
 s.baidu.com
-s.bmgan.com
 s.caduka.cn
 s.coveredsys.cn
 s.cr-nielsen.com
@@ -2894,7 +2891,6 @@ sqtpks3.1391.com
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
-ss.cnczjy.com
 ss.cnnic.cn
 ss.levyhsu.com
 ss.shicimingju.com
@@ -3076,7 +3072,7 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.tw
+twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
