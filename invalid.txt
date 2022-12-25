@@ -113,6 +113,7 @@
 5207470.com
 52kmh.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -172,6 +173,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -360,7 +362,6 @@ adobe-dns-3.adobe.com
 adplay.tudou.com
 adpro.cn
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads1.lfengmobile.com
@@ -384,7 +385,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -485,7 +485,6 @@ api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
 apk.supfast.net
-apkdo.com
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
 aplestore.com
@@ -866,7 +865,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -902,7 +900,6 @@ code222.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
-com.google
 comesgo.com
 config.mobisage.cn
 config.push.sogou.com
@@ -1251,7 +1248,6 @@ e.nejup.com
 e.nfkos.com
 e.nmtouzi.com
 e.nxypz.com
-e.oesnw.com
 e.okfhn.com
 e.opqsr.com
 e.oyrim.com
@@ -1379,6 +1375,7 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1501,6 +1498,7 @@ ggg.zj.com
 gi.xi.gxabj.com
 gjczz.com
 gjreg.code.weddingeeos.com
+gload.adhood.com
 gm682.com
 gmhz.org
 gmota.g188.net
@@ -1851,7 +1849,6 @@ js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
 js1.zuocai.tv
-js1151.zhudiaosz.com
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -2095,7 +2092,6 @@ m.hkmqp.com
 m.hpfjy.com
 m.hpzyl.com
 m.hsbkr.com
-m.huanyuexpress.com
 m.huyulh.com
 m.hyzui.com
 m.icyrd.com
@@ -2154,7 +2150,6 @@ m.nthtcs.com
 m.ntxiangtai.com
 m.nuxyz.cn
 m.nxypz.com
-m.oesnw.com
 m.opqsr.com
 m.osndy.com
 m.oyrim.com
@@ -2177,6 +2172,7 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
+m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2279,7 +2275,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2293,6 +2288,7 @@ microsoft.com.nsatc.net
 microsoftlinc.com
 microsoftmxfilantropia.com
 microsoftsiteselection.com
+mie99.net
 migrate.driveapi.micloud.xiaomi.net
 migu.kssws.ks-cdn.com
 mihua.org
@@ -2568,7 +2564,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pj5189.com
-pjtymy.cn
 playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
@@ -2912,6 +2907,7 @@ srocket.us
 srv.thespacereporter.com
 ss.cnnic.cn
 ss.levyhsu.com
+ss.pythonic.life
 ss.shicimingju.com
 ss.subo.me
 ss.swagger1.com
@@ -2923,6 +2919,7 @@ ssh.jsyzw132.com
 ssh.szxiuchang.com
 ssl.ymapp.com
 ssp.08160.cn
+ssp.86str.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
@@ -2971,7 +2968,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3055,7 +3051,6 @@ tk.baidu.cn
 tk.baidu.com
 tkweb.baidu.com
 tngrnow.net
-tongji.home.soufun.com
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
@@ -3091,7 +3086,6 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3104,7 +3098,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.xcy8.com
 u.yizuya.com
@@ -3239,6 +3232,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3342,7 +3336,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
@@ -3373,8 +3366,8 @@ xcyrc.com
 xdbwc.com
 xdyjt.com
 xe2c.com
-xf.yellowto.com
 xfm.pp.ru
+xfo.monesyy.com
 xfywn.com
 xgmc6lu8fs.me
 xhbqczl.com
@@ -3445,7 +3438,6 @@ ybp.yahoo.com
 ychun03.com
 ydlnt.com
 yee.js.cn
-yellowto.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
