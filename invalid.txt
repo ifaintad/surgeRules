@@ -113,7 +113,6 @@
 5207470.com
 52kmh.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -173,7 +172,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -510,8 +508,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.community
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -534,6 +530,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.trklinklog.com
 as.yuewz.com
@@ -1004,6 +1001,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1154,7 +1152,6 @@ e.baidu.cn
 e.bapkt.com
 e.bbvjs.com
 e.bokanedu.net
-e.bsnnk.com
 e.bvoer.com
 e.cbeif.com
 e.ccunf.com
@@ -1197,6 +1194,7 @@ e.hjryl.com
 e.hk7799.net
 e.hkmqp.com
 e.hmhqp.com
+e.hogyp.com
 e.hpzyl.com
 e.huaas.com
 e.hunpp.com
@@ -1375,7 +1373,6 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1498,7 +1495,6 @@ ggg.zj.com
 gi.xi.gxabj.com
 gjczz.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 gm682.com
 gmhz.org
 gmota.g188.net
@@ -1764,7 +1760,6 @@ jackaow.com
 jandyx.com
 japanfirst.asianfreeforum.com
 jb.asqql.com
-jb.dianshu119.com
 jb.eastlady.cn
 jb.mbaidu.top
 jb.mnkan.com
@@ -1809,6 +1804,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jph.itiexue.net
 jrpt.jrptweb.org
 js.05sun.com
@@ -1833,7 +1829,6 @@ js.mumayi.net
 js.paochala.net
 js.pub.tom.com
 js.pyangzi.com
-js.saiqizhi.com
 js.sanwen.net
 js.soduso.cc
 js.soonyou123.com
@@ -2028,7 +2023,6 @@ m.bapkt.com
 m.bbvjs.com
 m.bdiae.com
 m.bokanedu.net
-m.bsnnk.com
 m.bvoer.com
 m.bvosv.com
 m.casbanlly.com
@@ -2089,9 +2083,9 @@ m.hellomingpian.com
 m.heygugu.com
 m.hk7799.net
 m.hkmqp.com
+m.hogyp.com
 m.hpfjy.com
 m.hpzyl.com
-m.hsbkr.com
 m.huyulh.com
 m.hyzui.com
 m.icyrd.com
@@ -2719,6 +2713,7 @@ ry51w.cn
 s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
+s.652748.com
 s.baidu.com
 s.caduka.cn
 s.coveredsys.cn
@@ -3098,6 +3093,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.talkingdata.net
 u.xcy8.com
 u.yizuya.com
