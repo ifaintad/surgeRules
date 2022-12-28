@@ -172,7 +172,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9s6q.cn
@@ -225,6 +225,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.taobanapp.com
@@ -509,7 +510,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.blog
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -704,6 +704,7 @@ bt.byr.cn
 bt.neu6.edu.cn
 bt.xitongmonitor.com
 bt641499.gotoip4.com
+btaia.com
 bthergyuan.com
 btlaunch.baidu.com
 bwsj.hk
@@ -762,6 +763,7 @@ c1.ulink.cc
 c1.xcy8.com
 c3.moogos.com
 c6.lnymd.com
+ca.5173car.com
 cacaca.0571yy.com
 cacaca.sp96878.com
 cachenotice.cp11.ott.cibntv.net
@@ -789,7 +791,6 @@ cc.dace.hupu.com
 cc.idasui.cn
 cc.moquanad.com
 cc.piao.jianzhigg.com
-cc.st123.info
 cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
@@ -801,7 +802,6 @@ cdn.app.kachapt.cn
 cdn.hivps.xyz
 cdn.img.kachapt.cn
 cdn.jiuzhilan.com
-cdn.jllstudio.com
 cdn.komentary.aol.com
 cdn.mdotm.com
 cdn.millennialmedia.com
@@ -1494,7 +1494,6 @@ ggg.zj.com
 gi.xi.gxabj.com
 gjczz.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 gm682.com
 gmhz.org
 gmota.g188.net
@@ -1698,12 +1697,15 @@ img.zsj18.com
 img.zx590.com
 img01.taotaosou.cn
 img1.jintang114.org
+img1.km.com
 img1.mekbet.com
 img1.pszyzxh.org
 img2.126.net
 img2.hrccb.com
 img2.jiuzhilan.com
+img2.km.com
 img2.qekun.com
+img3.km.com
 img80.net
 imgc.cymzc.com
 imgcdn.wapx.cn
@@ -2132,6 +2134,7 @@ m.mmkvi.com
 m.mouaa.com
 m.mqgpo.com
 m.mrtuo.com
+m.mtuoa.com
 m.mushizhubao.com
 m.neijh.com
 m.nejup.com
@@ -2550,7 +2553,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2651,6 +2653,7 @@ quanliyouxi.cn
 quannengshen.org
 queene.cn
 quitccp.net
+qutaobi.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
@@ -2717,7 +2720,6 @@ ry51w.cn
 s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
-s.652748.com
 s.baidu.com
 s.caduka.cn
 s.coveredsys.cn
@@ -2800,6 +2802,7 @@ sc.shayugg.com
 scc.0.0.0.0.cn
 schemas.android.com
 sciencelolb.com
+scimg.27admin.com
 script.vccoo.com
 sd.0.0.0.0.cn
 sd.kk3g.net
@@ -2825,6 +2828,7 @@ sg-cdn.effectivemeasure.net
 sgbfjs.info
 sgvip.chinahdcm.com
 sh.qihoo.com
+shadow.ma
 shadowsocks-r.com
 shadowsocks9.com
 shangfang.org
@@ -2923,6 +2927,7 @@ ssp.dmpdsp.com
 ssp.kjwx8.com
 ssp.kssws.ks-cdn.com
 ssp.pro.cn
+ssp.thescenseproject.com
 ssp1.dmpdsp.com
 sss.camp
 sss.sege.xxx
@@ -2993,6 +2998,8 @@ t.orzdream.com
 t.pingzei.com
 t.tzcccm.com
 t.youmi.net
+t1.jzkapp.com
+t2.jzkapp.com
 t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
@@ -3014,6 +3021,7 @@ tb104x.corp.youdao.com
 tbaocdn.com
 tbcollege.org
 tbicn.org
+tbjfw.com
 tbpic.info
 tbsmalaysia.org
 tcjy66.cc
@@ -3035,6 +3043,7 @@ thefrontier.hk
 thejesperbay.com
 themis.yahoo.com
 thereallove.kr
+thescenseproject.com
 thxnr.com
 thyvjboy.com
 thywords.com.tw
@@ -3086,7 +3095,6 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3126,6 +3134,7 @@ uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
 uid.ksosoft.com
+uimg.27admin.com
 ujikdd041o.cn
 uk3oi.adgze.cn
 ukeiae.com
@@ -3180,7 +3189,6 @@ v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
-val.atm.cp31.ott.cibntv.net
 vcbn65.xyz
 vcfs6ip5h6.bid
 vdapprecv.app.cntvwb.cn
@@ -3205,6 +3213,7 @@ vimg.dwstatic.com
 vip.cainiaofx.com
 vip.id528.com
 vip.pinghuhome.com
+vip.zhuba8.com
 vista.tgbus.com
 vista.tgbusdata.cn
 vital247.org
@@ -3235,7 +3244,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3244,6 +3252,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3298,6 +3307,7 @@ wmcdn.qtmojo.cn
 wo.iuni.com.cn
 woaizhongguo.cdn111222.com
 wodhid.com
+wole.us
 workerdemo.org.hk
 wow-life.net
 wowips.com
