@@ -172,6 +172,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -359,6 +360,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -382,7 +384,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -697,6 +698,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -763,7 +765,6 @@ c1.ulink.cc
 c1.xcy8.com
 c3.moogos.com
 c6.lnymd.com
-ca.5173car.com
 cacaca.0571yy.com
 cacaca.sp96878.com
 cachenotice.cp11.ott.cibntv.net
@@ -1753,7 +1754,6 @@ j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
 j.ytbt.cc
-j1.piaobing.com
 j17.shangc.net
 j520s.gzcl999.cn
 j7182.hfxcsl.cn
@@ -1762,6 +1762,7 @@ jackaow.com
 jandyx.com
 japanfirst.asianfreeforum.com
 jb.asqql.com
+jb.dianshu119.com
 jb.eastlady.cn
 jb.mbaidu.top
 jb.mnkan.com
@@ -1795,6 +1796,7 @@ jingdian230.meilika.net
 jiu.njdkgm.com
 jiyou2014.com
 jizzthis.com
+jj123.com.cn
 jjhd47.115seo.com
 jjx.xjtxcj.com
 jjxgly.com
@@ -2169,7 +2171,6 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
-m.sanjiangge.com
 m.sbenx.com
 m.slandr.net
 m.sosjyx.com
@@ -2272,7 +2273,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2478,6 +2478,7 @@ opendn.xyz
 openervpn.in
 openstorage.ad.cmvideo.cn
 orz.hupu.com
+orzistic.org
 otf.msn.com
 otnd.org
 ox.furaffinity.net
@@ -2647,7 +2648,6 @@ qq.guansenff.cn
 qq.irs01.com
 qq.tapiche.cn
 qt002x.corp.youdao.com
-qtmojo.cn
 qtweeter.com
 quanliyouxi.cn
 quannengshen.org
@@ -2790,7 +2790,6 @@ same02.jrj.com.cn
 same03.jrj.com.cn
 sankie.net
 savebt.net
-saveliuxiaobo.com
 sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
@@ -3051,6 +3050,7 @@ tiangoutai.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
+tibetwrites.org
 timelog.moviebox.baofeng.com
 tintuc101.com
 tips.logger.baofeng.com
@@ -3107,7 +3107,6 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
-u.ddvip.com
 u.talkingdata.net
 u.xcy8.com
 u.yizuya.com
@@ -3213,7 +3212,6 @@ vimg.dwstatic.com
 vip.cainiaofx.com
 vip.id528.com
 vip.pinghuhome.com
-vip.zhuba8.com
 vista.tgbus.com
 vista.tgbusdata.cn
 vital247.org
@@ -3244,6 +3242,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
