@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,7cow.com
 DOMAIN-SUFFIX,8-d.com
 DOMAIN-SUFFIX,85cc.net
 DOMAIN-SUFFIX,85cc.us
+DOMAIN-SUFFIX,85st.com
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,888.com
 DOMAIN-SUFFIX,888poker.com
@@ -899,6 +900,7 @@ DOMAIN-SUFFIX,cointobe.com
 DOMAIN-SUFFIX,coinut.com
 DOMAIN-SUFFIX,collateralmurder.com
 DOMAIN-SUFFIX,collateralmurder.org
+DOMAIN-SUFFIX,com.google
 DOMAIN-SUFFIX,comefromchina.com
 DOMAIN-SUFFIX,comic-mega.me
 DOMAIN-SUFFIX,commandarms.com
@@ -1589,7 +1591,6 @@ DOMAIN-SUFFIX,gardennetworks.org
 DOMAIN-SUFFIX,gartlive.com
 DOMAIN-SUFFIX,gate-project.com
 DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,gatecoin.com
 DOMAIN-SUFFIX,gather.com
 DOMAIN-SUFFIX,gatherproxy.com
 DOMAIN-SUFFIX,gaybubble.com
@@ -1790,7 +1791,6 @@ DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,guruonline.hk
 DOMAIN-SUFFIX,gutteruncensored.com
 DOMAIN-SUFFIX,gvlib.com
-DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gwins.org
 DOMAIN-SUFFIX,gwtproject.org
@@ -2240,7 +2240,6 @@ DOMAIN-SUFFIX,jichangtj.com
 DOMAIN-SUFFIX,jiehua.cz
 DOMAIN-SUFFIX,jieshibaobao.com
 DOMAIN-SUFFIX,jigglegifs.com
-DOMAIN-SUFFIX,jigong1024.com
 DOMAIN-SUFFIX,jihadintel.meforum.org
 DOMAIN-SUFFIX,jihadology.net
 DOMAIN-SUFFIX,jiji.com
@@ -2599,6 +2598,7 @@ DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
@@ -3182,7 +3182,6 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerhk.com
 DOMAIN-SUFFIX,poolin.com
-DOMAIN-SUFFIX,popvote.hk
 DOMAIN-SUFFIX,popxi.click
 DOMAIN-SUFFIX,popyard.com
 DOMAIN-SUFFIX,popyard.org
@@ -4586,6 +4585,7 @@ DOMAIN-SUFFIX,whylover.com
 DOMAIN-SUFFIX,whyx.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,wikaba.com
+DOMAIN-SUFFIX,wiki.cnitter.com
 DOMAIN-SUFFIX,wiki.jqueryui.com
 DOMAIN-SUFFIX,wiki.keso.cn
 DOMAIN-SUFFIX,wiki.oauth.net
@@ -4601,6 +4601,7 @@ DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiwand.com
+DOMAIN-SUFFIX,wildammo.com
 DOMAIN-SUFFIX,williamhill.com
 DOMAIN-SUFFIX,willw.net
 DOMAIN-SUFFIX,windowsphoneme.com
