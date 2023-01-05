@@ -109,9 +109,9 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -155,6 +155,7 @@
 8521448.com
 85655095.com
 85tgw.com
+86kx.com
 8800271.com.cn
 88210212.com
 888.jiuwanwang.com
@@ -170,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -351,6 +353,7 @@ adm.sina.com.cn
 adm.zbinfo.net
 admeta.vo.llnwd.net
 admin.louxia.org
+admin.ninebox.cn
 admob.xiaomi.com
 adnet.sohu.com
 adobe-dns-2.adobe.com
@@ -365,6 +368,7 @@ adscdn.baidu.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
+adserve2.tom.com
 adshare.freedocast.com
 adsmind.tc.qq.com
 adsor.openrunner.com
@@ -809,7 +813,6 @@ cdn.newapi.com
 cdn.puata.info
 cdn.tinglian.com
 cdn.vamaker.com
-cdn.zampda.net
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -1000,6 +1003,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1026,7 +1030,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1464,6 +1467,7 @@ gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
+gatecoin.com
 gc.keefung-zs.com
 gcapi.sy.kugou.com
 gcs1.cn
@@ -1737,6 +1741,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 item.ttkvod.com
 items.bingdiantao.com
@@ -1846,6 +1851,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -2079,6 +2085,9 @@ m.gglay.com
 m.gtiou.com
 m.gtnde.com
 m.guaas.com
+m.guanren5.com
+m.guanren6.com
+m.guanren9.com
 m.guifei99.com
 m.gwdqp.com
 m.gxkyl.com
@@ -2312,7 +2321,6 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2336,7 +2344,6 @@ mpro.baidu.com
 mqq.zgdmsj.cn
 mqxd.org
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2373,6 +2380,7 @@ n.a.mosenni.com
 n.cosbot.cn
 n.ma.social-touch.com
 n.wjr1x.cn
+n.yfi8.com
 n.zqqf0.cn
 nai.cpxkvc.com
 nav.winasdaq.com
@@ -2631,6 +2639,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2883,6 +2892,7 @@ skatehot.net
 sl.xawjwl.com
 slb.sxuantang.com
 slb.upshengyi.com
+slides.discovery.tom.com
 sm.0.0.0.0.cn
 sm.toutiao.com
 sm1.todgo.com
@@ -3055,7 +3065,7 @@ tiangoutai.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
-tibetsites.com
+tibetanyouthcongress.org
 tibetwrites.org
 timelog.moviebox.baofeng.com
 tintuc101.com
@@ -3104,6 +3114,7 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
+twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3360,6 +3371,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
@@ -3526,7 +3538,6 @@ zmj.guanqinjie.cn
 zmlled.cn
 znsv.baidu.cn
 zonghexinwen.net
-zorrovpn.com
 zp22938576.com
 zqworks.com
 zqzxz.com
