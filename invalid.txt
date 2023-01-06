@@ -30,7 +30,6 @@
 1.wps.cn
 1.xiaopin5.com
 1.xiaozhizhijia.com
-1.zw3e.com
 10.tt
 100.51.198.in-addr.arpa
 10086.cn.baidu.cdn.yiwk.com
@@ -109,6 +108,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -155,7 +155,6 @@
 8521448.com
 85655095.com
 85tgw.com
-86kx.com
 8800271.com.cn
 88210212.com
 888.jiuwanwang.com
@@ -171,7 +170,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -359,7 +357,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -385,7 +382,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -437,6 +433,7 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -492,6 +489,7 @@ aplestore.com
 aplleipods.com
 apnmedia.ask.com
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -513,7 +511,7 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.audio
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -793,6 +791,7 @@ cc.dace.hupu.com
 cc.idasui.cn
 cc.moquanad.com
 cc.piao.jianzhigg.com
+cc.st123.info
 cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
@@ -1003,7 +1002,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1030,6 +1028,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dfx.vnnv777.cn
@@ -1467,7 +1466,6 @@ gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
-gatecoin.com
 gc.keefung-zs.com
 gcapi.sy.kugou.com
 gcs1.cn
@@ -2026,7 +2024,6 @@ m.achig.com
 m.adxpop.com
 m.afoux.com
 m.anmeilai.net
-m.assigned.cn
 m.axsre.com
 m.baidu.com.zhiduo.org
 m.baiyangzs.com
@@ -2181,7 +2178,6 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
-m.sanjiangge.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2666,6 +2662,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2751,7 +2748,6 @@ s.iroby.com
 s.iuuff.com
 s.jlminte.com
 s.khgj.cn
-s.l8l9.com
 s.maipubao.cn
 s.phpwind.com
 s.qd.qingting.fm
@@ -2841,7 +2837,6 @@ sg-cdn.effectivemeasure.net
 sgbfjs.info
 sgvip.chinahdcm.com
 sh.qihoo.com
-shadow.ma
 shadowsocks-r.com
 shadowsocks9.com
 shangfang.org
@@ -3065,7 +3060,6 @@ tiangoutai.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
-tibetanyouthcongress.org
 tibetwrites.org
 timelog.moviebox.baofeng.com
 tintuc101.com
@@ -3098,7 +3092,6 @@ tt.biquge.la
 tt.twzui6.com
 tt123.eastday.com
 tt321.eastday.com
-tt3sm4.cn
 ttlm.cc
 ttlowe.com
 ttm.htfmbt.com
@@ -3114,7 +3107,6 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3138,10 +3130,8 @@ ua.badongo.com
 ubm.fangtoo.com
 uc.haoyunyuan.cc
 uc.xiansuper.com
-uc610.com
 ucaliyun.cn
 ucdc1998.org
-ucqq.cnsptv.com.cn
 ucrzgcs.cn
 ucstat.baidu.cn
 ucstat.baidu.com
