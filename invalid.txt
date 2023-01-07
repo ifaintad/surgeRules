@@ -108,10 +108,8 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -170,7 +168,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -223,7 +220,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.taobanapp.com
@@ -233,6 +229,7 @@ a6s.ve001nz.com
 aa-gb.mgid.com
 aa.goodsblock.mgid.com
 aa.tianya999.com
+aa.xiangxiangmf.com
 aa.zldh123.com
 aam.adsremote.scrippsnetworks.com
 ab-gb.mgid.com
@@ -357,6 +354,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -433,7 +431,6 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -489,7 +486,6 @@ aplestore.com
 aplleipods.com
 apnmedia.ask.com
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -511,7 +507,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -533,6 +528,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.trklinklog.com
 as.yuewz.com
@@ -812,6 +808,7 @@ cdn.newapi.com
 cdn.puata.info
 cdn.tinglian.com
 cdn.vamaker.com
+cdn.zampda.net
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -868,7 +865,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -897,6 +893,7 @@ code222.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
+com.google
 comesgo.com
 config.mobisage.cn
 config.push.sogou.com
@@ -914,6 +911,7 @@ count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
+cp.5jjx.net
 cp.ggyapp.com
 cp.greenxf.cn
 cpc.sohu.com
@@ -1031,7 +1029,6 @@ dev-push.m.youku.com
 dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
-dfx.vnnv777.cn
 dh.holaworld.cn
 dh54wf.xyz
 dharamsalanet.com
@@ -1188,7 +1185,6 @@ e.fzyda.com
 e.gbieg.com
 e.gglay.com
 e.gxjfh.com
-e.gxkyl.com
 e.harbinbaojia.net
 e.hellomingpian.com
 e.hgrqp.com
@@ -1377,6 +1373,7 @@ fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
 fastly.bench.cedexis.com
+fathionmall.com
 fb.xk.miui.com
 fbc.ffychb.com
 fc-.cdn.bcebos.com
@@ -1597,6 +1594,7 @@ hkgreenradio.org
 hkhrm.org.hk
 hklft.com
 hkupop.hku.hk
+hkzone.org
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
@@ -1611,6 +1609,7 @@ ht.www.sogou.com
 html.350.com
 html.sunday8.com
 html.yuntzs.com
+huahuaka.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1757,6 +1756,7 @@ j.dipowang.cn
 j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
+j.sc1369.com
 j.ytbt.cc
 j17.shangc.net
 j520s.gzcl999.cn
@@ -2087,7 +2087,6 @@ m.guanren6.com
 m.guanren9.com
 m.guifei99.com
 m.gwdqp.com
-m.gxkyl.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
@@ -2212,6 +2211,7 @@ m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
 m.wrating.com
+m.wsxxu.com
 m.wxhh678.com
 m.xcy8.com
 m.xdkje.com
@@ -2347,7 +2347,6 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-msltzer.cn
 msn.com.nsatc.net
 msn.wrating.com
 msnclick.wrating.com
@@ -2540,7 +2539,6 @@ pearlher.org
 pegasus.cmcm.com
 pei-ads.playboy.com
 pf.h5game.cn
-photo.dhford.cn
 photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
@@ -2662,7 +2660,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2731,6 +2728,7 @@ ry51w.cn
 s.0.0.0.0.cn
 s.051352.com
 s.0594529.com
+s.5jjx.net
 s.baidu.com
 s.caduka.cn
 s.cdn.u17t.com
@@ -2808,6 +2806,7 @@ sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
 sc.shayugg.com
+sc1369.com
 scc.0.0.0.0.cn
 schemas.android.com
 sciencelolb.com
@@ -2872,6 +2871,7 @@ sifuhu.cn
 sifuji.cn
 sifuka.cn
 sigbusa.com
+sigo99.com
 sina.wrating.com
 sina.yinstar.org
 sinaaliyun.cn
@@ -3116,6 +3116,7 @@ twstar.net
 twyac.org
 tx.lwinl.com
 txtad.jijiplayer.com
+tylll.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
@@ -3263,7 +3264,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3361,7 +3361,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
