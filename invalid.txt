@@ -30,7 +30,6 @@
 1.win7china.com
 1.wps.cn
 1.xiaopin5.com
-1.xiaozhizhijia.com
 10.tt
 100.51.198.in-addr.arpa
 10086.cn.baidu.cdn.yiwk.com
@@ -135,7 +134,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -154,6 +152,7 @@
 85058s.com
 8521448.com
 85655095.com
+85st.com
 85tgw.com
 8800271.com.cn
 88210212.com
@@ -170,7 +169,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -223,7 +222,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.taobanapp.com
@@ -358,7 +356,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -511,7 +508,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -700,7 +696,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -1274,6 +1269,7 @@ e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
 e.t71q.com
+e.tdtsd.com
 e.tiantianedu.net
 e.tick0.com
 e.tiojk.com
@@ -1378,7 +1374,6 @@ falun.caltech.edu
 falundafa-sacramento.org
 falundata.org
 falunworld.net
-fan.liuxiaoer.com
 fangmincn.org
 fanqiangyakexi.net
 fansi365.com
@@ -1448,7 +1443,6 @@ fytza.cn
 fzh999.com
 fzh999.net
 g.corp.163.com
-g.usingde.com
 g.uusee.com
 g.w5b454.com
 g.wrating.com
@@ -1597,6 +1591,7 @@ hiad.myweb.hinet.net
 hiad.vmall.com
 hihistory.net
 himemix.net
+hivecn.cn
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
 hk32168.com
@@ -1776,7 +1771,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 japanfirst.asianfreeforum.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1811,7 +1805,6 @@ jingdian230.meilika.net
 jiu.njdkgm.com
 jiyou2014.com
 jizzthis.com
-jj123.com.cn
 jjhd47.115seo.com
 jjx.xjtxcj.com
 jjxgly.com
@@ -2189,7 +2182,6 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2576,7 +2568,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2606,6 +2597,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2649,6 +2641,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2997,7 +2990,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sxdyrq.com
@@ -3385,6 +3377,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
