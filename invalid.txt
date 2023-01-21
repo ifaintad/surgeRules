@@ -112,7 +112,6 @@
 51yes.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -171,6 +170,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -224,6 +224,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.taobanapp.com
@@ -357,6 +358,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -512,6 +514,7 @@ apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
 appleone.audio
+appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -533,6 +536,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.trklinklog.com
 as.yuewz.com
@@ -868,6 +872,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -897,6 +902,7 @@ coin2co.in
 coinhive-manager.com
 cointobe.com
 col.hztags.net
+com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1018,6 +1024,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1452,6 +1459,7 @@ fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1705,6 +1713,7 @@ img.supfast.net
 img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
+img.uyangyong.cn
 img.wan.sogou.com
 img.xa9t.com
 img.xcy8.com
@@ -1979,6 +1988,7 @@ legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
 leorockwell.com
+lerosua.org
 lfyuanai.com
 li.anyysz.com
 lightson.vpsboard.com
@@ -2215,6 +2225,7 @@ m.tiojk.com
 m.tuopp.com
 m.twldmx.com
 m.txtxr.com
+m.ueram.com
 m.uissm.com
 m.vbinu.com
 m.verpt.com
@@ -2268,6 +2279,7 @@ ma.hao123.com
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
+mad.m.maxthon.cn
 mads.aol.com
 magazines.sina.com.tw
 magnetic.t.domdex.com
@@ -2299,7 +2311,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2615,7 +2626,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2686,6 +2696,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3008,7 +3019,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sxdyrq.com
@@ -3231,7 +3241,6 @@ v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
-valf.atm.cp31.ott.cibntv.net
 vanemu.cn
 vcbn65.xyz
 vcfs6ip5h6.bid
@@ -3293,7 +3302,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3341,7 +3349,6 @@ wifishow.ggsafe.com
 wiki.esu.im
 wiki.moegirl.org
 wikileaks.com
-wikileaks.pl
 willw.net
 winvestern.com.cn
 winwhispers.info
