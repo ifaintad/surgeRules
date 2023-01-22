@@ -2,7 +2,6 @@
 0.in-addr.arpa
 0086555.com
 00880808.com
-01.gxso.net
 01daa.lubih.com
 01daa.lutgh.com
 01daa.luvbr.com
@@ -41,6 +40,7 @@
 11g.yiqig.cn
 1224.dxsbb.com
 123.sogoucdn.com
+12365chia.com
 127.in-addr.arpa
 13023.url.7wkw.com
 138138138.top
@@ -109,9 +109,9 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -136,6 +136,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -170,7 +171,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -258,6 +258,7 @@ acsystem.wasu.cn
 acsystem.wasu.tv
 actfortibet.org
 activate.wip3.adobe.com
+active.baofeng.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
@@ -513,8 +514,7 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.audio
-appleone.film
+appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -536,7 +536,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.trklinklog.com
 as.yuewz.com
@@ -701,6 +700,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -872,7 +872,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -902,7 +901,6 @@ coin2co.in
 coinhive-manager.com
 cointobe.com
 col.hztags.net
-com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1788,7 +1786,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1849,6 +1846,7 @@ js.dkqapp.cn
 js.feitian001.com
 js.hslyqs.com
 js.icast.cn
+js.idgdmg.com.cn
 js.jianbaimei.com
 js.jxabp.com.cn
 js.lieqitianxia.cn
@@ -2279,7 +2277,6 @@ ma.hao123.com
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
-mad.m.maxthon.cn
 mads.aol.com
 magazines.sina.com.tw
 magnetic.t.domdex.com
@@ -2696,7 +2693,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2913,7 +2909,6 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
-siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3146,7 +3141,7 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.net.tw
+twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3302,6 +3297,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
