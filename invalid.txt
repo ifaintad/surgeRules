@@ -109,9 +109,9 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -258,7 +258,6 @@ acsystem.wasu.cn
 acsystem.wasu.tv
 actfortibet.org
 activate.wip3.adobe.com
-active.baofeng.com
 actives.youku.com
 acwgf.com
 ad-gb.mgid.com
@@ -306,6 +305,7 @@ ad.smartclip.net
 ad.spielothek.so
 ad.test.ximalaya.com
 ad.thepaper.cn
+ad.thisav.com
 ad.userporn.com
 ad.vidaroo.com
 ad.walkgame.com
@@ -361,6 +361,7 @@ adobe-dns-3.adobe.com
 adplay.tudou.com
 adpro.cn
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -386,6 +387,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -514,7 +516,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -700,7 +701,6 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
-bs.5442.com
 bshare.optimix.asia
 bstatic.1kejian.com
 bstatic.diyifanwen.com
@@ -745,6 +745,7 @@ c.panqis.cn
 c.piliangzhuce.cn
 c.ptffw.net
 c.queene.cn
+c.rscxwmj.cn
 c.shunlige.com
 c.start280.com
 c.statstat888.com
@@ -872,6 +873,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -887,6 +889,7 @@ cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
 cnpinzhuo.com
 code.3shangyou.com
+code.hajuwang.cn
 code.kaixinjiehun.com
 code.kejet.com
 code.ttpaper.com
@@ -1022,7 +1025,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1457,7 +1459,6 @@ fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1786,6 +1787,7 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2021,6 +2023,7 @@ lsxmg.com
 ltheanine.cn
 lubosheng.cn
 lucting.cn
+lvjian66.com
 lw2.gamecopyworld.com
 lwnne.cn
 lwq.wangketuan.com
@@ -2308,6 +2311,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2911,6 +2915,7 @@ sinonet.ca
 sinopitt.info
 site.img.4tube.com
 siteks.uk.to
+sitemobia.com
 sj1.3987.com
 sjrt.org
 sjum.cn
@@ -3081,6 +3086,7 @@ tf.hftaili.com
 tg.1155t.cn
 tg.52digua.com
 tg.jifen.2345.com
+thebobs.com
 thefrontier.hk
 thejesperbay.com
 themis.yahoo.com
@@ -3141,7 +3147,6 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3283,7 +3288,6 @@ vvvulqn7.com
 vwkhdi.cn
 vwws6.net
 vz-cdn.trafficjunky.net
-w.bobocn.cn
 w.cube3d.cn
 w.homes.yahoo.net
 w.idaiwan.com
