@@ -109,9 +109,9 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -171,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -361,12 +362,10 @@ adobe-dns-3.adobe.com
 adplay.tudou.com
 adpro.cn
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
 adscdn.baidu.cn
-adsclick.yx.js.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
@@ -387,7 +386,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -530,6 +528,7 @@ appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoreapple.cn
+appsupdate.sinaapp.com
 apt.qumi.com
 aqqgli3vle.bid
 aqw.quanliyouxi.cn
@@ -600,6 +599,7 @@ baiwanchuangyi.com
 bakgeekhome.tk
 banlv.baidu.com
 banner.automotiveworld.com
+banner.europacasino.com
 banner.telefragged.com
 banner1.pornhost.com
 banners.beevpn.com
@@ -833,6 +833,7 @@ chaojilamei.cn
 chengzhao95511.com
 chenpokong.net
 chenwen7788.com
+chicken18.com
 china-mmm.sa.com
 chinaaid.me
 chinacitynews.be
@@ -873,7 +874,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1132,6 +1132,7 @@ dspserver.ad.cmvideo.cn
 dts.akamai.startappexchange.com
 duckduckgo-owned-server.yahoo.net
 dugbvb.com
+dugesheying.com
 duiwai.baidu.com
 duoyidd.com
 dupola.net
@@ -1757,6 +1758,7 @@ ip.hivps.xyz
 ip2.pxene.com
 iphonecase2013.com
 iphonelog.shouji.baofeng.com
+iphoto.wang
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
@@ -1883,9 +1885,11 @@ js2254.hfxcsl.cn
 js2553.xjzyq.com
 js257.0937jyg.com
 js2672.xjzyq.com
+js3810.yongkang6.com
 js412.0937jyg.com
 js412.yexfes.com
 js50.yxlady.com
+js5162.yongkang6.com
 js6882.mengchengbao.com
 js7004.hnfpgm.com
 js7129.dlkjgjmy.com
@@ -1896,6 +1900,7 @@ js74.yexfes.com
 js7405.mengchengbao.com
 js84.enyayinxiang.com
 js883.hnfpgm.com
+js883.yongkang6.com
 js9318.bllzgqbyp.com
 jsadt.com
 jskrnekewe.mofans.net
@@ -2252,6 +2257,7 @@ m.xetvb.com
 m.xhaiu.com
 m.xiangchim0.com
 m.xikdn.com
+m.xkqpco.com
 m.xlsschina15.net
 m.xpjis.com
 m.yangjingbang.net
@@ -2415,7 +2421,6 @@ n.zqqf0.cn
 nai.cpxkvc.com
 nav.winasdaq.com
 navi.gd.chinamobile.com
-nbhxgjz.com
 nbjjd.com
 nbkbgd.cn
 nbtvpn.com
@@ -2785,6 +2790,7 @@ s.iuuff.com
 s.jlminte.com
 s.khgj.cn
 s.maipubao.cn
+s.mt145.com
 s.phpwind.com
 s.qd.qingting.fm
 s.qd.qingtingfm.com
@@ -3202,6 +3208,7 @@ union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3349,6 +3356,7 @@ wifishow.ggsafe.com
 wiki.esu.im
 wiki.moegirl.org
 wikileaks.com
+wildammo.com
 willw.net
 winvestern.com.cn
 winwhispers.info
@@ -3410,7 +3418,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
