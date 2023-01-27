@@ -155,6 +155,7 @@
 85058s.com
 8521448.com
 85655095.com
+85st.com
 85tgw.com
 8800271.com.cn
 88210212.com
@@ -360,7 +361,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -508,6 +508,7 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
+appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -515,7 +516,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -870,6 +870,7 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
+clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -890,6 +891,7 @@ cn.voa.mobi
 cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
 cnpinzhuo.com
+cnzhqs.com
 code.3shangyou.com
 code.hajuwang.cn
 code.kaixinjiehun.com
@@ -922,6 +924,7 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
+countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -962,6 +965,7 @@ cyad1.cyworld.com
 cycy.kxrxh.com
 cylinderlongcheng.com
 cytode.us
+cz01016102.ms758.com
 czdqhyo1.net
 d.107788.com
 d.businessinsider.com
@@ -1037,6 +1041,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1050,7 +1055,6 @@ digitalnomadsproject.org
 dilber.se
 dimg1.sz.net.cn
 dingchin.com.tw
-dip.pyangzi.com
 dip.szhyzkj.com
 display.superbay.net
 distf.kankan.com
@@ -1460,8 +1464,6 @@ fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
-g.ad8.cc
-g.chuiyao.com
 g.corp.163.com
 g.uusee.com
 g.w5b454.com
@@ -1762,7 +1764,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1789,6 +1790,7 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1859,7 +1861,6 @@ js.mnkan.com
 js.mumayi.net
 js.paochala.net
 js.pub.tom.com
-js.pyangzi.com
 js.sanwen.net
 js.soduso.cc
 js.soonyou123.com
@@ -2383,6 +2384,7 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
+mshow.fang.com
 msn.com.nsatc.net
 msn.wrating.com
 msnclick.wrating.com
@@ -2668,6 +2670,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2711,7 +2714,6 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
-radiovaticana.org
 raidtalk.com.tw
 rangwang.biz
 rannabio.com
@@ -3052,6 +3054,7 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
+tags2.adshell.net
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3150,6 +3153,7 @@ tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
 twbbs.net.tw
+twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
