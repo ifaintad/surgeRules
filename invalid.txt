@@ -155,7 +155,6 @@
 85058s.com
 8521448.com
 85655095.com
-85st.com
 85tgw.com
 8800271.com.cn
 88210212.com
@@ -172,7 +171,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -229,6 +227,7 @@ a2.huanqiumil.com
 a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
+a6.bjdianyue.com
 a6.taobanapp.com
 a6s.1cakeclub.com
 a6s.ruyiqufu.com
@@ -386,7 +385,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -508,7 +506,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -672,6 +669,7 @@ bingyinq.com
 biq.keefung-zs.com
 bitc.bme.emory.edu
 bitinka.com.ar
+bixia.fymm.cn
 biyibia.com
 biz.weibo.com
 biz.weibo.com.cn
@@ -769,6 +767,7 @@ c1.ulink.cc
 c1.xcy8.com
 c2.popads.net
 c3.moogos.com
+c6.bjdianyue.com
 cacaca.0571yy.com
 cacaca.sp96878.com
 cachenotice.cp11.ott.cibntv.net
@@ -870,13 +869,13 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -924,7 +923,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1041,7 +1039,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1570,6 +1567,7 @@ gzmjnx.cn
 gzqudou.com
 h.canmg.cn
 h.irs01.com
+h01.hotrank.com.tw
 h1.18sd.cn
 h2.18sd.cn
 h5.taihao.cc
@@ -1764,6 +1762,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1876,7 +1875,6 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
-js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -1923,6 +1921,7 @@ k.85wa.cn
 k1w5.me
 k2team.kyiv.ua
 kafka8.com
+kalachakralugano.org
 kas.keydot.net
 kawa11.space
 kddtri.cn
@@ -2255,6 +2254,7 @@ m.xetvb.com
 m.xhaiu.com
 m.xiangchim0.com
 m.xikdn.com
+m.xkqpco.com
 m.xlsschina15.net
 m.xpjis.com
 m.yangjingbang.net
@@ -2266,6 +2266,7 @@ m.yuandajiayuan.com
 m.yuxyz.com
 m.ywbwsm.com
 m.yyjhf.com
+m.zeiaa.com
 m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
@@ -2353,6 +2354,7 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
+mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2384,7 +2386,6 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-mshow.fang.com
 msn.com.nsatc.net
 msn.wrating.com
 msnclick.wrating.com
@@ -2522,6 +2523,7 @@ op00w.baiyangzs.com
 opendn.xyz
 openervpn.in
 openstorage.ad.cmvideo.cn
+orchidscape.net
 orz.hupu.com
 orzistic.org
 otf.msn.com
@@ -2530,6 +2532,7 @@ ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
 p.bdjiazanmiaomu.com
+p.bjdianyue.com
 p.kjwx8.com
 p.l.ykimg.com
 p.l.youku.com
@@ -3152,8 +3155,6 @@ tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.net.tw
-twbbs.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3453,7 +3454,6 @@ xfm.pp.ru
 xfo.monesyy.com
 xfywn.com
 xgmc6lu8fs.me
-xhbqczl.com
 xhsxgnt.cn
 xhtd.99hg.wang
 xhydrs.cn
@@ -3533,6 +3533,7 @@ yiranxian.cn
 yizhenya.com
 yk0712.com
 ykatr.youku.com
+ykbei.com
 ykxwn.com
 yl850555.com
 yongyuelm.com
