@@ -111,7 +111,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -360,6 +359,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -535,7 +535,6 @@ ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
 as.baidu.cn
-as.trklinklog.com
 as.yuewz.com
 ashiping.com
 ask.gaykes.com
@@ -730,7 +729,6 @@ c.danangmo.cn
 c.dzytjqcc.com
 c.effectivemeasure.net
 c.guangtui1999.com
-c.gzsanxiaomingshi.cn
 c.idasui.cn
 c.iogous.com
 c.k429fma.com
@@ -875,7 +873,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1013,6 +1010,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1039,6 +1037,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1553,6 +1552,7 @@ gt.yy.com
 gtmsdd.alicdn.com
 gtmucs.cn
 guaguass.org
+guaneryu.com
 guang.lesports.com
 guangnianvpn.com
 guanjia.baidu.com
@@ -1567,7 +1567,6 @@ gzmjnx.cn
 gzqudou.com
 h.canmg.cn
 h.irs01.com
-h01.hotrank.com.tw
 h1.18sd.cn
 h2.18sd.cn
 h5.taihao.cc
@@ -1742,6 +1741,7 @@ imneinei.com
 imp.asahi.com
 impp.mn
 impservicetest.dictapp.youdao.com
+in.jxhcyc.com
 in.mengpr.com
 in1.secure.uu.cc
 include.xs2345.com
@@ -1875,6 +1875,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
@@ -2208,7 +2209,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2266,7 +2266,7 @@ m.yuandajiayuan.com
 m.yuxyz.com
 m.ywbwsm.com
 m.yyjhf.com
-m.zeiaa.com
+m.yzjlsb.com
 m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
@@ -2354,7 +2354,6 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2379,6 +2378,7 @@ mqq.zgdmsj.cn
 mqxd.org
 ms.awqsaged.cn
 ms.cmcm.com
+ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2673,7 +2673,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -3151,7 +3150,6 @@ tuiguang.178.com
 tuisong.baidu.cn
 tuisong.baidu.com
 tuituigui19999.com
-tw.tomonews.net
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
@@ -3275,6 +3273,7 @@ vimg.dwstatic.com
 vip.cainiaofx.com
 vip.id528.com
 vip.mall044.com
+vip.media8.cn
 vip.pinghuhome.com
 vista.tgbus.com
 vista.tgbusdata.cn
@@ -3418,7 +3417,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
