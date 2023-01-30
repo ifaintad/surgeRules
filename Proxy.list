@@ -2998,7 +2998,6 @@ DOMAIN-SUFFIX,onion.city
 DOMAIN-SUFFIX,onion.ly
 DOMAIN-SUFFIX,online.recoveryversion.org
 DOMAIN-SUFFIX,onlinecha.com
-DOMAIN-SUFFIX,onlineyoutube.com
 DOMAIN-SUFFIX,onlygayvideo.com
 DOMAIN-SUFFIX,onlytweets.com
 DOMAIN-SUFFIX,onmoon.com
@@ -3856,7 +3855,6 @@ DOMAIN-SUFFIX,tbi.org.hk
 DOMAIN-SUFFIX,tbjyt.org
 DOMAIN-SUFFIX,tbrc.org
 DOMAIN-SUFFIX,tbs-rainbow.org
-DOMAIN-SUFFIX,tbsec.org
 DOMAIN-SUFFIX,tbskkinabalu.page.tl
 DOMAIN-SUFFIX,tbsn.org
 DOMAIN-SUFFIX,tbsseattle.org
@@ -4372,6 +4370,7 @@ DOMAIN-SUFFIX,vcf-online.org
 DOMAIN-SUFFIX,vcfbuilder.org
 DOMAIN-SUFFIX,vegas.williamhill.com
 DOMAIN-SUFFIX,vegasred.com
+DOMAIN-SUFFIX,velkaepocha.sk
 DOMAIN-SUFFIX,venbbs.com
 DOMAIN-SUFFIX,venchina.com
 DOMAIN-SUFFIX,venetianmacao.com
@@ -4898,7 +4897,6 @@ DOMAIN-SUFFIX,zhenxiang.biz
 DOMAIN-SUFFIX,zhongguo.ca
 DOMAIN-SUFFIX,zhongguorenquan.org
 DOMAIN-SUFFIX,zhongguotese.net
-DOMAIN-SUFFIX,zhongmeng.org
 DOMAIN-SUFFIX,zhoushuguang.com
 DOMAIN-SUFFIX,zhuangbi.me
 DOMAIN-SUFFIX,zhuanxing.cn

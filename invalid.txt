@@ -109,6 +109,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 58.xgo.com.cn
@@ -170,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -335,7 +337,6 @@ adfront.auction.co.kr
 adgeo.corp.163.com
 adhome.1fangchan.com
 adimg.bbcss.com
-adimg.cqnews.net
 adimg.vue.weibo.com
 adimgs.xici.net
 adimp.excite.co.jp
@@ -359,7 +360,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -385,6 +385,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -410,6 +411,7 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -451,7 +453,6 @@ ane.yahoo.co.jp
 anioscp.com
 ann5.net
 anquan.baidu.cn
-anyangruisi.com
 aodongjiaosu.com
 aofriend.com.au
 aolchannels.aol.com
@@ -481,6 +482,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.union.vip.com
 api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
@@ -506,6 +508,7 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
+appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -513,6 +516,7 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
+appleone.audio
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -534,6 +538,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -740,6 +745,7 @@ c.minisplat.cn
 c.mnjkw.cn
 c.netu.tv
 c.ningbojipiao.com
+c.okmgy.cn
 c.panqis.cn
 c.piliangzhuce.cn
 c.ptffw.net
@@ -873,6 +879,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -887,7 +894,6 @@ cn.voa.mobi
 cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
 cnpinzhuo.com
-cnzhqs.com
 code.3shangyou.com
 code.hajuwang.cn
 code.kaixinjiehun.com
@@ -1010,7 +1016,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1037,7 +1042,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1179,6 +1183,7 @@ e.czggcj.com
 e.daishuxy.com
 e.danrs.com
 e.diogv.com
+e.diupp.com
 e.dnfeu.com
 e.dsjre.com
 e.dunmm.com
@@ -1331,6 +1336,7 @@ e.zhuyuanp.top
 e.zjkdaikuan.com
 e.zunss.com
 e704.net
+eap.enorth.com.cn
 eastturkistancc.org
 eclick.baidu.cn
 ecsm.vs.com
@@ -1352,6 +1358,7 @@ engagedaily.org
 epernn.cn
 epochtimes.ie
 epro.sohu.com
+eq.10jqka.com.cn
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
 esrpxyahzna.bid
@@ -1656,6 +1663,7 @@ i.tansuotv.com
 i1.hk
 i2.akjunshi.com
 i5.akjunshi.com
+iad0ssl.pconline.com.cn
 iadc.qwapi.com
 iads.xinmin.cn
 iask.bz
@@ -1762,7 +1770,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1831,7 +1838,6 @@ jjxgly.com
 jjyy.gaopengqcdz.cn
 jkjjkj.top
 jmonitor.jiuzhilan.com
-jnsdkjzs.com
 jobso.tv
 johtzj.com
 jossuer.net
@@ -2110,6 +2116,7 @@ m.gglay.com
 m.gtiou.com
 m.gtnde.com
 m.guaas.com
+m.guanren11.com
 m.guanren5.com
 m.guanren6.com
 m.guanren9.com
@@ -2220,6 +2227,7 @@ m.symab.cn
 m.symac.cn
 m.symad.cn
 m.symag.cn
+m.symaj.cn
 m.tcksbz888.com
 m.tiantianedu.net
 m.tiaopimiao.net
@@ -2378,7 +2386,6 @@ mqq.zgdmsj.cn
 mqxd.org
 ms.awqsaged.cn
 ms.cmcm.com
-ms.cnczjy.com
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2392,7 +2399,6 @@ msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
 mtj.baidu.cn
-mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
 mtxsk.com
@@ -2410,6 +2416,7 @@ myjsym.zichenit.com
 mymm.zichenit.com
 mytzdhz.cn
 myycrw.com
+n-st.vip.com
 n.a.mosenni.com
 n.cosbot.cn
 n.ma.social-touch.com
@@ -2518,6 +2525,7 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
+onlineyoutube.com
 oomyv.com
 op00w.baiyangzs.com
 opendn.xyz
@@ -2584,7 +2592,6 @@ photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
 photo.zhanhevr.cn
-phpad.cqnews.net
 pic.14bobo.com
 pic.2u.com.cn
 pic.adver.com.tw
@@ -2673,6 +2680,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.wanjuanba.com
 qd.x4399.com
@@ -2716,6 +2724,7 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
+raeqqe.cn
 raidtalk.com.tw
 rangwang.biz
 rannabio.com
@@ -2789,6 +2798,7 @@ s.jlminte.com
 s.khgj.cn
 s.maipubao.cn
 s.mt145.com
+s.okmgy.cn
 s.phpwind.com
 s.qd.qingting.fm
 s.qd.qingtingfm.com
@@ -2812,6 +2822,7 @@ s.zgclmw.cn
 s.zjhoudao.com
 s.zxwdw.com
 s1.cmfu.com
+s1.hnhbyxdq.com
 s1.huiqituan.com
 s1.iigushi.com
 s1.kutongji.com
@@ -3029,6 +3040,7 @@ sxdyrq.com
 sy.jlhygy.com
 sy.sxjxhg.com
 syilm.net
+symaj.cn
 sync.audtd.com
 sync.fastclick.net
 sync.teamrtb.net
@@ -3054,7 +3066,6 @@ t.tzcccm.com
 t.youmi.net
 t2.vbxx.net
 t70123.com
-t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
 tamiaode.tk
@@ -3075,6 +3086,7 @@ tbcollege.org
 tbicn.org
 tbjfw.com
 tbpic.info
+tbsec.org
 tbsmalaysia.org
 tcjy66.cc
 tcpspeed.co
@@ -3153,6 +3165,7 @@ tuituigui19999.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
+twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3254,7 +3267,6 @@ vdapprecv.app.cntvwb.cn
 vds.rightster.com
 ve.tsdlp.com
 vegent.cn
-velkaepocha.sk
 vendor1.fitschigogerl.com
 vers80.com
 vft.com.tw
@@ -3308,7 +3320,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3417,6 +3428,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wx16999.com
 wxaw.tiantongmaoyi.com
@@ -3572,6 +3584,7 @@ zhanbin.net
 zheng.cs12d.com
 zhenlibu.info
 zhinengluyou.com
+zhongmeng.org
 zhreader.com
 zjm.zzmmkj.com
 zkaip.com
