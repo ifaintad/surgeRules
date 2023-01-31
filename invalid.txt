@@ -109,9 +109,9 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -136,7 +136,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,7 +170,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -360,6 +358,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -385,7 +384,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -411,7 +409,6 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
-agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -482,7 +479,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.union.vip.com
 api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
@@ -508,7 +504,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -516,7 +511,7 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.audio
+appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -538,7 +533,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -879,7 +873,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1266,6 +1259,7 @@ e.nfkos.com
 e.nmtouzi.com
 e.nwxzs.com
 e.nxypz.com
+e.oesnw.com
 e.okfhn.com
 e.opqsr.com
 e.oyrim.com
@@ -1336,7 +1330,6 @@ e.zhuyuanp.top
 e.zjkdaikuan.com
 e.zunss.com
 e704.net
-eap.enorth.com.cn
 eastturkistancc.org
 eclick.baidu.cn
 ecsm.vs.com
@@ -1358,7 +1351,6 @@ engagedaily.org
 epernn.cn
 epochtimes.ie
 epro.sohu.com
-eq.10jqka.com.cn
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
 esrpxyahzna.bid
@@ -1468,6 +1460,7 @@ fytza.cn
 fzh999.com
 fzh999.net
 g.corp.163.com
+g.ousns.net
 g.uusee.com
 g.w5b454.com
 g.wrating.com
@@ -1475,6 +1468,7 @@ g.x.cn.xtgreat.com
 g1.0573ren.com
 g1.08160.cn
 g1.corp.163.com
+g2.ousns.net
 g2q3e.cn
 g9s.sgzs999.com
 gad.kugou.com
@@ -1663,7 +1657,6 @@ i.tansuotv.com
 i1.hk
 i2.akjunshi.com
 i5.akjunshi.com
-iad0ssl.pconline.com.cn
 iadc.qwapi.com
 iads.xinmin.cn
 iask.bz
@@ -1770,6 +1763,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1796,7 +1790,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2193,6 +2186,7 @@ m.ntxiangtai.com
 m.nuxyz.cn
 m.nwxzs.com
 m.nxypz.com
+m.oesnw.com
 m.opqsr.com
 m.osndy.com
 m.oyrim.com
@@ -2216,6 +2210,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2253,7 +2248,6 @@ m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
 m.wrating.com
-m.wsxxu.com
 m.wxhh678.com
 m.xcy8.com
 m.xdkje.com
@@ -2399,6 +2393,7 @@ msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
 mtj.baidu.cn
+mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
 mtxsk.com
@@ -2416,7 +2411,6 @@ myjsym.zichenit.com
 mymm.zichenit.com
 mytzdhz.cn
 myycrw.com
-n-st.vip.com
 n.a.mosenni.com
 n.cosbot.cn
 n.ma.social-touch.com
@@ -2511,7 +2505,6 @@ oascentral.sina.com.hk
 oask.xulizui6.com
 ocbv0.baiyangzs.com
 office365love.com
-office365tw.com
 oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
@@ -2525,7 +2518,6 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
-onlineyoutube.com
 oomyv.com
 op00w.baiyangzs.com
 opendn.xyz
@@ -2651,7 +2643,6 @@ prozz.net
 ps.3fenge.com
 psblog.name
 psiphon.civisec.org
-ptdrw.com
 ptkhy.com
 ptw.la
 pub.betclick.com
@@ -2822,7 +2813,6 @@ s.zgclmw.cn
 s.zjhoudao.com
 s.zxwdw.com
 s1.cmfu.com
-s1.hnhbyxdq.com
 s1.huiqituan.com
 s1.iigushi.com
 s1.kutongji.com
@@ -3066,6 +3056,7 @@ t.tzcccm.com
 t.youmi.net
 t2.vbxx.net
 t70123.com
+t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
 tamiaode.tk
@@ -3086,7 +3077,6 @@ tbcollege.org
 tbicn.org
 tbjfw.com
 tbpic.info
-tbsec.org
 tbsmalaysia.org
 tcjy66.cc
 tcpspeed.co
@@ -3165,7 +3155,6 @@ tuituigui19999.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
-twbbs.net.tw
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
@@ -3178,6 +3167,7 @@ txtad.jijiplayer.com
 tyu.quanliyouxi.cn
 tyx.xtzxmy.com
 tz.zjhoudao.com
+u.ddvip.com
 u.talkingdata.net
 u.xcy8.com
 u.yizuya.com
@@ -3320,6 +3310,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3364,10 +3355,10 @@ widnd.dajiadou6.com
 wifiapi01.51y5.net
 wifiapidd.51y5.net
 wifishow.ggsafe.com
+wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
 wikileaks.com
-willw.net
 winvestern.com.cn
 winwhispers.info
 wip3.adobe.com
