@@ -109,9 +109,9 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -136,7 +136,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -170,7 +169,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -223,6 +221,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -356,6 +355,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -509,8 +509,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.audio
-appleone.community
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -706,7 +704,6 @@ bt.byr.cn
 bt.neu6.edu.cn
 bt.xitongmonitor.com
 bt641499.gotoip4.com
-btaia.com
 bthergyuan.com
 btlaunch.baidu.com
 bwsj.hk
@@ -831,6 +828,7 @@ chengzhao95511.com
 chenpokong.net
 chenwen7788.com
 chicken18.com
+china-mmm.jp.net
 china-mmm.sa.com
 chinaaid.me
 chinacitynews.be
@@ -1022,7 +1020,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1034,10 +1031,10 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
-dharamsalanet.com
 dhxyzx.cn
 diaojiaoji168.com
 diaopic.14bobo.com
@@ -1459,7 +1456,6 @@ fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.chuiyao.com
 g.corp.163.com
 g.ousns.net
@@ -1766,7 +1762,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1794,6 +1789,7 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1822,6 +1818,7 @@ jiajv.net
 jiansuo.dsxdn.com
 jiaoben.eastday.com
 jiaoben.junmeng.com
+jiaoben.xinshipu.cn
 jias.haotxt.com
 jifeidandar.com
 jigong1024.com
@@ -1899,7 +1896,6 @@ js50.yxlady.com
 js5162.yongkang6.com
 js6882.mengchengbao.com
 js7004.hnfpgm.com
-js7129.dlkjgjmy.com
 js7129.shxqeps.com
 js7152.shxqeps.com
 js74.0937jyg.com
@@ -2049,7 +2045,6 @@ m.107279.com
 m.118ex.cn
 m.12306media.com
 m.1919388.net
-m.495495.com
 m.51xmgys.com
 m.551144.com
 m.640640.com
@@ -2062,6 +2057,7 @@ m.adxpop.com
 m.afoux.com
 m.anmeilai.net
 m.axsre.com
+m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
 m.baiyangzs.com
 m.bapkt.com
@@ -2220,7 +2216,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2406,7 +2401,6 @@ mtj.baidu.cn
 mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
-mtxsk.com
 mubite.cn
 mwa.xingyimin.com
 mwlucuvbyrff.com
@@ -2470,7 +2464,6 @@ nic.cz.cc
 nighost.org
 ninth.biz
 niwd.zhybw88.com
-njs.imagicskin.com
 njs.myyage.com
 njs.reliancevalve.com
 nko.navy.mil
@@ -2650,6 +2643,7 @@ pre.ra.icast.cn
 prerollads.ign.com
 proton.flurry.com
 proxytunnel.net
+prozz.net
 ps.3fenge.com
 psblog.name
 psiphon.civisec.org
@@ -2681,7 +2675,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -3027,7 +3020,6 @@ streaming.rtbiddingplatform.com
 su.8881919.cc
 sub.topber.com
 subacme.rerouted.org
-subswin.com
 suoluo.org
 surv.xbizmedia.com
 suvset.sohu.com
@@ -3148,7 +3140,6 @@ tt.biquge.la
 tt.twzui6.com
 tt123.eastday.com
 tt321.eastday.com
-ttlm.cc
 ttlowe.com
 ttm.htfmbt.com
 ttts.leztc.com
@@ -3318,7 +3309,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3427,7 +3417,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
