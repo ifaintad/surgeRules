@@ -170,7 +170,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -507,7 +506,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -829,6 +827,7 @@ centralvalidation.com
 cerebral.typn.com
 ch.shvoong.com
 chadegongxiao.com
+changhehengqi.com
 changsa.net
 chaojilamei.cn
 chengzhao95511.com
@@ -1012,7 +1011,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc2.csdn.net
@@ -1441,9 +1439,7 @@ fourface.nodesnoop.com
 foxtang.com
 fpb.51edu.com
 fpb.kuhou.com
-fpb.mn586.com
 fpbbdx1.51240.com
-fpbjiansuo.mn586.com
 frdhq.cn
 free-ssh.com
 free4u.com.ar
@@ -1539,7 +1535,6 @@ gongminliliang.com
 good.ta80.com
 gooddns.info
 goods.tudou.com
-googlelabs.com
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1607,6 +1602,7 @@ help.linksalpha.com
 helplinfen.com
 hesxz.com
 heungkongdiscuss.com
+hexieshe.xyz
 hg417.bet
 hg89038.com
 hg89068.com
@@ -1740,6 +1736,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.km.com
 img2.qekun.com
+img3.fy1g.com
 img3.km.com
 img80.net
 imgc.cymzc.com
@@ -1921,7 +1918,6 @@ jspg.cc
 jssd.uumeitu.com
 jt.yunxiufang.net
 jtug.code.poyang.com
-jubushoushen.com
 juhuaren.com
 jumpe.58xmgys.com
 jumpm.58xmgys.com
@@ -1945,7 +1941,6 @@ kddtri.cn
 keontech.net
 ker.pic2pic.site
 kermit.macnn.com
-keyyou.net
 kgcjgsa8.net
 khmusic.com.tw
 kho3au7l4z.me
@@ -2134,7 +2129,6 @@ m.gwdqp.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
-m.heygugu.com
 m.hissq.com
 m.hk7799.net
 m.hkmqp.com
@@ -2323,6 +2317,7 @@ mb.zam.com
 mcore.vcgame.cn
 md.sh5e.com
 md0z4dh.com
+mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2371,6 +2366,7 @@ mlgrrqymdsyk.com
 mm.2436.cn
 mm.anqu.com
 mm.jgchq.com
+mm.moquanad.com
 mmcc.yxlady.com
 mob.huimee.net
 mobad.ijinshan.com
@@ -2519,6 +2515,7 @@ oascentral.sina.com.hk
 oask.xulizui6.com
 ocbv0.baiyangzs.com
 office365love.com
+oikos.com.tw
 oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
@@ -2594,6 +2591,7 @@ pearlher.org
 pegasus.cmcm.com
 pei-ads.playboy.com
 pf.h5game.cn
+photo.dhford.cn
 photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
@@ -3089,6 +3087,7 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
+tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3131,7 +3130,6 @@ tngrnow.net
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3201,6 +3199,7 @@ udrwyjpwjfeg.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
+ui37.net
 uid.ksosoft.com
 uimg.27admin.com
 ujikdd041o.cn
@@ -3428,7 +3427,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
