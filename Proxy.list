@@ -1934,7 +1934,6 @@ DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,hkpeanut.com
 DOMAIN-SUFFIX,hkptu.org
 DOMAIN-SUFFIX,hkreporter.com
-DOMAIN-SUFFIX,hkreporter.loved.hk
 DOMAIN-SUFFIX,hkusu.net
 DOMAIN-SUFFIX,hkvwet.com
 DOMAIN-SUFFIX,hkwcc.org.hk
@@ -2129,6 +2128,7 @@ DOMAIN-SUFFIX,insidevoa.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instanthq.com
 DOMAIN-SUFFIX,institut-tibetain.org
+DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,internetdefenseleague.org
 DOMAIN-SUFFIX,internetfreedom.org
@@ -2138,7 +2138,6 @@ DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,inxian.com
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
-DOMAIN-SUFFIX,ipalter.com
 DOMAIN-SUFFIX,ipfire.org
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iphone4hongkong.com
@@ -3013,6 +3012,7 @@ DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,openid.net
@@ -3329,7 +3329,6 @@ DOMAIN-SUFFIX,raremovie.net
 DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,rationalwiki.org
 DOMAIN-SUFFIX,raw.githack.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,razyboard.com
@@ -3365,7 +3364,6 @@ DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,referer.us
 DOMAIN-SUFFIX,reflectivecode.com
 DOMAIN-SUFFIX,registry.google
-DOMAIN-SUFFIX,relaxbbs.com
 DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,releaseinternational.org
 DOMAIN-SUFFIX,religionnews.com
@@ -3412,7 +3410,6 @@ DOMAIN-SUFFIX,ronjoneswriter.com
 DOMAIN-SUFFIX,roodo.com
 DOMAIN-SUFFIX,rosechina.net
 DOMAIN-SUFFIX,rotten.com
-DOMAIN-SUFFIX,rsdlmonitor.com
 DOMAIN-SUFFIX,rsf-chinese.org
 DOMAIN-SUFFIX,rsf.org
 DOMAIN-SUFFIX,rsgamen.org
@@ -3703,6 +3700,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadshirt.es
 DOMAIN-SUFFIX,spring4u.info
 DOMAIN-SUFFIX,springboardplatform.com
+DOMAIN-SUFFIX,springwood.me
 DOMAIN-SUFFIX,sprite.org
 DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,squirly.info
@@ -3940,6 +3938,7 @@ DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,thlib.org
 DOMAIN-SUFFIX,thomasbernhard.org
 DOMAIN-SUFFIX,thongdreams.com
+DOMAIN-SUFFIX,threadreaderapp.com
 DOMAIN-SUFFIX,threatchaos.com
 DOMAIN-SUFFIX,throughnightsfire.com
 DOMAIN-SUFFIX,thumbzilla.com
@@ -4325,6 +4324,7 @@ DOMAIN-SUFFIX,urlparser.com
 DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,uscnpm.org
+DOMAIN-SUFFIX,userapi.nytlog.com
 DOMAIN-SUFFIX,users.skynet.be
 DOMAIN-SUFFIX,usfk.mil
 DOMAIN-SUFFIX,usma.edu
@@ -4829,6 +4829,7 @@ DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,yong.hu
 DOMAIN-SUFFIX,yorkbbs.ca
 DOMAIN-SUFFIX,you-get.org
+DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youmaker.com

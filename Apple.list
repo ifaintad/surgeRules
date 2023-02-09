@@ -1,6 +1,8 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list
 DOMAIN,api.smoot.apple.cn
+DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
+DOMAIN,icons.axm-usercontent-apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
@@ -87,7 +89,6 @@ DOMAIN-SUFFIX,appleone.chat
 DOMAIN-SUFFIX,appleone.cloud
 DOMAIN-SUFFIX,appleone.club
 DOMAIN-SUFFIX,appleone.community
-DOMAIN-SUFFIX,appleone.film
 DOMAIN-SUFFIX,appleone.guide
 DOMAIN-SUFFIX,appleone.host
 DOMAIN-SUFFIX,appleone.space
@@ -111,6 +112,7 @@ DOMAIN-SUFFIX,applepaysupplies.com.cn
 DOMAIN-SUFFIX,applepaysupplies.info
 DOMAIN-SUFFIX,applepaysupplies.net
 DOMAIN-SUFFIX,applepaysupplies.tv
+DOMAIN-SUFFIX,appleschoolcontent.com
 DOMAIN-SUFFIX,applestore.bg
 DOMAIN-SUFFIX,applestore.cc
 DOMAIN-SUFFIX,applestore.ch
@@ -435,6 +437,7 @@ DOMAIN-SUFFIX,simplyipod.com
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,tvappstore.net
 DOMAIN-SUFFIX,ukipad.com
+DOMAIN-SUFFIX,vertexsmb.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,wwwapplemusic.com
 DOMAIN-SUFFIX,wwwicloud.com
