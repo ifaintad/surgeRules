@@ -56,7 +56,7 @@ TELEGRAM = {
 }
 
 CHATGPT = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRules/build/chatgpt.list",
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRules/build/ChatGPT.list",
     "domain_keywords": [],
 }
 
