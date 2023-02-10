@@ -55,10 +55,15 @@ TELEGRAM = {
     "domain_keywords": ["nicegram", "telegram"],
 }
 
+CHATGPT = {
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRules/build/chatgpt.list",
+    "domain_keywords": [],
+}
 
-MEDIA_RULES = [
-    YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM
+IP_RESTRICTED_RULES = [
+    YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM, CHATGPT
 ]
+
 
 # PAYPAL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
 

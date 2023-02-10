@@ -296,7 +296,7 @@ class SurgeRules:
     def __init__(self, output_dir,
                  banning_rules_dicts,
                  direct_rules_dicts,
-                 media_rules_dict,
+                 ip_restricted_rules_dict,
                  proxy_raw_list_dict,
                  invalid_domains_file_name="invalid.txt",
                  force_update_invalid_domains=False,
@@ -305,7 +305,7 @@ class SurgeRules:
         self.output_dir = output_dir
         self.banning_rules_dicts = banning_rules_dicts
         self.direct_rules_dicts = direct_rules_dicts
-        self.media_rules_dict = media_rules_dict
+        self.ip_restricted_rules_dict = ip_restricted_rules_dict
         self.proxy_raw_list_dict = proxy_raw_list_dict
         try:
             os.makedirs(output_dir, exist_ok=False)
@@ -326,7 +326,7 @@ class SurgeRules:
             *[RuleItem(**rule_item, n_retries=5).url_list for rule_item in [
                 *self.banning_rules_dicts,
                 *self.direct_rules_dicts,
-                *self.media_rules_dict,
+                *self.ip_restricted_rules_dict,
                 self.proxy_raw_list_dict
             ]]))
         return get_invalid_domains(
@@ -364,7 +364,7 @@ class SurgeRules:
         used_rules = used_rules.union(exist_rules.difference(exist_rules_copy))
 
         proxy_rule_set = RuleSets(
-            rule_dicts=rulesets.MEDIA_RULES,
+            rule_dicts=rulesets.IP_RESTRICTED_RULES,
             n_retries=self.n_retries)
 
         exist_rules = set(proxy_rule_set.rule_set_copy).difference(used_rules)
@@ -421,6 +421,6 @@ if __name__ == "__main__":
         output_dir="publish",
         banning_rules_dicts=rulesets.BANNING_RULES,
         direct_rules_dicts=rulesets.DIRECT_RULES,
-        media_rules_dict=rulesets.MEDIA_RULES,
+        ip_restricted_rules_dict=rulesets.IP_RESTRICTED_RULES,
         proxy_raw_list_dict=rulesets.PROXY_RAW_DICT
     ).get_all_rule_set()
