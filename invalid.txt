@@ -57,7 +57,6 @@
 1lib.pl
 2.0.192.in-addr.arpa
 2.21shebao.com
-2.5aigushi.com
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
@@ -171,6 +170,8 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -222,6 +223,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -351,6 +353,7 @@ adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
 admeta.vo.llnwd.net
+admin.cooguo.com
 admin.louxia.org
 admin.ninebox.cn
 admob.xiaomi.com
@@ -425,6 +428,7 @@ aj-gb.mgid.com
 ajhdf.com
 ajnad.aljazeera.net
 ajuhd.com
+ak47.cooguo.com
 akrwi.cn
 akxsrsdbursfpx.bid
 al-qimmah.net
@@ -512,6 +516,7 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
+appleone.guide
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -533,7 +538,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -598,6 +602,7 @@ baiwanchuangyi.com
 bakgeekhome.tk
 banlv.baidu.com
 banner.automotiveworld.com
+banner.cooguo.com
 banner.europacasino.com
 banner.telefragged.com
 banner1.pornhost.com
@@ -704,6 +709,7 @@ breeze.olclient.baofeng.com
 breezily168.com
 bsdev.cn
 bshare.optimix.asia
+bstatic.1kejian.com
 bstatic.diyifanwen.com
 bt.byr.cn
 bt.neu6.edu.cn
@@ -791,6 +797,7 @@ cc.365yigou.cn
 cc.700ok.net
 cc.dace.hupu.com
 cc.idasui.cn
+cc.moquanad.com
 cc.piao.jianzhigg.com
 cc.st123.info
 cc.xtgreat.com
@@ -802,6 +809,7 @@ cdn.5bong.com
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
+cdn.cooguo.com
 cdn.hivps.xyz
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
@@ -1770,6 +1778,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1797,7 +1806,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1845,6 +1853,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
 js.05sun.com
@@ -1854,7 +1863,6 @@ js.51taifu.com
 js.5iydz.com
 js.bxwns.com
 js.cncrk.com
-js.cnmo.com
 js.dkqapp.cn
 js.feitian001.com
 js.hslyqs.com
@@ -1873,7 +1881,6 @@ js.soonyou123.com
 js.start1999.com
 js.szande.com.cn
 js.ubaike.cn
-js.um0592.com
 js.wu65.com
 js.xiansuper.com
 js.xtgreat.com
@@ -1978,6 +1985,7 @@ ktv0311.com
 kuaipai666.cn
 kualianyingxiao.cn
 kukuku.uk
+kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
 kyoyue.com
@@ -2223,6 +2231,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2233,7 +2242,6 @@ m.symaa.cn
 m.symab.cn
 m.symac.cn
 m.symad.cn
-m.symag.cn
 m.symaj.cn
 m.tcksbz888.com
 m.tiantianedu.net
@@ -2272,6 +2280,7 @@ m.xkqpco.com
 m.xlsschina15.net
 m.xpjis.com
 m.yangjingbang.net
+m.yingchengtou.com
 m.ynnke.com
 m.yoiur.com
 m.ysdhe.com
@@ -2607,7 +2616,6 @@ pic.haowj.com.cn
 pic.moad.cn
 pic.neiyicun.net
 pic.pic-img.com
-pic.punchbox.org
 pic.pxstda.com
 pic.usingde.com
 pic1.onetad.com
@@ -2714,6 +2722,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3040,6 +3049,7 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
+swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sxbhzs.net
@@ -3132,7 +3142,6 @@ tk.baidu.cn
 tk.baidu.com
 tkweb.baidu.com
 tngrnow.net
-tongji.home.soufun.com
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
@@ -3282,6 +3291,7 @@ vi2.ku6img.net
 vichc.com
 victorjx.com
 video.ap.org
+video.cooguo.com
 video.fdbox.com
 videondun.com
 videopush.baidu.cn
@@ -3324,6 +3334,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3432,7 +3443,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
