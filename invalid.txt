@@ -110,7 +110,6 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
 58.xgo.com.cn
@@ -171,6 +170,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -313,6 +313,7 @@ ad.walkgame.com
 ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
+ad.xxguan.cn
 ad.ylunion.com
 ad000000.com
 ad1.netshelter.net
@@ -359,7 +360,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -506,6 +506,7 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
+appgift.sinaapp.com
 apple-appstore.cn
 apple.com.cdn20.com
 apple.com.mwcloudcdn.com
@@ -513,7 +514,6 @@ apple.com.mwcname.com
 apple.comscoreresearch.com
 appleappstore.cn
 appleclassicipod.com
-appleone.film
 applepaycash.cn
 applepaycash.com.cn
 applepaysupplies.cn
@@ -535,6 +535,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -703,9 +704,9 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
-bstatic.1kejian.com
 bstatic.diyifanwen.com
 bt.byr.cn
 bt.neu6.edu.cn
@@ -877,7 +878,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -966,6 +966,8 @@ cyad1.cyworld.com
 cycy.kxrxh.com
 cylinderlongcheng.com
 cytode.us
+cz01016102.cg2017.com
+cz01016102.ms758.com
 czdqhyo1.net
 d.107788.com
 d.businessinsider.com
@@ -1014,7 +1016,6 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1129,6 +1130,7 @@ dsadas.hydp188.com
 dsaeerf.com
 dshrx.com
 dsp.send.microad-cn.com
+dspmy.ge95.com
 dspserver.ad.cmvideo.cn
 dts.akamai.startappexchange.com
 duckduckgo-owned-server.yahoo.net
@@ -1355,7 +1357,6 @@ eiv.baidu.cn
 ellawine.org
 engagedaily.org
 epernn.cn
-epochtimes.ie
 epro.sohu.com
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
@@ -1459,12 +1460,12 @@ funf.tw
 funshion.net.cn
 futuremessage.org
 fxc.aiquxs.com
-fxmacd.com
 fxtducb.cn
 fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.chuiyao.com
 g.corp.163.com
 g.ousns.net
@@ -1555,6 +1556,7 @@ greatroc.tw
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
 groups.google.cn
+gsearch.media
 gso0.com
 gt.yy.com
 gtmsdd.alicdn.com
@@ -1627,7 +1629,6 @@ hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
 hklft.com
-hkreporter.loved.hk
 hkupop.hku.hk
 hkzone.org
 hm.baidu.cn
@@ -1773,10 +1774,8 @@ ipalter.com
 iphonecase2013.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
-ipm.atm.cp31.ott.cibntv.net
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1804,7 +1803,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1995,6 +1993,7 @@ l.supfast.net
 l.youku.com
 l9bdhcgihw.neihanw.com
 lajizhan.org
+lan.btwan5.com
 langjiyisheng.com
 lanterncn.cn
 lanxiangji.com
@@ -2069,7 +2068,6 @@ m.achig.com
 m.adxpop.com
 m.afoux.com
 m.anmeilai.net
-m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
@@ -2408,7 +2406,6 @@ ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
 msg1.video.qiyi.com
-mshow.fang.com
 msminico.cn
 msn.com.nsatc.net
 msn.wrating.com
@@ -2694,6 +2691,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2716,12 +2714,12 @@ qp.yunanfuwuqi.com
 qq.guansenff.cn
 qq.irs01.com
 qq.tapiche.cn
+qshxc.com
 qt002x.corp.youdao.com
 qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2748,6 +2746,7 @@ rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
+recv-vd.gridsumdissector.cn
 red.bayimg.net
 regist.fotoable.com
 relaxbbs.com
@@ -2982,6 +2981,7 @@ spt.dictionary.com
 sqd.jstdjq.com
 sqext.com
 sqtpks3.1391.com
+src.duanxin520.com
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
@@ -3176,6 +3176,7 @@ tuituigui19999.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
+twbbs.net.tw
 twbbs.tw
 tweeplike.me
 tweetmylast.fm
@@ -3441,6 +3442,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3516,6 +3518,7 @@ xtzxmy.com
 xul478.com
 xuzhiyong.net
 xxad.cc
+xxguan.cn
 xxp.gytygc.com
 xxwkjl.com
 xy.shijialianzuishuai.com

@@ -1247,6 +1247,7 @@ DOMAIN-SUFFIX,epochtimes.co.il
 DOMAIN-SUFFIX,epochtimes.co.kr
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,epochtimes.cz
+DOMAIN-SUFFIX,epochtimes.ie
 DOMAIN-SUFFIX,epochtimes.it
 DOMAIN-SUFFIX,epochtimes.ru
 DOMAIN-SUFFIX,epochtimes.se
@@ -1769,7 +1770,6 @@ DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,grow.google
 DOMAIN-SUFFIX,gs-discuss.com
-DOMAIN-SUFFIX,gsearch.media
 DOMAIN-SUFFIX,gsp.target.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gtricks.com
@@ -1934,6 +1934,7 @@ DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,hkpeanut.com
 DOMAIN-SUFFIX,hkptu.org
 DOMAIN-SUFFIX,hkreporter.com
+DOMAIN-SUFFIX,hkreporter.loved.hk
 DOMAIN-SUFFIX,hkusu.net
 DOMAIN-SUFFIX,hkvwet.com
 DOMAIN-SUFFIX,hkwcc.org.hk
@@ -3012,7 +3013,6 @@ DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,openid.net
