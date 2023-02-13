@@ -113,6 +113,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -171,8 +172,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -183,6 +182,7 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
+a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
@@ -313,7 +313,6 @@ ad.walkgame.com
 ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
-ad.xxguan.cn
 ad.ylunion.com
 ad000000.com
 ad1.netshelter.net
@@ -361,7 +360,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -670,6 +668,7 @@ beijingzx.org
 benshiw.net
 bes-progfree.com
 bestforchina.org
+bfshan.cn
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -678,7 +677,6 @@ bingyinq.com
 biq.keefung-zs.com
 bitc.bme.emory.edu
 bitinka.com.ar
-bixia.fymm.cn
 biyibia.com
 biz.weibo.com
 biz.weibo.com.cn
@@ -914,6 +912,7 @@ coin2co.in
 coinhive-manager.com
 cointobe.com
 col.hztags.net
+com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1047,6 +1046,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1134,7 +1134,6 @@ dsadas.hydp188.com
 dsaeerf.com
 dshrx.com
 dsp.send.microad-cn.com
-dspmy.ge95.com
 dspserver.ad.cmvideo.cn
 dts.akamai.startappexchange.com
 duckduckgo-owned-server.yahoo.net
@@ -1327,7 +1326,6 @@ e.yidulive.net
 e.yingchengtou.com
 e.ynnke.com
 e.yoiur.com
-e.ysdangan.com
 e.ysdhe.com
 e.yuxyz.com
 e.ywbwsm.com
@@ -1572,6 +1570,7 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
+gvt0.com
 gx38.cn
 gyca9f.dahuangcheng.cn
 gydag.com
@@ -1778,7 +1777,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1998,7 +1996,6 @@ l.supfast.net
 l.youku.com
 l9bdhcgihw.neihanw.com
 lajizhan.org
-lan.btwan5.com
 langjiyisheng.com
 lanterncn.cn
 lanxiangji.com
@@ -2138,11 +2135,11 @@ m.guanren11.com
 m.guanren5.com
 m.guanren6.com
 m.guanren9.com
-m.guifei99.com
 m.gwdqp.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
+m.heygugu.com
 m.hissq.com
 m.hk7799.net
 m.hkmqp.com
@@ -2163,6 +2160,7 @@ m.jcwwxn.com
 m.jdaot.com
 m.jgkto.com
 m.jhcgood.com
+m.jieyixiu.com
 m.jiirz.com
 m.jinchaoyu.com
 m.jioeg.com
@@ -2233,7 +2231,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2319,8 +2316,10 @@ maizhong.org
 maplew.com
 market.21cn.com
 mass.mall044.com
+mastodon.host
 match.rtbidder.net
 match.rundsp.com
+material.istreamsche.com
 material.mtty.xin
 mathiew-badimon.com
 matsushimakaede.com
@@ -2651,6 +2650,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2723,6 +2723,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2873,7 +2874,6 @@ sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
 sc.shayugg.com
-sc1369.com
 scc.0.0.0.0.cn
 schemas.android.com
 sciencelolb.com
@@ -3180,6 +3180,7 @@ twb98.com
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
+twilightsex.com
 twimg.edgesuite.net
 twitterkr.com
 twldmx.com
@@ -3468,6 +3469,7 @@ xbp.code.weddingeeos.com
 xc.08an.com
 xc.mydrivers.com
 xcafe.in
+xchgx.com
 xcyjzs.net
 xcyrc.com
 xdbwc.com
@@ -3486,7 +3488,6 @@ xianchawang.net
 xianjian.tw
 xiaohui2.cn
 xiaomiir.yaokantv.com
-xiaoshuo.kp53.cn
 xiaoyang.mobi
 xiaozhishi852.com
 xiaxuanfu.com
@@ -3518,7 +3519,6 @@ xtzxmy.com
 xul478.com
 xuzhiyong.net
 xxad.cc
-xxguan.cn
 xxp.gytygc.com
 xxwkjl.com
 xy.shijialianzuishuai.com
