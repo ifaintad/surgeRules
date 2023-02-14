@@ -54,7 +54,6 @@
 1e2hyl3b.wq42211.com
 1i580.com
 1kmb.cn
-1lib.education
 1lib.pl
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -172,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -258,7 +258,6 @@ acl4.ssr
 acm.dzwww.com
 acsystem.wasu.cn
 acsystem.wasu.tv
-actfortibet.org
 activate.wip3.adobe.com
 actives.youku.com
 acwgf.com
@@ -360,6 +359,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -387,7 +387,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -537,6 +536,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -581,7 +581,6 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
-b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -716,6 +715,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+bunbunhk.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -912,7 +912,6 @@ coin2co.in
 coinhive-manager.com
 cointobe.com
 col.hztags.net
-com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1326,6 +1325,7 @@ e.yidulive.net
 e.yingchengtou.com
 e.ynnke.com
 e.yoiur.com
+e.ysdangan.com
 e.ysdhe.com
 e.yuxyz.com
 e.ywbwsm.com
@@ -1570,7 +1570,6 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
-gvt0.com
 gx38.cn
 gyca9f.dahuangcheng.cn
 gydag.com
@@ -1646,7 +1645,6 @@ ht.www.sogou.com
 html.350.com
 html.sunday8.com
 html.yuntzs.com
-huahuaka.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1777,6 +1775,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1804,7 +1803,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1852,6 +1850,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2316,10 +2315,8 @@ maizhong.org
 maplew.com
 market.21cn.com
 mass.mall044.com
-mastodon.host
 match.rtbidder.net
 match.rundsp.com
-material.istreamsche.com
 material.mtty.xin
 mathiew-badimon.com
 matsushimakaede.com
@@ -2333,6 +2330,7 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
+media.org.hk
 mediapro.pro.cn
 meiti1.net
 menghuanzs.com
@@ -2450,7 +2448,6 @@ ndtzx.com
 ndy.code.weddingeeos.com
 neirong.baidu.com
 nest.youwatch.org
-net-fits.pro
 netflix.com.edgesuite.net
 netflixdnstest0.com
 netko0o.com
@@ -2685,6 +2682,7 @@ push.wandoujia.com
 push.wapx.cn
 pushchinawall.com
 pv.cheshi-img.com
+pv.sogou.com
 pvdata.ku6.com
 pvlog.hd.baofeng.com
 pvlog.moviebox.baofeng.net
@@ -2723,7 +2721,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3058,6 +3055,7 @@ syilm.net
 symaj.cn
 sync.audtd.com
 sync.fastclick.net
+sync.rambler.ru
 sync.teamrtb.net
 sync2.audtd.com
 syndication-o.twitter.com
@@ -3180,7 +3178,6 @@ twb98.com
 tweeplike.me
 tweetmylast.fm
 tweets.seraph.me
-twilightsex.com
 twimg.edgesuite.net
 twitterkr.com
 twldmx.com
@@ -3443,7 +3440,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3553,7 +3549,6 @@ yingsuoss.com
 yinhaijuan.com
 yinooo.com
 yinyuehu.cn
-yiranxian.cn
 yizhenya.com
 yk0712.com
 ykatr.youku.com
