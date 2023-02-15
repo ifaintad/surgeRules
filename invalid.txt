@@ -110,6 +110,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -137,7 +138,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -438,6 +439,7 @@ alistatic.cn
 alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
+all.orfr.adgtw.orangeads.fr
 allnews.uodoo.com
 alog.umeng.co
 als.baidu.cn
@@ -490,8 +492,6 @@ apidocs.linksalpha.com
 apk.supfast.net
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
-aplestore.com
-aplleipods.com
 apnmedia.ask.com
 app.abc000.today
 app.eduancm.com
@@ -508,18 +508,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-apple-appstore.cn
-apple.com.cdn20.com
-apple.com.mwcloudcdn.com
-apple.com.mwcname.com
-apple.comscoreresearch.com
-appleappstore.cn
-appleclassicipod.com
-applepaycash.cn
-applepaycash.com.cn
-applepaysupplies.cn
-applestor.com
-appletv4.cn
 applog.mobike.com
 apppic.yingyongbei.com
 apps.supfast.net
@@ -528,7 +516,6 @@ appsocks.net
 appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
-appstoreapple.cn
 apt.qumi.com
 aqqgli3vle.bid
 aqw.quanliyouxi.cn
@@ -536,7 +523,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -881,7 +867,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1358,6 +1343,7 @@ eiv.baidu.cn
 ellawine.org
 emss.zjhim.com
 engagedaily.org
+epac.to
 epernn.cn
 epro.sohu.com
 ereg.wip3.adobe.com
@@ -1435,6 +1421,7 @@ flgg.us
 float.kankan.com
 flv.ytshuirun.com
 flwja.com
+focusprolight.com
 fofg-europe.net
 fofldfradio.org
 forum.idsam.com
@@ -1542,6 +1529,7 @@ gongminliliang.com
 good.ta80.com
 gooddns.info
 goods.tudou.com
+google.ga
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1588,7 +1576,6 @@ haiwengji.net
 hanju18.net
 hanunyi.com
 hao123rt.com
-hbalx.cn
 hbdt.luomi.com
 hbngfy.com
 hbssjd.cn
@@ -1673,8 +1660,6 @@ iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibros.org
-icloud.net.cn
-icloudapple.cn
 ico.58pic.com
 idianfang.com
 ids.deliver.ifeng.com
@@ -1770,7 +1755,6 @@ ioc.mmakd.top
 ip.hivps.xyz
 ip2.pxene.com
 ipalter.com
-iphonecase2013.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
@@ -1781,8 +1765,6 @@ itaboo.info
 item.ttkvod.com
 items.bingdiantao.com
 its.caltech.edu
-itunes.com.edgekey.net
-itunesapple.cn
 iutr.uozwys.top
 iwanad.baidu.com
 iwstat.tudou.com
@@ -1850,7 +1832,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -1878,7 +1859,6 @@ js.soonyou123.com
 js.start1999.com
 js.szande.com.cn
 js.ubaike.cn
-js.um0592.com
 js.wu65.com
 js.xiansuper.com
 js.xtgreat.com
@@ -2057,7 +2037,6 @@ m.107279.com
 m.118ex.cn
 m.12306media.com
 m.1919388.net
-m.495495.com
 m.51xmgys.com
 m.551144.com
 m.640640.com
@@ -2230,6 +2209,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2330,7 +2310,6 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
-media.org.hk
 mediapro.pro.cn
 meiti1.net
 menghuanzs.com
@@ -2360,6 +2339,7 @@ mimg.7791.com.cn
 minghui-a.org
 minghui-b.org
 mingysh.com
+mini.cpc.sogou.com
 mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
@@ -2647,7 +2627,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 pq.stat.ku6.com
@@ -2721,6 +2700,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2741,6 +2721,7 @@ raidtalk.com.tw
 rangwang.biz
 rannabio.com
 raremovie.cc
+rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
 rc.haodongkeji.cn
@@ -2810,6 +2791,7 @@ s.iroby.com
 s.iuuff.com
 s.jlminte.com
 s.khgj.cn
+s.l8l9.com
 s.maipubao.cn
 s.mt145.com
 s.phpwind.com
@@ -3055,7 +3037,6 @@ syilm.net
 symaj.cn
 sync.audtd.com
 sync.fastclick.net
-sync.rambler.ru
 sync.teamrtb.net
 sync2.audtd.com
 syndication-o.twitter.com
@@ -3307,6 +3288,7 @@ vjcyehtqm9.me
 vl8c4g7tmo.me
 vn543.com
 vns800600.net
+voila.refr.adgtw.orangeads.fr
 vpn.cjb.net
 vpnintouch.net
 vt.bjhdonline.com
@@ -3579,8 +3561,10 @@ yyt.irs01.com
 yzh.jyjhkz.com
 z.clickvip.shop
 zads.care2.com
+zannel.com
 zb.nxing.cn
 zbz.m.qxs.la
+zcrtd.com
 zdjby.cn
 zeus.qj.net
 zgc66.com

@@ -294,6 +294,7 @@ DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,appledaily.com.hk
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -1238,7 +1239,6 @@ DOMAIN-SUFFIX,englishforeveryone.org
 DOMAIN-SUFFIX,englishpen.org
 DOMAIN-SUFFIX,entermap.com
 DOMAIN-SUFFIX,environment.google
-DOMAIN-SUFFIX,epac.to
 DOMAIN-SUFFIX,episcopalchurch.org
 DOMAIN-SUFFIX,epochhk.com
 DOMAIN-SUFFIX,epochtimes-bg.com
@@ -1654,12 +1654,6 @@ DOMAIN-SUFFIX,giantessnight.com
 DOMAIN-SUFFIX,gifree.com
 DOMAIN-SUFFIX,gigporno.ru
 DOMAIN-SUFFIX,girlbanker.com
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com
 DOMAIN-SUFFIX,global.bing.com
@@ -2568,6 +2562,7 @@ DOMAIN-SUFFIX,md-t.org
 DOMAIN-SUFFIX,me.me
 DOMAIN-SUFFIX,meansys.com
 DOMAIN-SUFFIX,media.nu.nl
+DOMAIN-SUFFIX,media.org.hk
 DOMAIN-SUFFIX,mediachinese.com
 DOMAIN-SUFFIX,mediafire.com
 DOMAIN-SUFFIX,mediafreakcity.com
@@ -4867,7 +4862,6 @@ DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yzzk.com
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
-DOMAIN-SUFFIX,zannel.com
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaozon.com
 DOMAIN-SUFFIX,zapto.org
