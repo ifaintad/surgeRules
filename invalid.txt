@@ -112,6 +112,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -171,7 +172,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -182,7 +182,6 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
-a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
@@ -359,6 +358,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adplus.goo.mx
 adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
@@ -508,7 +508,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-appgift.sinaapp.com
 applog.mobike.com
 apppic.yingyongbei.com
 apps.supfast.net
@@ -663,6 +662,7 @@ bingyinq.com
 biq.keefung-zs.com
 bitc.bme.emory.edu
 bitinka.com.ar
+bixia.fymm.cn
 biyibia.com
 biz.weibo.com
 biz.weibo.com.cn
@@ -869,7 +869,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1346,7 +1345,6 @@ eiv.baidu.cn
 ellawine.org
 emss.zjhim.com
 engagedaily.org
-epac.to
 epernn.cn
 epro.sohu.com
 ereg.wip3.adobe.com
@@ -1415,7 +1413,6 @@ fghmimg.ga25.com
 file.bmob.cn
 files2me.com
 filmy.olabloga.pl
-finding.hardwareheaven.com
 findnsave.idahostatesman.com
 fips.uimserv.net
 fjkst.com
@@ -1457,7 +1454,6 @@ fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
-g.chuiyao.com
 g.corp.163.com
 g.ousns.net
 g.uusee.com
@@ -1537,6 +1533,7 @@ gopig.io
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
+gouzhibao.cn
 govids.net
 gpydym.cn
 gqswg.com
@@ -1568,6 +1565,7 @@ gzmjnx.cn
 gzqudou.com
 h.canmg.cn
 h.irs01.com
+h01.hotrank.com.tw
 h1.18sd.cn
 h2.18sd.cn
 h5.taihao.cc
@@ -1608,6 +1606,7 @@ hiad.myweb.hinet.net
 hiad.vmall.com
 hihistory.net
 himemix.net
+hivecn.cn
 hjc1990.com
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
@@ -1616,7 +1615,6 @@ hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
 hklft.com
-hkreporter.loved.hk
 hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
@@ -1759,7 +1757,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1785,6 +1782,7 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1889,6 +1887,7 @@ js50.yxlady.com
 js5162.yongkang6.com
 js6882.mengchengbao.com
 js7004.hnfpgm.com
+js7129.dlkjgjmy.com
 js7129.shxqeps.com
 js7152.shxqeps.com
 js74.0937jyg.com
@@ -1997,7 +1996,6 @@ lightson.vpsboard.com
 lingdian98.com
 linkbide.com
 linyao.dxsdb.com
-listentoyoutube.com
 listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
@@ -2039,6 +2037,7 @@ m.107279.com
 m.118ex.cn
 m.12306media.com
 m.1919388.net
+m.495495.com
 m.51xmgys.com
 m.551144.com
 m.640640.com
@@ -2211,6 +2210,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.slandr.net
 m.sosjyx.com
@@ -2312,12 +2312,12 @@ me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
 mediapro.pro.cn
+megurineluka.com
 meiti1.net
 menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2358,7 +2358,6 @@ mm.anqu.com
 mm.jgchq.com
 mm.moquanad.com
 mmcc.yxlady.com
-mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2632,6 +2631,7 @@ powergg.top
 pp.sxjkc.cn
 ppjia55.com
 ppurifier.game.xiaomi.com
+ppx.hgo7r.cn
 pq.stat.ku6.com
 pr.atwola.com
 pr00001.com
@@ -2674,6 +2674,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2872,8 +2873,8 @@ secure-chn.imrworldwide.com
 secure.img-cdn.mediaplex.com
 secure.raxcdn.com
 seen.h01ce.cn
+seen.hgo7r.cn
 selfie.snapmobileasia.net
-serrano.hardwareheaven.com
 servedby.keygamesnetwork.com
 sesawe.org
 setting.crashlytics.com
@@ -2903,7 +2904,6 @@ shop.yinyuetai.com
 shoppingpartners2.futurenet.com
 show.xiazai16.com
 showcase.vpsboard.com
-showing.hardwareheaven.com
 shows.21cn.com
 shucaihangjia.com
 shushijiameng123.com
@@ -2916,7 +2916,6 @@ sifuge.cn
 sifugu.cn
 sifuhu.cn
 sifuji.cn
-sifuka.cn
 sigbusa.com
 sina.wrating.com
 sina.yinstar.org
@@ -3083,6 +3082,7 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
+tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3137,6 +3137,7 @@ trialofccp.org
 truth101.co.tv
 trwba.com
 trzina.com
+ts.hivecn.cn
 tsdlp.com
 tsjdgzm.m.3dllc.cc
 tsrc8.com
@@ -3290,7 +3291,6 @@ vjcyehtqm9.me
 vl8c4g7tmo.me
 vn543.com
 vns800600.net
-vpn.cjb.net
 vpnintouch.net
 vt.bjhdonline.com
 vtale.org
@@ -3472,7 +3472,6 @@ xiaozhishi852.com
 xiaxuanfu.com
 xiazai.downok.com
 xiezhua.com
-xifatime.com
 xihuashuale.com
 xiliweisha.cn
 xin.ygqczh.com
@@ -3591,7 +3590,6 @@ zmj.guanqinjie.cn
 zmlled.cn
 znsv.baidu.cn
 zonghexinwen.net
-zorrovpn.com
 zp22938576.com
 zqworks.com
 zqzxz.com
