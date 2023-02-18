@@ -137,7 +137,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -182,6 +181,7 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
+a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
@@ -222,7 +222,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -358,9 +357,9 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adplus.goo.mx
 adpro.cn
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -844,7 +843,6 @@ chinesegay.org
 chjxzk.1555110.cn
 ci.csefaazc.net
 ciajingman.com
-cilidaquan.pw
 cindy17club.com
 cip6.czpush.com
 circlethebayfortibet.org
@@ -863,12 +861,14 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
+clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 cm.p4p.cn.yahoo.com
 cmp288.com
@@ -1181,7 +1181,6 @@ e.dunmm.com
 e.dxmci.com
 e.dzairen.com
 e.ehxyz.com
-e.emgwq.com
 e.enjuk.com
 e.ennmt.com
 e.fbaix.com
@@ -1313,6 +1312,7 @@ e.yidulive.net
 e.yingchengtou.com
 e.ynnke.com
 e.yoiur.com
+e.ysdangan.com
 e.ysdhe.com
 e.yuxyz.com
 e.ywbwsm.com
@@ -1346,6 +1346,7 @@ ellawine.org
 emss.zjhim.com
 engagedaily.org
 epernn.cn
+epochtimes.ie
 epro.sohu.com
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
@@ -1454,6 +1455,7 @@ fydgold132.com
 fytza.cn
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.uusee.com
@@ -1565,7 +1567,6 @@ gzmjnx.cn
 gzqudou.com
 h.canmg.cn
 h.irs01.com
-h01.hotrank.com.tw
 h1.18sd.cn
 h2.18sd.cn
 h5.taihao.cc
@@ -1624,6 +1625,7 @@ hoplink.ksosoft.com
 houdaolj.com
 hougaige.com
 houyi.baofeng.net
+hp.smiler-ad.com
 hpd.baidu.cn
 hpqxznpb.bid
 ht.www.sogou.com
@@ -1757,6 +1759,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1957,7 +1960,6 @@ kqy1.com
 kr.sybspools.com
 ksdsuzhou.com
 ksr.juuhe.com
-kt220.com
 ktunions.com
 ktv0311.com
 kuaipai666.cn
@@ -2082,7 +2084,6 @@ m.dsjre.com
 m.dxmci.com
 m.efeiy.com
 m.ehxyz.com
-m.emgwq.com
 m.enjuk.com
 m.ennmt.com
 m.fbaix.com
@@ -2346,6 +2347,7 @@ mini.jijiplayer.com
 minidcsc.kugou.com
 minisplat.cn
 miniye.xjts.cn
+mip.yuelvxing.com
 mitao.com.tw
 miui.hdfdm.com
 miui.hftaili.com
@@ -2356,7 +2358,6 @@ mlgrrqymdsyk.com
 mm.2436.cn
 mm.anqu.com
 mm.jgchq.com
-mm.moquanad.com
 mmcc.yxlady.com
 mob.huimee.net
 mobad.ijinshan.com
@@ -2410,6 +2411,7 @@ myforum.com.uk
 myftp.name
 myjsym.zichenit.com
 mymm.zichenit.com
+myparagliding.com
 mytzdhz.cn
 myycrw.com
 n.a.mosenni.com
@@ -2642,7 +2644,6 @@ prerollads.ign.com
 proton.flurry.com
 proxytunnel.net
 prozz.net
-ps.3fenge.com
 psblog.name
 psiphon.civisec.org
 ptkhy.com
@@ -3082,7 +3083,6 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
-tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3423,6 +3423,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
