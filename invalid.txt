@@ -202,7 +202,6 @@ a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
 a.market.xiaomi.com
-a.mjlnbx.cn
 a.nanhuwang.com
 a.qinghua5.com
 a.shenchuang.com
@@ -222,6 +221,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -357,9 +357,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -386,6 +384,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -608,7 +607,6 @@ bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
 bcex.ca
-bd.ershenghuo.com
 bd.gow100.com
 bd.wayqq.cn
 bd1.365qilu.com
@@ -701,7 +699,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-bunbunhk.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -789,6 +786,7 @@ cc.st123.info
 cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
+ccb.uncle-ad.com
 ccbaihehq.com
 cdhoc.piyaji.cn
 cdn.5bong.com
@@ -861,7 +859,6 @@ click.hunantv.com
 click.tianya.cn
 click.tianyaui.cn
 clicklog.moviebox.baofeng.net
-clickn.fang.com
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
@@ -1033,7 +1030,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1272,7 +1268,6 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
-e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
@@ -1369,6 +1364,7 @@ extmoney.i1608.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
+f.520tingshu.com
 f.fj95560.com
 f.hongm.com
 f.qcwzx.net.cn
@@ -1453,9 +1449,9 @@ fxc.aiquxs.com
 fxtducb.cn
 fydgold132.com
 fytza.cn
+fz863.com
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.uusee.com
@@ -2212,9 +2208,7 @@ m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
 m.sanjiangge.com
-m.sjaidu.com
 m.slandr.net
-m.sosjyx.com
 m.srrux.com
 m.suehy.com
 m.sxxca.com
@@ -2307,6 +2301,7 @@ mb.zam.com
 mcore.vcgame.cn
 md.sh5e.com
 md0z4dh.com
+mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2358,6 +2353,7 @@ mlgrrqymdsyk.com
 mm.2436.cn
 mm.anqu.com
 mm.jgchq.com
+mm.moquanad.com
 mmcc.yxlady.com
 mob.huimee.net
 mobad.ijinshan.com
@@ -2472,6 +2468,7 @@ notify.oupeng.com
 nowskip.com
 noxagile.duapp.com
 npdaqy6x1j.me
+nr1234.com
 nryiou.cn
 nsc.gov.tw
 nsclick.baidu.cn
@@ -2735,6 +2732,7 @@ red.bayimg.net
 regist.fotoable.com
 relaxbbs.com
 remotedu.cn
+rencai56.com
 res.cocounion.com
 res.dxpmedia.com
 res.icast.cn
@@ -3061,7 +3059,6 @@ t.tzcccm.com
 t.youmi.net
 t2.vbxx.net
 t70123.com
-t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
 tamiaode.tk
@@ -3152,6 +3149,7 @@ tu.njflfd.com
 tu.szefe.com
 tuadong.com
 tui.orzdream.com
+tui98.cn
 tuiguang.178.com
 tuisong.baidu.cn
 tuisong.baidu.com
@@ -3176,8 +3174,10 @@ u.talkingdata.net
 u.xcy8.com
 u.yizuya.com
 u0.s.minisplat.cn
+u034024.nr1234.com
 u1.s.minisplat.cn
 u2.s.minisplat.cn
+u291014.nr1234.com
 u349036.ff112222.com
 ua.badongo.com
 ubm.fangtoo.com
@@ -3249,7 +3249,6 @@ v00087.com
 v02u9.cn
 v1.0594529.com
 v12-r0566gbscjw.z.irs01.com
-v66v66.com
 v7.kawinhome.com
 va.gxpan.cn
 vad1.jianshen8.com
@@ -3515,6 +3514,7 @@ y.3957957.com
 y.gwylm.com
 y.hk9600.com
 y.hzht666.com
+y.shuoshuocm.com
 y.zxwdw.com
 y0.cn
 yageben.com
