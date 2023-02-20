@@ -110,6 +110,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -137,6 +138,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,6 +173,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -181,7 +184,6 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
-a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
@@ -357,6 +359,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -384,7 +387,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -845,6 +847,7 @@ cindy17club.com
 cip6.czpush.com
 circlethebayfortibet.org
 citizenscommission.hk
+citizensradio.org
 civildisobediencemovement.org
 ciyitan.com
 cjhq.baidu.cn
@@ -972,6 +975,7 @@ d2qkpebv23oowx.cloudfront.net
 d3rhr7kgmtrq1v.cloudfront.net
 d520m.gzcl999.cn
 d5nxst8fruw4z.cloudfront.net
+d8360.com
 da.hunantv.com
 da.mgtv.com
 dabr.mobi
@@ -1030,6 +1034,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1364,7 +1369,6 @@ extmoney.i1608.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
-f.520tingshu.com
 f.fj95560.com
 f.hongm.com
 f.qcwzx.net.cn
@@ -1452,6 +1456,7 @@ fytza.cn
 fz863.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.uusee.com
@@ -1627,7 +1632,6 @@ hpqxznpb.bid
 ht.www.sogou.com
 html.350.com
 html.sunday8.com
-html.yuntzs.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1755,7 +1759,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1898,6 +1901,7 @@ js883.yongkang6.com
 js9318.bllzgqbyp.com
 jsadt.com
 jskrnekewe.mofans.net
+jsmwd.com
 jsnywl.kfi8.com
 jspg.cc
 jssd.uumeitu.com
@@ -2301,7 +2305,6 @@ mb.zam.com
 mcore.vcgame.cn
 md.sh5e.com
 md0z4dh.com
-mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2672,7 +2675,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -3059,6 +3061,7 @@ t.tzcccm.com
 t.youmi.net
 t2.vbxx.net
 t70123.com
+t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
 tamiaode.tk
@@ -3293,9 +3296,7 @@ vns800600.net
 vpnintouch.net
 vt.bjhdonline.com
 vtale.org
-vuku.cc
 vvlog.moviebox.baofeng.com
-vvv.ieduw.com
 vvvulqn7.com
 vwkhdi.cn
 vwws6.net
@@ -3361,7 +3362,6 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
-wikileaks.com
 winvestern.com.cn
 winwhispers.info
 wip3.adobe.com
@@ -3422,7 +3422,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
