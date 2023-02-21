@@ -110,10 +110,8 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -184,6 +182,7 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
+a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
@@ -567,6 +566,7 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
+b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -1008,6 +1008,7 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datafastguru.info
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1085,6 +1086,7 @@ dm50.yxlady.com
 dmtrck.com
 dn3.ixinwei.com
 dnvus.com
+do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
@@ -1414,6 +1416,7 @@ fghmimg.ga25.com
 file.bmob.cn
 files2me.com
 filmy.olabloga.pl
+finding.hardwareheaven.com
 findnsave.idahostatesman.com
 fips.uimserv.net
 fjkst.com
@@ -1441,7 +1444,6 @@ free-ssh.com
 free4u.com.ar
 freechinaforum.org
 freekwonpyong.org
-fsjsp.com
 fsyzcs.com
 ft.pnop.com
 fuckcnnic.net
@@ -1456,7 +1458,6 @@ fytza.cn
 fz863.com
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.uusee.com
@@ -1617,6 +1618,7 @@ hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
 hklft.com
+hkreporter.loved.hk
 hkupop.hku.hk
 hm.baidu.cn
 hmma.baidu.cn
@@ -1632,6 +1634,7 @@ hpqxznpb.bid
 ht.www.sogou.com
 html.350.com
 html.sunday8.com
+html.yuntzs.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1728,6 +1731,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.km.com
 img2.qekun.com
+img3.fy1g.com
 img3.km.com
 img80.net
 imgc.cymzc.com
@@ -1759,6 +1763,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1918,6 +1923,7 @@ jwg365.cn
 jwqj.net
 jx5m.com
 jxad.jx163.com
+jxjzny.com
 jyd.fjzdmy.com
 jzm81.com
 k.85wa.cn
@@ -2023,6 +2029,7 @@ lp.jiuzhilan.com
 ls.webmd.com
 lsxmg.com
 ltheanine.cn
+lthxz.cn
 lubosheng.cn
 lucting.cn
 lvjian66.com
@@ -2038,6 +2045,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.495495.com
 m.51xmgys.com
@@ -2245,6 +2253,7 @@ m.wjhehaofc.com
 m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
+m.wooboo.com.cn
 m.wrating.com
 m.wxhh678.com
 m.xcy8.com
@@ -2505,6 +2514,7 @@ oascentral.sina.com
 oascentral.sina.com.hk
 oask.xulizui6.com
 ocbv0.baiyangzs.com
+ocsp.int-x3.letsencrypt.org
 office365love.com
 oikxlcv.wang
 oizoblog.com
@@ -2626,7 +2636,6 @@ pop.code.poyang.cn
 pop.sjk.ijinshan.com
 popupad.cn
 popvote.hk
-pornbase.org
 pornmm.net
 postimg.org
 powergg.top
@@ -2675,6 +2684,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2726,6 +2736,7 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
+rc.fthcz.com
 rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
@@ -2852,6 +2863,7 @@ sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
 sb88b.com
+sbw.ysjweb.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
@@ -2876,6 +2888,7 @@ secure.raxcdn.com
 seen.h01ce.cn
 seen.hgo7r.cn
 selfie.snapmobileasia.net
+serrano.hardwareheaven.com
 servedby.keygamesnetwork.com
 sesawe.org
 setting.crashlytics.com
@@ -2905,6 +2918,7 @@ shop.yinyuetai.com
 shoppingpartners2.futurenet.com
 show.xiazai16.com
 showcase.vpsboard.com
+showing.hardwareheaven.com
 shows.21cn.com
 shucaihangjia.com
 shushijiameng123.com
@@ -3001,6 +3015,7 @@ sta.holagames.com
 sta.jcjk0451.com
 stage64.hk
 staging.admin.e.mi.com
+stat.it168.com
 stat.pptv.com
 stat.tudou.com
 stat.youku.com
@@ -3293,6 +3308,7 @@ vjcyehtqm9.me
 vl8c4g7tmo.me
 vn543.com
 vns800600.net
+vpn.cjb.net
 vpnintouch.net
 vt.bjhdonline.com
 vtale.org
@@ -3417,6 +3433,7 @@ wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
 www.gmiddle.com
 www.gmiddle.net
+www.monlamit.org
 www.wangruowang.org
 www9.effectivemeasure.net
 wwww.495495.com
@@ -3492,6 +3509,7 @@ xpjkf888.com
 xq199.com
 xs.swagger1.com
 xskywalker.net
+xtwjx.cn
 xtzxmy.com
 xul478.com
 xuzhiyong.net
