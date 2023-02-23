@@ -278,7 +278,6 @@ DOMAIN-SUFFIX,94lm.com
 DOMAIN-SUFFIX,9519.net
 DOMAIN-SUFFIX,95558000.com
 DOMAIN-SUFFIX,9565365.com
-DOMAIN-SUFFIX,9566180.com
 DOMAIN-SUFFIX,96mob.com
 DOMAIN-SUFFIX,99click.com
 DOMAIN-SUFFIX,99ddd.com
@@ -1017,6 +1016,7 @@ DOMAIN-SUFFIX,ardmall.com
 DOMAIN-SUFFIX,arealx.com
 DOMAIN-SUFFIX,aries.mzres.com
 DOMAIN-SUFFIX,ark.cocounion.com
+DOMAIN-SUFFIX,ark.cp21.ott.cibntv.net
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,art.theta.sogoucdn.com
 DOMAIN-SUFFIX,as.aplus.pptv.com
@@ -1085,7 +1085,6 @@ DOMAIN-SUFFIX,b.thefile.me
 DOMAIN-SUFFIX,b1.c1km4.com
 DOMAIN-SUFFIX,b17.8794.cn
 DOMAIN-SUFFIX,b1sync.zemanta.com
-DOMAIN-SUFFIX,b4xuj.zzhhts.com
 DOMAIN-SUFFIX,ba.ccm2.net
 DOMAIN-SUFFIX,ba.kioskea.net
 DOMAIN-SUFFIX,baby.yf898.com
@@ -1356,6 +1355,7 @@ DOMAIN-SUFFIX,castplatform.com
 DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cbs.wondershare.com
+DOMAIN-SUFFIX,cc.moquanad.com
 DOMAIN-SUFFIX,ccclub.cmbchina.com
 DOMAIN-SUFFIX,cccrir.com
 DOMAIN-SUFFIX,ccr.yxdown.com
@@ -1604,6 +1604,7 @@ DOMAIN-SUFFIX,counter.marketgid.com
 DOMAIN-SUFFIX,counter.sina.com.cn
 DOMAIN-SUFFIX,counter.yadro.ru
 DOMAIN-SUFFIX,counter.yesky.com
+DOMAIN-SUFFIX,countpvn.light.fang.com
 DOMAIN-SUFFIX,countubn.light.soufun.com
 DOMAIN-SUFFIX,cp.gs307.com
 DOMAIN-SUFFIX,cp.jfcdns.com
@@ -1891,7 +1892,6 @@ DOMAIN-SUFFIX,dmt.qcrx.cn
 DOMAIN-SUFFIX,dn-growing.qbox.me
 DOMAIN-SUFFIX,dn7788.com
 DOMAIN-SUFFIX,do-not-tracker.org
-DOMAIN-SUFFIX,do.lymstsc.com
 DOMAIN-SUFFIX,doc.go.sohu.com
 DOMAIN-SUFFIX,dol.deliver.ifeng.com
 DOMAIN-SUFFIX,dolphin.deliver.ifeng.com
@@ -2015,7 +2015,7 @@ DOMAIN-SUFFIX,e.meizhuanghe.com
 DOMAIN-SUFFIX,e.nduop.com
 DOMAIN-SUFFIX,e.nernv.com
 DOMAIN-SUFFIX,e.nexac.com
-DOMAIN-SUFFIX,e.nnfiy.com
+DOMAIN-SUFFIX,e.nwxzs.com
 DOMAIN-SUFFIX,e.picbr.com
 DOMAIN-SUFFIX,e.plerv.com
 DOMAIN-SUFFIX,e.poonscn.com
@@ -3253,11 +3253,12 @@ DOMAIN-SUFFIX,m.laigame7.net
 DOMAIN-SUFFIX,m.laojiayoufang.com
 DOMAIN-SUFFIX,m.laoqu123.com
 DOMAIN-SUFFIX,m.lfdydk.com
+DOMAIN-SUFFIX,m.maopuzw.com
 DOMAIN-SUFFIX,m.mgogo.com
 DOMAIN-SUFFIX,m.mxguan.com
 DOMAIN-SUFFIX,m.nduop.com
 DOMAIN-SUFFIX,m.nernv.com
-DOMAIN-SUFFIX,m.nnfiy.com
+DOMAIN-SUFFIX,m.nwxzs.com
 DOMAIN-SUFFIX,m.ourlj.com
 DOMAIN-SUFFIX,m.phonthing.com
 DOMAIN-SUFFIX,m.picbr.com
@@ -3462,7 +3463,7 @@ DOMAIN-SUFFIX,mlog.hiido.com
 DOMAIN-SUFFIX,mlog.m1905.cn
 DOMAIN-SUFFIX,mlog.search.xiaomi.net
 DOMAIN-SUFFIX,mlt01.com
-DOMAIN-SUFFIX,mmg.aty.cp45.ott.cibntv.net
+DOMAIN-SUFFIX,mm.moquanad.com
 DOMAIN-SUFFIX,mmg.aty.snmsohu.aisee.tv
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mng-ads.com
@@ -3863,7 +3864,6 @@ DOMAIN-SUFFIX,pikacn.com
 DOMAIN-SUFFIX,ping.acc.sogou.com
 DOMAIN-SUFFIX,ping.chartbeat.net
 DOMAIN-SUFFIX,ping.pinyin.sogou.com
-DOMAIN-SUFFIX,pingbi.diudou.com
 DOMAIN-SUFFIX,pingdom.net
 DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pingshetrip.com
@@ -4285,7 +4285,6 @@ DOMAIN-SUFFIX,saxs.sina.com.cn
 DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,sbeacon.sina.com.cn
 DOMAIN-SUFFIX,sbrqp.com
-DOMAIN-SUFFIX,sbw.ysjweb.com
 DOMAIN-SUFFIX,sc.ggfeng.com
 DOMAIN-SUFFIX,sc.iasds01.com
 DOMAIN-SUFFIX,sc.sczxy.com
@@ -4530,7 +4529,6 @@ DOMAIN-SUFFIX,static-xl9-ssl.xunlei.com
 DOMAIN-SUFFIX,static.app.m.letv.com
 DOMAIN-SUFFIX,static.g.iqiyi.com
 DOMAIN-SUFFIX,static.g.ppstream.com
-DOMAIN-SUFFIX,static.g.pptv.com
 DOMAIN-SUFFIX,staticadm.leju.com
 DOMAIN-SUFFIX,staticadm.leju.sina.com.cn
 DOMAIN-SUFFIX,statics.woozooo.com
@@ -4567,9 +4565,11 @@ DOMAIN-SUFFIX,susapi.dev.surepush.cn
 DOMAIN-SUFFIX,susapi.lenovomm.com
 DOMAIN-SUFFIX,sw.mobile.sogou.com
 DOMAIN-SUFFIX,swa.gtimg.com
+DOMAIN-SUFFIX,swappdl.duoyi.com
 DOMAIN-SUFFIX,switchadhub.com
 DOMAIN-SUFFIX,switching.atm.punchbox.org
 DOMAIN-SUFFIX,sxdyrq.com
+DOMAIN-SUFFIX,sxjxhg.com
 DOMAIN-SUFFIX,sxz67.com
 DOMAIN-SUFFIX,sy-cdnres.unionsy.com
 DOMAIN-SUFFIX,sy.code.mytanwan.com
@@ -4580,7 +4580,6 @@ DOMAIN-SUFFIX,sycbbs.com
 DOMAIN-SUFFIX,sykty.com
 DOMAIN-SUFFIX,synacast.com
 DOMAIN-SUFFIX,sync-dsp.ad-m.asia
-DOMAIN-SUFFIX,sync-eu.exe.bid
 DOMAIN-SUFFIX,sync-tm.everesttech.net
 DOMAIN-SUFFIX,sync.1dmp.io
 DOMAIN-SUFFIX,sync.1rx.io

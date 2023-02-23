@@ -169,6 +169,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -520,7 +521,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -565,6 +565,7 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
+b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -781,7 +782,6 @@ cc.365yigou.cn
 cc.700ok.net
 cc.dace.hupu.com
 cc.idasui.cn
-cc.moquanad.com
 cc.piao.jianzhigg.com
 cc.st123.info
 cc.xtgreat.com
@@ -914,7 +914,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countpvn.light.fang.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1085,6 +1084,7 @@ dm50.yxlady.com
 dmtrck.com
 dn3.ixinwei.com
 dnvus.com
+do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
@@ -1253,7 +1253,7 @@ e.neijh.com
 e.nejup.com
 e.nfkos.com
 e.nmtouzi.com
-e.nwxzs.com
+e.nnfiy.com
 e.nxypz.com
 e.oesnw.com
 e.okfhn.com
@@ -2166,7 +2166,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgsue.cn
 m.miaoxinqipei.com
 m.mightiger.net
@@ -2183,11 +2182,11 @@ m.nejup.com
 m.nfkos.com
 m.niegg.com
 m.nmtouzi.com
+m.nnfiy.com
 m.nouaa.com
 m.nthtcs.com
 m.ntxiangtai.com
 m.nuxyz.cn
-m.nwxzs.com
 m.nxypz.com
 m.oesnw.com
 m.opqsr.com
@@ -2320,7 +2319,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2360,8 +2358,8 @@ mlgrrqymdsyk.com
 mm.2436.cn
 mm.anqu.com
 mm.jgchq.com
-mm.moquanad.com
 mmcc.yxlady.com
+mmg.aty.cp45.ott.cibntv.net
 mob.huimee.net
 mobad.ijinshan.com
 mobads-logs.baidu.cn
@@ -2616,6 +2614,7 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
+pingbi.diudou.com
 playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
@@ -2856,6 +2855,7 @@ sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
 sb88b.com
+sbw.ysjweb.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
@@ -3012,6 +3012,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3035,15 +3036,14 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sxbhzs.net
-sxjxhg.com
 sy.jlhygy.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.audtd.com
 sync.fastclick.net
 sync.teamrtb.net
@@ -3134,6 +3134,7 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
+torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
