@@ -41,7 +41,6 @@
 11g.yiqig.cn
 1224.dxsbb.com
 123.sogoucdn.com
-12365chia.com
 127.in-addr.arpa
 13023.url.7wkw.com
 138138138.top
@@ -114,7 +113,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -138,6 +136,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,7 +170,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -222,7 +220,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -359,8 +356,8 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -508,7 +505,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-appgift.sinaapp.com
 applog.mobike.com
 apppic.yingyongbei.com
 apps.supfast.net
@@ -723,6 +719,7 @@ c.danangmo.cn
 c.dzytjqcc.com
 c.effectivemeasure.net
 c.guangtui1999.com
+c.gzsanxiaomingshi.cn
 c.idasui.cn
 c.iogous.com
 c.k429fma.com
@@ -872,7 +869,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -920,6 +916,7 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
+countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1840,6 +1837,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2305,7 +2303,6 @@ maizhong.org
 maplew.com
 market.21cn.com
 mass.mall044.com
-mastodon.host
 match.rtbidder.net
 match.rundsp.com
 material.mtty.xin
@@ -2329,7 +2326,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2393,6 +2389,7 @@ mqq.zgdmsj.cn
 mqxd.org
 ms.awqsaged.cn
 ms.cmcm.com
+ms.cnczjy.com
 ms.continuedsys.cn
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
@@ -2618,7 +2615,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2690,6 +2686,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -3379,7 +3376,6 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
-wildammo.com
 winvestern.com.cn
 winwhispers.info
 wip3.adobe.com
@@ -3440,7 +3436,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
