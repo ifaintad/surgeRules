@@ -113,6 +113,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -170,6 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -220,6 +222,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -793,6 +796,7 @@ ccb.uncle-ad.com
 ccbaihehq.com
 cdhoc.piyaji.cn
 cdn.5bong.com
+cdn.adsk2.co
 cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
@@ -866,9 +870,11 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -916,7 +922,6 @@ couchcoaster.jp
 count.game.pps.tv
 counter.csdn.net
 counter.kingsoft.com
-countubn.light.soufun.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1036,7 +1041,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1220,6 +1224,7 @@ e.iruad.com
 e.ishowms.com
 e.jdaot.com
 e.jgkto.com
+e.jiaas.com
 e.jiirz.com
 e.jioeg.com
 e.jlkja.com
@@ -1277,6 +1282,7 @@ e.sanitwealth.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
+e.szqifu.com
 e.t71q.com
 e.tdtsd.com
 e.tiantianedu.net
@@ -1420,6 +1426,7 @@ finding.hardwareheaven.com
 findnsave.idahostatesman.com
 fips.uimserv.net
 fjkst.com
+fjmeyer.com
 flash.2144.com
 flgg.us
 float.kankan.com
@@ -1837,7 +1844,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2129,7 +2135,6 @@ m.gwdqp.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
-m.heygugu.com
 m.hissq.com
 m.hk7799.net
 m.hkmqp.com
@@ -2220,6 +2225,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2229,6 +2235,7 @@ m.symab.cn
 m.symac.cn
 m.symad.cn
 m.symaj.cn
+m.szqifu.com
 m.tcksbz888.com
 m.tiantianedu.net
 m.tiaopimiao.net
@@ -2389,7 +2396,6 @@ mqq.zgdmsj.cn
 mqxd.org
 ms.awqsaged.cn
 ms.cmcm.com
-ms.cnczjy.com
 ms.continuedsys.cn
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
@@ -2637,7 +2643,6 @@ pomhz.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
 popupad.cn
-popvote.hk
 pornmm.net
 postimg.org
 powergg.top
@@ -2688,6 +2693,7 @@ qbyy010.com
 qchannel0d.cn
 qd.js.sanjiangge.com
 qd.moutaihotel.cn
+qd.wanjuanba.com
 qd.x4399.com
 qeoa.hawbfa.com
 qgss8.com
@@ -2937,7 +2943,6 @@ sinonet.ca
 sinopitt.info
 site.img.4tube.com
 siteks.uk.to
-sitemobia.com
 sj1.3987.com
 sjrt.org
 sjum.cn
@@ -3074,6 +3079,7 @@ t.tzcccm.com
 t.youmi.net
 t2.vbxx.net
 t70123.com
+t75.qyqc4s.com
 taat00889.com
 tags2.adshell.net
 tamiaode.tk
@@ -3110,7 +3116,6 @@ tf.hftaili.com
 tg.1155t.cn
 tg.52digua.com
 tg.jifen.2345.com
-thebobs.com
 thedalailamamovie.com
 thefrontier.hk
 thejesperbay.com
@@ -3226,6 +3231,7 @@ unicast.msn.com
 union.dbba.cn
 union.mi.com
 union.mop.com
+union.sogou.com
 union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
@@ -3436,6 +3442,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
