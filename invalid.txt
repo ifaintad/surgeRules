@@ -167,11 +167,11 @@
 9.e.f.ip6.arpa
 9001700.com
 90053999.com
-91vps.club
 91xry.com
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -222,7 +222,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -359,7 +358,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -494,6 +492,7 @@ aplusvpn.com
 apnmedia.ask.com
 app.9yyg.cn
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -523,6 +522,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -567,6 +567,7 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
+b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -740,6 +741,7 @@ c.ptffw.net
 c.queene.cn
 c.rscxwmj.cn
 c.shunlige.com
+c.sss1989.com
 c.start280.com
 c.statstat888.com
 c.t98u8f.com
@@ -831,7 +833,6 @@ chaojilamei.cn
 chengzhao95511.com
 chenpokong.net
 chenwen7788.com
-chicken18.com
 china-mmm.sa.com
 chinaaid.me
 chinacitynews.be
@@ -874,7 +875,6 @@ client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -891,6 +891,7 @@ cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
 cnpinzhuo.com
 cnzhqs.com
+cochina.co
 code.3shangyou.com
 code.hajuwang.cn
 code.kaixinjiehun.com
@@ -1030,6 +1031,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1054,6 +1056,7 @@ dilber.se
 dimg1.sz.net.cn
 dingchin.com.tw
 dingon.com.cn
+dip.pyangzi.com
 dip.szhyzkj.com
 display.superbay.net
 distf.kankan.com
@@ -1091,6 +1094,7 @@ dm50.yxlady.com
 dmtrck.com
 dn3.ixinwei.com
 dnvus.com
+do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
@@ -1132,7 +1136,6 @@ dspserver.ad.cmvideo.cn
 dts.akamai.startappexchange.com
 duckduckgo-owned-server.yahoo.net
 dugbvb.com
-dugesheying.com
 duiwai.baidu.com
 duoyidd.com
 dupola.net
@@ -1440,7 +1443,6 @@ forum.my903.com
 forum.setty.com.tw
 forum.sina.com.hk
 fotile.me
-founseezb.cn
 fourface.nodesnoop.com
 foxtang.com
 fpb.51edu.com
@@ -1464,6 +1466,7 @@ fytza.cn
 fz863.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.uusee.com
@@ -1738,6 +1741,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.km.com
 img2.qekun.com
+img3.fy1g.com
 img3.km.com
 img80.net
 imgc.cymzc.com
@@ -1769,7 +1773,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1796,7 +1799,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1867,6 +1869,7 @@ js.mnkan.com
 js.mumayi.net
 js.paochala.net
 js.pub.tom.com
+js.pyangzi.com
 js.soduso.cc
 js.soonyou123.com
 js.start1999.com
@@ -2135,6 +2138,7 @@ m.gwdqp.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
+m.heygugu.com
 m.hissq.com
 m.hk7799.net
 m.hkmqp.com
@@ -2333,6 +2337,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2592,7 +2597,6 @@ pc.107788.com
 pcauto.irs01.com
 pcmzn.com
 pd.sogou.com
-peace.ca
 pear.dleke.com
 pearlher.org
 pegasus.cmcm.com
@@ -2693,7 +2697,6 @@ qbyy010.com
 qchannel0d.cn
 qd.js.sanjiangge.com
 qd.moutaihotel.cn
-qd.wanjuanba.com
 qd.x4399.com
 qeoa.hawbfa.com
 qgss8.com
@@ -2744,6 +2747,7 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
+rc.fthcz.com
 rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
@@ -2868,6 +2872,7 @@ sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
 sb88b.com
+sbw.ysjweb.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
@@ -2992,6 +2997,7 @@ ss.swagger1.com
 ss.sysad.cn
 ss.sysadult.cn
 sscefsol.com.cn
+ssdaili.com
 ssh.hxlif.com
 ssh.jsyzw132.com
 ssh.szxiuchang.com
