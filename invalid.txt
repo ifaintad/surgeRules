@@ -136,7 +136,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -169,7 +168,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -384,7 +382,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -565,6 +562,7 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
+b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -609,6 +607,7 @@ bcast.co.nz
 bcex.ca
 bd.ershenghuo.com
 bd.gow100.com
+bd.soarfi.cn
 bd.wayqq.cn
 bd1.365qilu.com
 bd1.52che.com
@@ -642,6 +641,7 @@ bdlncs1.familydoctor.com.cn
 bdmm.xywy.com
 bdpuaw.com
 bds.hainan.net
+bds.soarfi.cn
 bdtongfei.cn
 beacon-us-sjc1.rubiconproject.com
 bebelait.com
@@ -871,7 +871,6 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
-client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
@@ -1094,6 +1093,7 @@ dm50.jkyd.net
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
+do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
@@ -1516,14 +1516,12 @@ gg.ptfish.com
 gg.stargame.com
 gg.zhongyao1.com
 gg0376.com
-gg1.yszyz.com
 gg2.dss9927.com
 ggb.douguo.com
 ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 gm682.com
 gmhz.org
 gmota.g188.net
@@ -1736,11 +1734,11 @@ img1.mekbet.com
 img1.pszyzxh.org
 img2.126.net
 img2.578965.com
-img2.cs153.com
 img2.hrccb.com
 img2.jiuzhilan.com
 img2.km.com
 img2.qekun.com
+img3.fy1g.com
 img3.km.com
 img80.net
 imgc.cymzc.com
@@ -1751,7 +1749,6 @@ imneinei.com
 imp.asahi.com
 impp.mn
 impservicetest.dictapp.youdao.com
-in.jxhcyc.com
 in.mengpr.com
 in1.secure.uu.cc
 include.xs2345.com
@@ -1799,7 +1796,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1885,7 +1881,6 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
-js1.zuocai.tv
 js1151.yongkang6.com
 js1157.yongkang6.com
 js123.0937jyg.com
@@ -1993,6 +1988,8 @@ l.minisplat.cn
 l.mnjkw.cn
 l.supfast.net
 l.youku.com
+l1.soarfi.cn
+l2.soarfi.cn
 l9bdhcgihw.neihanw.com
 lajizhan.org
 langjiyisheng.com
@@ -2230,7 +2227,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2695,6 +2691,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2890,6 +2887,7 @@ sdl.0.0.0.0.cn
 sdn.penggua.com.cn
 sdownload.stargame.com
 sebar.thand.info
+secpay.wostore.cn
 secure-chn.imrworldwide.com
 secure.img-cdn.mediaplex.com
 secure.raxcdn.com
@@ -3012,6 +3010,7 @@ ssp.thescenseproject.com
 ssp1.dmpdsp.com
 sss.camp
 sss.sege.xxx
+sss.soarfi.cn
 sss.wzjmr.com
 sss.zbred.com
 sstc360.com
@@ -3086,7 +3085,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-tags2.adshell.net
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3121,7 +3119,6 @@ tf.hftaili.com
 tg.1155t.cn
 tg.52digua.com
 tg.jifen.2345.com
-thedalailamamovie.com
 thefrontier.hk
 thejesperbay.com
 themis.yahoo.com
@@ -3229,6 +3226,7 @@ ukliferadio.co.uk
 ulic.baidu.com
 um.hd.sohu.com
 un.52rkl.cn
+un.soarfi.cn
 un.winasdaq.com
 undm.qibulo.com
 unicast.msn.com
@@ -3240,6 +3238,7 @@ union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3338,7 +3337,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
