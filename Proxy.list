@@ -419,7 +419,6 @@ DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bbs.skykiwi.com
 DOMAIN-SUFFIX,bbs.sou-tong.org
 DOMAIN-SUFFIX,bbsdigest.com
-DOMAIN-SUFFIX,bbsfeed.com
 DOMAIN-SUFFIX,bbsland.com
 DOMAIN-SUFFIX,bbsmo.com
 DOMAIN-SUFFIX,bbsone.com
@@ -1461,6 +1460,7 @@ DOMAIN-SUFFIX,forum.mymaji.com
 DOMAIN-SUFFIX,forum.palmislife.com
 DOMAIN-SUFFIX,forum.tvb.com
 DOMAIN-SUFFIX,forum4hk.com
+DOMAIN-SUFFIX,fourthinternational.org
 DOMAIN-SUFFIX,foxdie.us
 DOMAIN-SUFFIX,foxgay.com
 DOMAIN-SUFFIX,foxsub.com
@@ -2597,7 +2597,6 @@ DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
