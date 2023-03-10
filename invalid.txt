@@ -17,6 +17,7 @@
 1.21shebao.com
 1.bashenghuo.com
 1.chcx.cn
+1.cjcp.cn
 1.hao123.com
 1.hnyouneng.com
 1.hslyqs.com
@@ -56,6 +57,7 @@
 1i580.com
 1kmb.cn
 1lib.pl
+1tlm.cn
 2.0.192.in-addr.arpa
 2.21shebao.com
 2.bashenghuo.com
@@ -110,6 +112,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -136,7 +139,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -220,6 +222,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -368,6 +371,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -434,7 +438,6 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -465,6 +468,7 @@ api.android.dianru.com
 api.cmt.mob.com
 api.dianru.com
 api.dreamfull.cn
+api.dsp.yhd.com
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
@@ -909,6 +913,7 @@ code222.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
+com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1003,6 +1008,7 @@ dairuqi.com
 daitdai.com
 dajusha.baywords.com
 dalailama.usc.edu
+dalianhengtai.com
 dandan11.top
 dandan13.top
 dandan15.top
@@ -1159,7 +1165,6 @@ e.1919388.net
 e.28487.net
 e.51xmgys.com
 e.aa985.cn
-e.acaog.com
 e.acaox.com
 e.admin60.com
 e.afvfe.cn
@@ -1265,7 +1270,6 @@ e.nfkos.com
 e.nmtouzi.com
 e.nnfiy.com
 e.nxypz.com
-e.oesnw.com
 e.okfhn.com
 e.opqsr.com
 e.oyrim.com
@@ -1967,6 +1971,7 @@ kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
+kn.zzdahan.com
 knnwdyou.com
 kod4pc293.com
 kooyum.com
@@ -2058,7 +2063,6 @@ m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
-m.551144.com
 m.640640.com
 m.7180443.com
 m.77vcd.com
@@ -2180,6 +2184,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgsue.cn
 m.miaoxinqipei.com
 m.mightiger.net
@@ -2202,7 +2207,6 @@ m.nthtcs.com
 m.ntxiangtai.com
 m.nuxyz.cn
 m.nxypz.com
-m.oesnw.com
 m.opqsr.com
 m.osndy.com
 m.oyrim.com
@@ -2226,7 +2230,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2247,6 +2250,7 @@ m.twldmx.com
 m.txtxr.com
 m.ueram.com
 m.uissm.com
+m.vbaou.com
 m.vbinu.com
 m.verpt.com
 m.vichc.com
@@ -2284,7 +2288,6 @@ m.yyjhf.com
 m.yzjlsb.com
 m.zeiaa.com
 m.zenffs.cn
-m.zenwq.com
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
@@ -2723,6 +2726,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3089,6 +3093,7 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
+tailwindtraders.com
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3154,6 +3159,7 @@ total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
+tracker.yhd.com
 translate.google
 tredman.com
 tree.logger.baofeng.com
@@ -3340,6 +3346,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3530,7 +3537,6 @@ xuzhiyong.net
 xxad.cc
 xxp.gytygc.com
 xxwkjl.com
-xxxa.aikeapp.com
 xy.shijialianzuishuai.com
 xyd.sxmdxy.com
 xyly2016.com
@@ -3572,6 +3578,7 @@ ykatr.youku.com
 ykbei.com
 ykxwn.com
 yl850555.com
+yongv.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
