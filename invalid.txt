@@ -93,6 +93,7 @@
 365bibi.com
 365safego.com
 366safego.com
+36pn.com
 38330.bet
 3839168.com
 39330.bet
@@ -112,7 +113,6 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -139,6 +139,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -170,7 +171,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -222,7 +222,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -498,7 +497,6 @@ app.abc000.today
 app.eduancm.com
 app.evozi.com
 app.heywire.com
-app.hytdsm.com
 app.ibaiducdn.com
 app.jgyee.com
 app.juwang.com
@@ -524,6 +522,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -714,6 +713,7 @@ bx.tl
 bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -879,7 +879,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -913,7 +912,6 @@ code222.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
-com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -993,6 +991,7 @@ d5nxst8fruw4z.cloudfront.net
 d8360.com
 da.hunantv.com
 da.mgtv.com
+dabr.me
 dabr.mobi
 dads.new.digg.com
 dailylog.storm.baofeng.com
@@ -1050,6 +1049,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1189,7 +1189,6 @@ e.czggcj.com
 e.daishuxy.com
 e.danrs.com
 e.diogv.com
-e.diupp.com
 e.dnfeu.com
 e.dsjre.com
 e.dunmm.com
@@ -1606,6 +1605,7 @@ heib10.top
 heib12.top
 heix.pp.ru
 hejban.youwatch.org
+helloqueer.com
 helloss.pw
 help.baotangwang.cn
 help.linksalpha.com
@@ -1774,6 +1774,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1971,7 +1972,6 @@ kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
-kn.zzdahan.com
 knnwdyou.com
 kod4pc293.com
 kooyum.com
@@ -2063,6 +2063,7 @@ m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
+m.551144.com
 m.640640.com
 m.7180443.com
 m.77vcd.com
@@ -2230,6 +2231,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2291,7 +2293,6 @@ m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
-m.zuopp.com
 m1.xcy8.com
 m2.qinsx.cn
 m3bnqqqw.com
@@ -2337,6 +2338,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2540,6 +2542,7 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
+onmypc.org
 oomyv.com
 op00w.baiyangzs.com
 opendn.xyz
@@ -2634,7 +2637,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingbi.diudou.com
-pix.tagcdn.com
 pj39330.com
 playad.xjmg.com
 player.1800coupon.com
@@ -2697,7 +2699,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2726,7 +2727,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3093,7 +3093,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-tailwindtraders.com
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3188,6 +3187,7 @@ tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
 tweeplike.me
+tweetcs.com
 tweetmylast.fm
 tweets.seraph.me
 twimg.edgesuite.net
@@ -3351,6 +3351,7 @@ wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
+wantfour.com
 wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
