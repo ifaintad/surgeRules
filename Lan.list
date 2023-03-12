@@ -2,6 +2,7 @@
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN,www.asusrouter.com
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,100.100.in-addr.arpa
 DOMAIN-SUFFIX,101.100.in-addr.arpa
