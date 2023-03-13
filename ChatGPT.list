@@ -1,7 +1,3 @@
 # Based on https://raw.githubusercontent.com/ifaintad/surgeRules/build/ChatGPT.list
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,global.bing.com
-DOMAIN-SUFFIX,bing
-DOMAIN-SUFFIX,bing.com.cn
-DOMAIN-SUFFIX,bingworld.com
