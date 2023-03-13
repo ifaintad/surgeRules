@@ -347,7 +347,23 @@ class SurgeRules:
             exist_rules=exist_rules_copy,
             invalid_domains=invalid_domains)
 
+        # rules used in banned_rule_set
         used_rules = exist_rules.difference(exist_rules_copy)
+
+        special_proxy_rules_before_direct = RuleSets(
+            rule_dicts=rulesets.SPECIAL_PROXY_RULES_BEFORE_DIRECT,
+            n_retries=self.n_retries)
+
+        exist_rules = set(
+            special_proxy_rules_before_direct.rule_set_copy).difference(used_rules)
+        exist_rules_copy = set(exist_rules)
+
+        special_proxy_rules_before_direct.write_all_rules(
+            self.output_dir,
+            exist_rules=exist_rules_copy,
+            invalid_domains=invalid_domains)
+
+        used_rules = used_rules.union(exist_rules.difference(exist_rules_copy))
 
         direct_rule_set = RuleSets(
             rule_dicts=rulesets.DIRECT_RULES,

@@ -14,6 +14,15 @@ BAN_PROGRAM_AD = {
 
 BANNING_RULES = [ADBLOCK, ADBLOCK3, HIJACKING, BAN_PROGRAM_AD]
 
+CHATGPT = {
+    "url": "https://raw.githubusercontent.com/ifaintad/surgeRules/build/ChatGPT.list",  # noqa
+    "domain_keywords": [],
+}
+
+SPECIAL_PROXY_RULES_BEFORE_DIRECT = [
+    CHATGPT
+]
+
 # direct rules
 APPLE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list"}
@@ -35,7 +44,6 @@ DIRECT_RULES = [
     APPLE, MICROSOFT, DIRECT_LAN, DIRECT_CN, DIRECT_IP, DIRECT_PRIVATE_TRACKER, SCHOLAR
 ]
 
-
 # media rules
 YOUTUBE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list",
@@ -55,13 +63,9 @@ TELEGRAM = {
     "domain_keywords": ["nicegram", "telegram"],
 }
 
-CHATGPT = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRules/build/ChatGPT.list",
-    "domain_keywords": [],
-}
 
 IP_RESTRICTED_RULES = [
-    YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM, CHATGPT
+    YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM
 ]
 
 
