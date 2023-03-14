@@ -116,6 +116,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -143,7 +144,6 @@
 766ba.net
 77xtv.com
 7891655.cn
-7gg.cc
 7jiajiao.com
 7mad.7m.cn
 8.b.d.0.1.0.0.2.ip6.arpa
@@ -225,6 +225,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -288,8 +289,6 @@ ad.jamster.com
 ad.jsnbrynb.com
 ad.kissanime.io
 ad.leadbolt.net
-ad.leadboltmobile.net
-ad.lqalm.com
 ad.m.iqiyi.com
 ad.mediabong.net
 ad.mnt123.com
@@ -362,6 +361,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -400,6 +400,7 @@ afantibbs.com
 afd.baidu.cn
 afd.l.google.com
 aff.lmgtfy.com
+aff.svjump.com
 affil.mupromo.com
 affiliateprogram.keywordspy.com
 affiliatesmedia.sbobet.com
@@ -612,8 +613,6 @@ bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
 bcex.ca
-bcjjg.bugsevent.com
-bcjxf.bugsevent.com
 bd.gow100.com
 bd.wayqq.cn
 bd1.365qilu.com
@@ -715,7 +714,6 @@ bx.tl
 bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
-by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -913,7 +911,6 @@ code222.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
-com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1032,6 +1029,7 @@ dd.dante2007.com
 dd.mangofortune.net
 dd.sina.com.cn
 ddanq.com
+ddapp.cn
 ddd.haodizhi666.com
 ddd.yuyouge.com
 ddg1277.com
@@ -1050,7 +1048,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1446,7 +1443,6 @@ forum.setty.com.tw
 forum.sina.com.hk
 fotile.me
 fourface.nodesnoop.com
-foxtang.com
 fpb.51edu.com
 fpb.kuhou.com
 fpbbdx1.51240.com
@@ -1559,7 +1555,6 @@ greatroc.tw
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
 groups.google.cn
-gs.getui.com
 gso0.com
 gt.yy.com
 gtmsdd.alicdn.com
@@ -1872,6 +1867,7 @@ js.mumayi.net
 js.paochala.net
 js.pub.tom.com
 js.pyangzi.com
+js.ruiwen.com
 js.soduso.cc
 js.soonyou123.com
 js.start1999.com
@@ -1887,6 +1883,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js1151.yongkang6.com
 js1157.yongkang6.com
 js123.0937jyg.com
@@ -2012,6 +2009,8 @@ leorockwell.com
 lerosua.org
 lfyuanai.com
 li.anyysz.com
+lib.haotv8.com
+liba.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2218,6 +2217,7 @@ m.pougg.com
 m.prazpf.cn
 m.puooi.com
 m.pwjhg.com
+m.pyerc.com
 m.qcw.com
 m.qhuik.com
 m.qsove.com
@@ -2230,6 +2230,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2336,7 +2337,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2656,7 +2656,6 @@ ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
 pq.stat.ku6.com
 pr.atwola.com
-pr00001.com
 practivate.adobe.com
 prc.rjje4.com
 pre.ra.icast.cn
@@ -3089,6 +3088,7 @@ t70123.com
 t75.qyqc4s.com
 taat00889.com
 tailwindtraders.com
+taipeisociety.org
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3120,7 +3120,6 @@ test.eduancm.com
 test.ott.youku.com
 tf.hdfdm.com
 tf.hftaili.com
-tg.1155t.cn
 tg.52digua.com
 tg.jifen.2345.com
 thefrontier.hk
@@ -3392,6 +3391,7 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
+wikileaks.com
 windowsphoneme.com
 winvestern.com.cn
 winwhispers.info
@@ -3412,6 +3412,7 @@ wodhid.com
 woesermiddle-way.net
 wole.us
 workerdemo.org.hk
+worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
