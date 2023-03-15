@@ -149,6 +149,7 @@
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
 801.tianyaui.cn
+803.tianya.cn
 803.tianyaui.cn
 806.tianyaui.cn
 808.tianya.cn
@@ -159,7 +160,6 @@
 85058s.com
 8521448.com
 85655095.com
-85st.com
 85tgw.com
 8800271.com.cn
 888.jiuwanwang.com
@@ -511,6 +511,7 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
+appgift.sinaapp.com
 applog.mobike.com
 apppic.yingyongbei.com
 apps.supfast.net
@@ -688,6 +689,7 @@ blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogspot.cat
 blogtd.net
+bloomfortune.com
 bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
@@ -698,6 +700,7 @@ brand.sogou.com
 brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
+brizads.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -714,6 +717,7 @@ bx.tl
 bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -849,7 +853,6 @@ chinaweichu.net
 chinaxchina.com
 chinayuanmin.org
 chinese-hermit.net
-chinesegay.org
 chjxzk.1555110.cn
 ci.csefaazc.net
 ciajingman.com
@@ -1077,6 +1080,7 @@ dl.sybspools.com
 dl.wan.sogoucdn.com
 dl.youjia2016.com
 dl1sw.baidu.com
+dleke.com
 dload.qd.qingting.fm
 dlrijiaele.com
 dlsw.baidu.com
@@ -1190,6 +1194,7 @@ e.dnfeu.com
 e.dsjre.com
 e.dunmm.com
 e.dxmci.com
+e.e70123.com
 e.ehxyz.com
 e.enjuk.com
 e.ennmt.com
@@ -1551,6 +1556,7 @@ gqswg.com
 grangorz.org
 great-firewall.com
 great-roc.org
+greatfirewall.biz
 greatroc.tw
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
@@ -1606,7 +1612,6 @@ help.baotangwang.cn
 help.linksalpha.com
 helplinfen.com
 heungkongdiscuss.com
-hexieshe.xyz
 hg417.bet
 hhly88.com
 hhppyt.com
@@ -1614,6 +1619,7 @@ hhqda.pop.t5yx.cn
 hiad.myweb.hinet.net
 hiad.vmall.com
 hihistory.net
+himandy.com
 himemix.net
 hjc1990.com
 hk-cdn.effectivemeasure.net
@@ -1769,6 +1775,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1883,7 +1890,6 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
-js1.zuocai.tv
 js1151.yongkang6.com
 js1157.yongkang6.com
 js123.0937jyg.com
@@ -2406,7 +2412,6 @@ ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
-msg.vg
 msg1.video.qiyi.com
 msminico.cn
 msn.com.nsatc.net
@@ -2443,6 +2448,7 @@ nai.cpxkvc.com
 nav.winasdaq.com
 navi.gd.chinamobile.com
 nbjjd.com
+nbkbgd.cn
 nbtvpn.com
 nc004x.corp.youdao.com
 nc045x.corp.youdao.com
@@ -2481,6 +2487,7 @@ nic.cz.cc
 nighost.org
 ninth.biz
 niwd.zhybw88.com
+njs.imagicskin.com
 njs.myyage.com
 njs.reliancevalve.com
 nko.navy.mil
@@ -3087,7 +3094,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-tailwindtraders.com
 taipeisociety.org
 tamiaode.tk
 tangoutianxia.com
@@ -3391,7 +3397,6 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
-wikileaks.com
 windowsphoneme.com
 winvestern.com.cn
 winwhispers.info
@@ -3412,7 +3417,6 @@ wodhid.com
 woesermiddle-way.net
 wole.us
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3454,7 +3458,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3568,7 +3571,6 @@ yhtcd.com
 yidulive.net
 yingsuoss.com
 yinhaijuan.com
-yinmong.com
 yinooo.com
 yinyuehu.cn
 yizhenya.com
