@@ -363,6 +363,7 @@ adobe-dns-3.adobe.com
 adplay.tudou.com
 adpro.cn
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -717,7 +718,6 @@ bx.tl
 bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
-by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -1051,6 +1051,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1166,7 +1167,6 @@ e.1919388.net
 e.28487.net
 e.51xmgys.com
 e.aa985.cn
-e.acaox.com
 e.admin60.com
 e.afvfe.cn
 e.anmeilai.net
@@ -1692,6 +1692,7 @@ im1.56zzw.com
 image.139y.com
 image.9duw.com
 image.haiyunx.com
+image.hj217.com
 image.p4p.sogou.com
 image.qj175.com
 imageplus.baidu.cn
@@ -1775,7 +1776,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1890,6 +1890,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js1151.yongkang6.com
 js1157.yongkang6.com
 js123.0937jyg.com
@@ -2072,7 +2073,6 @@ m.640640.com
 m.7180443.com
 m.77vcd.com
 m.abfirst.cn
-m.acaox.com
 m.achig.com
 m.adxpop.com
 m.afoux.com
@@ -2343,6 +2343,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2412,6 +2413,7 @@ ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
+msg.vg
 msg1.video.qiyi.com
 msminico.cn
 msn.com.nsatc.net
@@ -2487,7 +2489,6 @@ nic.cz.cc
 nighost.org
 ninth.biz
 niwd.zhybw88.com
-njs.imagicskin.com
 njs.myyage.com
 njs.reliancevalve.com
 nko.navy.mil
@@ -2701,6 +2702,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2884,6 +2886,7 @@ sc.ggdoubi.com
 sc.shayugg.com
 scc.0.0.0.0.cn
 schemas.android.com
+schprompt.dangdang.com
 sciencelolb.com
 scimg.27admin.com
 script.vccoo.com
@@ -3054,14 +3057,12 @@ streaming.rtbiddingplatform.com
 sub.topber.com
 subacme.rerouted.org
 suoluo.org
-suoooi.cn
 surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
-sxbhzs.net
 sy.jlhygy.com
 sy.shongcheng.com
 sy.sxjxhg.com
@@ -3114,6 +3115,7 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
+tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3322,7 +3324,6 @@ vj.x-ssp.com
 vj0.42422277.com
 vjcyehtqm9.me
 vl8c4g7tmo.me
-vmzqwz.cn
 vn543.com
 vns800600.net
 vpn.cjb.net
@@ -3347,7 +3348,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3458,6 +3458,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
