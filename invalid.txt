@@ -51,6 +51,7 @@
 1680go.com
 176um.com
 17un.co
+18av.mm-cg.co
 1989report.hkja.org.hk
 1998cdp.org
 1d1px.net
@@ -225,7 +226,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -314,6 +314,7 @@ ad.walkgame.com
 ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
+ad.xxguan.cn
 ad.ylunion.com
 ad000000.com
 ad1.netshelter.net
@@ -363,7 +364,6 @@ adobe-dns-3.adobe.com
 adplay.tudou.com
 adpro.cn
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -512,7 +512,6 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
-appgift.sinaapp.com
 applog.mobike.com
 apppic.yingyongbei.com
 apps.supfast.net
@@ -572,6 +571,7 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
+b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -835,7 +835,6 @@ cerebral.typn.com
 cfdanet.com
 ch.shvoong.com
 chadegongxiao.com
-changhehengqi.com
 changsa.net
 chaojilamei.cn
 chengzhao95511.com
@@ -881,7 +880,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -1103,6 +1101,7 @@ dm1.tom61.com
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
+do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
@@ -1374,7 +1373,6 @@ eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
 evoke-windowsservices-tas.msedge
-ew16d.package12.com
 exp.17wo.cn
 exp.qumi.com
 expo123.net
@@ -1692,7 +1690,6 @@ im1.56zzw.com
 image.139y.com
 image.9duw.com
 image.haiyunx.com
-image.hj217.com
 image.p4p.sogou.com
 image.qj175.com
 imageplus.baidu.cn
@@ -1746,6 +1743,7 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.km.com
 img2.qekun.com
+img3.fy1g.com
 img3.km.com
 img80.net
 imgc.cymzc.com
@@ -1863,6 +1861,7 @@ js.bxwns.com
 js.cncrk.com
 js.dkqapp.cn
 js.feitian001.com
+js.hkslg520.com
 js.hslyqs.com
 js.icast.cn
 js.jxabp.com.cn
@@ -1976,6 +1975,7 @@ kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
+kn.zzdahan.com
 knnwdyou.com
 kod4pc293.com
 kooyum.com
@@ -2190,6 +2190,7 @@ m.lyjz001.com
 m.lzida.com
 m.lzytt.com
 m.maopuzw.com
+m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
 m.mightiger.net
@@ -2236,7 +2237,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2298,6 +2298,7 @@ m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
+m1.mgogo.com
 m1.xcy8.com
 m2.qinsx.cn
 m3bnqqqw.com
@@ -2343,7 +2344,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2413,7 +2413,6 @@ ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
-msg.vg
 msg1.video.qiyi.com
 msminico.cn
 msn.com.nsatc.net
@@ -2702,7 +2701,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2731,6 +2729,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2755,6 +2754,7 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
+rc.fthcz.com
 rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
@@ -2880,13 +2880,13 @@ sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
 sb88b.com
+sbw.ysjweb.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
 sc.shayugg.com
 scc.0.0.0.0.cn
 schemas.android.com
-schprompt.dangdang.com
 sciencelolb.com
 scimg.27admin.com
 script.vccoo.com
@@ -3115,7 +3115,6 @@ tbcollege.org
 tbicn.org
 tbpic.info
 tbsmalaysia.org
-tc.ci123.com
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3348,6 +3347,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3538,7 +3538,7 @@ xtzxmy.com
 xul478.com
 xuzhiyong.net
 xxad.cc
-xxp.gytygc.com
+xxguan.cn
 xxwkjl.com
 xy.shijialianzuishuai.com
 xyd.sxmdxy.com
