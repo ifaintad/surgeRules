@@ -51,7 +51,6 @@
 1680go.com
 176um.com
 17un.co
-18av.mm-cg.co
 1989report.hkja.org.hk
 1998cdp.org
 1d1px.net
@@ -141,7 +140,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -374,7 +372,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -571,7 +568,6 @@ b1.51scw.net
 b1.91jucai.com
 b17.shangc.net
 b17.xiumu.cn
-b4xuj.zzhhts.com
 b7nkd.cn
 b92.putniktravel.com
 b9377h.com
@@ -880,6 +876,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -1065,6 +1062,7 @@ dingchin.com.tw
 dingon.com.cn
 dip.pyangzi.com
 dip.szhyzkj.com
+dis.us.criteo.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
@@ -1101,7 +1099,6 @@ dm1.tom61.com
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
-do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
@@ -1409,6 +1406,7 @@ fb.xk.miui.com
 fbc.ffychb.com
 fc-.cdn.bcebos.com
 fcsass.org.cn
+fd.anzhi.com
 fdc89.jp
 feedback.whalecloud.com
 feelssh.com
@@ -1474,7 +1472,6 @@ g.w5b454.com
 g.wrating.com
 g.x.cn.xtgreat.com
 g1.0573ren.com
-g1.08160.cn
 g1.corp.163.com
 g2.ousns.net
 g2q3e.cn
@@ -1696,7 +1693,6 @@ imageplus.baidu.cn
 imageplus.baidu.com
 images.avsmt.cn
 images.comico.tw
-images.gxsky.com
 images.millennialmedia.com
 images.pagechoice.net
 images.tyyjzs.cn
@@ -1743,7 +1739,6 @@ img2.hrccb.com
 img2.jiuzhilan.com
 img2.km.com
 img2.qekun.com
-img3.fy1g.com
 img3.km.com
 img80.net
 imgc.cymzc.com
@@ -1800,7 +1795,6 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1975,7 +1969,6 @@ kn.qqqmdq.com
 kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
-kn.zzdahan.com
 knnwdyou.com
 kod4pc293.com
 kooyum.com
@@ -2237,6 +2230,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2406,7 +2400,6 @@ mqq.zgdmsj.cn
 mqxd.org
 ms.awqsaged.cn
 ms.cmcm.com
-ms.continuedsys.cn
 ms.ienkdaccessible.cn
 ms.ienkdaccessory.cn
 ms.jyhwt.cn
@@ -2435,6 +2428,7 @@ myanniu.com
 myforum.com.uk
 myftp.name
 myjsym.zichenit.com
+mymediarom.com
 mymm.zichenit.com
 myparagliding.com
 mytzdhz.cn
@@ -2658,6 +2652,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
@@ -2690,17 +2685,18 @@ push.music.baidu.com
 push.wandoujia.com
 push.wapx.cn
 pushchinawall.com
+pv.anzhi.com
 pv.cheshi-img.com
 pv.sogou.com
 pvdata.ku6.com
 pvlog.hd.baofeng.com
 pvlog.moviebox.baofeng.net
 px.powerlinks.com
-pyzkk.com
 q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2729,7 +2725,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2754,7 +2749,6 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
-rc.fthcz.com
 rc.haodongkeji.cn
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
@@ -2880,7 +2874,6 @@ sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
 sb88b.com
-sbw.ysjweb.com
 sc.58mingtian.cn
 sc.chinaiiss.com
 sc.ggdoubi.com
@@ -3013,7 +3006,6 @@ ssh.jsyzw132.com
 ssh.szxiuchang.com
 ssl.hyhzy.cn
 ssl.ymapp.com
-ssp.08160.cn
 ssp.86str.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
@@ -3416,6 +3408,7 @@ woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
 wole.us
+workatruna.com
 workerdemo.org.hk
 wow-life.net
 wowips.com
@@ -3458,7 +3451,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3565,6 +3557,7 @@ ybtianxi.com
 ychun03.com
 ydlnt.com
 yee.js.cn
+yes.xxx
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
@@ -3625,6 +3618,7 @@ zhongmeng.org
 zhreader.com
 zhtjdl.com
 zjhim.com
+zjjgtz.com
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
