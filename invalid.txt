@@ -173,7 +173,6 @@
 91zgm.com
 95105012.com
 9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -224,6 +223,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -372,6 +372,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -439,6 +440,7 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -524,6 +526,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+as.aplus.pptv.com
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -714,6 +717,7 @@ bx.tl
 bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -876,7 +880,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -1021,7 +1024,6 @@ databank.air.yoyi.com.cn
 datafastguru.info
 dc.csdn.net
 dc.liuliang100.com
-dc.xhct66.com
 dc2.csdn.net
 dd.dante2007.com
 dd.mangofortune.net
@@ -1062,7 +1064,6 @@ dingchin.com.tw
 dingon.com.cn
 dip.pyangzi.com
 dip.szhyzkj.com
-dis.us.criteo.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
@@ -1334,6 +1335,7 @@ e.zhuyuanp.shop
 e.zhuyuanp.top
 e.zjkdaikuan.com
 e.zunss.com
+e70123.com
 e704.net
 eastturkistancc.org
 eclick.baidu.cn
@@ -1465,8 +1467,10 @@ fytza.cn
 fz863.com
 fzh999.com
 fzh999.net
+g.ad8.cc
 g.corp.163.com
 g.ousns.net
+g.usingde.com
 g.uusee.com
 g.w5b454.com
 g.wrating.com
@@ -1589,6 +1593,7 @@ hao123rt.com
 hbdt.luomi.com
 hbngfy.com
 hbssjd.cn
+hbyyzm.com
 hc.baidu.cn
 hc.baidu.com
 hd.jiedaibao.com
@@ -1649,6 +1654,7 @@ hunpingou.com
 huodong.pl.youku.com
 huodong.vip.youku.com
 huodonghezi.cn
+hutianyi.net
 hwt.player888.cn
 hxadt.com
 hxstfxx.cn
@@ -1741,6 +1747,7 @@ img2.km.com
 img2.qekun.com
 img3.km.com
 img80.net
+imgadpai.thepaper.cn
 imgc.cymzc.com
 imgcdn.wapx.cn
 imges.wu65.com
@@ -1769,6 +1776,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1944,7 +1952,6 @@ kafka8.com
 kalachakralugano.org
 kas.keydot.net
 kawa11.space
-kddtri.cn
 keontech.net
 ker.pic2pic.site
 kermit.macnn.com
@@ -2230,7 +2237,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2338,6 +2344,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2652,7 +2659,6 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
@@ -2725,6 +2731,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3076,7 +3083,6 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
-t.dmtrck.com
 t.l.qq.com
 t.oq68.com
 t.orzdream.com
@@ -3451,6 +3457,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
