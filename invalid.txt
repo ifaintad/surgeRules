@@ -114,6 +114,7 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -140,7 +141,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -173,13 +173,13 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
 9s6q.cn
 9wushuo.com
 a-dxk.play.api.3g.youku.com
+a.198banjia.com
 a.53yao.com
 a.5ykj.com
 a.armystar.com
@@ -372,6 +372,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -484,7 +485,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -580,6 +580,7 @@ baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
 baidu.dsp.tansuotv.com
 baidu.greenxf.cn
+baidu.jz5u.net
 baidu9635.com
 baidujs.cnys.com
 baidulao.com
@@ -633,6 +634,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -675,6 +677,7 @@ bizanti.youwatch.org
 bjcu.u3.ucweb.com
 bjedpt.com
 bjvvqu.cn
+bjxiaohua.com
 blb.winasdaq.com
 bllbaby.cn
 blockcn.com
@@ -694,6 +697,7 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+boomssr.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -822,7 +826,6 @@ cdn.millennialmedia.com
 cdn.moogos.com
 cdn.newapi.com
 cdn.puata.info
-cdn.tinglian.com
 cdn.vamaker.com
 cdn1.res.nx5.com
 cdn1.res.uzham.com
@@ -881,6 +884,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -933,6 +937,7 @@ couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
 cp.greenxf.cn
+cp.jz5u.net
 cpc.sohu.com
 cpcv.cc
 cpm.cm.kankan.com
@@ -1039,6 +1044,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1404,6 +1410,7 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1430,6 +1437,7 @@ file.bmob.cn
 filmy.olabloga.pl
 finding.hardwareheaven.com
 findnsave.idahostatesman.com
+finead.cn
 fips.uimserv.net
 fjkst.com
 fjmeyer.com
@@ -1775,6 +1783,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2069,6 +2078,7 @@ m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
+m.551144.com
 m.640640.com
 m.7180443.com
 m.77vcd.com
@@ -2077,7 +2087,6 @@ m.achig.com
 m.adxpop.com
 m.afoux.com
 m.anmeilai.net
-m.aty.cp45.ott.cibntv.net
 m.axsre.com
 m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
@@ -2190,6 +2199,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2238,6 +2248,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.srrux.com
 m.suehy.com
@@ -2345,7 +2356,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2423,7 +2433,6 @@ msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
 mtj.baidu.cn
-mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
 mubite.cn
@@ -2496,7 +2505,6 @@ njs.myyage.com
 njs.reliancevalve.com
 nko.navy.mil
 nmkgs.cn
-nmqbg.com
 nnedbx.com
 nofile.io
 notify.oupeng.com
@@ -2706,6 +2714,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2750,7 +2759,7 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
-raeqqe.cn
+radiovaticana.org
 raidtalk.com.tw
 rangwang.biz
 rannabio.com
@@ -3192,6 +3201,7 @@ tweetcs.com
 tweetmylast.fm
 tweets.seraph.me
 twimg.edgesuite.net
+twitcause.com
 twldmx.com
 twstar.net
 twyac.org
@@ -3356,6 +3366,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3457,7 +3468,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3495,6 +3505,7 @@ xfywn.com
 xgmc6lu8fs.me
 xhsxgnt.cn
 xhtd.99hg.wang
+xhxnkyy.com
 xhydrs.cn
 xia.huishenghuiying.com
 xia.jihehuaban.com
@@ -3585,6 +3596,7 @@ yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
+youmsm.com
 youtubecn.com
 youxi.kugou.com
 youzehui.com
