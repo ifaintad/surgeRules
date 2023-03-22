@@ -114,10 +114,8 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -160,6 +158,7 @@
 85058s.com
 8521448.com
 85655095.com
+85st.com
 85tgw.com
 8800271.com.cn
 888.jiuwanwang.com
@@ -173,6 +172,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -361,6 +361,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -634,7 +635,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -697,7 +697,6 @@ bmg.wnbfw.com
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-boomssr.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -826,6 +825,7 @@ cdn.millennialmedia.com
 cdn.moogos.com
 cdn.newapi.com
 cdn.puata.info
+cdn.tinglian.com
 cdn.vamaker.com
 cdn1.res.nx5.com
 cdn1.res.uzham.com
@@ -884,7 +884,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -1044,7 +1043,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
 de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
@@ -1292,6 +1290,7 @@ e.ricpt.com
 e.rmwdn.com
 e.romgv.com
 e.sanitwealth.com
+e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
@@ -1410,7 +1409,6 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1582,7 +1580,6 @@ gugulonger.cn
 guoshennet.com
 gx38.cn
 gyca9f.dahuangcheng.cn
-gydag.com
 gz00005.top
 gzmjnx.cn
 gzqudou.com
@@ -1590,6 +1587,7 @@ h.canmg.cn
 h.irs01.com
 h1.18sd.cn
 h2.18sd.cn
+h5.super-dreamers.com
 h5.taihao.cc
 h8.bec.com
 haitaoad.nosdn.127.net
@@ -1810,6 +1808,7 @@ j7182.hfxcsl.cn
 jack.okkkk.com
 jackaow.com
 jandyx.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1900,7 +1899,6 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
-js1.zuocai.tv
 js1151.yongkang6.com
 js1157.yongkang6.com
 js123.0937jyg.com
@@ -1971,6 +1969,7 @@ kho3au7l4z.me
 kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
+kmwqxqh.com
 kn.aishake.cn
 kn.archrug.com
 kn.barnfps.com
@@ -2248,8 +2247,8 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.slandr.net
+m.sosjyx.com
 m.srrux.com
 m.suehy.com
 m.sxxca.com
@@ -2338,7 +2337,6 @@ match.rundsp.com
 material.mtty.xin
 mathiew-badimon.com
 matsushimakaede.com
-maturejp.com
 maw.wnbfw.com
 mb.zam.com
 mcore.vcgame.cn
@@ -2356,6 +2354,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2433,6 +2432,7 @@ msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
 mtj.baidu.cn
+mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
 mubite.cn
@@ -2714,7 +2714,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2759,7 +2758,6 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
-radiovaticana.org
 raidtalk.com.tw
 rangwang.biz
 rannabio.com
@@ -3065,6 +3063,7 @@ stream.heavenmedia.net
 streaming.rtbiddingplatform.com
 sub.topber.com
 subacme.rerouted.org
+summify.com
 suoluo.org
 surv.xbizmedia.com
 suvset.sohu.com
@@ -3246,6 +3245,7 @@ uk3oi.adgze.cn
 ukeiae.com
 ukliferadio.co.uk
 ulic.baidu.com
+ulink.cc
 um.hd.sohu.com
 un.52rkl.cn
 un.winasdaq.com
