@@ -17,7 +17,6 @@
 1.21shebao.com
 1.bashenghuo.com
 1.chcx.cn
-1.cjcp.cn
 1.hao123.com
 1.hnyouneng.com
 1.hslyqs.com
@@ -57,6 +56,7 @@
 1e2hyl3b.wq42211.com
 1i580.com
 1kmb.cn
+1lib.education
 1tlm.cn
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -116,6 +116,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -158,7 +159,6 @@
 85058s.com
 8521448.com
 85655095.com
-85st.com
 85tgw.com
 8800271.com.cn
 888.jiuwanwang.com
@@ -225,7 +225,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -415,6 +414,7 @@ afpimages.eastday
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
+agn.aty.cp45.ott.cibntv.net
 agr.voiceads.cn
 ahyau.com
 ai-wen.net
@@ -547,6 +547,7 @@ atm.youku.com
 atnext.com
 atomicblast.lol
 att.stargame.com
+aty.cp45.ott.cibntv.net
 aty.hd.sohu.com
 aty.sohu.com
 av.nightlife141.com
@@ -635,6 +636,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -884,6 +886,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
@@ -974,6 +977,7 @@ cyad1.cyworld.com
 cycy.kxrxh.com
 cylinderlongcheng.com
 cytode.us
+cz01016102.cg2017.com
 cz01016102.ms758.com
 czdqhyo1.net
 d.107788.com
@@ -1781,7 +1785,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1899,6 +1902,7 @@ js.yixui.com
 js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
+js1.zuocai.tv
 js1151.yongkang6.com
 js1157.yongkang6.com
 js123.0937jyg.com
@@ -2040,6 +2044,7 @@ ll.hudong.com
 ll.songlaoban.cn
 lm.dawenxue.org
 lml.jfjsp.com
+lndjj.com
 loandatec.com
 localnetwork.uop
 locdrop.query.yahoo.com
@@ -2247,6 +2252,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2354,7 +2360,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2625,6 +2630,7 @@ photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
+photo.xunhuaji.cn
 photo.zhanhevr.cn
 pic.14bobo.com
 pic.2u.com.cn
@@ -3211,6 +3217,7 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
+u.ddvip.com
 u.talkingdata.net
 u.xcy8.com
 u.yizuya.com
@@ -3237,7 +3244,6 @@ udrwyjpwjfeg.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
-ui37.net
 uid.ksosoft.com
 uimg.27admin.com
 ujikdd041o.cn
@@ -3245,7 +3251,6 @@ uk3oi.adgze.cn
 ukeiae.com
 ukliferadio.co.uk
 ulic.baidu.com
-ulink.cc
 um.hd.sohu.com
 un.52rkl.cn
 un.winasdaq.com
@@ -3569,6 +3574,7 @@ y.hzht666.com
 y.zxwdw.com
 y0.cn
 yageben.com
+yangdasen.cn
 yanglaopt.net
 ybp.yahoo.com
 ybtianxi.com
