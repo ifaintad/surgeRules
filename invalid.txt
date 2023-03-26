@@ -57,7 +57,6 @@
 1i580.com
 1kmb.cn
 1lib.education
-1tlm.cn
 2.0.192.in-addr.arpa
 2.21shebao.com
 2.bashenghuo.com
@@ -172,7 +171,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -363,7 +362,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -497,7 +495,6 @@ apk.idate520.com
 apk.supfast.net
 apkinfo.voole.com
 apklog.cp11.ott.cibntv.net
-aplusvpn.com
 apnmedia.ask.com
 app.9yyg.cn
 app.abc000.today
@@ -1005,6 +1002,7 @@ da.mgtv.com
 dabr.me
 dabr.mobi
 dads.new.digg.com
+dahanedu.com
 dailylog.storm.baofeng.com
 daima.23yy.com
 daima.chazidian.com
@@ -1050,8 +1048,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
-de.dzribao.com
 de.soquair.com
 deals.ledgertranscript.com
 decodet.co
@@ -1062,7 +1058,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1607,7 +1602,6 @@ haiwai-ic.ksosoft.com
 haiwengji.net
 hanju18.net
 hanunyi.com
-hao.news
 hao123rt.com
 hbdt.luomi.com
 hbngfy.com
@@ -1798,7 +1792,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2031,7 +2024,6 @@ l9bdhcgihw.neihanw.com
 lajizhan.org
 langjiyisheng.com
 lanxiangji.com
-latelinenews.com
 lausan.hk
 ld.hao123img.com
 ld.kuaigames.com
@@ -2095,12 +2087,12 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
 m.551144.com
-m.640640.com
 m.7180443.com
 m.77vcd.com
 m.abfirst.cn
@@ -2270,6 +2262,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.sjaidu.com
 m.sjuqc.com
 m.slandr.net
@@ -2296,7 +2289,6 @@ m.uissm.com
 m.vbaou.com
 m.vbieu.com
 m.vbinu.com
-m.verpt.com
 m.vichc.com
 m.vsxet.com
 m.wcjup.com
@@ -2382,6 +2374,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2745,6 +2738,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2773,6 +2767,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3090,7 +3085,6 @@ statisticsv2.yinyuetai.com
 stats.tudou.com
 statueofdemocracy.org
 stervapoimenialena.info
-stjzh.gdtarget.com
 store.videojj.com
 storm.logger.baofeng.com
 stream.heavenmedia.net
@@ -3135,6 +3129,7 @@ t.uvcourse.net
 t.youmi.net
 t2.vbxx.net
 t70123.com
+t75.qyqc4s.com
 taat00889.com
 taipeisociety.org
 tamiaode.tk
@@ -3499,13 +3494,13 @@ ww881.smartadserver.com
 ww9.onetad.com
 wwis-dubc1-vip60.adobe.com
 wwv.onetad.com
+www.abclite.net
 www.gmiddle.com
 www.gmiddle.net
 www.wangruowang.org
 www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
-wwww.640640.com
 wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
@@ -3670,7 +3665,7 @@ zgsddh.com
 zgunion.cn
 zgzcjj.net
 zhanbin.net
-zhao258.com
+zheng.cs12d.com
 zhenlibu.info
 zhinengluyou.com
 zhongmeng.org
