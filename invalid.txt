@@ -47,7 +47,6 @@
 138138138.top
 142904.com
 163.wrating.com
-1680go.com
 176um.com
 17un.co
 18av.mm-cg.co
@@ -88,7 +87,6 @@
 33shangyou.com
 360baidus.com
 360jiaquan.com
-360shopping.com.cn
 360vip.front99.com
 361315.cc
 365bibi.com
@@ -118,6 +116,7 @@
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -141,7 +140,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -175,6 +173,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -358,7 +357,6 @@ admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
-admin.ninebox.cn
 admob.xiaomi.com
 adnet.sohu.com
 adobe-dns-2.adobe.com
@@ -372,7 +370,6 @@ ads2.opensubtitles.org
 adscdn.baidu.cn
 adsclick.yx.js.cn
 adscript.gmarket.co.kr
-adsdk.dmzj.com
 adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
@@ -393,7 +390,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -445,6 +441,7 @@ alistatic.cn
 alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
+all.orfr.adgtw.orangeads.fr
 allnews.uodoo.com
 alog.umeng.co
 als.baidu.cn
@@ -651,7 +648,6 @@ bdjs1.ixiumei.com
 bdlm1.hc360.com
 bdlncs1.familydoctor.com.cn
 bdmm.xywy.com
-bdpuaw.com
 bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
@@ -786,8 +782,6 @@ cacaca.0571yy.com
 cacaca.sp96878.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
-cadvv.heraldm.com
-cadvv.koreaherald.com
 caliyuna.cn
 calopenupdate.comm.miui.com
 cams.pornrabbit.com
@@ -908,7 +902,6 @@ cn.voa.mobi
 cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
 cnpinzhuo.com
-cnzhqs.com
 cochina.co
 code.3shangyou.com
 code.hajuwang.cn
@@ -1008,6 +1001,7 @@ dabr.me
 dabr.mobi
 dads.new.digg.com
 dahanedu.com
+dailidaili.com
 dailylog.storm.baofeng.com
 daima.23yy.com
 daima.chazidian.com
@@ -1566,7 +1560,6 @@ gongminliliang.com
 good.ta80.com
 gooddns.info
 goods.tudou.com
-google.ki
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1799,6 +1792,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1825,6 +1819,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2092,7 +2087,6 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.118ex.cn
-m.12306media.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2221,7 +2215,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2270,7 +2263,6 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
-m.sanjiangge.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2378,7 +2370,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2599,6 +2590,7 @@ oyzsverimywg.com
 p-log.ykimg.com
 p.bdjiazanmiaomu.com
 p.bjdianyue.com
+p.bnuni.com
 p.kjwx8.com
 p.l.ykimg.com
 p.l.youku.com
@@ -3401,7 +3393,6 @@ wazero.online
 wda.ydt.com.cn
 wdf5.com
 wdgsl.com
-web.data.pplive.com
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
 weekmag.info
