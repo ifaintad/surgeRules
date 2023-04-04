@@ -35,6 +35,7 @@
 10.tt
 100.51.198.in-addr.arpa
 10086.cn.baidu.cdn.yiwk.com
+100fenlm.com
 100ke.org
 11.hydcd.com
 111111qb.com
@@ -49,7 +50,6 @@
 163.wrating.com
 176um.com
 17un.co
-18av.mm-cg.co
 1989report.hkja.org.hk
 1998cdp.org
 1d1px.net
@@ -116,7 +116,6 @@
 5207470.com
 52kmk.com
 52lubo.cn
-537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -140,6 +139,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -172,7 +172,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -226,6 +225,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -353,7 +353,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -648,6 +647,7 @@ bdjs1.ixiumei.com
 bdlm1.hc360.com
 bdlncs1.familydoctor.com.cn
 bdmm.xywy.com
+bdplus.baidu.com
 bds.hainan.net
 bds.soarfi.cn
 bdtongfei.cn
@@ -1030,6 +1030,7 @@ data-pic.cdn.cootekservice.com
 data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
+datax.baidu.com
 dbwmjj.com
 dc.csdn.net
 dc.liuliang100.com
@@ -1703,6 +1704,7 @@ ig.nukefans.net
 igfw.tech
 igj5y.yongchanghengyuan.com
 iia1.pikacn.com
+iiewl.com
 iisl7wpf.me
 ikcode.baidu.com
 im.tv
@@ -2215,6 +2217,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2370,6 +2373,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2730,7 +2734,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2887,6 +2890,7 @@ s2.yandui.com
 s4.55.la
 s400cc.com
 s5.keydot.net
+s8.001fzc.com
 s8.dnaxddnc.com
 s8forum.com
 s9w.cc
@@ -3488,7 +3492,6 @@ wwwokzyzy.com
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxmmh.net
@@ -3524,6 +3527,7 @@ xfm.pp.ru
 xfo.monesyy.com
 xfywn.com
 xgmc6lu8fs.me
+xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
 xhxnkyy.com
@@ -3557,7 +3561,6 @@ xlmc.sandai.net
 xlwnx.com
 xmnmeu.cn
 xmpush.xiaomi.com
-xnjpg.com
 xoredi.com
 xpe.cxaerp.com
 xpj3.net
@@ -3617,6 +3620,7 @@ ykbei.com
 ykxwn.com
 yl850555.com
 ylwy168.com
+yn.001fzc.com
 yongv.com
 yongyuelm.com
 yoo.yiiyoo.net
