@@ -2,6 +2,7 @@
 0.in-addr.arpa
 0086555.com
 00880808.com
+018520.com
 01daa.lubih.com
 01daa.lutgh.com
 01daa.luvbr.com
@@ -113,9 +114,11 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -172,7 +175,7 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -332,6 +335,7 @@ add.mmyuer.com
 add.sina.com.cn
 addata.ku6.com
 addl.easetuner.com
+adds.weatherology.com
 adfarm.mediaplex.com
 adfile.wifi8.com
 adfront.auction.co.kr
@@ -440,7 +444,6 @@ alistatic.cn
 alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
-all.orfr.adgtw.orangeads.fr
 allnews.uodoo.com
 alog.umeng.co
 als.baidu.cn
@@ -636,6 +639,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -659,7 +663,6 @@ beha.ksmobile.com
 beijingzx.org
 benshiw.net
 bes-progfree.com
-bestforchina.org
 bfshan.cn
 bgrndi.com
 bhjac.azvub.cn
@@ -724,6 +727,7 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -1058,7 +1062,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1348,7 +1351,6 @@ e.zhuyuanp.club
 e.zhuyuanp.shop
 e.zhuyuanp.top
 e.zjkdaikuan.com
-e.zunss.com
 e70123.com
 e704.net
 eastturkistancc.org
@@ -1376,6 +1378,7 @@ epochtimes.ie
 epro.sohu.com
 ereg.wip3.adobe.com
 erwr.ydjskvpd.com
+esptj.com
 esrpxyahzna.bid
 ethod.gzgmjcx.com
 euwidget.imshopping.com
@@ -1662,7 +1665,6 @@ hpqxznpb.bid
 ht.www.sogou.com
 html.350.com
 html.sunday8.com
-html.yuntzs.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1821,7 +1823,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2266,6 +2267,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanitwealth.com
+m.sanjiangge.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2607,6 +2609,7 @@ p.yizuya.com
 p.ynjczy.net
 p1.18zhongyao.com
 p1.qinsx.cn
+p2.hyz86.com
 p2.qinsx.cn
 p2pmid.baofeng.com
 p3tt.com
@@ -2656,6 +2659,7 @@ pic.fengniao.com
 pic.haowj.com.cn
 pic.moad.cn
 pic.neiyicun.net
+pic.new400.cn
 pic.pic-img.com
 pic.pxstda.com
 pic.usingde.com
@@ -2734,6 +2738,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2743,7 +2748,6 @@ qianchuanghr.com
 qienkuen.org
 qingqu.la
 qiqipower.com
-qixianglu.cn
 qiye11.ejunshi.net
 qjfcdn1220.0101122.com
 qjjtc.com
@@ -2779,6 +2783,7 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
+radiovaticana.org
 raidtalk.com.tw
 rangwang.biz
 raremovie.cc
@@ -3340,6 +3345,7 @@ videondun.com
 videopush.baidu.cn
 vimg.dwstatic.com
 vip.cainiaofx.com
+vip.hyz86.com
 vip.id528.com
 vip.mall044.com
 vip.media8.cn
@@ -3537,7 +3543,6 @@ xia.jihehuaban.com
 xianchawang.net
 xianjian.tw
 xiaobiaoucai.cn
-xiaohei.com
 xiaohui2.cn
 xiaomiir.yaokantv.com
 xiaoshuo.kp53.cn
@@ -3647,6 +3652,7 @@ yyjxgm.net
 yyt.irs01.com
 yzh.jyjhkz.com
 z.clickvip.shop
+z2.lnymd.com
 zads.care2.com
 zb.nxing.cn
 zbz.m.qxs.la
