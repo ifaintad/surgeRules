@@ -118,6 +118,7 @@
 52kmk.com
 52lubo.cn
 537901.com
+559gp.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -141,7 +142,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -174,8 +174,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -394,7 +392,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -455,6 +452,7 @@ amazingmagics.com
 amnyemachen.org
 ams.fx678.com
 analytics.126.net
+android-lrcresource.wps.cn
 androidgo.duapp.com
 androidlog.shouji.baofeng.com
 androidplus.co
@@ -958,6 +956,7 @@ cpv.czpush.com
 cpv.ty229.com
 cpva.cc
 cqhnm.com
+crashes.mo.wps.cn
 creatim.qtmojo.cn
 creative.1111cpc.com
 creative.jdkic.com
@@ -1062,7 +1061,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1609,6 +1607,7 @@ haiwai-ic.ksosoft.com
 haiwengji.net
 hanju18.net
 hanunyi.com
+hao.news
 hao123rt.com
 hbdt.luomi.com
 hbngfy.com
@@ -1652,6 +1651,7 @@ hkgreenradio.org
 hkhrm.org.hk
 hklft.com
 hkupop.hku.hk
+hkusu.net
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
@@ -2072,7 +2072,6 @@ loldy.jiangmg.com
 looky.hyves.org
 lotuslight.org.hk
 lp.jiuzhilan.com
-lpsxssm.com
 ls.webmd.com
 lsxmg.com
 ltheanine.cn
@@ -2220,6 +2219,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2501,7 +2501,6 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
-new.yokaunion.com
 new.zhqiu.com
 news-imgpb.51y5.net
 news.docer.com
@@ -2530,6 +2529,7 @@ nko.navy.mil
 nnedbx.com
 nofile.io
 notify.oupeng.com
+notify.wps.cn
 nowskip.com
 noxagile.duapp.com
 npdaqy6x1j.me
@@ -3070,6 +3070,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3092,11 +3093,9 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
-sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
@@ -3280,6 +3279,7 @@ union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
@@ -3344,6 +3344,7 @@ video.fdbox.com
 videondun.com
 videopush.baidu.cn
 vimg.dwstatic.com
+vincnd.com
 vip.cainiaofx.com
 vip.hyz86.com
 vip.id528.com
@@ -3629,7 +3630,6 @@ yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
-youtube.com.by
 youtubecn.com
 youxi.kugou.com
 youzehui.com
