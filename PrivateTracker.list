@@ -1,5 +1,6 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list
 DOMAIN,1337.abcvg.info
+DOMAIN,147job.com
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,9.rarbg.com
 DOMAIN,aarsen.me
@@ -40,11 +41,9 @@ DOMAIN,moonburrow.club
 DOMAIN,movies.zsw.ca
 DOMAIN,new-line.net
 DOMAIN,nyaa.tracker.wf
-DOMAIN,open.4ever.tk
 DOMAIN,open.acgnxtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.publictracker.xyz
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
@@ -79,11 +78,11 @@ DOMAIN,torrent-tracker.hama3.net
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.bangumi.moe
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.cili001.com
 DOMAIN,tr.ready4.icu
 DOMAIN,tr2.cubonegro.lol
+DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.4.babico.name.tr
 DOMAIN,tracker.altrosky.nl
 DOMAIN,tracker.artixlinux.org
@@ -91,6 +90,7 @@ DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bitsearch.to
+DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cubonegro.lol
@@ -142,7 +142,6 @@ DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
 DOMAIN,v1046920.hosted-by-vdsina.ru
-DOMAIN,v2.iperson.xyz
 DOMAIN,v6-tracker.0g.cx
 DOMAIN,vps02.net.orel.ru
 DOMAIN,wepzone.net
@@ -228,7 +227,6 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,morethan.tv
-DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,ncore.cc
