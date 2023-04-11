@@ -60,6 +60,7 @@
 1lib.education
 2.0.192.in-addr.arpa
 2.21shebao.com
+2.5aigushi.com
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
@@ -114,10 +115,10 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -164,7 +165,6 @@
 85655095.com
 85tgw.com
 8800271.com.cn
-888.jiuwanwang.com
 888zr022.com
 88cncc.com
 8hykthze.cricket
@@ -175,7 +175,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -377,6 +376,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -814,6 +814,7 @@ cca.mob.com
 ccb.uncle-ad.com
 ccbaihehq.com
 cdhoc.piyaji.cn
+cdn.5bong.com
 cdn.adsk2.co
 cdn.aiclicash.com
 cdn.app.kachapt.cn
@@ -887,10 +888,10 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cm.p4p.cn.yahoo.com
-cmaxisolation.com
 cmp288.com
 cmule.org
 cn.api.push.le.com
@@ -1049,6 +1050,7 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
+de.as.cp61.ott.cibntv.net
 de.soquair.com
 deals.ledgertranscript.com
 decodet.co
@@ -1059,7 +1061,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1238,6 +1239,7 @@ e.iruad.com
 e.ishowms.com
 e.jdaot.com
 e.jgkto.com
+e.jiaas.com
 e.jiirz.com
 e.jioeg.com
 e.jkert.com
@@ -1425,7 +1427,6 @@ fcsass.org.cn
 fd.anzhi.com
 fdc89.jp
 feedback.whalecloud.com
-feelssh.com
 fei232.bhzje7ua9.com
 feifeiss.com
 fembsflungod.com
@@ -1820,7 +1821,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2039,8 +2039,6 @@ leju.sina.com.cn
 leorockwell.com
 lerosua.org
 lfyuanai.com
-libsolutions.app
-libsolutions.domains
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2445,7 +2443,6 @@ ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
-msg.vg
 msg1.video.qiyi.com
 msminico.cn
 msn.com.nsatc.net
@@ -2478,6 +2475,7 @@ n.wjr1x.cn
 n.yfi8.com
 n.zqqf0.cn
 nai.cpxkvc.com
+namemek.com
 nav.winasdaq.com
 navi.gd.chinamobile.com
 nbjjd.com
@@ -2588,7 +2586,6 @@ openstorage.ad.cmvideo.cn
 orchidscape.net
 orz.hupu.com
 orzistic.org
-osapublishing.org
 otf.msn.com
 otnd.org
 ox.furaffinity.net
@@ -2744,6 +2741,7 @@ qeoa.hawbfa.com
 qgss8.com
 qhaif.com
 qianchuanghr.com
+qiaopiguniang.com
 qienkuen.org
 qingqu.la
 qiqipower.com
@@ -2794,10 +2792,12 @@ rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
 red.bayimg.net
+redballoonsolidarity.org
 regist.fotoable.com
 remote88.com
 remotedu.cn
 rencai56.com
+renren2.maoyun.tv
 res.cocounion.com
 res.dxpmedia.com
 res.icast.cn
@@ -3115,6 +3115,7 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
+t.l.qq.com
 t.oq68.com
 t.orzdream.com
 t.pingzei.com
@@ -3124,12 +3125,12 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
+tailwindtraders.com
 taipeisociety.org
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
 taobaly.cn
-taobaobo5.com
 taohanpai.com
 taolun.info
 tap-cdn.rubiconproject.com
@@ -3250,6 +3251,7 @@ uc.haoyunyuan.cc
 uc.xiansuper.com
 ucaliyun.cn
 ucdc1998.org
+ucqq.cnsptv.com.cn
 ucrzgcs.cn
 ucstat.baidu.cn
 ucstat.baidu.com
@@ -3280,6 +3282,7 @@ union.star-media.cn
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 up.wps.kingsoft.com
@@ -3393,6 +3396,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3433,7 +3437,6 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
-wikileaks.com
 windcdna.com
 windowsphoneme.com
 winwhispers.info
@@ -3569,7 +3572,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xoredi.com
 xpe.cxaerp.com
-xpj3.net
 xpjkf888.com
 xq199.com
 xs.swagger1.com
@@ -3688,6 +3690,7 @@ zspeeder.me
 zst.jzntxs.com
 zsxpx.com
 zszwcp.cn
+zt2088.com
 zte.home
 ztxbd.com
 zu08e.cn
