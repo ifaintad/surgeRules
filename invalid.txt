@@ -115,6 +115,7 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52kmk.com
 52lubo.cn
@@ -298,6 +299,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -317,7 +319,6 @@ ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
 ad.xxguan.cn
-ad.ylunion.com
 ad000000.com
 ad1.netshelter.net
 ad1.p5w.net
@@ -364,7 +365,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -472,6 +472,7 @@ api.0.0.0.0.cn
 api.adv.ott.cibntv.net
 api.ahjinshu.com
 api.android.dianru.com
+api.bailingjiankang.com
 api.cmt.mob.com
 api.dianru.com
 api.dreamfull.cn
@@ -638,7 +639,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -726,6 +726,7 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -891,6 +892,7 @@ cliushow.com
 clk.uunt.com
 cloakpoint.com
 clotfun.mobi
+cloudpush.iqiyi.com
 cm.p4p.cn.yahoo.com
 cmp288.com
 cmule.org
@@ -1050,7 +1052,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.cp61.ott.cibntv.net
 de.soquair.com
 deals.ledgertranscript.com
 decodet.co
@@ -1061,6 +1062,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1239,7 +1241,6 @@ e.iruad.com
 e.ishowms.com
 e.jdaot.com
 e.jgkto.com
-e.jiaas.com
 e.jiirz.com
 e.jioeg.com
 e.jkert.com
@@ -1821,6 +1822,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1909,7 +1911,6 @@ js.xiansuper.com
 js.xtgreat.com
 js.ydeprint.com
 js.yixui.com
-js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
 js1.zuocai.tv
@@ -2102,6 +2103,7 @@ m.aqiudaohang.com
 m.axsre.com
 m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
+m.bailingjiankang.com
 m.baiyangzs.com
 m.bapkt.com
 m.bbvjs.com
@@ -2369,7 +2371,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2397,7 +2398,6 @@ mingysh.com
 mini.cpc.sogou.com
 mini.jijiplayer.com
 minidcsc.kugou.com
-minisplat.cn
 miniye.xjts.cn
 mitao.com.tw
 miui.hdfdm.com
@@ -2443,6 +2443,7 @@ ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
+msg.vg
 msg1.video.qiyi.com
 msminico.cn
 msn.com.nsatc.net
@@ -2632,6 +2633,7 @@ pb.funshion.net.cn
 pb.wang502.com
 pbs.lenovomm.com
 pc.107788.com
+pc.videoclick.baidu.com
 pcauto.irs01.com
 pcmzn.com
 pd.sogou.com
@@ -2681,6 +2683,7 @@ plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
 pm.sdaiv.com
+politicalchina.org
 politicalconsultation.org
 pomhz.com
 pop.code.poyang.cn
@@ -2688,6 +2691,7 @@ pop.sjk.ijinshan.com
 poppyta.com
 pornmm.net
 postimg.org
+potvpn.com
 powergg.top
 pp.sxjkc.cn
 ppjia55.com
@@ -2724,6 +2728,7 @@ push.wapx.cn
 pushchinawall.com
 pv.anzhi.com
 pv.cheshi-img.com
+pv.ra.icast.cn
 pv.sogou.com
 pvdata.ku6.com
 pvlog.hd.baofeng.com
@@ -3029,6 +3034,7 @@ spt.dictionary.com
 sqd.jstdjq.com
 sqext.com
 sqtpks3.1391.com
+srcf.ucam.org
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
@@ -3125,7 +3131,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-tailwindtraders.com
 taipeisociety.org
 tamiaode.tk
 tangoutianxia.com
@@ -3171,6 +3176,7 @@ tiangoutai.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
+tibet-foundation.org
 timelog.moviebox.baofeng.com
 tintuc101.com
 tips.logger.baofeng.com
@@ -3279,10 +3285,10 @@ union.mi.com
 union.mop.com
 union.sogou.com
 union.star-media.cn
+union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 up.wps.kingsoft.com
