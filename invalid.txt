@@ -60,7 +60,6 @@
 1lib.education
 2.0.192.in-addr.arpa
 2.21shebao.com
-2.5aigushi.com
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
@@ -115,11 +114,9 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52kmk.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -176,6 +173,8 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -356,7 +355,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -439,11 +437,13 @@ al-qimmah.net
 alexlur.org
 alipay.dajiadou6.com
 aliqqjd.cn
+alisinak.com
 alistatic.cn
 alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -1120,7 +1120,6 @@ dol.tianyaui.cn
 dolphin.ftimg.net
 dolphin4.ftimg.net
 domed.shenbimall.com
-domob.org
 dontblockme.modaco.com
 dontmovetochina.com
 doubleclick.tv002.com
@@ -1462,6 +1461,7 @@ forum.setty.com.tw
 forum.sina.com.hk
 fotile.me
 fourface.nodesnoop.com
+fourthinternational.org
 fpb.51edu.com
 fpb.kuhou.com
 fpb.mn586.com
@@ -1660,6 +1660,7 @@ houyi.baofeng.net
 hp.smiler-ad.com
 hpd.baidu.cn
 hpqxznpb.bid
+hqjapanesesex.com
 ht.www.sogou.com
 html.350.com
 html.sunday8.com
@@ -2443,7 +2444,6 @@ ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
 msg.m.letv.com
-msg.vg
 msg1.video.qiyi.com
 msminico.cn
 msn.com.nsatc.net
@@ -2512,6 +2512,7 @@ newscn.org
 newspeak.cc
 nex.corp.163.com
 nextcps.com
+nexttv.com.tw
 nfh.cnshef.com
 ngodupdongchung.com
 nic.cz.cc
@@ -2728,7 +2729,6 @@ push.wapx.cn
 pushchinawall.com
 pv.anzhi.com
 pv.cheshi-img.com
-pv.ra.icast.cn
 pv.sogou.com
 pvdata.ku6.com
 pvlog.hd.baofeng.com
@@ -3034,7 +3034,6 @@ spt.dictionary.com
 sqd.jstdjq.com
 sqext.com
 sqtpks3.1391.com
-srcf.ucam.org
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
@@ -3291,7 +3290,6 @@ unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
 up.hiao.com
-up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3651,6 +3649,7 @@ yunanfuwuqi.com
 yunpifu.cn
 yxs.tymsyx.com
 yxszy.com
+yxxwyz.com
 yyffeicd.m.qxs.la
 yyii.org
 yyjxgm.net
