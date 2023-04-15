@@ -114,11 +114,9 @@
 51gxqm.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52kmk.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -176,6 +174,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -277,6 +276,7 @@ ad.crichd.in
 ad.csdn.net
 ad.daum.net
 ad.directmirror.com
+ad.dokrmob.com
 ad.dqwjzm.com
 ad.endpo.in
 ad.evozi.com
@@ -366,7 +366,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -380,6 +379,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -449,7 +449,6 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -671,6 +670,7 @@ benshiw.net
 bes-progfree.com
 bestforchina.org
 bfshan.cn
+bgrndi.com
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -743,6 +743,7 @@ c.baidu.cn
 c.baidu.com
 c.cyto-biotherapy.com
 c.danangmo.cn
+c.dokrmob.com
 c.dzytjqcc.com
 c.effectivemeasure.net
 c.guangtui1999.com
@@ -894,6 +895,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -984,6 +986,7 @@ cz.ifeng0.com
 cz01016102.cg2017.com
 cz01016102.ms758.com
 czdqhyo1.net
+czpwm.com
 d.107788.com
 d.businessinsider.com
 d.danangmo.cn
@@ -1680,7 +1683,6 @@ huodonghezi.cn
 hutianyi.net
 hwt.player888.cn
 hxadt.com
-hxstfxx.cn
 hxueu.code.weddingeeos.com
 hz.shouyoutv.com
 hz.youku.com
@@ -1964,7 +1966,6 @@ junefourth-20.net
 justicefortenzin.org
 jutou5.com
 jwqj.net
-jx5m.com
 jxad.jx163.com
 jxxiangchu.com
 jyd.fjzdmy.com
@@ -2267,7 +2268,6 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
-m.sanjiangge.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2375,7 +2375,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2741,6 +2740,7 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
+qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2751,6 +2751,7 @@ qiaopiguniang.com
 qienkuen.org
 qingqu.la
 qiqipower.com
+qiqiyii.com
 qixianglu.cn
 qiye11.ejunshi.net
 qjfcdn1220.0101122.com
@@ -2771,6 +2772,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2858,7 +2860,6 @@ s.haiyunx.com
 s.hk9600.com
 s.hnhgw.cn
 s.hzht666.com
-s.iuuff.com
 s.jlminte.com
 s.khgj.cn
 s.l8l9.com
@@ -3130,7 +3131,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-tailwindtraders.com
 taipeisociety.org
 tamiaode.tk
 tangoutianxia.com
@@ -3274,6 +3274,7 @@ uk3oi.adgze.cn
 ukeiae.com
 ukliferadio.co.uk
 ulic.baidu.com
+ultravpn.fr
 um.hd.sohu.com
 un.52rkl.cn
 un.soarfi.cn
@@ -3289,9 +3290,9 @@ union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
+up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3426,6 +3427,7 @@ wep016.top
 werpig.com
 wexiaobo.org
 wezhiyong.org
+wgie.0z5jn.cn
 wha.la
 whn.star-media.cn
 whodns.xyz
@@ -3465,7 +3467,6 @@ woesermiddle-way.net
 wole.us
 workatruna.com
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wpwdf.com
@@ -3704,7 +3705,6 @@ zte.home
 ztxbd.com
 zu08e.cn
 zx.baosmx.com
-zxh.bzshzx.com
 zxr.fzxrjx.com
 zyf.fzdfwy.com
 zymo.mps.weibo.com
