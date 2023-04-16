@@ -2,6 +2,7 @@
 0.in-addr.arpa
 0086555.com
 00880808.com
+01.gxso.net
 018520.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -60,6 +61,7 @@
 1lib.education
 2.0.192.in-addr.arpa
 2.21shebao.com
+2.5aigushi.com
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
@@ -117,6 +119,7 @@
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -228,7 +231,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -356,7 +358,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -366,6 +367,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -395,7 +397,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -449,6 +450,7 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -622,6 +624,7 @@ bbsfeed.com
 bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
+bd.ershenghuo.com
 bd.gow100.com
 bd.soarfi.cn
 bd.wayqq.cn
@@ -709,6 +712,8 @@ bmw2ep.paomifen.cn
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
+bookshome.info
+bookshome.world
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -892,10 +897,10 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1025,7 +1030,6 @@ dairuqi.com
 daitdai.com
 dajusha.baywords.com
 dalailama.usc.edu
-dalianhengtai.com
 dandan11.top
 dandan13.top
 dandan15.top
@@ -1068,7 +1072,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1424,6 +1427,7 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1676,7 +1680,6 @@ huaxia-news.com
 huaxinxunye.cn
 huayi65.com
 hungerstrikeforaids.org
-hunpingou.com
 huodong.pl.youku.com
 huodong.vip.youku.com
 huodonghezi.cn
@@ -1705,6 +1708,7 @@ ico.58pic.com
 idianfang.com
 ids.deliver.ifeng.com
 iebar.baidu.com
+ifacelog.iqiyi.com
 ifan.cz.cc
 iframe.travel.yahoo.com
 ig.nukefans.net
@@ -2268,6 +2272,7 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
+m.sanjiangge.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2324,7 +2329,6 @@ m.yuxyz.com
 m.ywbwsm.com
 m.yyjhf.com
 m.yzjlsb.com
-m.zeiaa.com
 m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
@@ -2375,6 +2379,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2772,7 +2777,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -2975,6 +2979,7 @@ shixunjs.th21333.com
 shop.admin.yinyuetai.com
 shop.yinyuetai.com
 shoppingpartners2.futurenet.com
+show.qx15.com
 show.xiazai16.com
 showcase.vpsboard.com
 showing.hardwareheaven.com
@@ -2996,6 +3001,7 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
+siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3121,7 +3127,6 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
-t.l.qq.com
 t.oq68.com
 t.orzdream.com
 t.pingzei.com
@@ -3292,7 +3297,6 @@ unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
 up.hiao.com
-up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3619,6 +3623,7 @@ yes.xxx
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
+yfcode.m.gxwztv.com
 yhtcd.com
 yidulive.net
 yingsuoss.com
