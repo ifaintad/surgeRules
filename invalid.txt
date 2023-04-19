@@ -140,6 +140,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -171,8 +172,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -364,6 +363,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -377,6 +377,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -392,7 +393,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -640,6 +640,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -665,7 +666,6 @@ benshiw.net
 bes-progfree.com
 bestforchina.org
 bfshan.cn
-bgrndi.com
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -704,8 +704,6 @@ bmw2ep.paomifen.cn
 bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
-bookshome.info
-bookshome.world
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -723,7 +721,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -731,7 +728,6 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
-by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -892,7 +888,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1457,6 +1452,7 @@ forum.my903.com
 forum.setty.com.tw
 forum.sina.com.hk
 fotile.me
+founseezb.cn
 fourface.nodesnoop.com
 fourthinternational.org
 fpb.51edu.com
@@ -1539,6 +1535,7 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
+gload.adhood.com
 globaltm.org
 gm682.com
 gmhz.org
@@ -1815,7 +1812,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2487,7 +2483,6 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
-new.zhqiu.com
 news-imgpb.51y5.net
 news.docer.com
 news.hk.msn.com
@@ -2588,6 +2583,7 @@ p.bnuni.com
 p.kjwx8.com
 p.l.ykimg.com
 p.l.youku.com
+p.mendoc.cn
 p.qijijs.top
 p.saozhu1.top
 p.tamenshuo.com
@@ -2751,7 +2747,6 @@ qp.yunanfuwuqi.com
 qq.guansenff.cn
 qq.irs01.com
 qq.tapiche.cn
-qshxc.com
 qt.biqugezw.com
 qt002x.corp.youdao.com
 qtweeter.com
@@ -2787,7 +2782,6 @@ rdiqt.cn
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
-remote88.com
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3117,7 +3111,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-taipeisociety.org
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3387,6 +3380,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
