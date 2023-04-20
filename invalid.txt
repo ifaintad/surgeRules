@@ -116,6 +116,7 @@
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -172,6 +173,8 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -224,7 +227,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -728,6 +730,7 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -888,6 +891,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1059,6 +1063,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1292,7 +1297,6 @@ e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
-e.szqifu.com
 e.t71q.com
 e.tdtsd.com
 e.tiantianedu.net
@@ -1387,6 +1391,7 @@ eyd77s.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
+f.520tingshu.com
 f.f70123.com
 f.fj95560.com
 f.hongm.com
@@ -1554,6 +1559,7 @@ gongmeng.info
 gongminliliang.com
 good.ta80.com
 gooddns.info
+goodhope.school
 goods.tudou.com
 googlescholar.comUSA
 gopig.io
@@ -1812,6 +1818,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1824,7 +1831,6 @@ jbyy010.com
 jc.xuqinqi.cn
 jc1.dayfund.cn
 jct.maptu.cn
-jczzjx.com
 jd.c-ptsp.com.cn
 jdb.jiudingcapital.cn
 jdb.jiudingcapital.com
@@ -2040,6 +2046,7 @@ ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
 lm.dawenxue.org
+lm.souid.com
 lml.jfjsp.com
 lndjj.com
 loandatec.com
@@ -2202,7 +2209,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2259,7 +2265,6 @@ m.symab.cn
 m.symac.cn
 m.symad.cn
 m.symaj.cn
-m.szqifu.com
 m.tcksbz888.com
 m.tiantianedu.net
 m.tiaopimiao.net
@@ -2311,6 +2316,7 @@ m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
+m.zougg.com
 m.zuopp.com
 m1.mgogo.com
 m1.xcy8.com
@@ -2358,6 +2364,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 metrolife.ca
 mg.5pk
 mg.yadro.ru
@@ -2525,6 +2532,7 @@ nt.phpwind.com
 nterbx.com
 ntsna.gov.tw
 ntx.quanliyouxi.cn
+nv.souid.com
 nwejs.alcryp.com
 nwejs.myzcoffice.com
 nxrxt.con
@@ -3322,6 +3330,7 @@ vg02h8z1ul.me
 vi0.mzy2014.com
 vi1.ku6img.net
 vi1.mzy2014.com
+vi1.souid.com
 vi2.ku6img.net
 vichc.com
 victorjx.com
@@ -3482,7 +3491,6 @@ www.abclite.net
 www.gmiddle.com
 www.gmiddle.net
 www.wangruowang.org
-www1.biz
 www9.effectivemeasure.net
 wwwokzyzy.com
 wwww.495495.com
@@ -3532,6 +3540,7 @@ xia.jihehuaban.com
 xianchawang.net
 xianjian.tw
 xiaobiaoucai.cn
+xiaod.in
 xiaomiir.yaokantv.com
 xiaoshuo.kp53.cn
 xiaoyang.mobi
@@ -3566,6 +3575,7 @@ xtzxmy.com
 xul478.com
 xuzhiyong.net
 xxad.cc
+xxp.gytygc.com
 xxwkjl.com
 xxxy.biz
 xy.shijialianzuishuai.com
