@@ -20,7 +20,6 @@ DOMAIN,camera.lei001.com
 DOMAIN,carr.codes
 DOMAIN,chouchou.top
 DOMAIN,concen.org
-DOMAIN,dht.dhtclub.com
 DOMAIN,dn42.smrsh.net
 DOMAIN,download.nerocloud.me
 DOMAIN,epider.me
@@ -30,7 +29,6 @@ DOMAIN,fe.dealclub.de
 DOMAIN,fh2.cmp-gaming.com
 DOMAIN,htz3.noho.st
 DOMAIN,hub.bugout.link
-DOMAIN,incine.ru
 DOMAIN,ipv6.tracker.monitorit4.me
 DOMAIN,laze.cc
 DOMAIN,linfan.moe
@@ -55,7 +53,6 @@ DOMAIN,parag.rs
 DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,rep-art.ynh.fr
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
@@ -68,7 +65,6 @@ DOMAIN,stargrave.org
 DOMAIN,static.54.161.216.95.clients.your-server.de
 DOMAIN,t.133335.xyz
 DOMAIN,t.acg.rip
-DOMAIN,t.nyaatracker.com
 DOMAIN,t.zerg.pw
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
@@ -78,6 +74,7 @@ DOMAIN,thouvenin.cloud
 DOMAIN,torrent-tracker.hama3.net
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
+DOMAIN,tr.bangumi.moe
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.cili001.com
 DOMAIN,tr.ready4.icu
@@ -91,14 +88,11 @@ DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bitsearch.to
-DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.foreverpirates.co
@@ -113,12 +107,10 @@ DOMAIN,tracker.lilithraws.cf
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.loligirl.cn
 DOMAIN,tracker.mlsub.net
-DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.monitorit4.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.openbittorrent.com
-DOMAIN,tracker.openbtba.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pimpmyworld.to
@@ -140,7 +132,6 @@ DOMAIN,tracker2.dler.com
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker6.lelux.fi
 DOMAIN,trackerb.jonaslsa.com
-DOMAIN,trackme.theom.nz
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
@@ -225,6 +216,7 @@ DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,karagarga.in
 DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,landof.tv
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,lemonhd.org
 DOMAIN-SUFFIX,lztr.me

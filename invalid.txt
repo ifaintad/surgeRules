@@ -128,6 +128,7 @@
 5vl58stm.com
 5vz3cfs0yd.me
 5yrra.deshuangwang.cn
+601654.com
 649558.com
 64si.com
 6615338.cn
@@ -149,9 +150,12 @@
 7mad.7m.cn
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
+801.tianya.cn
 801.tianyaui.cn
+801.tianyaui.com
 803.tianya.cn
 803.tianyaui.cn
+806.tianya.cn
 806.tianyaui.cn
 808.tianya.cn
 808.tianyaui.cn
@@ -173,8 +177,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -298,7 +300,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -355,7 +356,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -379,7 +379,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -642,7 +641,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -668,6 +666,7 @@ benshiw.net
 bes-progfree.com
 bestforchina.org
 bfshan.cn
+bgrndi.com
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -730,7 +729,6 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
-by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -771,6 +769,7 @@ c.wechat.jx.cn
 c.wrating.com
 c.xianguonongchang.org
 c.xznykf.org
+c.ylist.cn
 c.ynlysg.com
 c.zmjuan.org
 c.zxyywdj.org
@@ -1063,7 +1062,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1117,6 +1115,7 @@ do.lymstsc.com
 do69ifsly4.me
 docerad.wps.cn
 dok-forum.net
+dol.tianya.cn
 dol.tianyaui.cn
 dolphin.ftimg.net
 dolphin4.ftimg.net
@@ -1167,6 +1166,7 @@ dyb.jdcbuy.com
 dz2017.zdzxyplyt.com
 dzisou.com
 dzl.baidu.com
+dzz.wankeedu.com
 e-traderland.net
 e.0.0.0.0.cn
 e.0.0.0.0.com.cn
@@ -1228,7 +1228,6 @@ e.hpzyl.com
 e.huaas.com
 e.hunpp.com
 e.huoas.com
-e.hurnt.com
 e.hyzui.com
 e.icyrd.com
 e.iierq.com
@@ -1249,7 +1248,6 @@ e.joyxv.com
 e.juyzr.com
 e.jwiyr.com
 e.jxxiangchu.com
-e.kcooy.com
 e.kewro.com
 e.kjfhe.com
 e.kjhfy.com
@@ -1540,7 +1538,6 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 globaltm.org
 gm682.com
 gmhz.org
@@ -1634,7 +1631,6 @@ hhqda.pop.t5yx.cn
 hiad.myweb.hinet.net
 hiad.vmall.com
 hihistory.net
-himandy.com
 himemix.net
 hjc1990.com
 hk-cdn.effectivemeasure.net
@@ -1661,7 +1657,6 @@ hpqxznpb.bid
 hqjapanesesex.com
 ht.www.sogou.com
 html.350.com
-html.sunday8.com
 html.yuntzs.com
 huashengtai.net
 huaxia-news.com
@@ -1683,9 +1678,7 @@ i.jyhwt.cn
 i.ma.social-touch.com
 i.tansuotv.com
 i1.hk
-i2.akjunshi.com
 i3818.com
-i5.akjunshi.com
 iadc.qwapi.com
 iads.xinmin.cn
 iask.bz
@@ -1790,7 +1783,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2136,6 +2128,7 @@ m.fbaot.com
 m.fcaot.com
 m.fecjf.cn
 m.feirs.com
+m.fenrs.com
 m.fhxsw.org
 m.fimky.com
 m.fkogs.com
@@ -2195,7 +2188,6 @@ m.joyxv.com
 m.juyzr.com
 m.jwiyr.com
 m.jyhwt.cn
-m.kcooy.com
 m.kewro.com
 m.kjfhe.com
 m.kjhfy.com
@@ -2209,6 +2201,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2311,7 +2304,6 @@ m.yuxyz.com
 m.ywbwsm.com
 m.yyjhf.com
 m.yzjlsb.com
-m.zeiaa.com
 m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
@@ -2340,7 +2332,6 @@ maisoncherry.com
 maizhong.org
 maplew.com
 market.21cn.com
-maskbaby.com.cn
 mass.mall044.com
 match.rtbidder.net
 match.rundsp.com
@@ -3389,7 +3380,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3490,6 +3480,7 @@ wwv.onetad.com
 www.abclite.net
 www.gmiddle.com
 www.gmiddle.net
+www.monlamit.org
 www.wangruowang.org
 www9.effectivemeasure.net
 wwwokzyzy.com
