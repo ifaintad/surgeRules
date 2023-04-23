@@ -38,6 +38,7 @@
 10086.cn.baidu.cdn.yiwk.com
 100fenlm.com
 100ke.org
+100peng.com
 11.hydcd.com
 111111qb.com
 113.0.203.in-addr.arpa
@@ -51,6 +52,7 @@
 163.wrating.com
 176um.com
 17un.co
+17zhaole.com
 1989report.hkja.org.hk
 1998cdp.org
 1d1px.net
@@ -116,6 +118,7 @@
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -141,6 +144,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -176,6 +180,7 @@
 91zgm.com
 95105012.com
 9566180.com
+9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -368,7 +373,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -398,6 +402,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -733,6 +738,7 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -790,6 +796,8 @@ c6.bjdianyue.com
 cacaca.0571yy.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
+cadvv.heraldm.com
+cadvv.koreaherald.com
 caliyuna.cn
 calopenupdate.comm.miui.com
 cams.pornrabbit.com
@@ -813,6 +821,7 @@ cc.700ok.net
 cc.dace.hupu.com
 cc.idasui.cn
 cc.moquanad.com
+cc.piao.jianzhigg.com
 cc.st123.info
 cc.xtgreat.com
 cc.yac8.com
@@ -872,6 +881,7 @@ ciajingman.com
 cindy17club.com
 cip6.czpush.com
 circlethebayfortibet.org
+cishantao.com
 citizenscommission.hk
 civildisobediencemovement.org
 ciyitan.com
@@ -1483,7 +1493,6 @@ futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
 fydgold132.com
-fytza.cn
 fz863.com
 fzh999.com
 fzh999.net
@@ -1663,6 +1672,7 @@ hpqxznpb.bid
 hqjapanesesex.com
 ht.www.sogou.com
 html.350.com
+html.yuntzs.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1816,6 +1826,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2078,6 +2089,7 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.118ex.cn
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2229,6 +2241,7 @@ m.nuxyz.cn
 m.nxypz.com
 m.opqsr.com
 m.osndy.com
+m.ourlj.com
 m.oyrim.com
 m.panda.voiceads.cn
 m.pbino.com
@@ -2536,6 +2549,7 @@ nysita.com
 nzchinese.net.nz
 o.if.qidian.com
 o.minisplat.cn
+o091i.com
 o365weve-dev.com
 oa-panther.data.aliyun.com
 oas.autotrader.co.uk
@@ -2611,6 +2625,7 @@ partner.catchy.com
 partners.fshealth.com
 partners.keezmovies.com
 partners.vouchedfor.co.uk
+pasco.cc
 passport-log.youku.com
 passwz.com
 pat.farvd.com
@@ -2677,7 +2692,6 @@ postimg.org
 potvpn.com
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
@@ -2867,6 +2881,7 @@ s.zgclmw.cn
 s.zjhoudao.com
 s.zxwdw.com
 s1.cmfu.com
+s1.hnhbyxdq.com
 s1.huiqituan.com
 s1.iigushi.com
 s1.kutongji.com
@@ -2960,7 +2975,6 @@ showing.hardwareheaven.com
 shows.21cn.com
 shucaihangjia.com
 shushijiameng123.com
-shwchurch3.com
 shzyjbr.wtdtjs.rocks
 sifubo.cn
 sifuce.cn
@@ -3516,6 +3530,7 @@ xchgx.com
 xcyjzs.net
 xcyrc.com
 xdbwc.com
+xdcqcyp.com
 xdyjt.com
 xe2c.com
 xfm.pp.ru
@@ -3607,6 +3622,7 @@ yizhenya.com
 yk0712.com
 ykatr.youku.com
 ykbei.com
+ykjmy.com
 ykxwn.com
 yl850555.com
 ylads.yaolan.com
