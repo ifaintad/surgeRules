@@ -118,7 +118,6 @@
 5207470.com
 52kmk.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -144,7 +143,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -179,8 +177,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
-9948000.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -233,6 +229,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -283,6 +280,7 @@ ad.daum.net
 ad.directmirror.com
 ad.dokrmob.com
 ad.dqwjzm.com
+ad.dumedia.ru
 ad.endpo.in
 ad.evozi.com
 ad.flux.com
@@ -388,7 +386,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -693,7 +690,6 @@ biz.weibo.com.cn
 biz5.kankan.com
 bizanti.youwatch.org
 bjcu.u3.ucweb.com
-bjedpt.com
 bjvvqu.cn
 bjxiaohua.com
 blb.winasdaq.com
@@ -903,12 +899,10 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
 cm.p4p.cn.yahoo.com
-cmp288.com
 cmule.org
 cn.api.push.le.com
 cn.dayabook.com
@@ -1048,7 +1042,6 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
-dbam.dashbida.com
 dbwmjj.com
 dc.csdn.net
 dc.liuliang100.com
@@ -1066,7 +1059,6 @@ ddhw.info
 ddkkrrla.m.qxs.la
 ddpxhq.cn
 ddrrccck.m.qxs.la
-de.as.pptv.com
 de.soquair.com
 deals.ledgertranscript.com
 decodet.co
@@ -1077,6 +1069,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1168,6 +1161,7 @@ dts.akamai.startappexchange.com
 duckduckgo-owned-server.yahoo.net
 dugbvb.com
 duiwai.baidu.com
+dumedia.ru
 duoyidd.com
 dupola.net
 duration.logger.baofeng.com
@@ -1824,7 +1818,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1852,7 +1845,6 @@ jhzl001.com
 ji.dazhantai.com
 jiaeasy.net
 jiajv.net
-jianbaimei.com
 jiansuo.dsxdn.com
 jiaoben.eastday.com
 jiaoben.junmeng.com
@@ -1889,7 +1881,6 @@ js.feitian001.com
 js.hkslg520.com
 js.hslyqs.com
 js.icast.cn
-js.jianbaimei.com
 js.jxabp.com.cn
 js.lieqitianxia.cn
 js.mbaidu.top
@@ -1944,7 +1935,6 @@ js7405.mengchengbao.com
 js84.enyayinxiang.com
 js883.hnfpgm.com
 js883.yongkang6.com
-js9318.bllzgqbyp.com
 jsadt.com
 jskrnekewe.mofans.net
 jsnywl.kfi8.com
@@ -2010,6 +2000,7 @@ ksdsuzhou.com
 ksr.juuhe.com
 ktunions.com
 ktv0311.com
+kuaikaiapp.com
 kuaipai666.cn
 kualianyingxiao.cn
 kuzai.cooguo.com
@@ -2049,6 +2040,7 @@ listlog.baofeng.net
 liujianshu.com
 live.tvpot.daum.net
 liveupdate.mac.sandai.net
+livingyourambition.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2262,6 +2254,7 @@ m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sanjiangge.com
+m.sbinx.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2563,6 +2556,7 @@ oascentral.sina.com.hk
 oask.xulizui6.com
 ocsp.int-x3.letsencrypt.org
 office365love.com
+officeme.cn
 oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
@@ -3102,7 +3096,6 @@ sy.jlhygy.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syndication-o.twitter.com
@@ -3389,7 +3382,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
