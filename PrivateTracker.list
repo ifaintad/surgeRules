@@ -20,7 +20,6 @@ DOMAIN,camera.lei001.com
 DOMAIN,carr.codes
 DOMAIN,chouchou.top
 DOMAIN,concen.org
-DOMAIN,dn42.smrsh.net
 DOMAIN,download.nerocloud.me
 DOMAIN,epider.me
 DOMAIN,exodus.desync.com
@@ -44,7 +43,6 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
@@ -83,7 +81,6 @@ DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.cili001.com
 DOMAIN,tr.ready4.icu
 DOMAIN,tr2.cubonegro.lol
-DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.4.babico.name.tr
 DOMAIN,tracker.altrosky.nl
 DOMAIN,tracker.arcbox.cc
@@ -98,7 +95,6 @@ DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.foreverpirates.co
@@ -147,6 +143,7 @@ DOMAIN,vps-dd0a0715.vps.ovh.net
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
+DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
 DOMAIN,zecircle.xyz
 DOMAIN-KEYWORD,announce

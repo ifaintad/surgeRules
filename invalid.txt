@@ -52,7 +52,6 @@
 163.wrating.com
 176um.com
 17un.co
-17zhaole.com
 1989report.hkja.org.hk
 1998cdp.org
 1d1px.net
@@ -112,7 +111,6 @@
 513hch.com
 517m.cn
 518.sdinfo.net
-51gxqm.com
 51jumintong.com
 51weidashi.com
 5207470.com
@@ -143,6 +141,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -177,6 +176,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -229,7 +229,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -290,7 +289,6 @@ ad.icasthq.com
 ad.idgtn.net
 ad.intl.xiaomi.com
 ad.jamba.net
-ad.jamster.co.uk
 ad.jamster.com
 ad.jsnbrynb.com
 ad.kissanime.io
@@ -322,7 +320,6 @@ ad.walkgame.com
 ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
-ad.xxguan.cn
 ad.zdworks.com
 ad000000.com
 ad1.netshelter.net
@@ -362,7 +359,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -386,6 +382,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -478,6 +475,7 @@ aoodoo.feng.com
 aoodoo.weiphone.com
 aos.wall.youmi.net
 api-deal.kechenggezi.com
+api-flow.meizu.com
 api.0.0.0.0.cn
 api.adv.ott.cibntv.net
 api.ahjinshu.com
@@ -588,7 +586,6 @@ b92.putniktravel.com
 b9377h.com
 b99u.top
 ba.fqzds.com
-bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
@@ -597,7 +594,6 @@ baidu.greenxf.cn
 baidu.jz5u.net
 baidu9635.com
 baidujs.cnys.com
-baidulao.com
 baidutv.baidu.com
 baiduzhidahao.cc
 baiwanchuangyi.com
@@ -694,7 +690,6 @@ bjvvqu.cn
 bjxiaohua.com
 blb.winasdaq.com
 bllbaby.cn
-blockcn.com
 blog.cnyes.com
 blog.exblog.co.jp
 blog.istef.info
@@ -823,6 +818,7 @@ cc.yac8.com
 cca.mob.com
 ccb.uncle-ad.com
 ccbaihehq.com
+ccr.yxdown.com
 cdhoc.piyaji.cn
 cdn.5bong.com
 cdn.adsk2.co
@@ -899,6 +895,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1161,7 +1158,6 @@ dts.akamai.startappexchange.com
 duckduckgo-owned-server.yahoo.net
 dugbvb.com
 duiwai.baidu.com
-dumedia.ru
 duoyidd.com
 dupola.net
 duration.logger.baofeng.com
@@ -1579,6 +1575,7 @@ grangorz.org
 great-firewall.com
 great-roc.org
 greatroc.tw
+green.erne.co
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
 groups.google.cn
@@ -1691,6 +1688,7 @@ iads.xinmin.cn
 iask.bz
 ib.adnxs.co
 ibanners.empoweredcomms.com.au
+iblogserv-f.net
 ibros.org
 ico.58pic.com
 idianfang.com
@@ -1790,7 +1788,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1818,6 +1815,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2132,6 +2130,7 @@ m.ennmt.com
 m.fbaix.com
 m.fbaot.com
 m.fcaot.com
+m.fcuit.com
 m.fecjf.cn
 m.feirs.com
 m.fenrs.com
@@ -2357,6 +2356,7 @@ me.videojj.com
 mealsandsteals.sandiego6.com
 mediapro.pro.cn
 megurineluka.com
+meimeidaren.com
 meiti1.net
 menghuanzs.com
 mengmengdas.com
@@ -2421,7 +2421,6 @@ moupdate10332052.wps.cn
 moutaihotel.cn
 movie.miaiche.cn
 mpro.baidu.com
-mps.weekslw.com
 mqq.zgdmsj.cn
 mqxd.org
 mrksys.com
@@ -2621,6 +2620,7 @@ pasco.cc
 passport-log.youku.com
 passwz.com
 pat.farvd.com
+pay838.com
 pb.funshion.net.cn
 pb.wang502.com
 pbs.lenovomm.com
@@ -2680,7 +2680,6 @@ politicalconsultation.org
 pomhz.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
-poppyta.com
 pornmm.net
 postimg.org
 potvpn.com
@@ -2778,6 +2777,7 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
+radiovaticana.org
 raidtalk.com.tw
 rangwang.biz
 raremovie.cc
@@ -2849,6 +2849,7 @@ s.hk9600.com
 s.hnhgw.cn
 s.hzht666.com
 s.jlminte.com
+s.jzkelida.com
 s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
@@ -3280,6 +3281,7 @@ unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
 up.hiao.com
+up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3507,7 +3509,6 @@ wysa.2wxb5.cn
 wyttech.cn
 wzj.ywrjgzs.com
 x-wall.org
-x.9dagui.com
 x.bikaer.com
 x.cnxad.com
 x.eroticity.net
@@ -3638,6 +3639,7 @@ yts.ytsyyey.com
 ytsyyey.com
 yun1.yahoo001.com
 yunanfuwuqi.com
+yunbofangbt.com
 yunpifu.cn
 yxs.tymsyx.com
 yxszy.com
