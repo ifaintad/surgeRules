@@ -116,6 +116,7 @@
 5207470.com
 52kmk.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -229,6 +230,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -289,7 +291,6 @@ ad.icasthq.com
 ad.idgtn.net
 ad.intl.xiaomi.com
 ad.jamba.net
-ad.jamster.com
 ad.jsnbrynb.com
 ad.kissanime.io
 ad.leadbolt.net
@@ -368,10 +369,10 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -645,6 +646,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -715,6 +717,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -818,7 +821,6 @@ cc.yac8.com
 cca.mob.com
 ccb.uncle-ad.com
 ccbaihehq.com
-ccr.yxdown.com
 cdhoc.piyaji.cn
 cdn.5bong.com
 cdn.adsk2.co
@@ -1181,6 +1183,7 @@ e.1919388.net
 e.28487.net
 e.51xmgys.com
 e.aa985.cn
+e.acaox.com
 e.admin60.com
 e.afvfe.cn
 e.anmeilai.net
@@ -1667,6 +1670,7 @@ huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
 huayi65.com
+humanding.com
 hungerstrikeforaids.org
 huodong.pl.youku.com
 huodong.vip.youku.com
@@ -1788,6 +1792,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2087,7 +2092,9 @@ m.640640.com
 m.7180443.com
 m.77vcd.com
 m.abfirst.cn
+m.acaox.com
 m.achig.com
+m.adaog.com
 m.adxpop.com
 m.afoux.com
 m.anmeilai.net
@@ -2206,7 +2213,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2252,7 +2258,6 @@ m.rmuqvq.cn
 m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
-m.sanjiangge.com
 m.sbinx.com
 m.slandr.net
 m.sosjyx.com
@@ -2465,6 +2470,7 @@ n.yfi8.com
 n.zqqf0.cn
 nai.cpxkvc.com
 namemek.com
+namsisi.com
 nav.winasdaq.com
 navi.gd.chinamobile.com
 nbjjd.com
@@ -2777,7 +2783,6 @@ r8nu86wg.me
 ra.gg
 rad.microsoft.com
 rad.msn.com
-radiovaticana.org
 raidtalk.com.tw
 rangwang.biz
 raremovie.cc
@@ -2960,6 +2965,7 @@ shiftrro.com
 shili.downxia.com
 shili.wanyx.com
 shinychan.com
+shitaotv.org
 shiwan.dl.gxpan.cn
 shixunjs.th21333.com
 shop.admin.yinyuetai.com
@@ -3086,11 +3092,13 @@ su.8881919.cc
 sub.topber.com
 subacme.rerouted.org
 summify.com
+sun1911.com
 suoluo.org
 surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
+swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3149,6 +3157,7 @@ test.eduancm.com
 test.ott.youku.com
 tf.hdfdm.com
 tf.hftaili.com
+tg.1155t.cn
 tg.52digua.com
 tg.jifen.2345.com
 thefrontier.hk
@@ -3214,9 +3223,12 @@ tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
 tweeplike.me
+tweepmag.com
 tweetmylast.fm
 tweets.seraph.me
 twimg.edgesuite.net
+twindexx.com
+twistory.net
 twitcause.com
 twldmx.com
 twstar.net
@@ -3281,7 +3293,6 @@ unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
 up.hiao.com
-up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3384,6 +3395,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3603,7 +3615,6 @@ ybp.yahoo.com
 ychun03.com
 ydlnt.com
 yee.js.cn
-yes.xxx
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
