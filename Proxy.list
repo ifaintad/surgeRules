@@ -884,7 +884,6 @@ DOMAIN-SUFFIX,cnabc.com
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnex.org.cn
-DOMAIN-SUFFIX,cnineu.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnnews.chosun.com
 DOMAIN-SUFFIX,cnpolitics.org
@@ -4217,6 +4216,7 @@ DOMAIN-SUFFIX,twisterio.com
 DOMAIN-SUFFIX,twisternow.com
 DOMAIN-SUFFIX,twit2d.com
 DOMAIN-SUFFIX,twitbrowser.net
+DOMAIN-SUFFIX,twitcause.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitgether.com

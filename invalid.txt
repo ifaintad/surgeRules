@@ -58,7 +58,6 @@
 1e2hyl3b.wq42211.com
 1i580.com
 1kmb.cn
-1lib.education
 2.0.192.in-addr.arpa
 2.21shebao.com
 2.bashenghuo.com
@@ -142,7 +141,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -177,7 +175,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -234,6 +231,7 @@ a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
+a6.taobanapp.com
 a6s.1cakeclub.com
 a6s.ruyiqufu.com
 a6s.ve001nz.com
@@ -302,7 +300,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -372,7 +369,6 @@ adplay.tudou.com
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -689,7 +685,6 @@ biz5.kankan.com
 bizanti.youwatch.org
 bjcu.u3.ucweb.com
 bjvvqu.cn
-bjxiaohua.com
 blb.winasdaq.com
 bllbaby.cn
 blog.cnyes.com
@@ -717,7 +712,6 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
-bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -751,7 +745,6 @@ c.effectivemeasure.net
 c.guangtui1999.com
 c.gzsanxiaomingshi.cn
 c.idasui.cn
-c.iogous.com
 c.k429fma.com
 c.kbf365.cn
 c.kl6636.net
@@ -911,6 +904,7 @@ cn.tatami-solutions.com
 cn.voa.mobi
 cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
+cnineu.com
 cnpinzhuo.com
 cochina.co
 code.3shangyou.com
@@ -1792,7 +1786,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2083,6 +2076,7 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.118ex.cn
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2213,6 +2207,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2543,6 +2538,7 @@ ny7f6goy.bid
 nydus.ca
 nysita.com
 nzchinese.net.nz
+o.08jm.cn
 o.if.qidian.com
 o.minisplat.cn
 o091i.com
@@ -2561,7 +2557,6 @@ oascentral.sina.com.hk
 oask.xulizui6.com
 ocsp.int-x3.letsencrypt.org
 office365love.com
-officeme.cn
 oikxlcv.wang
 oizoblog.com
 ojngisbfwwyp.com
@@ -2736,7 +2731,6 @@ q.s.cr-nielsen.com
 q6rwa.eschangchi.com
 qbyy010.com
 qchannel0d.cn
-qd.js.sanjiangge.com
 qd.moutaihotel.cn
 qd.x4399.com
 qeoa.hawbfa.com
@@ -2767,6 +2761,7 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
+questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3045,6 +3040,7 @@ ssdaili.com
 ssh.hxlif.com
 ssh.jsyzw132.com
 ssh.szxiuchang.com
+ssjy168.com
 ssl.hyhzy.cn
 ssl.ymapp.com
 ssp.86str.com
@@ -3098,7 +3094,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3129,10 +3124,12 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
+tailwindtraders.com
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
 taobaly.cn
+taobayun.cn
 taohanpai.com
 taolun.info
 tap-cdn.rubiconproject.com
@@ -3229,7 +3226,6 @@ tweets.seraph.me
 twimg.edgesuite.net
 twindexx.com
 twistory.net
-twitcause.com
 twldmx.com
 twstar.net
 twyac.org
@@ -3291,6 +3287,7 @@ union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
@@ -3510,7 +3507,6 @@ wwwokzyzy.com
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
