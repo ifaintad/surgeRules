@@ -175,6 +175,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -366,6 +367,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -379,7 +381,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -890,7 +891,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1281,6 +1281,7 @@ e.okfhn.com
 e.opqsr.com
 e.oyrim.com
 e.pbino.com
+e.picbr.com
 e.plerv.com
 e.pomkl.com
 e.puooi.com
@@ -1786,6 +1787,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1813,7 +1815,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2043,7 +2044,6 @@ ll.songlaoban.cn
 lm.dawenxue.org
 lm.souid.com
 lml.jfjsp.com
-lndjj.com
 loandatec.com
 localnetwork.uop
 locdrop.query.yahoo.com
@@ -2076,7 +2076,6 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.118ex.cn
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2207,7 +2206,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2362,6 +2360,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2514,6 +2513,7 @@ njs.reliancevalve.com
 nko.navy.mil
 nnedbx.com
 nofile.io
+nop.xpanama.net
 notify.oupeng.com
 notify.wps.cn
 nowskip.com
@@ -2579,6 +2579,7 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
+oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2761,7 +2762,6 @@ qtweeter.com
 quanliyouxi.cn
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 qvodzy.org
@@ -3124,7 +3124,6 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
-tailwindtraders.com
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3287,7 +3286,6 @@ union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
@@ -3430,6 +3428,7 @@ wha.la
 whn.star-media.cn
 whodns.xyz
 whu.cwpush.com
+whyx.org
 widget.crowdignite.com
 widget.directory.dailycommercial.com
 widget.kelkoo.com
@@ -3507,6 +3506,7 @@ wwwokzyzy.com
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com

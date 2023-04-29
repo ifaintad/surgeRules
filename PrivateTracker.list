@@ -15,7 +15,6 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt1.archive.org
 DOMAIN,bt1.letpo.com
 DOMAIN,bt2.archive.org
-DOMAIN,camera.lei001.com
 DOMAIN,carr.codes
 DOMAIN,chouchou.top
 DOMAIN,concen.org
@@ -54,6 +53,7 @@ DOMAIN,parag.rs
 DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public.publictracker.xyz
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,rep-art.ynh.fr
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
@@ -72,7 +72,6 @@ DOMAIN,tamas3.ynh.fr
 DOMAIN,thagoat.rocks
 DOMAIN,thinking.duckdns.org
 DOMAIN,thouvenin.cloud
-DOMAIN,torrent-tracker.hama3.net
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.bangumi.moe
@@ -95,11 +94,13 @@ DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.imgoingto.icu
+DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jiesen.life
 DOMAIN,tracker.jonaslsa.com
 DOMAIN,tracker.joybomb.tw
@@ -126,6 +127,7 @@ DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.zerobytes.xyz
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
