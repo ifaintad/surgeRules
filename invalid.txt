@@ -57,7 +57,6 @@
 1d1px.net
 1e2hyl3b.wq42211.com
 1i580.com
-1kmb.cn
 2.0.192.in-addr.arpa
 2.21shebao.com
 2.bashenghuo.com
@@ -76,6 +75,7 @@
 254.169.in-addr.arpa
 255.255.255.255.in-addr.arpa
 256ppp.com
+268mob.cn
 26zsd.cn
 285680.com
 2m2n.com
@@ -301,6 +301,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -367,7 +368,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -381,6 +381,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -571,7 +572,6 @@ b.flyreading.cn
 b.gwylm.com
 b.kuangtuiguoo18888.com
 b.livesport.eu
-b.nvrentao8.com
 b.rifub.com
 b.xcafe.com
 b0.qinsx.cn
@@ -1062,7 +1062,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1204,6 +1203,7 @@ e.dnfeu.com
 e.dsjre.com
 e.dunmm.com
 e.dxmci.com
+e.e7001.com
 e.e70123.com
 e.ehxyz.com
 e.enjuk.com
@@ -1477,6 +1477,7 @@ fuckcnnic.net
 fun.ynet.com
 funf.tw
 funshion.net.cn
+furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -2206,6 +2207,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2324,9 +2326,11 @@ m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
 ma.hao123.com
+ma1.meishij.net
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
+mad.kuuad.com
 mads.aol.com
 magazines.sina.com.tw
 magnetic.t.domdex.com
@@ -2387,6 +2391,7 @@ mingysh.com
 mini.cpc.sogou.com
 mini.jijiplayer.com
 minidcsc.kugou.com
+miniforum.org
 miniye.xjts.cn
 mitao.com.tw
 miui.hdfdm.com
@@ -2410,6 +2415,7 @@ mobileads.dx.cn
 mobileads.google.com
 mobileads.msn.com
 mobiorg8.com
+moby.to
 mohu.ml
 mon.xtgreat.com
 moodoocrv.com.cn
@@ -2570,6 +2576,7 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
+onlineyoutube.com
 oomyv.com
 opendn.xyz
 openervpn.in
@@ -2963,6 +2970,7 @@ shinychan.com
 shitaotv.org
 shiwan.dl.gxpan.cn
 shixunjs.th21333.com
+shke.kuuad.com
 shop.admin.yinyuetai.com
 shop.yinyuetai.com
 shoppingpartners2.futurenet.com
@@ -3031,7 +3039,6 @@ ss.cnnic.cn
 ss.levyhsu.com
 ss.pythonic.life
 ss.shicimingju.com
-ss.subo.me
 ss.swagger1.com
 ss.sysad.cn
 ss.sysadult.cn
@@ -3114,7 +3121,6 @@ t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
 t.l.qq.com
-t.oq68.com
 t.orzdream.com
 t.pingzei.com
 t.tzcccm.com
@@ -3184,6 +3190,7 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
+torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3200,6 +3207,7 @@ trzina.com
 tsjdgzm.m.3dllc.cc
 tsrc8.com
 tt.biquge.la
+tt.shxinjie.cn
 tt.twzui6.com
 tt114.net
 tt123.eastday.com
@@ -3288,6 +3296,7 @@ unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
 up.hiao.com
+up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3316,7 +3325,6 @@ uyghurstudies.org
 v.dbncp.com
 v.irs01.com
 v.l.youku.com
-v.oq68.com
 v.rmbn.net
 v00087.com
 v02u9.cn
@@ -3390,7 +3398,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
