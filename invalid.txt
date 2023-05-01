@@ -70,6 +70,7 @@
 20150930.cf
 2016bobo.cf
 2017.hk
+222627.com
 22lm.cc
 24haitao.net
 254.169.in-addr.arpa
@@ -115,7 +116,6 @@
 5207470.com
 52kmk.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -141,6 +141,7 @@
 706529.com
 716703.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -301,7 +302,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -359,6 +359,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -368,6 +369,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -397,6 +399,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -1062,6 +1065,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1477,7 +1481,6 @@ fuckcnnic.net
 fun.ynet.com
 funf.tw
 funshion.net.cn
-furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1511,6 +1514,7 @@ gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
+gas.data.pplive.com
 gaymap.cc
 gc.keefung-zs.com
 gcapi.sy.kugou.com
@@ -1816,6 +1820,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2064,6 +2069,7 @@ ltheanine.cn
 lthxz.cn
 lubosheng.cn
 lucting.cn
+lvhai.org
 lvjian66.com
 lw2.gamecopyworld.com
 lwnne.cn
@@ -2124,6 +2130,7 @@ m.djhhy.com
 m.dnfeu.com
 m.dsjre.com
 m.dxmci.com
+m.ee-skin.com
 m.efeiy.com
 m.ehxyz.com
 m.enjuk.com
@@ -2326,7 +2333,6 @@ m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
 ma.hao123.com
-ma1.meishij.net
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
@@ -2576,7 +2582,6 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
-onlineyoutube.com
 oomyv.com
 opendn.xyz
 openervpn.in
@@ -2586,7 +2591,6 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
-oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2680,6 +2684,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2902,7 +2907,6 @@ s5.keydot.net
 s8.001fzc.com
 s8.dnaxddnc.com
 s8forum.com
-s9w.cc
 sa.hao123.com
 safe.tsgpay.cn
 saferwet.com
@@ -3021,6 +3025,7 @@ sostibet.org
 sp.fastclick.net
 sp.wndoor.com
 sp.yixui.com
+spb.bid.run
 spcode.baidu.cn
 spcode.baidu.com
 spem.at
@@ -3296,7 +3301,6 @@ unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
 up.hiao.com
-up.wps.kingsoft.com
 update.coolyun.com
 update.juw37xqo3x.com
 upload4u.info
@@ -3373,7 +3377,6 @@ vj.x-ssp.com
 vj0.42422277.com
 vjcyehtqm9.me
 vl8c4g7tmo.me
-vn543.com
 vns800600.net
 voila.refr.adgtw.orangeads.fr
 vpn.cjb.net
@@ -3398,6 +3401,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3513,7 +3517,6 @@ wwwokzyzy.com
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3550,7 +3553,6 @@ xgmc6lu8fs.me
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
-xhxnkyy.com
 xhydrs.cn
 xia.huishenghuiying.com
 xia.jihehuaban.com
