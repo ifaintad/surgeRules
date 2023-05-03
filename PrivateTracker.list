@@ -40,7 +40,6 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
@@ -51,7 +50,6 @@ DOMAIN,parag.rs
 DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,rep-art.ynh.fr
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
@@ -91,6 +89,7 @@ DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.foreverpirates.co
@@ -100,6 +99,7 @@ DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jiesen.life
 DOMAIN,tracker.jonaslsa.com
 DOMAIN,tracker.joybomb.tw
+DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leech.ie
 DOMAIN,tracker.lilithraws.cf
@@ -125,15 +125,16 @@ DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.zerobytes.xyz
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
+DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.com
 DOMAIN,tracker2.dler.org
-DOMAIN,tracker6.lelux.fi
 DOMAIN,trackerb.jonaslsa.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
 DOMAIN,v1046920.hosted-by-vdsina.ru
+DOMAIN,v2.iperson.xyz
 DOMAIN,v6-tracker.0g.cx
 DOMAIN,vps-dd0a0715.vps.ovh.net
 DOMAIN,wepzone.net
