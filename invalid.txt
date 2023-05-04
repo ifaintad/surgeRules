@@ -94,6 +94,7 @@
 365bibi.com
 365safego.com
 366safego.com
+37mnm.com
 38330.bet
 3839168.com
 39330.bet
@@ -213,6 +214,7 @@ a.lwinl.com
 a.market.xiaomi.com
 a.nanhuwang.com
 a.qinghua5.com
+a.shczz.com
 a.shenchuang.com
 a.soonyou123.com
 a.starstar19999.com
@@ -304,6 +306,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -361,6 +364,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -715,7 +719,6 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
-bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -726,7 +729,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -894,7 +896,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -924,7 +925,6 @@ code1fa.m.shushu8.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
-com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -1526,6 +1526,7 @@ gd.vodtw.com
 gdgy56.com
 gen.alicdn.com
 geobanner.socialflirt.com
+getfreedur.com
 gf1352.com
 gfh.ahfzly.com
 gfw.org.ua
@@ -1567,7 +1568,6 @@ good.ta80.com
 gooddns.info
 goodhope.school
 goods.tudou.com
-googlelabs.com
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1580,7 +1580,6 @@ grangorz.org
 great-firewall.com
 great-roc.org
 greatroc.tw
-green.erne.co
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
 groups.google.cn
@@ -1596,7 +1595,6 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
-gvt0.com
 gyca9f.dahuangcheng.cn
 gz00005.top
 gzmjnx.cn
@@ -1671,7 +1669,6 @@ html.yuntzs.com
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
-huayi65.com
 humanding.com
 hungerstrikeforaids.org
 huodong.pl.youku.com
@@ -1727,7 +1724,6 @@ images9999.com
 img.88ads.com
 img.9duw.com
 img.ad.zhangyue.com
-img.dawenxue.org
 img.dydab.com
 img.ercfh.com
 img.gou.wpscdn.cn
@@ -1794,7 +1790,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1841,7 +1836,6 @@ jdb.jiudingcapital.cn
 jdb.jiudingcapital.com
 jdg.bjygfd.com
 jdkic.com
-jermr.com
 jfhe.0769371.com
 jfm4.pop.baofeng.net
 jfqu36.club
@@ -2077,7 +2071,6 @@ lw2.gamecopyworld.com
 lwnne.cn
 lwq.wangketuan.com
 lyjk.1391.com
-lynndollin.com
 lyrymy.com
 lyunsd.cn
 lz.chaelc.com
@@ -2217,7 +2210,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2594,7 +2586,6 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
-oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2860,6 +2851,7 @@ s.effectivemeasure.net
 s.ekeide.com
 s.georgias.cn
 s.haiyunx.com
+s.hk9600.com
 s.hnhgw.cn
 s.hzht666.com
 s.jlminte.com
@@ -2964,7 +2956,6 @@ shadowsocks9.com
 shangfang.org
 shanghaironghua.com
 shanglinli.com
-shapeservices.com
 share.gzdsw.com
 sharpdaily.com.hk
 shbywsd.cn
@@ -2973,7 +2964,6 @@ shenyian.net
 shiftrro.com
 shili.downxia.com
 shili.wanyx.com
-shinychan.com
 shitaotv.org
 shiwan.dl.gxpan.cn
 shixunjs.th21333.com
@@ -3028,7 +3018,6 @@ sostibet.org
 sp.fastclick.net
 sp.wndoor.com
 sp.yixui.com
-spb.bid.run
 spcode.baidu.cn
 spcode.baidu.com
 spem.at
@@ -3102,7 +3091,6 @@ streaming.rtbiddingplatform.com
 su.8881919.cc
 sub.topber.com
 subacme.rerouted.org
-summify.com
 sun1911.com
 suoluo.org
 surv.xbizmedia.com
@@ -3198,7 +3186,6 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3315,6 +3302,7 @@ uqum.52shouyou.com.cn
 uranus.sohu.com
 urh.tylll.com
 url.222bz.com
+urlaw.cn
 urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
@@ -3458,7 +3446,6 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
-windcdna.com
 windowsphoneme.com
 winwhispers.info
 wip3.adobe.com
@@ -3617,6 +3604,7 @@ xz.ercfh.com
 xzq.greenxf.net
 y.3957957.com
 y.gwylm.com
+y.hk9600.com
 y.hzht666.com
 y.zxwdw.com
 y0.cn
