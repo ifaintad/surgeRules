@@ -143,7 +143,6 @@
 706529.com
 716703.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -179,7 +178,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -719,6 +717,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -769,6 +768,7 @@ c.rscxwmj.cn
 c.shunlige.com
 c.start280.com
 c.statstat888.com
+c.sy123888.com
 c.t98u8f.com
 c.vip97.net
 c.wechat.jx.cn
@@ -868,6 +868,7 @@ chinaxchina.com
 chinayuanmin.org
 chinese-hermit.net
 chjxzk.1555110.cn
+chnhty.com
 ci.csefaazc.net
 ciajingman.com
 cindy17club.com
@@ -896,6 +897,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1067,7 +1069,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1245,7 +1246,6 @@ e.irauz.com
 e.irkuj.com
 e.iruad.com
 e.ishowms.com
-e.jdaot.com
 e.jgkto.com
 e.jiirz.com
 e.jioeg.com
@@ -1784,6 +1784,7 @@ inskin.vo.llnwd.net
 install2.kugou.com
 inte.sohu.com
 international-news.newsmagazine.asia
+ioc.mmakd.top
 ip2.pxene.com
 ipalter.com
 iphonelog.shouji.baofeng.com
@@ -2183,7 +2184,6 @@ m.irauz.com
 m.irkuj.com
 m.iruad.com
 m.jcwwxn.com
-m.jdaot.com
 m.jgkto.com
 m.jhcgood.com
 m.jieyixiu.com
@@ -2210,6 +2210,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2384,6 +2385,7 @@ migu.kssws.ks-cdn.com
 mihua.org
 mike.cz.cc
 milk.yesky.com.cn
+milph.net
 mimg.7791.com.cn
 minghui-a.org
 minghui-b.org
@@ -2665,6 +2667,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -3116,6 +3119,7 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
+t.iz55.com
 t.l.qq.com
 t.orzdream.com
 t.pingzei.com
@@ -3240,6 +3244,7 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3394,7 +3399,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3677,7 +3681,6 @@ zhinengluyou.com
 zhongmeng.org
 zhreader.com
 zjhim.com
-zjjgtz.com
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
