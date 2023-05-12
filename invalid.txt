@@ -52,6 +52,7 @@
 142904.com
 163.wrating.com
 176um.com
+17leyi.com
 17un.co
 1933000.com
 1989report.hkja.org.hk
@@ -118,6 +119,7 @@
 518.sdinfo.net
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -227,7 +229,6 @@ a.tuuituii2999.com
 a.waczt.cn
 a.wlfnb.com
 a.xinwenge.net
-a.xixiyishu.com
 a.yangshengtang123.com
 a.yjbys.com
 a1.azg168.cn
@@ -309,7 +310,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -435,6 +435,7 @@ ag.nukefans.net
 agenda.complex.com
 agr.voiceads.cn
 ahyau.com
+ai-kan.net
 ai-wen.net
 aid.chinayk.com
 ailicee.com
@@ -906,7 +907,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1053,6 +1053,7 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
+dawwx.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1113,6 +1114,7 @@ dl.xzqxzs.com
 dl.youjia2016.com
 dl1sw.baidu.com
 dleke.com
+dlimg.lovfp.com
 dload.qd.qingting.fm
 dlrijiaele.com
 dlsw.baidu.com
@@ -1492,6 +1494,7 @@ fpbjiansuo.mn586.com
 frdhq.cn
 free-ssh.com
 free4u.com.ar
+freealim.com
 freechinaforum.org
 freekwonpyong.org
 freeyoutubeproxy.net
@@ -1565,7 +1568,6 @@ ggdoubi.com
 ggg.zj.com
 gi.xi.gxabj.com
 gjreg.code.weddingeeos.com
-gload.adhood.com
 globaltm.org
 gm682.com
 gmhz.org
@@ -1672,6 +1674,7 @@ hkhrm.org.hk
 hklft.com
 hkupop.hku.hk
 hkusu.net
+hl.quw18.com
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
@@ -1725,7 +1728,6 @@ ig.nukefans.net
 igfw.tech
 igj5y.yongchanghengyuan.com
 iia1.pikacn.com
-iiewl.com
 iisl7wpf.me
 ikcode.baidu.com
 im.tv
@@ -1838,7 +1840,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2534,6 +2535,7 @@ nex.corp.163.com
 nexstep.zdworks.com
 nextcps.com
 nfh.cnshef.com
+nflxsearch.net
 ngodupdongchung.com
 nic.cz.cc
 nighost.org
@@ -2801,6 +2803,7 @@ quannengshen.org
 queene.cn
 quitccp.net
 qutaobi.com
+quw18.com
 qvodzy.org
 qweqwe.mctvhp.cn
 qzdag.com
@@ -2899,6 +2902,7 @@ s.qtad.qingting.fm
 s.sh.qihoo.com
 s.shiftrro.com
 s.so.360.cn
+s.staqnet.com
 s.temaidi.com
 s.trafficjam.cn
 s.uc627.com
@@ -3102,6 +3106,7 @@ sta.holagames.com
 sta.jcjk0451.com
 stage64.hk
 staging.admin.e.mi.com
+staqnet.com
 stat.pptv.com
 stat.tudou.com
 stat.youku.com
@@ -3594,6 +3599,7 @@ xiaoyang.mobi
 xiaozhishi852.com
 xiaxuanfu.com
 xiazai.downok.com
+xibei70.com
 xiezhua.com
 xihuashuale.com
 xiliweisha.cn
