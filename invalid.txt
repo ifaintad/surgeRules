@@ -122,7 +122,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -313,7 +312,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -371,6 +369,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -381,6 +380,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
+ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -468,6 +468,7 @@ am.zdnet.com.cn
 amazingmagics.com
 amnyemachen.org
 ams.fx678.com
+ana.tatahn.com
 analytics.126.net
 android-lrcresource.wps.cn
 androidgo.duapp.com
@@ -509,6 +510,7 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
+api.uniplayad.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -657,6 +659,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -1011,7 +1014,6 @@ d.mingyihui.net
 d.ruiwen.com
 d.thelocal.com
 d.tjgxzs.com
-d.xinshipu.com
 d.yjbys.com
 d.yoyi.com.cn
 d1b183sg0nvnuh.cloudfront.net
@@ -1087,6 +1089,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1104,6 +1107,7 @@ dip.wl963.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1797,7 +1801,6 @@ imneinei.com
 imp.asahi.com
 impp.mn
 impservicetest.dictapp.youdao.com
-in.jxhcyc.com
 in.qzkxt.com
 in1.secure.uu.cc
 include.xs2345.com
@@ -1817,7 +1820,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1837,7 +1839,6 @@ j.hbwcl.com
 j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
-j.xinshipu.com
 j.ytbt.cc
 j1.piaobing.com
 j17.shangc.net
@@ -1848,7 +1849,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2006,6 +2006,7 @@ kho3au7l4z.me
 kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
+kldmm.com
 klsdmr.com
 klz28.com
 kmwqxqh.com
@@ -2245,7 +2246,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2375,6 +2375,7 @@ maibahe300cc.com
 maildns.xyz
 maisoncherry.com
 maizhong.org
+map.media6degrees.com
 maplew.com
 market.21cn.com
 mass.mall044.com
@@ -2548,7 +2549,6 @@ ngodupdongchung.com
 nic.cz.cc
 nighost.org
 ninebox.cn
-nintendium.com
 ninth.biz
 niwd.zhybw88.com
 njs.imagicskin.com
@@ -2625,7 +2625,6 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
-oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -3251,6 +3250,7 @@ truth101.co.tv
 truthontour.org
 trwba.com
 trzina.com
+ts.hivecn.cn
 tsjdgzm.m.3dllc.cc
 tsrc8.com
 tt.biquge.la
@@ -3463,6 +3463,7 @@ wapssl.ff113300.com
 warbler.iconfactory.net
 wax.weibo.com.cn
 wazero.online
+wda.ydt.com.cn
 wdf5.com
 wdgsl.com
 we.tm
@@ -3582,6 +3583,7 @@ xbp.code.weddingeeos.com
 xc.08an.com
 xc.mydrivers.com
 xcafe.in
+xcclzs.com
 xchgx.com
 xcyjzs.net
 xcyrc.com
