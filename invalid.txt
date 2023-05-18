@@ -85,6 +85,7 @@
 285680.com
 2m2n.com
 3.guidaye.com
+3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -122,6 +123,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -184,6 +186,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -239,7 +242,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -312,6 +314,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -380,7 +383,6 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
 ads-api.videojj.com
-ads.aplus.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -730,6 +732,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -912,7 +915,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1061,7 +1063,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1089,7 +1090,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1380,6 +1380,7 @@ e70123.com
 e704.net
 e706.net
 eastturkistancc.org
+echatu.com
 eclick.baidu.cn
 ecsm.vs.com
 ed.aijielang.cn
@@ -1820,6 +1821,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1840,7 +1842,6 @@ j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
 j.ytbt.cc
-j1.piaobing.com
 j17.shangc.net
 j17.xiumu.cn
 j520s.gzcl999.cn
@@ -2066,6 +2067,8 @@ leju.sina.com.cn
 leorockwell.com
 lerosua.org
 lfyuanai.com
+libsolutions.app
+libsolutions.domains
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2246,6 +2249,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2375,7 +2379,6 @@ maibahe300cc.com
 maildns.xyz
 maisoncherry.com
 maizhong.org
-map.media6degrees.com
 maplew.com
 market.21cn.com
 mass.mall044.com
@@ -2402,6 +2405,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2784,7 +2788,6 @@ qeoa.hawbfa.com
 qgss8.com
 qhaif.com
 qianchuanghr.com
-qiaopiguniang.com
 qienkuen.org
 qihaoqu.com
 qingqu.la
@@ -2947,7 +2950,6 @@ s2.yandui.com
 s4.55.la
 s400cc.com
 s5.keydot.net
-s8.001fzc.com
 s8.dnaxddnc.com
 s8forum.com
 sa.hao123.com
@@ -3064,6 +3066,7 @@ sonomoyo.com
 sorazone.net
 sos0easy.com
 sostibet.org
+soulcaliburhentai.net
 sp.fastclick.net
 sp.wndoor.com
 sp.yixui.com
@@ -3303,7 +3306,6 @@ u1.s.minisplat.cn
 u1.shuaiku.com
 u2.s.minisplat.cn
 u291014.nr1234.com
-u349036.ff112222.com
 ua.badongo.com
 ubm.fangtoo.com
 uc.haoyunyuan.cc
@@ -3385,6 +3387,7 @@ vanemu.cn
 vcbn65.xyz
 vcfs6ip5h6.bid
 vdapprecv.app.cntvwb.cn
+vdazz.net
 vds.rightster.com
 ve.tsdlp.com
 vegent.cn
@@ -3684,12 +3687,12 @@ ykbei.com
 ykjmy.com
 ykxwn.com
 yl850555.com
-yn.001fzc.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
+youshun12.com
 youtubecn.com
 youxi.kugou.com
 youzehui.com
@@ -3752,7 +3755,6 @@ zspeeder.me
 zst.jzntxs.com
 zsxpx.com
 zszwcp.cn
-zt2088.com
 zte.home
 ztxbd.com
 zu08e.cn
