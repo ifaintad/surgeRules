@@ -85,7 +85,6 @@
 285680.com
 2m2n.com
 3.guidaye.com
-3.ssqzj.com
 30407799.com
 30ampj.com
 3180555.com
@@ -116,6 +115,7 @@
 4336wang.cn
 456juhd.com
 4xhyr.shuimujinggong.com
+5125129.com
 513hch.com
 517m.cn
 518.sdinfo.net
@@ -314,7 +314,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -372,7 +371,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -382,6 +380,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -661,7 +660,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -718,7 +716,6 @@ blogs.tampabay.com
 blogs.yahoo.co.jp
 blogspot.cat
 blogtd.net
-bloomfortune.com
 bmg.wnbfw.com
 bmw2ep.paomifen.cn
 bnews.co
@@ -732,7 +729,6 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
-bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -915,6 +911,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1090,6 +1087,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1604,6 +1602,7 @@ gou.wps.cn
 goupaoerdai.com
 gouzhibao.cn
 govids.net
+gp.jstv.com
 gpydym.cn
 grangorz.org
 great-firewall.com
@@ -1821,7 +1820,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1850,6 +1848,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2405,7 +2404,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2541,7 +2539,6 @@ news.sina.com.hk
 news.sina.com.tw
 news.sinchew.com.my
 news.singtao.ca
-news.xueyanshan.com
 newschinacomment.org
 newscn.org
 newspeak.cc
@@ -2726,14 +2723,12 @@ plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
 pm.sdaiv.com
-politicalchina.org
 politicalconsultation.org
 pomhz.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
 pornmm.net
 postimg.org
-potvpn.com
 powergg.top
 pp.sxjkc.cn
 ppjia55.com
@@ -3056,6 +3051,7 @@ sm.0.0.0.0.cn
 sm.toutiao.com
 sm1.todgo.com
 sm2.todgo.com
+smxsg.com
 soarfi.cn
 sobartop.baidu.com
 softsmirror.cf
@@ -3157,6 +3153,7 @@ sy.jlhygy.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syndication-o.twitter.com
@@ -3448,7 +3445,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3484,6 +3480,7 @@ werpig.com
 wexiaobo.org
 weyyae.com
 wezhiyong.org
+wgie.0z5jn.cn
 wha.la
 whn.star-media.cn
 whodns.xyz
@@ -3563,7 +3560,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3697,6 +3693,7 @@ youtubecn.com
 youxi.kugou.com
 youzehui.com
 yrt7dgkf.exashare.com
+yrxmr.com
 ysej.code.weddingeeos.com
 ytdksb.com
 ytmx.2r3485.cn
