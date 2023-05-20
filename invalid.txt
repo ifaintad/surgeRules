@@ -186,7 +186,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -242,6 +241,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -314,6 +314,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -371,6 +372,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -408,6 +410,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -729,6 +732,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bsdev.cn
 bshare.optimix.asia
 bstatic.1kejian.com
@@ -1574,7 +1578,6 @@ ggg.zj.com
 gi.xi.gxabj.com
 gjghy.com
 gjreg.code.weddingeeos.com
-globaltm.org
 gm682.com
 gmhz.org
 gmota.g188.net
@@ -1682,6 +1685,7 @@ hkhrm.org.hk
 hklft.com
 hkupop.hku.hk
 hkusu.net
+hl.kuzu.com
 hl.quw18.com
 hm.baidu.cn
 hmma.baidu.cn
@@ -1820,6 +1824,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2011,6 +2016,7 @@ klsdmr.com
 klz28.com
 kmwqxqh.com
 kn.aishake.cn
+kn.archrug.com
 kn.barnfps.com
 kn.chapnap.com
 kn.chgdf.cn
@@ -2117,6 +2123,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2404,6 +2411,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2539,6 +2547,7 @@ news.sina.com.hk
 news.sina.com.tw
 news.sinchew.com.my
 news.singtao.ca
+news.xueyanshan.com
 newschinacomment.org
 newscn.org
 newspeak.cc
@@ -3153,7 +3162,6 @@ sy.jlhygy.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syndication-o.twitter.com
@@ -3281,6 +3289,7 @@ twimg.edgesuite.net
 twindexx.com
 twistory.net
 twit2d.com
+twitmania.com
 twldmx.com
 twstar.net
 twyac.org
@@ -3292,7 +3301,6 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3445,6 +3453,7 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3560,6 +3569,7 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
+wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
@@ -3582,7 +3592,6 @@ xbp.code.weddingeeos.com
 xc.08an.com
 xc.mydrivers.com
 xcafe.in
-xcclzs.com
 xchgx.com
 xcyjzs.net
 xcyrc.com
@@ -3673,6 +3682,7 @@ yesbeby.whies.info
 yess.imneinei.com
 yhtcd.com
 yidulive.net
+yihuifu.cn
 yingsuoss.com
 yinhaijuan.com
 yinyuehu.cn
@@ -3725,7 +3735,6 @@ zgsddh.com
 zgunion.cn
 zgzcjj.net
 zhanbin.net
-zheng.cs12d.com
 zhenlibu.info
 zhinengluyou.com
 zhongmeng.org
