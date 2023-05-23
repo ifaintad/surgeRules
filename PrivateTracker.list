@@ -49,6 +49,7 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public.publictracker.xyz
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,rep-art.ynh.fr
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
@@ -61,7 +62,6 @@ DOMAIN,shogiroom.com
 DOMAIN,static.54.161.216.95.clients.your-server.de
 DOMAIN,t.133335.xyz
 DOMAIN,t.acg.rip
-DOMAIN,t.nyaatracker.com
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
 DOMAIN,thagoat.rocks
@@ -81,6 +81,7 @@ DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bitsearch.to
+DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cubonegro.lol
@@ -140,6 +141,7 @@ DOMAIN,v6-tracker.0g.cx
 DOMAIN,vps-dd0a0715.vps.ovh.net
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
+DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
 DOMAIN-KEYWORD,announce
