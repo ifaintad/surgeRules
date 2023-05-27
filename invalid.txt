@@ -124,6 +124,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -186,6 +187,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 99909988.com
 9dtiny.cn
 9kff.com
@@ -315,7 +317,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -382,7 +383,6 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -915,7 +915,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1453,6 +1452,7 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1549,6 +1549,7 @@ gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
+gate-project.com
 gaymap.cc
 gazotube.com
 gc.keefung-zs.com
@@ -1688,7 +1689,6 @@ hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
 hklft.com
-hkreporter.loved.hk
 hkupop.hku.hk
 hkusu.net
 hl.kuzu.com
@@ -1832,6 +1832,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2228,7 +2229,6 @@ m.hmzsfmjc.com
 m.hogyp.com
 m.hpfjy.com
 m.hpzyl.com
-m.hsbkr.com
 m.huyulh.com
 m.hyzui.com
 m.icyrd.com
@@ -2424,6 +2424,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2452,7 +2453,6 @@ mingysh.com
 mini.cpc.sogou.com
 mini.jijiplayer.com
 minidcsc.kugou.com
-miniforum.org
 miniye.xjts.cn
 mitao.com.tw
 miui.hdfdm.com
@@ -2824,7 +2824,6 @@ qqx.cqqytgpt.com
 qt.biqugezw.com
 qt002x.corp.youdao.com
 qtweeter.com
-quanliyouxi.cn
 quannengshen.org
 queene.cn
 quitccp.net
@@ -3174,7 +3173,6 @@ symaj.cn
 sync.fastclick.net
 sync.teamrtb.net
 syndication-o.twitter.com
-syndication.intel.com
 syofew6o.net
 sytz1288.com
 szxc868.com
@@ -3185,6 +3183,7 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
+t.l.qq.com
 t.orzdream.com
 t.pingzei.com
 t.tzcccm.com
@@ -3250,7 +3249,6 @@ tngrnow.net
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
-tor.blingblingsquad.net
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3531,7 +3529,6 @@ woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
 wole.us
-wooboo.com.cn
 workerdemo.org.hk
 wow-life.net
 wowips.com
@@ -3572,7 +3569,6 @@ www.gmiddle.com
 www.gmiddle.net
 www.wangruowang.org
 www9.effectivemeasure.net
-www91.intel.com
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
@@ -3702,6 +3698,7 @@ ykbei.com
 ykjmy.com
 ykxwn.com
 yl850555.com
+ymcqb.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
@@ -3770,6 +3767,7 @@ zreder.com
 zrpfk.com
 zs0613.mengchengbao.com
 zs1111.youzue.com
+zshacker.com
 zspeeder.me
 zst.jzntxs.com
 zsxpx.com
