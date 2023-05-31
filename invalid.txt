@@ -55,6 +55,7 @@
 176um.com
 17leyi.com
 17un.co
+18board.info
 1933000.com
 1989report.hkja.org.hk
 1998cdp.org
@@ -386,6 +387,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -467,7 +469,6 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -920,7 +921,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -952,6 +952,7 @@ code1fa.m.shushu8.com
 coin2co.in
 coinhive-manager.com
 col.hztags.net
+com.google
 comesgo.com
 comet.yahoo.com
 config.mobisage.cn
@@ -966,10 +967,12 @@ cosmic.monar.ch
 cosplayjav.pl
 couchcoaster.jp
 count.game.pps.tv
+count.wk2.com
 counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
 cp.5jjx.net
+cp.ggyapp.com
 cp.greenxf.cn
 cp.jz5u.net
 cpc.sohu.com
@@ -1071,7 +1074,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1099,7 +1101,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1440,6 +1441,7 @@ f.hongm.com
 f.qcwzx.net.cn
 f.yueyetiyu.com
 f1.06ps.com
+f1.bizhiku.net
 f1.luoshenbest.cn
 f1.pig66.com
 f1c.i.biquge5200.com
@@ -1928,6 +1930,7 @@ js.578965.com
 js.5iydz.com
 js.bxwns.com
 js.cncrk.com
+js.cnscdj.com
 js.dkqapp.cn
 js.feitian001.com
 js.hkslg520.com
@@ -2063,7 +2066,6 @@ ktunions.com
 ktv0311.com
 kuaikaiapp.com
 kuaipai666.cn
-kuguopush.com
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
@@ -2399,6 +2401,7 @@ m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
 ma.hao123.com
+ma1.meishij.net
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
@@ -2553,6 +2556,7 @@ ndtzx.com
 ndy.code.weddingeeos.com
 neirong.baidu.com
 nest.youwatch.org
+netflix.ca
 netflix.com.edgesuite.net
 netflixdnstest0.com
 netko0o.com
@@ -2620,7 +2624,6 @@ nzchinese.net.nz
 o.08jm.cn
 o.if.qidian.com
 o.minisplat.cn
-o091i.com
 o365weve-dev.com
 oa-panther.data.aliyun.com
 oas.autotrader.co.uk
@@ -3262,6 +3265,7 @@ tngrnow.net
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
+torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3319,7 +3323,6 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3479,7 +3482,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap001.bytravel.cn
 wap3.ucweb.com
 wapscdn.wapx.cn
@@ -3524,6 +3526,7 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
+wildammo.com
 winwhispers.info
 wip3.adobe.com
 wisepush.video.baidu.com
@@ -3707,7 +3710,6 @@ yiranxian.cn
 yizhenya.com
 ykatr.youku.com
 ykbei.com
-ykjmy.com
 ykxwn.com
 yl850555.com
 ymcqb.com
