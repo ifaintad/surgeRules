@@ -75,6 +75,7 @@
 20150930.cf
 2016bobo.cf
 2017.hk
+2017img.myxh999.com
 222627.com
 22lm.cc
 24haitao.net
@@ -105,6 +106,7 @@
 38330.bet
 3839168.com
 39330.bet
+3975lm.com
 39xc.net
 3dm.huya.com
 3dns-2.adobe.com
@@ -125,7 +127,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -320,7 +321,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.rednet.cn
@@ -388,6 +388,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adreal.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -666,6 +667,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -753,6 +755,7 @@ bx01.optimix.asia
 bxjpl.cn
 by.dm5.com
 by.mbai.cn
+by8974.com
 bypbwm.cn
 c.0.0.0.0.cn
 c.28487.net
@@ -968,7 +971,6 @@ count.game.pps.tv
 count.wk2.com
 counter.csdn.net
 counter.kingsoft.com
-countpvn.light.fang.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
@@ -1073,7 +1075,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1606,6 +1607,7 @@ good.ta80.com
 gooddns.info
 goodhope.school
 goods.tudou.com
+google.ga
 googlescholar.comUSA
 gopig.io
 goproxing.net
@@ -1635,6 +1637,7 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
+gvt0.com
 gyca9f.dahuangcheng.cn
 gyrtg.com
 gzmjnx.cn
@@ -1650,8 +1653,8 @@ haiwai-ic.ksosoft.com
 haiwengji.net
 hanju18.net
 hanunyi.com
+hao.news
 hao123rt.com
-hapic1.jhkxwl.com
 hascosafety.com
 hbalx.cn
 hbdt.luomi.com
@@ -1836,6 +1839,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1946,6 +1950,7 @@ js.soduso.cc
 js.soonyou123.com
 js.start1999.com
 js.szande.com.cn
+js.ubaike.cn
 js.um0592.com
 js.wu65.com
 js.xiansuper.com
@@ -2143,7 +2148,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2493,7 +2497,6 @@ moodoocrv.com.cn
 moons.66bhy.com
 moonwish.com.cn
 mostat.wps.cn
-motiyun.com
 moupdate10332052.wps.cn
 moutaihotel.cn
 movie.miaiche.cn
@@ -2541,7 +2544,6 @@ n.yfi8.com
 n.zqqf0.cn
 nai.cpxkvc.com
 namemek.com
-namsisi.com
 nav.winasdaq.com
 navi.gd.chinamobile.com
 nbjjd.com
@@ -2871,7 +2873,6 @@ rc.xmcmn.com
 rcyy3.kaopuwangjz.com
 rd.e.sogou.com
 rdiqt.cn
-recv-vd.gridsumdissector.cn
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
@@ -3209,6 +3210,7 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
+taiwankiss.com
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3474,7 +3476,6 @@ w3.yinyuehu.cn
 w5sac788c1.360doc.cn
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3484,7 +3485,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap001.bytravel.cn
 wap3.ucweb.com
 wapscdn.wapx.cn
@@ -3590,7 +3590,6 @@ www9.effectivemeasure.net
 wwww.495495.com
 wwww.551144.com
 wwww.640640.com
-wwww.649649.com
 wx.paigu.com
 wxaw.tiantongmaoyi.com
 wxwm1.ikuailian.com
