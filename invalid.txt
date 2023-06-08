@@ -127,6 +127,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -322,6 +323,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -391,6 +393,7 @@ adnet.sohu.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adreal.cn
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
@@ -418,6 +421,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -532,6 +536,7 @@ apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.9yyg.cn
 app.abc000.today
+app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -823,6 +828,7 @@ c6.bjdianyue.com
 c8b.jcdb88.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
+cadvv.koreaherald.com
 caliyuna.cn
 calopenupdate.comm.miui.com
 cams.pornrabbit.com
@@ -1084,6 +1090,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1112,7 +1119,6 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1847,6 +1853,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2295,6 +2302,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2357,7 +2365,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2767,6 +2774,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2971,7 +2979,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3132,7 +3139,6 @@ spt.dictionary.com
 sqd.jstdjq.com
 sqext.com
 sqtpks3.1391.com
-srcf.ucam.org
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
@@ -3222,6 +3228,7 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
+t.l.qq.com
 t.orzdream.com
 t.pingzei.com
 t.tzcccm.com
@@ -3287,7 +3294,6 @@ tk.baidu.com
 tkweb.baidu.com
 tngrnow.com
 tngrnow.net
-tongji.home.soufun.com
 tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
@@ -3349,7 +3355,6 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
