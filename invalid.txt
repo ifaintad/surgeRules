@@ -153,6 +153,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -192,7 +193,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -386,7 +386,6 @@ adm.zbinfo.net
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
-admin.ninebox.cn
 admob.xiaomi.com
 adnet.sohu.com
 adobe-dns-2.adobe.com
@@ -518,6 +517,7 @@ api.joybj.com
 api.ketedata.com
 api.leadbolt.net
 api.linksalpha.com
+api.newbelden.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
@@ -564,6 +564,7 @@ ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
 areca-backup.org
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -761,7 +762,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 bwsj.hk
 bx.optimix.asia
 bx.tl
@@ -907,6 +907,7 @@ chinayuanmin.org
 chinese-hermit.net
 chingcheong.com
 chjxzk.1555110.cn
+chmae.com
 chnhty.com
 ci.csefaazc.net
 ciajingman.com
@@ -936,6 +937,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1113,10 +1115,10 @@ dejing.laobanfa.com
 deletemer.online
 deliver.ifeng.com
 delivery.dmkt-sp.jp
-demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1135,6 +1137,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1351,6 +1354,7 @@ e.qsove.com
 e.resmv.com
 e.ricpt.com
 e.romgv.com
+e.shenyunkeji.com
 e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
@@ -1877,11 +1881,9 @@ j17.shangc.net
 j17.xiumu.cn
 j520s.gzcl999.cn
 j7182.hfxcsl.cn
-jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1930,7 +1932,6 @@ jmonitor.jiuzhilan.com
 jmsyzj.com
 jobso.tv
 johtzj.com
-jointreport-switch.com
 jossuer.net
 joyfuldoors.com
 jpg.cooguo.com
@@ -2096,6 +2097,7 @@ l.youku.com
 l1.soarfi.cn
 l2.soarfi.cn
 l9bdhcgihw.neihanw.com
+laiququan.com
 lajizhan.org
 lan.btwan5.com
 langjiyisheng.com
@@ -2113,8 +2115,6 @@ leju.sina.com.cn
 leorockwell.com
 lerosua.org
 lfyuanai.com
-lg2.jointreport-switch.com
-lg4.jointreport-switch.com
 libsolutions.app
 libsolutions.domains
 lightson.vpsboard.com
@@ -2172,7 +2172,6 @@ m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
-m.551144.com
 m.640640.com
 m.7180443.com
 m.77vcd.com
@@ -2180,6 +2179,7 @@ m.abfirst.cn
 m.acaox.com
 m.achig.com
 m.adaog.com
+m.adxpop.com
 m.afoux.com
 m.anmeilai.net
 m.aqiudaohang.com
@@ -2301,6 +2301,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2345,6 +2346,7 @@ m.rmuqvq.cn
 m.romgv.com
 m.rwganw.cn
 m.sbinx.com
+m.shenyunkeji.com
 m.slandr.net
 m.sosjyx.com
 m.srrux.com
@@ -2448,8 +2450,6 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
-media-static.jointreport-switch.com
-media.jointreport-switch.com
 mediapro.pro.cn
 megurineluka.com
 meimeidaren.com
@@ -2490,6 +2490,7 @@ minidcsc.kugou.com
 miniye.xjts.cn
 minzhuhua.net
 mitao.com.tw
+mitbbsau.com
 miui.hdfdm.com
 miui.hftaili.com
 mj70.cn
@@ -2683,6 +2684,7 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
+oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2783,7 +2785,6 @@ politicalconsultation.org
 pomhz.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
-popup.jointreport-switch.com
 pornmm.net
 postimg.org
 powergg.top
@@ -2908,7 +2909,6 @@ res.icast.cn
 res.limei.com
 res3.feedsportal.com
 resetgey.com
-ret.xinlongrubber.com
 richmedia.yimg.com
 riqu2015.com
 rj.baidu.cn
@@ -2920,7 +2920,6 @@ rmjdw132.info
 rmtx.ra.icast.cn
 rnfrfxqztlno.com
 rosechina.net
-rosi.okkkk.com
 router.ctc
 rp.baidu.cn
 rp.baidu.com
@@ -2949,6 +2948,7 @@ s.baidu.com
 s.caduka.cn
 s.cdn.u17t.com
 s.cr-nielsen.com
+s.ddstu.com
 s.de123.net
 s.dsjcfw.com
 s.effectivemeasure.net
@@ -2980,6 +2980,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3009,7 +3010,6 @@ s5.keydot.net
 s8.dnaxddnc.com
 s8forum.com
 sa.hao123.com
-safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 saferwet.com
 same.chinadaily.com.cn
@@ -3033,6 +3033,7 @@ schborg.com
 schemas.android.com
 sciencelolb.com
 scimg.27admin.com
+sclizhong.com
 script.vccoo.com
 sd.0.0.0.0.cn
 sd.kk3g.net
@@ -3357,7 +3358,6 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3584,7 +3584,6 @@ woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
 wole.us
-wooboo.com.cn
 workerdemo.org.hk
 wow-life.net
 wowips.com
