@@ -425,6 +425,7 @@ DOMAIN-SUFFIX,nugettest.org
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,o365cn.com
 DOMAIN-SUFFIX,o365files.cn
+DOMAIN-SUFFIX,o365weve-dev.com
 DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
@@ -515,7 +516,6 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com
-DOMAIN-SUFFIX,syncshop.cn
 DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,techhub.ms
