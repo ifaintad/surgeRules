@@ -128,7 +128,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -384,6 +383,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -393,7 +393,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -677,7 +676,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -1090,7 +1088,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1118,6 +1115,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1476,9 +1474,11 @@ falundafa-sacramento.org
 falundata.org
 falunworld.net
 fangmincn.org
+fanqiang.tk
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
+fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1581,7 +1581,6 @@ gcapi.sy.kugou.com
 gd.cnhange.cn
 gd.jqgc.com
 gd.vodtw.com
-geiyujieda.com
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
@@ -1653,7 +1652,6 @@ guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
 guoshennet.com
-gvt0.com
 gyca9f.dahuangcheng.cn
 gyrtg.com
 gzmjnx.cn
@@ -1887,6 +1885,7 @@ j7182.hfxcsl.cn
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2372,6 +2371,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2545,7 +2545,6 @@ msnclick.wrating.com
 msphoneclick.kuwo.cn
 mstzym.com
 mtj.baidu.cn
-mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
 mubite.cn
@@ -2903,7 +2902,6 @@ rdiqt.cn
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
-religioustolerance.org
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3202,7 +3200,6 @@ statueofdemocracy.org
 stervapoimenialena.info
 stjzh.gdtarget.com
 store.videojj.com
-storify.com
 storm.logger.baofeng.com
 stream.heavenmedia.net
 streaming.rtbiddingplatform.com
