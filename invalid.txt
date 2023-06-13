@@ -128,6 +128,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -249,7 +250,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -324,6 +324,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -344,6 +345,7 @@ ad.wang502.com
 ad.winningpartner.com
 ad.xiaomi.com
 ad.xxguan.cn
+ad.ylunion.com
 ad.zdworks.com
 ad000000.com
 ad1.netshelter.net
@@ -476,6 +478,7 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -935,6 +938,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1115,7 +1119,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1474,11 +1477,9 @@ falundafa-sacramento.org
 falundata.org
 falunworld.net
 fangmincn.org
-fanqiang.tk
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fastapi.net
 fastly.bench.cedexis.com
 fathionmall.com
 fb.xk.miui.com
@@ -1663,9 +1664,11 @@ h1.18sd.cn
 h2.18sd.cn
 h5.taihao.cc
 h8.bec.com
+h9377c.com
 haitaoad.nosdn.127.net
 haiwai-ic.ksosoft.com
 haiwengji.net
+haiyunpush.com
 hanju18.net
 hanunyi.com
 hao123rt.com
@@ -1977,6 +1980,7 @@ js.xiansuper.com
 js.xtgreat.com
 js.ydeprint.com
 js.yixui.com
+js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
 js1.zuocai.tv
@@ -2172,6 +2176,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2221,6 +2226,7 @@ m.dnfeu.com
 m.dsjre.com
 m.dxmci.com
 m.ee-skin.com
+m.ee-vip.net
 m.efeiy.com
 m.ehxyz.com
 m.enjuk.com
@@ -2308,6 +2314,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2465,6 +2472,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgwl668.com
@@ -2688,6 +2696,7 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
+oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2846,7 +2855,6 @@ qhaif.com
 qiailm.com
 qianchuanghr.com
 qienkuen.org
-qihaoqu.com
 qinchugudao.com
 qingqu.la
 qiqipower.com
@@ -3309,6 +3317,7 @@ track-east.mobileadtrading.com
 tracker.baidu.com
 tracker.yhd.com
 tradeccl.com
+trans.wenweipo.com
 translate.google
 tredman.com
 tree.logger.baofeng.com
@@ -3359,6 +3368,7 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3523,7 +3533,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap001.bytravel.cn
 wap3.ucweb.com
 wapscdn.wapx.cn
