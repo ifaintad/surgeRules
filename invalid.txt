@@ -190,7 +190,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -297,6 +296,7 @@ ad.cmvideo.cn
 ad.crichd.in
 ad.csdn.net
 ad.daum.net
+ad.digitimes.com.tw
 ad.directmirror.com
 ad.dokrmob.com
 ad.dqwjzm.com
@@ -323,7 +323,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -383,6 +382,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -392,6 +392,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -421,7 +422,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -453,6 +453,7 @@ ahhuazhen.com
 ahyau.com
 ai-kan.net
 ai-wen.net
+ai.xinju.cc
 aid.chinayk.com
 ailicee.com
 aim.yoyi.com.cn
@@ -477,7 +478,6 @@ alitianxia168.com
 alitui.weibo.com.cn
 aliunion.cn.yahoo.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -680,6 +680,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -747,6 +748,7 @@ bobo.corp.163.com
 bole.shangshufang.ksosoft.com
 bookshome.info
 bookshome.world
+boyxu.cn
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -1142,6 +1144,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1355,6 +1358,7 @@ e.pbino.com
 e.picbr.com
 e.plerv.com
 e.pomkl.com
+e.pubbirdf.com
 e.puooi.com
 e.pwjhg.com
 e.pyerc.com
@@ -1363,6 +1367,7 @@ e.qingzhencai.net
 e.qsove.com
 e.resmv.com
 e.ricpt.com
+e.rmwdn.com
 e.romgv.com
 e.shenyunkeji.com
 e.sosjyx.com
@@ -1479,6 +1484,7 @@ f1.pig66.com
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
 f56g.me
+f6ce.com
 fa.corp.163.com
 facebook.br
 facebookma.cn
@@ -1948,7 +1954,6 @@ jjx.xjtxcj.com
 jjxgly.com
 jjyy.gaopengqcdz.cn
 jkmxy.com
-jl027.com
 jmonitor.jiuzhilan.com
 jmsyzj.com
 jobso.tv
@@ -2332,6 +2337,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2374,6 +2380,7 @@ m.qsove.com
 m.qusub.com
 m.ricpt.com
 m.rmuqvq.cn
+m.rmwdn.com
 m.romgv.com
 m.rwganw.cn
 m.sbinx.com
@@ -2491,7 +2498,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2649,6 +2655,7 @@ njxczy.com
 nkeo.top
 nko.navy.mil
 nnedbx.com
+nngft.com
 nofile.io
 nongsalei.com
 nop.xpanama.net
@@ -2810,6 +2817,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2895,6 +2903,7 @@ qp.yunanfuwuqi.com
 qq.guansenff.cn
 qq.irs01.com
 qq.tapiche.cn
+qq2.co
 qqx.cqqytgpt.com
 qt.biqugezw.com
 qt002x.corp.youdao.com
@@ -3271,6 +3280,7 @@ t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
 t.l.qq.com
+t.oq68.com
 t.orzdream.com
 t.pingzei.com
 t.tzcccm.com
@@ -3480,6 +3490,7 @@ uyghurstudies.org
 v.dbncp.com
 v.irs01.com
 v.l.youku.com
+v.oq68.com
 v.rmbn.net
 v00087.com
 v02u9.cn
@@ -3803,6 +3814,7 @@ ykxwn.com
 yl850555.com
 ylads.yaolan.com
 ymcqb.com
+ymrzr.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
