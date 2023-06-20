@@ -123,7 +123,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -135,7 +134,6 @@
 5vl58stm.com
 5vz3cfs0yd.me
 5yrra.deshuangwang.cn
-600ad.com
 649558.com
 6615338.cn
 66992949.com
@@ -147,6 +145,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -421,6 +420,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -559,6 +559,7 @@ appsocks.net
 appspromote.wostore.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
+appsupport.stargame.com
 apt.qumi.com
 aqqgli3vle.bid
 aqw.quanliyouxi.cn
@@ -676,6 +677,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -735,6 +737,7 @@ blogs.tampabay.com
 blogs.yahoo.co.jp
 blogspot.cat
 blogtd.net
+bluehatnights.com
 bmg.wnbfw.com
 bmw2ep.paomifen.cn
 bnews.co
@@ -751,6 +754,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bs14.9669.cn
 bsdev.cn
 bshare.optimix.asia
@@ -940,7 +944,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1124,6 +1127,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1211,6 +1215,7 @@ drxrc.com
 ds-pc.admsger.com
 dsadas.hydp188.com
 dsaeerf.com
+dsjsee.dqgpb.com
 dsp.send.microad-cn.com
 dspmy.ge95.com
 dspserver.ad.cmvideo.cn
@@ -1557,6 +1562,7 @@ fuckcnnic.net
 fun.ynet.com
 funf.tw
 funshion.net.cn
+furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1791,7 +1797,6 @@ iframe.travel.yahoo.com
 ig.nukefans.net
 igfw.tech
 igj5y.yongchanghengyuan.com
-ihuanmei.com
 iia1.pikacn.com
 iisl7wpf.me
 ikcode.baidu.com
@@ -2121,6 +2126,7 @@ kuaipai666.cn
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
+kxsw.life
 kyoyue.com
 kyzhecmvpiaw.com
 kyzyhello.com
@@ -2149,6 +2155,7 @@ leju.sina.com.cn
 leorockwell.com
 lerosua.org
 lfyuanai.com
+lhakar.org
 libsolutions.app
 libsolutions.domains
 lightson.vpsboard.com
@@ -2202,7 +2209,6 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2329,7 +2335,6 @@ m.khuoy.com
 m.kjfhe.com
 m.kjhfy.com
 m.kl6636.net
-m.kubiqq.com
 m.kwjkd.com
 m.kxhie.com
 m.lancedu.com
@@ -2500,6 +2505,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2713,6 +2719,7 @@ okm918.com
 old-cat.net
 old.nabble.com
 omega7o.com
+on.maxspeedcdn.com
 one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
@@ -2728,6 +2735,7 @@ orz.hupu.com
 orzistic.org
 otf.msn.com
 otnd.org
+oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -3412,6 +3420,7 @@ tz.zjhoudao.com
 tzbtw.com
 u.63kc.com
 u.cnzol.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3597,7 +3606,6 @@ weixiangzu.cn
 weixinvip.ren
 weld.iefsf.com
 weldc1.021ye.com
-wenhui.ch
 wep016.top
 werpig.com
 wexiaobo.org
