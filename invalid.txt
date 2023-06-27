@@ -125,6 +125,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -154,6 +155,7 @@
 7clink.com
 7jiajiao.com
 7mad.7m.cn
+7xz3.com
 8.b.d.0.1.0.0.2.ip6.arpa
 8.e.f.ip6.arpa
 801.tianya.cn
@@ -188,6 +190,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -381,7 +384,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -421,7 +423,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -519,7 +520,6 @@ api.game.letvstore.com
 api.goulegu.com
 api.joybj.com
 api.ketedata.com
-api.koudaikj.com
 api.leadbolt.net
 api.linksalpha.com
 api.newbelden.com
@@ -679,7 +679,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -755,6 +754,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bs14.9669.cn
 bsdev.cn
 bshare.optimix.asia
@@ -945,6 +945,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1145,7 +1146,6 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
-djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1691,6 +1691,7 @@ haiwai-ic.ksosoft.com
 haiwengji.net
 hanju18.net
 hanunyi.com
+hao.news
 hao123rt.com
 hapic1.jhkxwl.com
 hascosafety.com
@@ -1913,7 +1914,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2812,6 +2812,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2826,6 +2827,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2839,6 +2841,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
@@ -2917,7 +2920,6 @@ qt002x.corp.youdao.com
 qtweeter.com
 quannengshen.org
 queene.cn
-questionmarket.com
 quitccp.net
 qutaobi.com
 quw18.com
@@ -2979,6 +2981,7 @@ rp.baidu.cn
 rp.baidu.com
 rpaulfrank.com
 rplog.baidu.com
+rrr.youle55.com
 rs1.rensheng5.com
 rsas.szzek.com
 rtb-p.kejet.net
@@ -3006,6 +3009,7 @@ s.ddstu.com
 s.de123.net
 s.dsjcfw.com
 s.effectivemeasure.net
+s.ekeide.com
 s.georgias.cn
 s.haiyunx.com
 s.hnhgw.cn
@@ -3033,7 +3037,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3298,6 +3301,8 @@ t.pingzei.com
 t.tzcccm.com
 t.uvcourse.net
 t.youmi.net
+t1.jzkapp.com
+t2.jzkapp.com
 t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
@@ -3724,7 +3729,6 @@ xcyjzs.net
 xcyrc.com
 xdbwc.com
 xdcqcyp.com
-xdyjt.com
 xe2c.com
 xfm.pp.ru
 xfo.monesyy.com
