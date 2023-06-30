@@ -123,6 +123,7 @@
 51dql.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 559gp.com
@@ -148,6 +149,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -190,7 +192,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -247,7 +248,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -326,6 +326,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -385,7 +386,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -681,7 +681,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -748,7 +747,6 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
-bookshome.info
 bookshome.world
 br.hao123.com
 brakefluid.website
@@ -768,7 +766,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -806,6 +803,7 @@ c.mobishu.com
 c.netu.tv
 c.ningbojipiao.com
 c.okmgy.cn
+c.panqishu.com
 c.piliangzhuce.cn
 c.ptffw.net
 c.queene.cn
@@ -949,6 +947,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1021,7 +1020,6 @@ cpv.channelray
 cpv.czpush.com
 cpv.ty229.com
 cpva.cc
-cqhnm.com
 crashes.mo.wps.cn
 creatim.qtmojo.cn
 creative.1111cpc.com
@@ -1131,6 +1129,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1295,14 +1294,11 @@ e.gglay.com
 e.gxjfh.com
 e.harbinbaojia.net
 e.hellomingpian.com
-e.hgrqp.com
 e.hissq.com
-e.hjryl.com
 e.hk7799.net
 e.hkmqp.com
 e.hmhqp.com
 e.hogyp.com
-e.hpzyl.com
 e.huaas.com
 e.hunpp.com
 e.huoas.com
@@ -1369,6 +1365,7 @@ e.pyerc.com
 e.qiaoyuwang.com
 e.qingzhencai.net
 e.qsove.com
+e.qvxyz.com
 e.resmv.com
 e.ricpt.com
 e.rmwdn.com
@@ -1477,6 +1474,7 @@ ezucods.cn
 f.520tingshu.com
 f.f70123.com
 f.fj95560.com
+f.haoxinjaju.com
 f.hongm.com
 f.qcwzx.net.cn
 f.yueyetiyu.com
@@ -1883,7 +1881,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1912,6 +1909,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2291,7 +2289,6 @@ m.guanren11.com
 m.guanren5.com
 m.guanren6.com
 m.guanren9.com
-m.gwdqp.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
@@ -2303,7 +2300,6 @@ m.hkmqp.com
 m.hmzsfmjc.com
 m.hogyp.com
 m.hpfjy.com
-m.hpzyl.com
 m.huyulh.com
 m.icyrd.com
 m.ienkdaged.cn
@@ -2380,6 +2376,7 @@ m.qhuik.com
 m.qingzhencai.net
 m.qsove.com
 m.qusub.com
+m.qvxyz.com
 m.ricpt.com
 m.rmuqvq.cn
 m.rmwdn.com
@@ -2505,6 +2502,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2513,6 +2511,7 @@ mhd.1391.com
 mhdpay.1391.com
 mhdtestks3.1391.com
 miam4.cn
+miaobeichina.com
 michaelanti.com
 michaelmarketl.com
 microsoft.com.nsatc.net
@@ -3278,6 +3277,7 @@ sw.cailawyer.cn
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
+sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
@@ -3344,7 +3344,6 @@ thejesperbay.com
 themis.yahoo.com
 thereallove.kr
 thescenseproject.com
-thxnr.com
 thyvjboy.com
 thywords.com.tw
 tiads.time.com
@@ -3367,7 +3366,6 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
