@@ -93,6 +93,7 @@
 33shangyou.com
 360baidus.com
 360jiaquan.com
+360safego.com
 360shopping.com.cn
 360vip.front99.com
 361315.cc
@@ -120,10 +121,10 @@
 513hch.com
 517m.cn
 518.sdinfo.net
+51chumoping.com
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
 559gp.com
@@ -192,6 +193,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -248,6 +250,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -389,12 +392,14 @@ adm.zbinfo.net
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
+admin.ninebox.cn
 admob.xiaomi.com
 adnet.sohu.com
 adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -481,6 +486,7 @@ aliunion.cn.yahoo.com
 aliyunxin.com
 allervpn.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -747,7 +753,6 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
-bookshome.world
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -1365,7 +1370,6 @@ e.pyerc.com
 e.qiaoyuwang.com
 e.qingzhencai.net
 e.qsove.com
-e.qvxyz.com
 e.resmv.com
 e.ricpt.com
 e.rmwdn.com
@@ -1474,7 +1478,6 @@ ezucods.cn
 f.520tingshu.com
 f.f70123.com
 f.fj95560.com
-f.haoxinjaju.com
 f.hongm.com
 f.qcwzx.net.cn
 f.yueyetiyu.com
@@ -1604,6 +1607,7 @@ gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
 gfh.ahfzly.com
+gfsale.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1881,6 +1885,8 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
+ishop789.com
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2376,7 +2382,6 @@ m.qhuik.com
 m.qingzhencai.net
 m.qsove.com
 m.qusub.com
-m.qvxyz.com
 m.ricpt.com
 m.rmuqvq.cn
 m.rmwdn.com
@@ -2403,7 +2408,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2486,6 +2490,7 @@ mcore.vcgame.cn
 md.1drj.com
 md.sh5e.com
 md0z4dh.com
+mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2502,7 +2507,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2571,6 +2575,7 @@ movie.miaiche.cn
 mpro.baidu.com
 mqq.zgdmsj.cn
 mqxd.org
+mrelko.com
 ms.awqsaged.cn
 ms.cmcm.com
 ms.ienkdaccessible.cn
@@ -3586,7 +3591,6 @@ wangmeng.sogou.com
 wangsufast.com
 wantaico.com
 wap.114so.cn
-wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
 wap.mpush.qq.com
@@ -3771,6 +3775,7 @@ xlwnx.com
 xmcmn.com
 xmnmeu.cn
 xmpush.xiaomi.com
+xmrts.com
 xoredi.com
 xpe.cxaerp.com
 xpj2.net
@@ -3836,7 +3841,6 @@ yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
-youshun12.com
 youtubecn.com
 youxi.kugou.com
 youzehui.com
