@@ -127,6 +127,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -399,7 +400,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -486,7 +486,6 @@ aliunion.cn.yahoo.com
 aliyunxin.com
 allervpn.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -687,6 +686,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -753,6 +753,7 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
+boomssr.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -887,6 +888,7 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
+cdn.optaim.com
 cdn.puata.info
 cdn.tinglian.com
 cdn.vamaker.com
@@ -952,7 +954,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1558,6 +1559,7 @@ freekwonpyong.org
 freeyoutubeproxy.net
 fst360.com
 ft.pnop.com
+fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
@@ -1885,7 +1887,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -1915,7 +1916,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2452,7 +2452,6 @@ m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
-m.zougg.com
 m.zuopp.com
 m1.mgogo.com
 m1.xcy8.com
@@ -2490,7 +2489,6 @@ mcore.vcgame.cn
 md.1drj.com
 md.sh5e.com
 md0z4dh.com
-mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2728,6 +2726,7 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
+onlineyoutube.com
 oomyv.com
 op00w.baiyangzs.com
 openallweb.com
@@ -2951,6 +2950,7 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
+rc.fthcz.com
 rc.haodongkeji.cn
 rc.xmcmn.com
 rcyy3.kaopuwangjz.com
@@ -3121,7 +3121,6 @@ setting.crashlytics.com
 settings.crashlytics.com
 sfloushi.com
 sg-cdn.effectivemeasure.net
-sg536.cn
 sgbfjs.info
 sgvip.chinahdcm.com
 sh.qihoo.com
@@ -3658,6 +3657,7 @@ wodhid.com
 woesermiddle-way.net
 wole.us
 workerdemo.org.hk
+worldh5.gamehz.cn
 wow-life.net
 wowips.com
 woxinghuiguo.com
