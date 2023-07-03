@@ -151,11 +151,9 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
-7clink.com
 7jiajiao.com
 7mad.7m.cn
 7xz3.com
@@ -330,7 +328,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -390,6 +387,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -400,6 +398,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -686,7 +685,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -753,7 +751,6 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
-boomssr.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -888,7 +885,6 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
-cdn.optaim.com
 cdn.puata.info
 cdn.tinglian.com
 cdn.vamaker.com
@@ -954,6 +950,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1135,7 +1132,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1534,6 +1530,7 @@ fjmeyer.com
 flash.2144.com
 flgg.us
 float.kankan.com
+flv.ytshuirun.com
 flwja.com
 focusprolight.com
 fofg-europe.net
@@ -1599,7 +1596,6 @@ gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
-gate-project.com
 gaymap.cc
 gcapi.sy.kugou.com
 gd.cnhange.cn
@@ -1749,6 +1745,7 @@ hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
 hnxxjn.com
+holymountaincn.com
 home.so-net.net.tw
 hoplink.ksosoft.com
 houdaolj.com
@@ -1887,6 +1884,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -1916,6 +1914,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2408,6 +2407,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2726,7 +2726,6 @@ one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
 onlifjj.net
-onlineyoutube.com
 oomyv.com
 op00w.baiyangzs.com
 openallweb.com
@@ -3042,6 +3041,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3285,6 +3285,7 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syncshop.cn
@@ -3332,6 +3333,7 @@ tcjy66.cc
 tcpspeed.co
 tcsovi.org
 td.mpush.cn
+tdayi.com
 tdrec.youku.com
 tech2.in.com
 teen.77rog.com
@@ -3515,6 +3517,7 @@ v02u9.cn
 v1.0594529.com
 v12-r0566gbscjw.z.irs01.com
 v7.kawinhome.com
+v707070.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
@@ -3583,7 +3586,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3619,6 +3621,7 @@ wexiaobo.org
 weyyae.com
 wezhiyong.org
 wha.la
+whitebear.freebearblog.org
 whn.star-media.cn
 whodns.xyz
 whpxy.com
@@ -3657,7 +3660,6 @@ wodhid.com
 woesermiddle-way.net
 wole.us
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 woxinghuiguo.com
