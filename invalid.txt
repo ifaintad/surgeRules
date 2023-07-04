@@ -151,6 +151,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -412,7 +413,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -769,6 +769,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -950,7 +951,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1105,6 +1105,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1132,6 +1133,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1281,6 +1283,7 @@ e.dxmci.com
 e.e7001.com
 e.e70123.com
 e.ehxyz.com
+e.emgwq.com
 e.enjuk.com
 e.ennmt.com
 e.fbaix.com
@@ -1378,7 +1381,6 @@ e.stat.ykimg.com
 e.suehy.com
 e.t71q.com
 e.tdtsd.com
-e.tiantianedu.net
 e.tick0.com
 e.tiojk.com
 e.tuoaa.com
@@ -1493,6 +1495,7 @@ falun.caltech.edu
 falundafa-sacramento.org
 falundata.org
 falunworld.net
+fan.liuxiaoer.com
 fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
@@ -1757,7 +1760,6 @@ hpqxznpb.bid
 hrcir.com
 ht.www.sogou.com
 html.350.com
-html.sunday8.com
 html.yuntzs.com
 huashengtai.net
 huaxia-news.com
@@ -1877,15 +1879,12 @@ init.phpwind.net
 inskin.vo.llnwd.net
 install2.kugou.com
 inte.sohu.com
-international-news.newsmagazine.asia
 ip2.pxene.com
 ipalter.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
-ishop789.com
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2110,7 +2109,6 @@ kn.jzhrty.cn
 kn.nykps.com
 kn.qhdfxkj.com
 kn.qqqmdq.com
-kn.qzdaren.com
 kn.ynmhg.cn
 knnwdyou.com
 kod4pc293.com
@@ -2260,6 +2258,7 @@ m.ee-skin.com
 m.ee-vip.net
 m.efeiy.com
 m.ehxyz.com
+m.emgwq.com
 m.enjuk.com
 m.ennmt.com
 m.fbaix.com
@@ -2401,7 +2400,6 @@ m.symad.cn
 m.symag.cn
 m.symaj.cn
 m.tcksbz888.com
-m.tiantianedu.net
 m.tiaopimiao.net
 m.tick0.com
 m.tiojk.com
@@ -2520,7 +2518,6 @@ microsoft.com.nsatc.net
 microsoftlinc.com
 microsoftmxfilantropia.com
 microsoftsiteselection.com
-microsoftsqlserver.com
 mie99.net
 migrate.driveapi.micloud.xiaomi.net
 migu.kssws.ks-cdn.com
@@ -2649,6 +2646,7 @@ news.xueyanshan.com
 newschinacomment.org
 newscn.org
 newspeak.cc
+newtaiwan.com.tw
 nex.corp.163.com
 nexstep.zdworks.com
 nextcps.com
@@ -3278,6 +3276,7 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
+swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3285,7 +3284,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syncshop.cn
@@ -3342,7 +3340,6 @@ test.eduancm.com
 test.ott.youku.com
 tf.hdfdm.com
 tf.hftaili.com
-tg.1155t.cn
 tg.52digua.com
 tg.jifen.2345.com
 thefrontier.hk
@@ -3586,6 +3583,7 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3747,6 +3745,7 @@ xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
 xhydrs.cn
+xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
 xianchawang.net
