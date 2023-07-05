@@ -193,7 +193,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -250,7 +249,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -329,6 +327,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -413,6 +412,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -485,6 +485,7 @@ aliunion.cn.yahoo.com
 aliyunxin.com
 allervpn.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -685,6 +686,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -769,7 +771,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -951,6 +952,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1105,7 +1107,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1133,7 +1134,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1152,6 +1152,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1563,7 +1564,6 @@ fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
-funshion.net.cn
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1818,6 +1818,7 @@ images9999.com
 img.88ads.com
 img.9duw.com
 img.ad.zhangyue.com
+img.adnyg.com
 img.cxxyft.com
 img.dydab.com
 img.ercfh.com
@@ -1881,10 +1882,12 @@ install2.kugou.com
 inte.sohu.com
 ip2.pxene.com
 ipalter.com
+iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1950,7 +1953,6 @@ jifeidandar.com
 jigong1024.com
 jingdian230.meilika.net
 jinsha11833.com
-jiu.njdkgm.com
 jiyou2014.com
 jizzthis.com
 jjhd47.115seo.com
@@ -2234,7 +2236,6 @@ m.bentengcn.com
 m.bokanedu.net
 m.bsnnk.com
 m.bvoer.com
-m.bvosv.com
 m.casbanlly.com
 m.ccunf.com
 m.cdfzcz.com
@@ -2476,6 +2477,7 @@ maplew.com
 market.178.com
 market.21cn.com
 mass.mall044.com
+mastodon.xyz
 match.rtbidder.net
 match.rundsp.com
 matching.targeterra.com
@@ -2620,6 +2622,7 @@ nbjjd.com
 nbtvpn.com
 nc004x.corp.youdao.com
 nc045x.corp.youdao.com
+nch.xnghmc.com
 ndtzx.com
 ndy.code.weddingeeos.com
 neirong.baidu.com
@@ -2810,10 +2813,12 @@ pic.haowj.com.cn
 pic.moad.cn
 pic.neiyicun.net
 pic.new400.cn
+pic.pic-img.com
 pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -3039,7 +3044,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3276,7 +3280,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-swappdl.duoyi.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
