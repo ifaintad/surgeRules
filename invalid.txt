@@ -127,7 +127,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -193,6 +192,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -249,6 +249,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -387,7 +388,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -485,7 +485,6 @@ aliunion.cn.yahoo.com
 aliyunxin.com
 allervpn.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -630,6 +629,7 @@ b92.putniktravel.com
 b9377h.com
 b99u.top
 ba.fqzds.com
+bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
@@ -686,7 +686,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -719,6 +718,7 @@ biantailajiao.in
 bic2011.org
 bigboy.eurogamer.net
 bingyinq.com
+biq.keefung-zs.com
 bitc.bme.emory.edu
 bitinka.com.ar
 bivitr.com
@@ -952,7 +952,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1131,9 +1130,11 @@ dejing.laobanfa.com
 deletemer.online
 deliver.ifeng.com
 delivery.dmkt-sp.jp
+demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1152,7 +1153,6 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
-djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1331,6 +1331,7 @@ e.jxxiangchu.com
 e.kcooy.com
 e.khuoy.com
 e.kjfhe.com
+e.kjhfy.com
 e.kl6636.net
 e.kunpp.com
 e.kwjkd.com
@@ -1366,7 +1367,6 @@ e.plerv.com
 e.pomkl.com
 e.pubbirdf.com
 e.puooi.com
-e.pwjhg.com
 e.pyerc.com
 e.qiaoyuwang.com
 e.qingzhencai.net
@@ -1397,6 +1397,7 @@ e.wjhehaofc.com
 e.wkjhd.com
 e.wnxcg.com
 e.wonwg.com
+e.wsxxu.com
 e.x.cn.xtgreat.com
 e.xdkje.com
 e.xeihy.com
@@ -1418,7 +1419,6 @@ e.ysdhe.com
 e.yuxyz.com
 e.ywbwsm.com
 e.yycqc.com
-e.yyjhf.com
 e.zabxb.com
 e.zhuyuanp.club
 e.zhuyuanp.shop
@@ -1600,6 +1600,7 @@ gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
 gaymap.cc
+gc.keefung-zs.com
 gcapi.sy.kugou.com
 gd.cnhange.cn
 gd.jqgc.com
@@ -1882,7 +1883,6 @@ install2.kugou.com
 inte.sohu.com
 ip2.pxene.com
 ipalter.com
-iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
@@ -1935,6 +1935,7 @@ jdb.jiudingcapital.com
 jdg.bjygfd.com
 jdkic.com
 jdw.zjuwjdc.com
+jebe.xnimg.cn
 jfhe.0769371.com
 jfm4.pop.baofeng.net
 jfqu36.club
@@ -1948,6 +1949,7 @@ jianmei123.com
 jiansuo.dsxdn.com
 jiaoben.eastday.com
 jiaoben.junmeng.com
+jiawen88.com
 jiehantai.com
 jifeidandar.com
 jigong1024.com
@@ -1964,6 +1966,7 @@ jmonitor.jiuzhilan.com
 jmsyzj.com
 jobso.tv
 johtzj.com
+jointreport-switch.com
 jossuer.net
 joyfuldoors.com
 jpg.cooguo.com
@@ -2155,6 +2158,8 @@ leju.sina.com.cn
 leorockwell.com
 lerosua.org
 lfyuanai.com
+lg2.jointreport-switch.com
+lg4.jointreport-switch.com
 lhakar.org
 li.anyysz.com
 lightson.vpsboard.com
@@ -2329,6 +2334,7 @@ m.jyhwt.cn
 m.kcooy.com
 m.khuoy.com
 m.kjfhe.com
+m.kjhfy.com
 m.kl6636.net
 m.kwjkd.com
 m.kxhie.com
@@ -2375,7 +2381,6 @@ m.pomkl.com
 m.pougg.com
 m.prazpf.cn
 m.puooi.com
-m.pwjhg.com
 m.qcw.com
 m.qhuik.com
 m.qingzhencai.net
@@ -2424,6 +2429,7 @@ m.wkjhd.com
 m.wnxcg.com
 m.wonwg.com
 m.wrating.com
+m.wsxxu.com
 m.wxhh678.com
 m.xcy8.com
 m.xdkje.com
@@ -2444,7 +2450,6 @@ m.ysdhe.com
 m.yuandajiayuan.com
 m.yuxyz.com
 m.ywbwsm.com
-m.yyjhf.com
 m.yzjlsb.com
 m.zabxb.com
 m.zenffs.cn
@@ -2495,6 +2500,8 @@ me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
 med.heyzap.com
+media-static.jointreport-switch.com
+media.jointreport-switch.com
 mediapro.pro.cn
 meetyourdevices.com
 megurineluka.com
@@ -2565,6 +2572,7 @@ mon.xtgreat.com
 moodoocrv.com.cn
 moons.66bhy.com
 moonwish.com.cn
+moroneta.com
 mostat.wps.cn
 moupdate10332052.wps.cn
 moutaihotel.cn
@@ -2818,7 +2826,6 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
-pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2844,6 +2851,7 @@ politicalconsultation.org
 pomhz.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
+popup.jointreport-switch.com
 pornmm.net
 postimg.org
 powergg.top
@@ -3073,6 +3081,7 @@ s5.keydot.net
 s8.dnaxddnc.com
 s8forum.com
 sa.hao123.com
+safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 saferwet.com
 same.chinadaily.com.cn
@@ -3453,8 +3462,11 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
+ueadlian.com
 uebawtz7.me
 uerzyr.cn
+ugg.keefung-zs.com
 uid.ksosoft.com
 uimg.27admin.com
 ujikdd041o.cn
@@ -3811,6 +3823,7 @@ xyy.code.weddingeeos.com
 xyy69.com
 xz.ercfh.com
 xzq.greenxf.net
+xzzyi.com
 y.3957957.com
 y.gwylm.com
 y.hzht666.com
