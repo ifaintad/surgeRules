@@ -127,6 +127,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -388,6 +389,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -428,6 +430,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adx-api.hupu.com
 adx.kat.ph
 adytx.com
 adz.zwee.ly
@@ -629,7 +632,6 @@ b92.putniktravel.com
 b9377h.com
 b99u.top
 ba.fqzds.com
-bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
@@ -887,6 +889,7 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
+cdn.optaim.com
 cdn.puata.info
 cdn.tinglian.com
 cdn.vamaker.com
@@ -1134,7 +1137,6 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1887,7 +1889,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2411,7 +2412,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2482,7 +2482,6 @@ maplew.com
 market.178.com
 market.21cn.com
 mass.mall044.com
-mastodon.xyz
 match.rtbidder.net
 match.rundsp.com
 matching.targeterra.com
@@ -2661,6 +2660,7 @@ newtaiwan.com.tw
 nex.corp.163.com
 nexstep.zdworks.com
 nextcps.com
+nextlnk9.com
 nfh.cnshef.com
 ngodupdongchung.com
 nic.cz.cc
