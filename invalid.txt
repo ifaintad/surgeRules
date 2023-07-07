@@ -80,6 +80,7 @@
 255.255.255.255.in-addr.arpa
 256ppp.com
 26zsd.cn
+272xb.com
 285680.com
 2m2n.com
 3.guidaye.com
@@ -151,7 +152,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -193,7 +193,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -250,7 +249,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -329,7 +327,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -414,7 +411,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -632,11 +628,11 @@ b92.putniktravel.com
 b9377h.com
 b99u.top
 ba.fqzds.com
+bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
 baidu.dsp.tansuotv.com
-baidu.greenxf.cn
 baidu.jz5u.net
 baidu9635.com
 baidujs.cnys.com
@@ -889,7 +885,6 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
-cdn.optaim.com
 cdn.puata.info
 cdn.tinglian.com
 cdn.vamaker.com
@@ -955,6 +950,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1008,7 +1004,6 @@ counter.kingsoft.com
 couqm.com.cn
 cp.5jjx.net
 cp.ggyapp.com
-cp.greenxf.cn
 cp.jz5u.net
 cpc.sohu.com
 cpcv.cc
@@ -1333,7 +1328,6 @@ e.jxxiangchu.com
 e.kcooy.com
 e.khuoy.com
 e.kjfhe.com
-e.kjhfy.com
 e.kl6636.net
 e.kunpp.com
 e.kwjkd.com
@@ -2097,6 +2091,7 @@ kho3au7l4z.me
 kicnse.com
 kio.quanliyouxi.cn
 kiss.blockplus.cc
+kjgen.com
 kl-toys.com
 kldmm.com
 klsdmr.com
@@ -2335,7 +2330,6 @@ m.jyhwt.cn
 m.kcooy.com
 m.khuoy.com
 m.kjfhe.com
-m.kjhfy.com
 m.kl6636.net
 m.kwjkd.com
 m.kxhie.com
@@ -2412,6 +2406,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -3052,6 +3047,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3671,7 +3667,6 @@ wo.iuni.com.cn
 woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
-wole.us
 workerdemo.org.hk
 wow-life.net
 wowips.com
@@ -3813,6 +3808,7 @@ xxguan.cn
 xxp.gytygc.com
 xxwkjl.com
 xxxy.biz
+xxyzwtsylw.com
 xy.shijialianzuishuai.com
 xyd.sxmdxy.com
 xyqptm.com
