@@ -152,6 +152,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -193,6 +194,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -249,6 +251,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -386,7 +389,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -426,6 +428,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.kat.ph
 adytx.com
@@ -684,6 +687,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -751,6 +755,7 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
+borsendental.com
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -887,7 +892,6 @@ cdn.moogos.com
 cdn.newapi.com
 cdn.puata.info
 cdn.tinglian.com
-cdn.vamaker.com
 cdn1.res.nx5.com
 cdn1.res.uzham.com
 cdntest.a8tiyu.com
@@ -1376,6 +1380,7 @@ e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
+e.szqifu.com
 e.t71q.com
 e.tdtsd.com
 e.tick0.com
@@ -1401,6 +1406,7 @@ e.xetvb.com
 e.xiangchim0.com
 e.xikdn.com
 e.xlsschina15.net
+e.xmgysweb.com
 e.xpjis.com
 e.yageben.com
 e.yangjingbang.net
@@ -1860,7 +1866,6 @@ imgc.cymzc.com
 imgcdn.wapx.cn
 imges.wu65.com
 imgp.cymzc.com
-immob.cn
 imneinei.com
 imp.asahi.com
 impp.mn
@@ -1994,6 +1999,7 @@ js.pub.tom.com
 js.pyangzi.com
 js.revsci.net
 js.ruiwen.com
+js.saiqizhi.com
 js.soduso.cc
 js.soonyou123.com
 js.start1999.com
@@ -2253,6 +2259,7 @@ m.dante2007.com
 m.dbaiz.com
 m.dgaoz.com
 m.diogv.com
+m.djhhy.com
 m.dnfeu.com
 m.dsjre.com
 m.dxmci.com
@@ -2400,6 +2407,7 @@ m.symac.cn
 m.symad.cn
 m.symag.cn
 m.symaj.cn
+m.szqifu.com
 m.tcksbz888.com
 m.tiaopimiao.net
 m.tick0.com
@@ -2435,6 +2443,7 @@ m.xiangchim0.com
 m.xikdn.com
 m.xkqpco.com
 m.xlsschina15.net
+m.xmgysweb.com
 m.xpjis.com
 m.yangjingbang.net
 m.yingchengtou.com
@@ -2451,7 +2460,6 @@ m.zenffs.cn
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
-m.zuopp.com
 m1.mgogo.com
 m1.xcy8.com
 m2.qinsx.cn
@@ -2506,6 +2514,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -3047,7 +3056,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3323,6 +3331,7 @@ tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
 taobaly.cn
+taoggou.com
 taohanpai.com
 taolun.info
 tap-cdn.rubiconproject.com
@@ -3603,7 +3612,6 @@ wantaico.com
 wap.114so.cn
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
