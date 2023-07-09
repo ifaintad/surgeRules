@@ -36,7 +36,6 @@
 10.tt
 100.51.198.in-addr.arpa
 10086.cn.baidu.cdn.yiwk.com
-100ke.org
 100peng.com
 11.hydcd.com
 111111qb.com
@@ -128,7 +127,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -152,7 +150,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -330,6 +327,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -399,7 +397,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -413,6 +410,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -428,7 +426,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.kat.ph
 adytx.com
@@ -538,6 +535,7 @@ api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
 api.uniplayad.com
+api.whizzone.com
 api.xk.miui.com
 api.y.igexin.com
 apidocs.linksalpha.com
@@ -610,6 +608,7 @@ avualrhg9p.bid
 axiba66.com
 ayabreya.xyz
 b-ok.africa
+b-ok.asia
 b.53yao.com
 b.aowugame.com
 b.e.f.ip6.arpa
@@ -693,6 +692,7 @@ bdjs.99.com.cn
 bdjs.faxingzhan.com
 bdjs.itechwall.com
 bdjs.ixiumei.com
+bdjs.kaixin100.com
 bdjs.laonanren.com
 bdjs.ylq.com
 bdjs1.ixiumei.com
@@ -843,6 +843,7 @@ c77777777.com
 c8b.jcdb88.com
 ca.5173car.com
 cache.xw126.com
+cachead.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
 caliyuna.cn
@@ -954,7 +955,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1136,6 +1136,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1330,6 +1331,7 @@ e.juyzr.com
 e.jwiyr.com
 e.jxxiangchu.com
 e.kcooy.com
+e.kewro.com
 e.khuoy.com
 e.kjfhe.com
 e.kl6636.net
@@ -1370,6 +1372,7 @@ e.puooi.com
 e.pyerc.com
 e.qiaoyuwang.com
 e.qingzhencai.net
+e.qiyunmuye.com
 e.qsove.com
 e.resmv.com
 e.ricpt.com
@@ -1380,7 +1383,6 @@ e.sosjyx.com
 e.srrux.com
 e.stat.ykimg.com
 e.suehy.com
-e.szqifu.com
 e.t71q.com
 e.tdtsd.com
 e.tick0.com
@@ -1509,7 +1511,6 @@ fathionmall.com
 fb.xk.miui.com
 fbc.ffychb.com
 fc-.cdn.bcebos.com
-fcsass.org.cn
 fd.anzhi.com
 fdc89.jp
 feedback.whalecloud.com
@@ -1888,6 +1889,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2335,6 +2337,7 @@ m.juyzr.com
 m.jwiyr.com
 m.jyhwt.cn
 m.kcooy.com
+m.kewro.com
 m.khuoy.com
 m.kjfhe.com
 m.kl6636.net
@@ -2386,6 +2389,7 @@ m.puooi.com
 m.qcw.com
 m.qhuik.com
 m.qingzhencai.net
+m.qiyunmuye.com
 m.qsove.com
 m.qusub.com
 m.ricpt.com
@@ -2407,7 +2411,6 @@ m.symac.cn
 m.symad.cn
 m.symag.cn
 m.symaj.cn
-m.szqifu.com
 m.tcksbz888.com
 m.tiaopimiao.net
 m.tick0.com
@@ -3268,6 +3271,7 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
+static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3467,8 +3471,6 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
-ue.ueadlian.com
-ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
@@ -3612,6 +3614,7 @@ wantaico.com
 wap.114so.cn
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3682,6 +3685,7 @@ woxinghuiguo.com
 wpwdf.com
 wqqsa.puzihua.com
 wqyd.org
+wsjhk.com
 wsoe.kwiago.com
 wsp.marketgid.com
 wth.lenovomm.com
@@ -3808,7 +3812,6 @@ xskywalker.net
 xtcdbb.cn
 xtwjx.cn
 xtzxmy.com
-xuanmeiguoji.com
 xul478.com
 xuzhiyong.net
 xxad.cc
@@ -3844,7 +3847,6 @@ yesbeby.whies.info
 yess.imneinei.com
 yhtcd.com
 yidulive.net
-yihuifu.cn
 yingsuoss.com
 yinhaijuan.com
 yinyuehu.cn
