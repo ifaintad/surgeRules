@@ -127,6 +127,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -150,6 +151,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -327,7 +329,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -397,6 +398,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -426,6 +428,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.kat.ph
 adytx.com
@@ -559,6 +562,7 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 appc.baidu.cn
 appcdn.wapx.cn
+appledaily.com
 applog.mobike.com
 apppic.yingyongbei.com
 apps.supfast.net
@@ -955,6 +959,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1750,6 +1755,7 @@ hl.kuzu.com
 hl.quw18.com
 hm.baidu.cn
 hmma.baidu.cn
+hmoegirl.com
 hmp33.com
 hnxxjn.com
 holymountaincn.com
@@ -1889,7 +1895,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2217,6 +2222,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2517,7 +2523,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -3059,6 +3064,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3271,7 +3277,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3330,6 +3335,7 @@ t2.vbxx.net
 t70123.com
 t75.qyqc4s.com
 taat00889.com
+tailwindtraders.com
 taiwankiss.com
 tamiaode.tk
 tangoutianxia.com
@@ -3497,6 +3503,7 @@ union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
@@ -3510,7 +3517,6 @@ uranus.sohu.com
 urh.tylll.com
 url.222bz.com
 urlaw.cn
-urlborg.com
 urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
