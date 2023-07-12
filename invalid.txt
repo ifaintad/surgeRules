@@ -15,6 +15,7 @@
 0x01e7.website
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 1.201980.com
+1.21shebao.com
 1.bashenghuo.com
 1.chcx.cn
 1.cjcp.cn
@@ -61,6 +62,7 @@
 1i580.com
 1lib.tw
 2.0.192.in-addr.arpa
+2.21shebao.com
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
@@ -74,6 +76,7 @@
 2017.hk
 2017img.myxh999.com
 22lm.cc
+235123.net
 24haitao.net
 254.169.in-addr.arpa
 255.255.255.255.in-addr.arpa
@@ -127,6 +130,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -150,6 +154,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -248,7 +253,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -387,7 +391,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -398,7 +401,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -428,7 +430,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.kat.ph
 adytx.com
@@ -1157,6 +1158,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1462,6 +1464,7 @@ ereg.wip3.adobe.com
 eroticsaloon.net
 erwr.ydjskvpd.com
 esrpxyahzna.bid
+etherdelta.com
 ethod.gzgmjcx.com
 euwidget.imshopping.com
 eva.ucas.com
@@ -1567,7 +1570,6 @@ fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
-furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1891,6 +1893,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2417,7 +2420,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -3327,7 +3329,6 @@ t.uvcourse.net
 t.youmi.net
 t2.vbxx.net
 t70123.com
-t75.qyqc4s.com
 taat00889.com
 tamiaode.tk
 tangoutianxia.com
@@ -3578,7 +3579,6 @@ vjcyehtqm9.me
 vl8c4g7tmo.me
 vns800600.net
 voila.refr.adgtw.orangeads.fr
-vpn.cjb.net
 vpnintouch.net
 vt.bjhdonline.com
 vtale.org
@@ -3658,6 +3658,7 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
+wildammo.com
 winwhispers.info
 wip3.adobe.com
 wisepush.video.baidu.com
@@ -3682,7 +3683,6 @@ woxinghuiguo.com
 wpwdf.com
 wqqsa.puzihua.com
 wqyd.org
-wsjhk.com
 wsoe.kwiago.com
 wsp.marketgid.com
 wth.lenovomm.com
@@ -3856,6 +3856,7 @@ yl850555.com
 ylads.yaolan.com
 ymcqb.com
 ymrzr.com
+yndianju.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
