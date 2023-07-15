@@ -189,6 +189,7 @@
 8dulm.com
 8hykthze.cricket
 8jd2lfsq.me
+8mfty.com
 9.e.f.ip6.arpa
 9001700.com
 90053999.com
@@ -401,6 +402,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adreal.cn
@@ -414,6 +416,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -689,7 +692,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -958,7 +960,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1091,6 +1092,7 @@ daima.huoche.net
 daima.ijq.tv
 daima.mubite.cn
 daima123.cc
+daiphapinfo.net
 dairuqi.com
 daitdai.com
 dajusha.baywords.com
@@ -1535,6 +1537,7 @@ finding.hardwareheaven.com
 findnsave.idahostatesman.com
 finead.cn
 fips.uimserv.net
+fjlqqc.com
 fjmeyer.com
 flash.2144.com
 flgg.us
@@ -2476,6 +2479,7 @@ m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
 ma.hao123.com
+ma1.meishij.net
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
@@ -2835,6 +2839,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -2862,11 +2867,9 @@ pop.code.poyang.cn
 pop.sjk.ijinshan.com
 popup.jointreport-switch.com
 pornmm.net
-post.ra.icast.cn
 postimg.org
 powergg.top
 pp.sxjkc.cn
-pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
@@ -3151,6 +3154,7 @@ shadowsocks9.com
 shangfang.org
 shanghaironghua.com
 shanglinli.com
+shapeservices.com
 share.gzdsw.com
 sharpdaily.com.hk
 shbywsd.cn
@@ -3242,6 +3246,7 @@ ss.sysad.cn
 ss.sysadult.cn
 sscefsol.com.cn
 ssdaili.com
+ssglobal.me
 ssh.hxlif.com
 ssh.jsyzw132.com
 ssh.szxiuchang.com
@@ -3327,6 +3332,7 @@ t.l.qq.com
 t.oq68.com
 t.orzdream.com
 t.pingzei.com
+t.qiuqiuqipai.com
 t.tzcccm.com
 t.uvcourse.net
 t.youmi.net
@@ -3460,7 +3466,6 @@ u1.shuaiku.com
 u2.s.minisplat.cn
 u291014.nr1234.com
 ua.badongo.com
-ub0.cc
 ubm.fangtoo.com
 uc.haoyunyuan.cc
 uc.xiansuper.com
@@ -3499,7 +3504,6 @@ union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
-unlocklimitlesslearning.com
 uns.soarfi.cn
 up.hiao.com
 update.coolyun.com
@@ -3632,6 +3636,7 @@ weblb-wg.gslb.spotify.com
 weiguizhizuo.com
 weiqiqu.cn
 weixiangzu.cn
+weixin.renrenying.com
 weixinvip.ren
 weld.iefsf.com
 weldc1.021ye.com
@@ -3661,6 +3666,7 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
+wikileaks.com
 winwhispers.info
 wip3.adobe.com
 wisepush.video.baidu.com

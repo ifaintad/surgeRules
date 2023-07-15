@@ -977,7 +977,6 @@ DOMAIN-SUFFIX,daidostup.ru
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dailynews.sina.com
 DOMAIN-SUFFIX,dailysabah.com
-DOMAIN-SUFFIX,daiphapinfo.net
 DOMAIN-SUFFIX,dajiyuan.com
 DOMAIN-SUFFIX,dalailama-archives.org
 DOMAIN-SUFFIX,dalailama.com
@@ -3506,7 +3505,6 @@ DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,shahit.biz
 DOMAIN-SUFFIX,shambalapost.com
 DOMAIN-SUFFIX,shambhalasun.com
-DOMAIN-SUFFIX,shapeservices.com
 DOMAIN-SUFFIX,share.america.gov
 DOMAIN-SUFFIX,share.dmhy.org
 DOMAIN-SUFFIX,share.ovi.com
@@ -3674,7 +3672,6 @@ DOMAIN-SUFFIX,srcf.ucam.org
 DOMAIN-SUFFIX,ss-link.com
 DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssglobal.co
-DOMAIN-SUFFIX,ssglobal.me
 DOMAIN-SUFFIX,ssh91.com
 DOMAIN-SUFFIX,ssl443.org
 DOMAIN-SUFFIX,sspanel.net
@@ -4220,6 +4217,7 @@ DOMAIN-SUFFIX,typepad.com
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,u15.info
 DOMAIN-SUFFIX,u9un.com
+DOMAIN-SUFFIX,ub0.cc
 DOMAIN-SUFFIX,ubddns.org
 DOMAIN-SUFFIX,uberproxy.net
 DOMAIN-SUFFIX,uc-japan.org
@@ -4549,7 +4547,6 @@ DOMAIN-SUFFIX,wiki.oauth.net
 DOMAIN-SUFFIX,wiki.phonegap.com
 DOMAIN-SUFFIX,wikileaks-forum.com
 DOMAIN-SUFFIX,wikileaks.ch
-DOMAIN-SUFFIX,wikileaks.com
 DOMAIN-SUFFIX,wikileaks.lu
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikileaks.pl
