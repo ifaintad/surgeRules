@@ -155,6 +155,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -197,6 +198,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -331,6 +333,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -390,6 +393,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -413,6 +417,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -958,6 +963,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1112,6 +1118,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1140,6 +1147,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1158,7 +1166,6 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
-djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -2507,7 +2514,6 @@ mcore.vcgame.cn
 md.1drj.com
 md.sh5e.com
 md0z4dh.com
-mdotm.com
 mdpjnppsbjv.bid
 mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
@@ -2526,7 +2532,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -3068,6 +3073,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3322,6 +3328,7 @@ syndication-o.twitter.com
 syofew6o.net
 sytz1288.com
 szkdst.com
+szshouzhai.com
 szxc868.com
 szyr474.com
 t.2d-c.cn
@@ -3611,6 +3618,7 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
+wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
