@@ -129,9 +129,9 @@
 51dql.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -198,7 +198,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -372,6 +371,7 @@ add.mmyuer.com
 add.sina.com.cn
 addata.ku6.com
 addl.easetuner.com
+adexprt.com
 adfarm.mediaplex.com
 adfile.wifi8.com
 adfront.auction.co.kr
@@ -963,7 +963,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1102,6 +1101,7 @@ dairuqi.com
 daitdai.com
 dajusha.baywords.com
 dalailama.usc.edu
+dalailama80.org
 dandan11.top
 dandan13.top
 dandan15.top
@@ -1118,7 +1118,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1580,6 +1579,7 @@ fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
+furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1754,6 +1754,7 @@ hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
 hklft.com
+hkreporter.loved.hk
 hkupop.hku.hk
 hkusu.net
 hkvwet.com
@@ -1902,7 +1903,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -1931,7 +1931,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2170,10 +2169,12 @@ ld.kuaigames.com
 lds.lenovomm.com
 ldy.350.com
 ldy.adqku.cn
+leaguehd.com
 leak.360.cn
 legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
+lemonhd.org
 leorockwell.com
 lerosua.org
 lfyuanai.com
@@ -2213,7 +2214,6 @@ lovestyl.com
 lp.jiuzhilan.com
 ls.webmd.com
 lsxmg.com
-ltheanine.cn
 lthxz.cn
 lubosheng.cn
 lucting.cn
@@ -2432,7 +2432,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2635,7 +2634,6 @@ myjsym.zichenit.com
 mymediarom.com
 mymm.zichenit.com
 mytizi.com
-mytzdhz.cn
 myycrw.com
 n.a.mosenni.com
 n.cosbot.cn
@@ -3073,7 +3071,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3220,7 +3217,6 @@ sobartop.baidu.com
 softsmirror.cf
 sohu.irs01.com
 sohu.wrating.com
-song001.com
 sonicbbs.cc
 sonomoyo.com
 sorazone.net
@@ -3321,6 +3317,7 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syncshop.cn
@@ -3501,7 +3498,6 @@ umyai.com
 un.52rkl.cn
 un.soarfi.cn
 un.winasdaq.com
-undm.qibulo.com
 unicast.msn.com
 union.dbba.cn
 union.mi.com
@@ -3513,6 +3509,7 @@ unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
+unseen.is
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
@@ -3618,7 +3615,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wan.sogou.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3876,6 +3872,7 @@ ylads.yaolan.com
 ymcqb.com
 ymrzr.com
 yndianju.com
+ynmbz.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
