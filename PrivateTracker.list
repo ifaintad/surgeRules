@@ -9,14 +9,12 @@ DOMAIN,acxx.de
 DOMAIN,aegir.sexy
 DOMAIN,black-bird.ynh.fr
 DOMAIN,boysbitte.be
-DOMAIN,bt.endpot.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,canardscitrons.nohost.me
 DOMAIN,carr.codes
-DOMAIN,ch3oh.ru
 DOMAIN,city21.pk
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -35,8 +33,10 @@ DOMAIN,hub.bugout.link
 DOMAIN,incine.ru
 DOMAIN,inferno.demonoid.is
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,ipv6.1337.cx
 DOMAIN,ipv6.fuuuuuck.com
 DOMAIN,ipv6.govt.hu
+DOMAIN,isk.richardsw.club
 DOMAIN,li2021-95.members.linode.com
 DOMAIN,mail.artixlinux.org
 DOMAIN,mail.segso.net
@@ -55,7 +55,7 @@ DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
+DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
@@ -66,7 +66,6 @@ DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
@@ -76,7 +75,6 @@ DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,sanincode.com
 DOMAIN,share.camoe.cn
-DOMAIN,shubt.net
 DOMAIN,soundmovie.ru
 DOMAIN,ssb14.nohost.me
 DOMAIN,static.54.161.216.95.clients.your-server.de
@@ -84,6 +82,7 @@ DOMAIN,su-data.com
 DOMAIN,t.133335.xyz
 DOMAIN,t.acg.rip
 DOMAIN,t.nyaatracker.com
+DOMAIN,t.publictracker.xyz
 DOMAIN,t.zerg.pw
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
@@ -95,7 +94,6 @@ DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.bangumi.moe
 DOMAIN,tr.burnabyhighstar.com
-DOMAIN,tr.cili001.com
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.4.babico.name.tr
@@ -104,7 +102,6 @@ DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bangumi.zip
 DOMAIN,tracker.birkenwald.de
-DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
@@ -113,7 +110,6 @@ DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
@@ -139,7 +135,6 @@ DOMAIN,tracker.ocnix.net
 DOMAIN,tracker.openbittorrent.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -152,6 +147,7 @@ DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.com
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.zerobytes.xyz
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
@@ -169,6 +165,7 @@ DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
 DOMAIN,v1046920.hosted-by-vdsina.ru
+DOMAIN,v2.iperson.xyz
 DOMAIN,v6-tracker.0g.cx
 DOMAIN,vm3268418.24ssd.had.wf
 DOMAIN,wepzone.net
@@ -253,6 +250,8 @@ DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,karagarga.in
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,landof.tv
+DOMAIN-SUFFIX,leaguehd.com
+DOMAIN-SUFFIX,lemonhd.org
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
