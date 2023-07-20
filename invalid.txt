@@ -131,6 +131,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -197,7 +198,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -224,6 +224,7 @@ a.giantrealm.com
 a.holagames.com
 a.irs01.com
 a.itiexue.net
+a.kandiaoyu.com
 a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
@@ -252,6 +253,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -331,6 +333,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -402,6 +405,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -692,7 +696,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -1148,7 +1151,6 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1167,6 +1169,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1573,6 +1576,7 @@ frdhq.cn
 free4u.com.ar
 freealim.com
 freechinaforum.org
+freecodecs.us.intellitxt.com
 freekwonpyong.org
 freeyoutubeproxy.net
 fst360.com
@@ -1703,10 +1707,10 @@ h.irs01.com
 h.laojiayoufang.com
 h5.taihao.cc
 h8.bec.com
-h9377c.com
 haitaoad.nosdn.127.net
 haiwai-ic.ksosoft.com
 haiwengji.net
+haiyunpush.com
 hanju18.net
 hanunyi.com
 hao123rt.com
@@ -1715,7 +1719,6 @@ hascosafety.com
 hbalx.cn
 hbdt.luomi.com
 hbngfy.com
-hbssjd.cn
 hbyyzm.com
 hc.baidu.cn
 hc.baidu.com
@@ -1831,6 +1834,7 @@ imageplus.baidu.cn
 imageplus.baidu.com
 images.avsmt.cn
 images.comico.tw
+images.intellitxt.com
 images.millennialmedia.com
 images.pagechoice.net
 images.tyyjzs.cn
@@ -2534,6 +2538,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2985,12 +2990,12 @@ rc.fthcz.com
 rc.haodongkeji.cn
 rc.xmcmn.com
 rcyy3.kaopuwangjz.com
+rd.ane.yahoo.co.jp
 rd.e.sogou.com
 rdiqt.cn
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
-religioustolerance.org
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3048,7 +3053,6 @@ s.effectivemeasure.net
 s.ekeide.com
 s.georgias.cn
 s.haiyunx.com
-s.hnhgw.cn
 s.hzht666.com
 s.iuuff.com
 s.jlminte.com
@@ -3268,6 +3272,7 @@ ssp.kssws.ks-cdn.com
 ssp.pro.cn
 ssp.thescenseproject.com
 ssp1.dmpdsp.com
+sspro.ml
 sss.camp
 sss.sege.xxx
 sss.soarfi.cn
@@ -3347,6 +3352,7 @@ t.youmi.net
 t2.vbxx.net
 t70123.com
 taat00889.com
+tailwindtraders.com
 tamiaode.tk
 tangoutianxia.com
 tanzanite.infomine.com
@@ -3405,7 +3411,6 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3497,6 +3502,7 @@ uk3oi.adgze.cn
 ukeiae.com
 ukliferadio.co.uk
 ulic.baidu.com
+ulink.cc
 um.hd.sohu.com
 umyai.com
 un.52rkl.cn
@@ -3512,6 +3518,7 @@ union1.xiaojianjian.net
 unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
+unlocklimitlesslearning.com
 uns.soarfi.cn
 unseen.is
 up.hiao.com
@@ -3621,6 +3628,7 @@ waiwaier.com
 wallornot.org
 wan.360.cn
 wan.sogou.com
+wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
 wangsufast.com
@@ -3695,9 +3703,9 @@ woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
+wowlegacy.ml
 woxinghuiguo.com
 wpwdf.com
 wqqsa.puzihua.com
@@ -3885,6 +3893,7 @@ yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
+youthforfreechina.org
 youtubecn.com
 youxi.kugou.com
 youzehui.com
