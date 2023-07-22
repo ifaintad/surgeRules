@@ -131,6 +131,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -155,6 +156,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -253,6 +255,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -393,6 +396,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -450,6 +454,7 @@ affil.mupromo.com
 affiliateprogram.keywordspy.com
 affiliatesmedia.sbobet.com
 afp.chinanews.com
+afp.csbew.com
 afp.iqiyi.com
 afp.m1905.com
 afp.pplive.com
@@ -457,6 +462,7 @@ afp.wasu.cn
 afp.wasu.tv
 afpcreative.wasu.cn
 afpimages.eastday
+afptrack.csbew.com
 ag-gb.marketgid.com
 ag.nukefans.net
 agenda.complex.com
@@ -491,7 +497,6 @@ aliunion.cn.yahoo.com
 aliyunxin.com
 allervpn.com
 allnews.uodoo.com
-allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -542,7 +547,6 @@ api.push.daoyoudao.com
 api.push.le.com
 api.ra2.xlmc.sec.miui.com
 api.rideraid.net
-api.union.vip.com
 api.uniplayad.com
 api.whizzone.com
 api.xk.miui.com
@@ -697,6 +701,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -749,6 +754,7 @@ bllbaby.cn
 blog.cnyes.com
 blog.exblog.co.jp
 blog.istef.info
+blog.pathtosharepoint.com
 blog.sina.com.tw
 blog.workflow.is
 blogad01.myweb.hinet.net
@@ -766,6 +772,7 @@ bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
 borsendental.com
+boyxu.cn
 br.hao123.com
 brakefluid.website
 brand.sogou.com
@@ -784,7 +791,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1047,6 +1053,7 @@ crm-eve.b2b.alibaba-inc.com
 crossthewall.net
 crs.baidu.cn
 cs.dqwjzm.com
+csbew.com
 ct.210189.com
 ctfriend.net
 cupid.iqiyi.com
@@ -1907,7 +1914,6 @@ install2.kugou.com
 inte.sohu.com
 ip2.pxene.com
 ipalter.com
-iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
@@ -1993,6 +1999,7 @@ johtzj.com
 jointreport-switch.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2023,7 +2030,6 @@ js.pub.tom.com
 js.pyangzi.com
 js.revsci.net
 js.ruiwen.com
-js.saiqizhi.com
 js.soduso.cc
 js.soonyou123.com
 js.start1999.com
@@ -2441,6 +2447,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2872,6 +2879,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2999,7 +3007,6 @@ rdiqt.cn
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
-religioustolerance.org
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3050,6 +3057,7 @@ s.baidu.com
 s.caduka.cn
 s.cdn.u17t.com
 s.cr-nielsen.com
+s.csbew.com
 s.ddstu.com
 s.de123.net
 s.dsjcfw.com
@@ -3388,6 +3396,8 @@ tf.hdfdm.com
 tf.hftaili.com
 tg.52digua.com
 tg.jifen.2345.com
+tga.csbew.com
+tgb.csbew.com
 thefrontier.hk
 thejesperbay.com
 themis.yahoo.com
@@ -3573,6 +3583,7 @@ ve.tsdlp.com
 vegent.cn
 vendor1.fitschigogerl.com
 vers80.com
+vfsforgit.org
 vft.com.tw
 vg02h8z1ul.me
 vi0.mzy2014.com
@@ -3907,7 +3918,6 @@ ytdksb.com
 ytmx.2r3485.cn
 yts.ytsyyey.com
 ytsyyey.com
-yun.sifuhe.cn
 yun1.yahoo001.com
 yunanfuwuqi.com
 yunpifu.cn
