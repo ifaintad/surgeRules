@@ -131,7 +131,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 58.xgo.com.cn
 5814889.com
@@ -389,6 +388,7 @@ adinf.voole.com
 adinfo.ra1.xlmc.sec.miui.com
 adkongjian.com
 adlabs-sync.rutarget.ru
+adlink.shopsafe.co.nz
 adm.265g.com
 adm.72zx.com
 adm.86wan.com
@@ -436,7 +436,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.kat.ph
 adytx.com
@@ -701,7 +700,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -749,6 +747,7 @@ bj14.9669.cn
 bjcu.u3.ucweb.com
 bjs.9669.cn
 bjvvqu.cn
+bkdg.net
 blb.winasdaq.com
 bllbaby.cn
 blog.cnyes.com
@@ -791,6 +790,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1163,7 +1163,6 @@ dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
 dhxyzx.cn
-dialer.cdn.cootekservice.com
 diaojiaoji168.com
 difnxm.cn
 digdug.divxnetworks.com
@@ -1634,6 +1633,7 @@ gcapi.sy.kugou.com
 gd.cnhange.cn
 gd.jqgc.com
 gd.vodtw.com
+geekheart.info
 gen.alicdn.com
 geobanner.socialflirt.com
 gf1352.com
@@ -1775,6 +1775,7 @@ hm.baidu.cn
 hmma.baidu.cn
 hmoegirl.com
 hmp33.com
+hndiyikj.com
 hnxxjn.com
 holymountaincn.com
 home.so-net.net.tw
@@ -1829,6 +1830,7 @@ iframe.travel.yahoo.com
 ig.nukefans.net
 igfw.tech
 igj5y.yongchanghengyuan.com
+ihuanmei.com
 iia1.pikacn.com
 iisl7wpf.me
 ikcode.baidu.com
@@ -1999,7 +2001,6 @@ johtzj.com
 jointreport-switch.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2213,6 +2214,7 @@ ll.songlaoban.cn
 lm.dawenxue.org
 lm.souid.com
 lml.jfjsp.com
+lnr2.com
 loandatec.com
 localnetwork.uop
 locdrop.query.yahoo.com
@@ -2308,7 +2310,6 @@ m.fbaot.com
 m.fcaot.com
 m.fcuit.com
 m.fecjf.cn
-m.feirs.com
 m.fengwanwl.com
 m.fenrs.com
 m.fhxsw.org
@@ -2938,6 +2939,7 @@ pwj.biqugezw.com
 px.powerlinks.com
 q.s.cr-nielsen.com
 q6rwa.eschangchi.com
+qanote.com
 qbyy010.com
 qchannel0d.cn
 qd.moutaihotel.cn
@@ -3089,7 +3091,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3172,7 +3173,6 @@ settings.crashlytics.com
 sfloushi.com
 sg-cdn.effectivemeasure.net
 sgbfjs.info
-sgvip.chinahdcm.com
 sh.qihoo.com
 shadowsocks-r.com
 shadowsocks9.com
@@ -3222,7 +3222,6 @@ sjrt.org
 sjum.cn
 skatehot.net
 skyking.com.tw
-sl.xawjwl.com
 slb.sxuantang.com
 slb.upshengyi.com
 slides.discovery.tom.com
@@ -3359,6 +3358,7 @@ t.oq68.com
 t.orzdream.com
 t.pingzei.com
 t.qiuqiuqipai.com
+t.supermario.xyz
 t.tzcccm.com
 t.uvcourse.net
 t.youmi.net
@@ -3693,7 +3693,6 @@ widnd.dajiadou6.com
 wifi.cmcc
 wifiapi01.51y5.net
 wifiapidd.51y5.net
-wifijia.net
 wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
@@ -3980,7 +3979,6 @@ zxh.bzshzx.com
 zxr.fzxrjx.com
 zyf.fzdfwy.com
 zymo.mps.weibo.com
-zynaima.com
 zytwq.net
 zyz.91friend.com
 zyz1.91friend.com
