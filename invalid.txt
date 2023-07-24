@@ -155,7 +155,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -186,7 +185,6 @@
 88818122.cn
 888zr022.com
 88cncc.com
-8964museum.com
 8dulm.com
 8hykthze.cricket
 8jd2lfsq.me
@@ -198,7 +196,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -254,7 +251,6 @@ a1.huiqituan.com
 a1.vdolady.com
 a1.yuuedu.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -388,7 +384,6 @@ adinf.voole.com
 adinfo.ra1.xlmc.sec.miui.com
 adkongjian.com
 adlabs-sync.rutarget.ru
-adlink.shopsafe.co.nz
 adm.265g.com
 adm.72zx.com
 adm.86wan.com
@@ -396,7 +391,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -411,6 +405,7 @@ adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
+ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -700,6 +695,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -909,6 +905,7 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
+cdn.optaim.com
 cdn.puata.info
 cdn.tinglian.com
 cdn1.res.nx5.com
@@ -973,7 +970,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1005,6 +1001,7 @@ code1f.m.shushu8.com
 code1fa.m.shushu8.com
 coin2co.in
 coinhive-manager.com
+coinrail.co.kr
 col.hztags.net
 comesgo.com
 comet.yahoo.com
@@ -1130,6 +1127,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1177,6 +1175,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1825,6 +1824,7 @@ ico.58pic.com
 idianfang.com
 ids.deliver.ifeng.com
 iebar.baidu.com
+iepl.us
 ifan.cz.cc
 iframe.travel.yahoo.com
 ig.nukefans.net
@@ -1920,7 +1920,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2189,6 +2188,7 @@ lds.lenovomm.com
 ldy.350.com
 ldy.adqku.cn
 leak.360.cn
+leeao.com.cn
 legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
@@ -2457,7 +2457,6 @@ m.vichc.com
 m.vouky.com
 m.vsxet.com
 m.wcjup.com
-m.weboser.com
 m.weixingshexiangji.net
 m.wervp.com
 m.wgewj.cn
@@ -2790,7 +2789,6 @@ oyzsverimywg.com
 p-log.ykimg.com
 p.bdjiazanmiaomu.com
 p.bjdianyue.com
-p.bnuni.com
 p.kjwx8.com
 p.l.ykimg.com
 p.l.youku.com
@@ -3381,6 +3379,7 @@ tb104x.corp.youdao.com
 tbcollege.org
 tbicn.org
 tbsmalaysia.org
+tc.51la.net
 tcjy66.cc
 tcpspeed.co
 tcsovi.org
@@ -3833,7 +3832,6 @@ xlfmtalk.com
 xlfmwz.info
 xlmc.sandai.net
 xlwnx.com
-xm9178.com
 xmcmn.com
 xmnmeu.cn
 xmpush.xiaomi.com
