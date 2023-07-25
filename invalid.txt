@@ -131,7 +131,9 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
+5675146.com
 58.xgo.com.cn
 5814889.com
 58lm.vip
@@ -196,6 +198,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -315,6 +318,7 @@ ad.ibookstar.com
 ad.icasthq.com
 ad.idgtn.net
 ad.intl.xiaomi.com
+ad.ipadview.com
 ad.jamba.net
 ad.jamster.co.uk
 ad.jsnbrynb.com
@@ -391,6 +395,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -401,11 +406,9 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
-ads.aplusapi.pptv.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
@@ -568,7 +571,6 @@ appc.baidu.cn
 appcdn.wapx.cn
 appledaily.com
 applog.mobike.com
-apppic.yingyongbei.com
 apps.supfast.net
 appsdk.tanv.com
 appsocks.net
@@ -749,7 +751,6 @@ bllbaby.cn
 blog.cnyes.com
 blog.exblog.co.jp
 blog.istef.info
-blog.pathtosharepoint.com
 blog.sina.com.tw
 blog.workflow.is
 blogad01.myweb.hinet.net
@@ -905,7 +906,6 @@ cdn.millennialmedia.com
 cdn.mingmingtehui.com
 cdn.moogos.com
 cdn.newapi.com
-cdn.optaim.com
 cdn.puata.info
 cdn.tinglian.com
 cdn1.res.nx5.com
@@ -1001,7 +1001,6 @@ code1f.m.shushu8.com
 code1fa.m.shushu8.com
 coin2co.in
 coinhive-manager.com
-coinrail.co.kr
 col.hztags.net
 comesgo.com
 comet.yahoo.com
@@ -1127,7 +1126,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
-dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1371,6 +1369,7 @@ e.miiuv.com
 e.mmkvi.com
 e.mozist.com
 e.mqgpo.com
+e.mrsasharingspace.com
 e.mushizhubao.com
 e.nduop.com
 e.neijh.com
@@ -2197,7 +2196,6 @@ lerosua.org
 lfyuanai.com
 lg2.jointreport-switch.com
 lg4.jointreport-switch.com
-lhakar.org
 li.anyysz.com
 lightson.vpsboard.com
 lingdian98.com
@@ -2440,7 +2438,6 @@ m.symaa.cn
 m.symab.cn
 m.symac.cn
 m.symad.cn
-m.symag.cn
 m.symaj.cn
 m.tcksbz888.com
 m.tiaopimiao.net
@@ -2523,6 +2520,7 @@ match.rtbidder.net
 match.rundsp.com
 matching.targeterra.com
 material.mtty.xin
+mathable.io
 mathiew-badimon.com
 maw.wnbfw.com
 mb.zam.com
@@ -2878,7 +2876,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2992,7 +2989,6 @@ rad.microsoft.com
 rad.msn.com
 raidtalk.com.tw
 rangwang.biz
-ranyunfei.com
 raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
@@ -3106,7 +3102,7 @@ s1.iigushi.com
 s1.kutongji.com
 s1.mingmingtehui.com
 s1.nudezz.com
-s1.qiqutt.cn
+s1.qiuyi.cn
 s1.tansuotv.com
 s1heng.com
 s2.dnaxddnc.com
@@ -3696,6 +3692,7 @@ wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
 wiki.moegirl.org
+wingy.site
 winwhispers.info
 wip3.adobe.com
 wisepush.video.baidu.com
