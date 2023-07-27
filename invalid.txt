@@ -115,6 +115,7 @@
 3g.990.net
 3gmtr.com
 3htai.com
+3rd.t.sohu.com
 3wz6z.bchuangpi.cn
 4207008.com
 43110.cf
@@ -156,6 +157,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -314,6 +316,7 @@ ad.endpo.in
 ad.evozi.com
 ad.flux.com
 ad.fnnews.com
+ad.funshion.org.cn
 ad.ibookstar.com
 ad.icasthq.com
 ad.idgtn.net
@@ -395,7 +398,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -406,7 +408,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -698,7 +699,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -726,7 +726,6 @@ benshiw.net
 bes-progfree.com
 bestforchina.org
 bfshan.cn
-bgrndi.com
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -921,7 +920,6 @@ cgskqg.com
 ch.shvoong.com
 chadegongxiao.com
 changsa.net
-chaoliangyun.com
 chapm25.com
 chengzhao95511.com
 chenpokong.net
@@ -1040,6 +1038,7 @@ cpv.channelray
 cpv.czpush.com
 cpv.ty229.com
 cpva.cc
+cqfangduan.com
 crashes.mo.wps.cn
 creatim.qtmojo.cn
 creative.1111cpc.com
@@ -1156,7 +1155,6 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1244,7 +1242,6 @@ drvmy.ats68.cn
 ds-pc.admsger.com
 dsadas.hydp188.com
 dsaeerf.com
-dsjsee.dqgpb.com
 dsp.send.microad-cn.com
 dspmy.ge95.com
 dspserver.ad.cmvideo.cn
@@ -1547,6 +1544,7 @@ ff.nsg.org.ua
 fff.yuyouge.com
 ffhtek.com
 ffre.ffrepair.com
+ffychb.com
 fge9vbrzwt.bid
 fghm.ga25.com
 fghmimg.ga25.com
@@ -1922,6 +1920,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishowbg.com
 itaboo.info
 item.ttkvod.com
@@ -2361,7 +2360,6 @@ m.jgkto.com
 m.jhcgood.com
 m.jieyixiu.com
 m.jiirz.com
-m.jinchaoyu.com
 m.jioeg.com
 m.jkert.com
 m.joyxv.com
@@ -2504,7 +2502,6 @@ m9.xcy8.com
 ma.baidu.cn
 ma.baidu.com
 ma.hao123.com
-ma1.meishij.net
 ma2.meishij.net
 maccms.tan5858.com
 macts.com.tw
@@ -2551,7 +2548,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2731,6 +2727,7 @@ nstat.tudou.com
 nsy.hnzyfs.com
 nt.phpwind.com
 nterbx.com
+nthyn.com
 ntsna.gov.tw
 ntx.quanliyouxi.cn
 nv.souid.com
@@ -2876,7 +2873,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingshetrip.com
-pix.tagcdn.com
 pix04.revsci.net
 pixiu.shangshufang.ksosoft.com
 playad.xjmg.com
@@ -3092,7 +3088,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3198,7 +3193,6 @@ shop.yinyuetai.com
 shoppingpartners2.futurenet.com
 show.xiazai16.com
 showcase.vpsboard.com
-showhaotu.com
 showing.hardwareheaven.com
 shows.21cn.com
 shucaihangjia.com
@@ -3470,6 +3464,7 @@ twblogger.com
 tweeplike.me
 tweepmag.com
 tweetmylast.fm
+tweetrans.com
 tweets.seraph.me
 twimg.edgesuite.net
 twindexx.com
@@ -3614,6 +3609,7 @@ vip.qqxwf.com
 vista.tgbus.com
 vista.tgbusdata.cn
 vital247.org
+vj.x-ssp.com
 vjcyehtqm9.me
 vl8c4g7tmo.me
 vns800600.net
@@ -3651,7 +3647,6 @@ wantaico.com
 wap.114so.cn
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3828,6 +3823,7 @@ xin.ygqczh.com
 xinasiaj.com
 xixicui.icu
 xj40666.vip
+xjidian.com
 xjq.jxmqkj.com
 xkiwi.tk
 xkwfao.com
