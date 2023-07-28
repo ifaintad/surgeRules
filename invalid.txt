@@ -60,6 +60,7 @@
 1d1px.net
 1e2hyl3b.wq42211.com
 1i580.com
+1lib.cloud
 1lib.tw
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -157,7 +158,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -398,6 +398,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -408,6 +409,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -787,6 +789,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1127,6 +1130,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1155,6 +1159,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1242,6 +1247,7 @@ drvmy.ats68.cn
 ds-pc.admsger.com
 dsadas.hydp188.com
 dsaeerf.com
+dsjsee.dqgpb.com
 dsp.send.microad-cn.com
 dspmy.ge95.com
 dspserver.ad.cmvideo.cn
@@ -1518,6 +1524,7 @@ facebook.br
 fail.hk
 falun.caltech.edu
 falundafa-sacramento.org
+falundata.com
 falundata.org
 falunworld.net
 fan.liuxiaoer.com
@@ -1532,6 +1539,7 @@ fathionmall.com
 fb.xk.miui.com
 fbc.ffychb.com
 fc-.cdn.bcebos.com
+fccxgjg.com
 fd.anzhi.com
 fdc89.jp
 feedback.whalecloud.com
@@ -1590,7 +1598,6 @@ fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
-furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -2152,6 +2159,7 @@ kn.nykps.com
 kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.ynmhg.cn
+kn.zstjy.com
 knnwdyou.com
 kod4pc293.com
 kooyum.com
@@ -2813,7 +2821,6 @@ page.bid.yahoo.com
 page.xywy.com
 pagead.google.com
 painiuimg.com
-pandavpn-jp.com
 panluan.net
 paopaod.qiyipic.com
 papajia55.com
@@ -3088,6 +3095,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3313,6 +3321,7 @@ statueofdemocracy.org
 stervapoimenialena.info
 stjzh.gdtarget.com
 store.videojj.com
+storify.com
 storm.logger.baofeng.com
 stream.heavenmedia.net
 streaming.rtbiddingplatform.com
@@ -3585,10 +3594,8 @@ vfsforgit.org
 vft.com.tw
 vg02h8z1ul.me
 vi0.mzy2014.com
-vi1.ku6img.net
 vi1.mzy2014.com
 vi1.souid.com
-vi2.ku6img.net
 vichc.com
 victorjx.com
 video.ap.org
@@ -3647,6 +3654,7 @@ wantaico.com
 wap.114so.cn
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3799,6 +3807,7 @@ xfm.pp.ru
 xfo.monesyy.com
 xfywn.com
 xgmc6lu8fs.me
+xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
