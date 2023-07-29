@@ -10,7 +10,6 @@ DOMAIN,aegir.sexy
 DOMAIN,anzix.net
 DOMAIN,black-bird.ynh.fr
 DOMAIN,boysbitte.be
-DOMAIN,bt.endpot.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt1.archive.org
@@ -32,7 +31,6 @@ DOMAIN,htz3.noho.st
 DOMAIN,hub.bugout.link
 DOMAIN,ipv6.1337.cx
 DOMAIN,ipv6.fuuuuuck.com
-DOMAIN,ipv6.govt.hu
 DOMAIN,isk.richardsw.club
 DOMAIN,li2021-95.members.linode.com
 DOMAIN,mail.artixlinux.org
@@ -48,9 +46,11 @@ DOMAIN,odd-hd.fr
 DOMAIN,oh.fuuuuuck.com
 DOMAIN,open-v6.demonoid.ch
 DOMAIN,open.acgnxtracker.com
+DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
+DOMAIN,open.publictracker.xyz
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
@@ -77,8 +77,10 @@ DOMAIN,soundmovie.ru
 DOMAIN,ssb14.nohost.me
 DOMAIN,static.54.161.216.95.clients.your-server.de
 DOMAIN,su-data.com
+DOMAIN,t.133335.xyz
 DOMAIN,t.acg.rip
 DOMAIN,t.nyaatracker.com
+DOMAIN,t.publictracker.xyz
 DOMAIN,t.zerg.pw
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
@@ -91,7 +93,6 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.bangumi.moe
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.cili001.com
-DOMAIN,tr.ready4.icu
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.4.babico.name.tr
@@ -110,7 +111,7 @@ DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dump.cl
+DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
