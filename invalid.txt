@@ -132,7 +132,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -701,6 +700,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -789,7 +789,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1062,6 +1061,7 @@ cwpush.com
 cws-cctv.conviva.com
 cy123.cc
 cyad1.cyworld.com
+cyad123.com
 cycy.kxrxh.com
 cylinderlongcheng.com
 cytode.us
@@ -1177,7 +1177,6 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
-djs.baomihua.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1409,6 +1408,7 @@ e.stat.ykimg.com
 e.suehy.com
 e.t71q.com
 e.tdtsd.com
+e.tiantianedu.net
 e.tick0.com
 e.tiojk.com
 e.tuoaa.com
@@ -1516,6 +1516,7 @@ f1.luoshenbest.cn
 f1.pig66.com
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
+f5.dfcwg.com
 f56g.me
 f6ce.com
 fa.corp.163.com
@@ -1791,6 +1792,7 @@ hp.smiler-ad.com
 hpd.baidu.cn
 hpqxznpb.bid
 hrcir.com
+hslyqs.com
 ht.www.sogou.com
 html.350.com
 html.yuntzs.com
@@ -1955,7 +1957,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1988,6 +1989,7 @@ jianmei123.com
 jiansuo.dsxdn.com
 jiaoben.eastday.com
 jiaoben.junmeng.com
+jiaoben.xinshipu.cn
 jiawen88.com
 jiehantai.com
 jifeidandar.com
@@ -2155,7 +2157,6 @@ kn.czzdf.com
 kn.dyscsm.cn
 kn.gzcce.cn
 kn.jzhrty.cn
-kn.nykps.com
 kn.qhdfxkj.com
 kn.qqqmdq.com
 kn.ynmhg.cn
@@ -2390,6 +2391,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2451,6 +2453,7 @@ m.symac.cn
 m.symad.cn
 m.symaj.cn
 m.tcksbz888.com
+m.tiantianedu.net
 m.tiaopimiao.net
 m.tick0.com
 m.tiojk.com
@@ -2520,6 +2523,7 @@ magazines.sina.com.tw
 magnetic.t.domdex.com
 maibahe300cc.com
 maildns.xyz
+mainbx.com
 maipinshangmao.com
 maisoncherry.com
 maomaotang.com
@@ -2727,6 +2731,7 @@ notify.oupeng.com
 notify.wps.cn
 nowskip.com
 noxagile.duapp.com
+noypf.com
 npdaqy6x1j.me
 nryiou.cn
 nsc.gov.tw
@@ -3646,6 +3651,7 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
+wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3946,6 +3952,7 @@ zgsddh.com
 zgty365.com
 zgzcjj.net
 zhanbin.net
+zheng.cs12d.com
 zhinengluyou.com
 zhongmeng.org
 zhreader.com
