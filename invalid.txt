@@ -60,7 +60,6 @@
 1d1px.net
 1e2hyl3b.wq42211.com
 1i580.com
-1lib.cloud
 1lib.tw
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -92,7 +91,6 @@
 30ampj.com
 3180555.com
 33544444.com
-3388pjdc.com
 33lm.cc
 33shangyou.com
 360baidus.com
@@ -132,6 +130,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -157,7 +156,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -323,7 +321,6 @@ ad.idgtn.net
 ad.intl.xiaomi.com
 ad.ipadview.com
 ad.jamba.net
-ad.jamster.co.uk
 ad.jsnbrynb.com
 ad.leadbolt.net
 ad.m.iqiyi.com
@@ -700,7 +697,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -728,6 +724,7 @@ benshiw.net
 bes-progfree.com
 bestforchina.org
 bfshan.cn
+bgrndi.com
 bhjac.azvub.cn
 biantailajiao.in
 bic2011.org
@@ -789,6 +786,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -970,7 +968,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1944,7 +1941,6 @@ j.br.baidu.com
 j.ccnovel.com
 j.chaorenjiaoshi.com
 j.dipowang.cn
-j.hbwcl.com
 j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
@@ -1957,6 +1953,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2459,7 +2456,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2801,6 +2797,7 @@ ourdearamy.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
+p.7060.la
 p.bdjiazanmiaomu.com
 p.bjdianyue.com
 p.kjwx8.com
@@ -2892,6 +2889,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3100,7 +3098,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3118,7 +3115,6 @@ s1.iigushi.com
 s1.kutongji.com
 s1.mingmingtehui.com
 s1.nudezz.com
-s1.qiuyi.cn
 s1.tansuotv.com
 s1heng.com
 s2.dnaxddnc.com
@@ -3230,7 +3226,6 @@ sj1.3987.com
 sjrt.org
 sjum.cn
 skatehot.net
-skyking.com.tw
 slb.sxuantang.com
 slb.upshengyi.com
 slides.discovery.tom.com
@@ -3772,7 +3767,6 @@ www.gmiddle.net
 www.lamenhu.com
 www.wangruowang.org
 www9.effectivemeasure.net
-wwww.495495.com
 wwww.551144.com
 wwww.640640.com
 wwww.649649.com
@@ -3898,6 +3892,7 @@ yesbeby.whies.info
 yess.imneinei.com
 yhtcd.com
 yidulive.net
+yiliao.hupan.com
 yingsuoss.com
 yinhaijuan.com
 yinyuehu.cn
@@ -3952,6 +3947,7 @@ zgsddh.com
 zgty365.com
 zgzcjj.net
 zhanbin.net
+zhaozecheng.cn
 zheng.cs12d.com
 zhinengluyou.com
 zhongmeng.org
