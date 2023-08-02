@@ -156,6 +156,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -475,7 +476,6 @@ ais.abacast.com
 aishang.bid
 aishowbger.com
 aj-gb.mgid.com
-ajaxcdn.org
 ajhdf.com
 ajialive.com
 ajnad.aljazeera.net
@@ -790,6 +790,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1178,6 +1179,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djorz.com
 dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1483,7 +1485,6 @@ epernn.cn
 epochtimes.ie
 epro.sohu.com
 ereg.wip3.adobe.com
-eroticsaloon.net
 erwr.ydjskvpd.com
 esrpxyahzna.bid
 etherdelta.com
@@ -1619,6 +1620,7 @@ g1.corp.163.com
 g2.ousns.net
 g2q3e.cn
 gad.kugou.com
+galaxy.sogoucdn.com
 game.ifeng.com
 game.kugou.com
 game.kuwo.cn
@@ -1744,6 +1746,7 @@ hdhkwl.com
 hdswgc.com
 heavenmedia.v3g4s.com
 heefwozhlxgz.com
+hefan365.com
 heib10.top
 heib12.top
 heix.pp.ru
@@ -1797,6 +1800,7 @@ hslyqs.com
 ht.www.sogou.com
 html.350.com
 html.yuntzs.com
+hua-yue.net
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
@@ -1957,7 +1961,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2093,7 +2096,6 @@ js7405.mengchengbao.com
 js84.enyayinxiang.com
 js883.hnfpgm.com
 js883.yongkang6.com
-js9318.bllzgqbyp.com
 jsadt.com
 jscdn.99pps.com
 jsjs.nthyn.com
@@ -2245,7 +2247,6 @@ ls.webmd.com
 lsxmg.com
 lthxz.cn
 lubosheng.cn
-lucting.cn
 luotediao.net
 lvhai.org
 lvjian66.com
@@ -2425,7 +2426,6 @@ m.pbino.com
 m.plerv.com
 m.plixi.com
 m.pomkl.com
-m.pougg.com
 m.prazpf.cn
 m.puooi.com
 m.qcw.com
@@ -3353,6 +3353,7 @@ syncshop.cn
 syndication-o.twitter.com
 syofew6o.net
 sytz1288.com
+szggdw.com
 szkdst.com
 szshouzhai.com
 szxc868.com
@@ -3446,7 +3447,6 @@ tracker.yhd.com
 tradeccl.com
 trans.wenweipo.com
 translate.google
-tredman.com
 tree.logger.baofeng.com
 trialofccp.org
 truth101.co.tv
@@ -3819,7 +3819,6 @@ xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
-xhydrs.cn
 xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
@@ -3981,7 +3980,6 @@ zreder.com
 zrpfk.com
 zs0613.mengchengbao.com
 zs1111.youzue.com
-zsdexun.com.cn
 zshacker.com
 zspeeder.me
 zst.jzntxs.com
