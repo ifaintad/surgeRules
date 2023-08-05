@@ -128,10 +128,8 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -157,6 +155,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -198,7 +197,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -322,6 +320,7 @@ ad.idgtn.net
 ad.intl.xiaomi.com
 ad.ipadview.com
 ad.jamba.net
+ad.jamster.co.uk
 ad.jsnbrynb.com
 ad.leadbolt.net
 ad.m.iqiyi.com
@@ -396,6 +395,7 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
+admaster.com.cn
 admeta.vo.llnwd.net
 admin.cooguo.com
 admin.louxia.org
@@ -406,7 +406,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -435,7 +434,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.kat.ph
 adytx.com
@@ -468,6 +466,7 @@ agenda.complex.com
 agr.voiceads.cn
 ahhuazhen.com
 ahyau.com
+ahyuns.com
 ai-kan.net
 ai-wen.net
 aid.chinayk.com
@@ -790,6 +789,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -832,7 +832,6 @@ c.piliangzhuce.cn
 c.ptffw.net
 c.queene.cn
 c.rscxwmj.cn
-c.shunlige.com
 c.start280.com
 c.statstat888.com
 c.t98u8f.com
@@ -971,7 +970,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1131,6 +1129,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dawwx.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -2045,7 +2044,6 @@ js.mumayi.net
 js.paochala.net
 js.pub.tom.com
 js.pyangzi.com
-js.revsci.net
 js.ruiwen.com
 js.soduso.cc
 js.soonyou123.com
@@ -2463,6 +2461,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2708,7 +2707,6 @@ news.xueyanshan.com
 newschinacomment.org
 newscn.org
 newspeak.cc
-newtaiwan.com.tw
 nex.corp.163.com
 nexstep.zdworks.com
 nextcps.com
@@ -2852,7 +2850,6 @@ pc.videoclick.baidu.com
 pcauto.irs01.com
 pcmzn.com
 pd.sogou.com
-pd7-imp.revsci.net
 pdl.gionee.com
 pear.dleke.com
 pearlher.org
@@ -2890,7 +2887,6 @@ pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
 pingshetrip.com
-pix04.revsci.net
 pixiu.shangshufang.ksosoft.com
 playad.xjmg.com
 player.1800coupon.com
@@ -3012,6 +3008,7 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
+rbywg.com
 rc.fthcz.com
 rc.haodongkeji.cn
 rc.xmcmn.com
@@ -3033,7 +3030,6 @@ res3.feedsportal.com
 resetgey.com
 ret.xinlongrubber.com
 retweeteffect.com
-revsci.net
 richmedia.yimg.com
 rj.baidu.cn
 rj.baidu.com
@@ -3104,6 +3100,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3476,6 +3473,7 @@ tuiguang.178.com
 tuisong.baidu.cn
 tuisong.baidu.com
 tuituigui19999.com
+turbotwitter.com
 tw.voa.mobi
 tw13b093.sandai.net
 twb98.com
@@ -3656,7 +3654,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3903,6 +3900,7 @@ yesbeby.whies.info
 yess.imneinei.com
 yhtcd.com
 yidulive.net
+yigyx.com
 yiliao.hupan.com
 yingsuoss.com
 yinhaijuan.com
