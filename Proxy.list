@@ -287,7 +287,6 @@ DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,appbrain.com
 DOMAIN-SUFFIX,appdownloader.net
-DOMAIN-SUFFIX,appledaily.com.hk
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
@@ -898,6 +897,7 @@ DOMAIN-SUFFIX,cointobe.com
 DOMAIN-SUFFIX,coinut.com
 DOMAIN-SUFFIX,collateralmurder.com
 DOMAIN-SUFFIX,collateralmurder.org
+DOMAIN-SUFFIX,com.google
 DOMAIN-SUFFIX,comefromchina.com
 DOMAIN-SUFFIX,comic-mega.me
 DOMAIN-SUFFIX,commandarms.com
@@ -2121,7 +2121,6 @@ DOMAIN-SUFFIX,iownyour.org
 DOMAIN-SUFFIX,ipfire.org
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iphone4hongkong.com
-DOMAIN-SUFFIX,iphonehacks.com
 DOMAIN-SUFFIX,iphonetaiwan.org
 DOMAIN-SUFFIX,ipicture.ru
 DOMAIN-SUFFIX,ipjetable.net
@@ -2821,7 +2820,6 @@ DOMAIN-SUFFIX,newsweek.com
 DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,newyorktimes.com
 DOMAIN-SUFFIX,nexon.com
-DOMAIN-SUFFIX,nextdigital.com.hk
 DOMAIN-SUFFIX,nextmedia.com
 DOMAIN-SUFFIX,nfjtyd.com
 DOMAIN-SUFFIX,nga.mil
@@ -4602,7 +4600,6 @@ DOMAIN-SUFFIX,wretch.cc
 DOMAIN-SUFFIX,writer.zoho.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
-DOMAIN-SUFFIX,wsjhk.com
 DOMAIN-SUFFIX,wtbn.org
 DOMAIN-SUFFIX,wtfpeople.com
 DOMAIN-SUFFIX,wuerkaixi.com
