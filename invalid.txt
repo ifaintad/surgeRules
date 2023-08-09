@@ -253,7 +253,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -335,7 +334,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -353,6 +351,7 @@ ad.userporn.com
 ad.vidaroo.com
 ad.walkgame.com
 ad.wang502.com
+ad.wappalyzer.com
 ad.winningpartner.com
 ad.xiaomi.com
 ad.xxguan.cn
@@ -973,6 +972,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1131,6 +1131,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dazhantai.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1159,6 +1160,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1178,7 +1180,6 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
-dkeyn.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1230,7 +1231,6 @@ down.91wangmeng.com
 down.bugeyu.com
 down.dashendown.com
 down.xiazaiyuan.net
-downlaod.xiaocen.com
 download.zhushou.sogou.com
 download3.123cw.cn
 dp.559.cc
@@ -1330,7 +1330,6 @@ e.harbinbaojia.net
 e.hellomingpian.com
 e.hissq.com
 e.hk7799.net
-e.hkmqp.com
 e.hmhqp.com
 e.hogyp.com
 e.huaas.com
@@ -1362,7 +1361,6 @@ e.kjfhe.com
 e.kl6636.net
 e.kunpp.com
 e.kxhie.com
-e.lancedu.com
 e.lfdydk.com
 e.lovezhishou.com
 e.lyjz001.com
@@ -1634,6 +1632,7 @@ gamer2-cds.cdn.hinet.net
 gamex.mobile.youku.com
 gao.ynet.com
 gaozhisheng.net
+gaymap.cc
 gc.keefung-zs.com
 gcapi.sy.kugou.com
 gd.cnhange.cn
@@ -1755,6 +1754,7 @@ help.baotangwang.cn
 help.linksalpha.com
 helplinfen.com
 heungkongdiscuss.com
+heyzap.com
 hg417.bet
 hhly88.com
 hhppyt.com
@@ -1802,7 +1802,6 @@ hua-yue.net
 huashengtai.net
 huaxia-news.com
 huaxinxunye.cn
-huayi65.com
 hudong.pl.youku.com
 humanding.com
 hungerstrikeforaids.org
@@ -1960,6 +1959,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2170,6 +2170,7 @@ kooyum.com
 kovjo.com
 kr.sybspools.com
 ksdsuzhou.com
+kspcoin.com
 ksr.juuhe.com
 ktunions.com
 ktv0311.com
@@ -2263,6 +2264,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2357,7 +2359,6 @@ m.hellomingpian.com
 m.heygugu.com
 m.hissq.com
 m.hk7799.net
-m.hkmqp.com
 m.hmzsfmjc.com
 m.hogyp.com
 m.hpfjy.com
@@ -2385,7 +2386,6 @@ m.khuoy.com
 m.kjfhe.com
 m.kl6636.net
 m.kxhie.com
-m.lancedu.com
 m.laojiayoufang.com
 m.lfdydk.com
 m.lovezhishou.com
@@ -2560,6 +2560,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2738,6 +2739,7 @@ nsnmiaomu.cn
 nstat.tudou.com
 nsy.hnzyfs.com
 nt.phpwind.com
+ntdtv.ru
 nterbx.com
 nthyn.com
 ntsna.gov.tw
@@ -2891,7 +2893,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3079,7 +3080,6 @@ s.haiyunx.com
 s.hzht666.com
 s.iuuff.com
 s.jlminte.com
-s.khgj.cn
 s.l8l9.com
 s.maipubao.cn
 s.meimeidaren.com
@@ -3347,6 +3347,7 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syncshop.cn
@@ -3401,6 +3402,7 @@ td.mpush.cn
 tdayi.com
 tdrec.youku.com
 tech2.in.com
+teco-hk.org
 teen.77rog.com
 terren.cntv.cn
 test.eduancm.com
@@ -3588,7 +3590,6 @@ v00087.com
 v02u9.cn
 v12-r0566gbscjw.z.irs01.com
 v7.kawinhome.com
-v707070.com
 va.gxpan.cn
 vad1.jianshen8.com
 val.api.youku.com
@@ -3658,6 +3659,7 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
+wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3666,7 +3668,6 @@ wantaico.com
 wap.114so.cn
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com

@@ -7,6 +7,7 @@ DOMAIN,aarsen.me
 DOMAIN,acxx.de
 DOMAIN,aegir.sexy
 DOMAIN,anzix.net
+DOMAIN,bedro.cloud
 DOMAIN,black-bird.ynh.fr
 DOMAIN,boysbitte.be
 DOMAIN,bt.endpot.com
@@ -50,7 +51,6 @@ DOMAIN,open.8a.is
 DOMAIN,open.acgnxtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.publictracker.xyz
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
@@ -82,11 +82,9 @@ DOMAIN,sx.xxtor.com
 DOMAIN,t.133335.xyz
 DOMAIN,t.acg.rip
 DOMAIN,t.nyaatracker.com
-DOMAIN,t.publictracker.xyz
 DOMAIN,t.zerg.pw
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
-DOMAIN,thinking.duckdns.org
 DOMAIN,thouvenin.cloud
 DOMAIN,tk1.trackerservers.com
 DOMAIN,tk1v6.trackerservers.com
@@ -104,12 +102,13 @@ DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bangumi.zip
 DOMAIN,tracker.birkenwald.de
-DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
+DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
+DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dump.cl
 DOMAIN,tracker.electro-torrent.pl
@@ -129,7 +128,6 @@ DOMAIN,tracker.loligirl.cn
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ocnix.net
 DOMAIN,tracker.openbittorrent.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
