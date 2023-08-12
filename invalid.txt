@@ -60,6 +60,7 @@
 1d1px.net
 1e2hyl3b.wq42211.com
 1i580.com
+1lib.limited
 1lib.tw
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -128,6 +129,7 @@
 51dql.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -156,7 +158,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -253,6 +254,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -334,7 +336,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -419,7 +420,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -435,7 +435,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -724,7 +723,6 @@ beacon-us-sjc1.rubiconproject.com
 bebelait.com
 becode.qiushibaike.com
 beeho.site
-beha.ksmobile.com
 beijingzx.org
 beilamusi.com
 benshiw.net
@@ -973,6 +971,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1160,6 +1159,7 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1179,6 +1179,7 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
+djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1485,7 +1486,6 @@ eyd77s.com
 ezine.oupeng.com
 ezpc.tk
 ezucods.cn
-f.520tingshu.com
 f.f70123.com
 f.fj95560.com
 f.hongm.com
@@ -1678,6 +1678,7 @@ grangorz.org
 great-firewall.com
 great-roc.org
 greatroc.tw
+greenfieldbookstore.com.hk
 greenhouseglobal.cn
 greenxfs.down.123ch.cn
 groups.google.cn
@@ -1913,7 +1914,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2137,6 +2137,7 @@ kmwqxqh.com
 kn.aishake.cn
 kn.archrug.com
 kn.barnfps.com
+kn.bjbrtc.com
 kn.chapnap.com
 kn.chgdf.cn
 kn.czzdf.com
@@ -2284,7 +2285,6 @@ m.chenhuia.com
 m.chexiw.com
 m.cjieh.com
 m.ckikq.com
-m.couas.com
 m.cuoas.com
 m.daishuxy.com
 m.dante2007.com
@@ -2688,7 +2688,6 @@ niwd.zhybw88.com
 njdijiani.com
 njs.imagicskin.com
 njs.myyage.com
-njs.reliancevalve.com
 njxczy.com
 nkeo.top
 nko.navy.mil
@@ -2860,6 +2859,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3098,6 +3098,7 @@ s5.keydot.net
 s8.dnaxddnc.com
 s8forum.com
 sa.hao123.com
+sacom.hk
 safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 saferwet.com
@@ -3154,6 +3155,7 @@ sg-cdn.effectivemeasure.net
 sgbfjs.info
 sh.qihoo.com
 shadowsocks-r.com
+shadowsocks.asia
 shadowsocks9.com
 shangfang.org
 shanghaironghua.com
@@ -3282,7 +3284,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3635,7 +3636,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
