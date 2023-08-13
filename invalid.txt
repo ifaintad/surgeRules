@@ -129,7 +129,6 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -338,6 +337,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -409,6 +409,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -428,7 +429,6 @@ adss.dotdo.net
 adstat.cp11.ott.cibntv.net
 adstil.indiatimes.com
 adstream.123.sogoucdn.com
-adsymptotic.com
 adsys.chinacloudapp.cn
 adthor.com
 adtrk.me
@@ -438,6 +438,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -972,7 +973,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1909,7 +1909,6 @@ install2.kugou.com
 inte.sohu.com
 ip2.pxene.com
 ipalter.com
-iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
@@ -2187,7 +2186,6 @@ ld.kuaigames.com
 lds.lenovomm.com
 ldy.350.com
 ldy.adqku.cn
-leaguehd.com
 leak.360.cn
 leeao.com.cn
 legaltech.law.com
@@ -2249,6 +2247,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2431,7 +2430,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbaou.com
@@ -2858,6 +2856,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2984,7 +2983,6 @@ rdiqt.cn
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
-religioustolerance.org
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3065,7 +3063,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3329,6 +3326,7 @@ t.adxchina.cn
 t.cnsjx.net
 t.collect.yinyuetai.com
 t.cr-nielsen.com
+t.l.qq.com
 t.oq68.com
 t.orzdream.com
 t.pingzei.com
@@ -3405,7 +3403,6 @@ tongqing2015.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
