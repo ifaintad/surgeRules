@@ -157,7 +157,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -182,6 +181,7 @@
 85058s.com
 8521448.com
 85655095.com
+859377.com
 85tgw.com
 8800271.com.cn
 888.jiuwanwang.com
@@ -255,6 +255,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -415,6 +416,7 @@ ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
 adscdn.baidu.cn
+adsclick.yx.js.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
@@ -436,6 +438,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -590,7 +593,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -689,12 +691,14 @@ bd.wayqq.cn
 bd1.365qilu.com
 bd1.52che.com
 bd1.fengdu100.com
+bd1.flfgw.cn
 bd1.home8080.cn
 bd1.jobui.com
 bd1.nipic.com
 bd1.nxing.cn
 bd1.wowoqq.com
 bd2.52che.com
+bd2.flfgw.cn
 bd2.home8080.cn
 bd2.jobui.com
 bd2.nipic.com
@@ -703,6 +707,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -723,6 +728,7 @@ beacon-us-sjc1.rubiconproject.com
 bebelait.com
 becode.qiushibaike.com
 beeho.site
+beha.ksmobile.com
 beijingzx.org
 beilamusi.com
 benshiw.net
@@ -790,6 +796,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -970,7 +977,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1157,7 +1163,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1177,7 +1182,6 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
-djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1397,7 +1401,6 @@ e.tdtsd.com
 e.tiantianedu.net
 e.tick0.com
 e.tiojk.com
-e.tuoaa.com
 e.ueram.com
 e.uissm.com
 e.v02u9.cn
@@ -1505,7 +1508,6 @@ falun.caltech.edu
 falundafa-sacramento.org
 falundata.org
 falunworld.net
-fan.liuxiaoer.com
 fangbinxing.com
 fangeming.com
 fangmincn.org
@@ -2143,6 +2145,7 @@ kn.gzcce.cn
 kn.jzhrty.cn
 kn.qhdfxkj.com
 kn.qqqmdq.com
+kn.qzdaren.com
 kn.ynmhg.cn
 kn.zstjy.com
 knnwdyou.com
@@ -2382,7 +2385,6 @@ m.nernv.com
 m.niegg.com
 m.nmtouzi.com
 m.nnfiy.com
-m.nouaa.com
 m.ntxiangtai.com
 m.nuxyz.cn
 m.nxypz.com
@@ -2395,6 +2397,7 @@ m.plerv.com
 m.plixi.com
 m.prazpf.cn
 m.puooi.com
+m.pyerc.com
 m.qcw.com
 m.qhuik.com
 m.qingzhencai.net
@@ -2509,7 +2512,6 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
-med.heyzap.com
 mediapro.pro.cn
 meetyourdevices.com
 megurineluka.com
@@ -2625,6 +2627,7 @@ mymediarom.com
 mymm.zichenit.com
 mytizi.com
 myycrw.com
+myzwqwe12.com
 n.a.mosenni.com
 n.cosbot.cn
 n.ma.social-touch.com
@@ -2853,7 +2856,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2977,9 +2979,11 @@ rcyy3.kaopuwangjz.com
 rd.ane.yahoo.co.jp
 rd.e.sogou.com
 rdiqt.cn
+recreativ.ru
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
+religioustolerance.org
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3182,6 +3186,7 @@ sifuhu.cn
 sifuji.cn
 sigbusa.com
 sina.wrating.com
+sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
@@ -3205,6 +3210,7 @@ snow001.com
 soarfi.cn
 sobartop.baidu.com
 softsmirror.cf
+softwarebychuck.com
 sohu.irs01.com
 sohu.wrating.com
 sonicbbs.cc
@@ -3287,6 +3293,7 @@ stats.tudou.com
 statueofdemocracy.org
 stervapoimenialena.info
 stjzh.gdtarget.com
+stn88.com
 store.videojj.com
 storm.logger.baofeng.com
 stream.heavenmedia.net
@@ -3308,7 +3315,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 syncshop.cn
@@ -3618,6 +3624,7 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
+wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3759,7 +3766,6 @@ x.9dagui.com
 x.bikaer.com
 x.cnxad.com
 x.eroticity.net
-x.heyzap.com
 x.ligatus.com
 x.zhuyuanp.top
 x9377a.com
@@ -3785,7 +3791,6 @@ xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
-xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
 xianchawang.net
@@ -3960,6 +3965,7 @@ zu08e.cn
 zx.baosmx.com
 zxh.bzshzx.com
 zxr.fzxrjx.com
+zybpj.com
 zyf.fzdfwy.com
 zymo.mps.weibo.com
 zytwq.net
