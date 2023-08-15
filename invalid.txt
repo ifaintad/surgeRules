@@ -60,7 +60,6 @@
 1d1px.net
 1e2hyl3b.wq42211.com
 1i580.com
-1lib.limited
 1lib.tw
 2.0.192.in-addr.arpa
 2.21shebao.com
@@ -129,9 +128,9 @@
 51dql.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -275,6 +274,7 @@ aa1.pub.funshion.com
 aam.adsremote.scrippsnetworks.com
 ab-gb.mgid.com
 ab.goodsblock.mgid.com
+ab.meishiba.com.cn
 ab.sc115.com
 abc.dooccn.com
 abc.eastlady.cn
@@ -408,7 +408,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 ads-api.videojj.com
@@ -438,10 +437,10 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
+adx.open-adx.com
 adytx.com
 adz.zwee.ly
 ae-gb.mgid.com
@@ -579,6 +578,7 @@ appcdn.wapx.cn
 appledaily.com
 appledaily.com.hk
 applog.mobike.com
+apppic.yingyongbei.com
 apps.supfast.net
 appsdk.tanv.com
 appsocks.net
@@ -691,14 +691,12 @@ bd.wayqq.cn
 bd1.365qilu.com
 bd1.52che.com
 bd1.fengdu100.com
-bd1.flfgw.cn
 bd1.home8080.cn
 bd1.jobui.com
 bd1.nipic.com
 bd1.nxing.cn
 bd1.wowoqq.com
 bd2.52che.com
-bd2.flfgw.cn
 bd2.home8080.cn
 bd2.jobui.com
 bd2.nipic.com
@@ -866,7 +864,6 @@ c77777777.com
 c8b.jcdb88.com
 ca.5173car.com
 cache.xw126.com
-cachead.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
 caliyuna.cn
@@ -977,6 +974,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1578,6 +1576,7 @@ fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
+furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1913,7 +1912,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -1933,6 +1931,7 @@ j.dipowang.cn
 j.hongyangpai.com
 j.jimeilm.com
 j.qijijs.top
+j.yljiaoluo.com
 j.ytbt.cc
 j17.shangc.net
 j17.xiumu.cn
@@ -1970,6 +1969,7 @@ jhakie.com
 jhzl001.com
 ji.dazhantai.com
 jiaeasy.net
+jiaheyonggu.com
 jiajv.net
 jianmei123.com
 jiansuo.dsxdn.com
@@ -2329,6 +2329,7 @@ m.guanren11.com
 m.guanren5.com
 m.guanren6.com
 m.guanren9.com
+m.gujinyue.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
@@ -2856,6 +2857,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2865,6 +2867,7 @@ politicalconsultation.org
 pomhz.com
 pop.code.poyang.cn
 pop.sjk.ijinshan.com
+popupad.cn
 pornmm.net
 postimg.org
 powergg.top
@@ -2975,6 +2978,7 @@ rbywg.com
 rc.fthcz.com
 rc.haodongkeji.cn
 rc.xmcmn.com
+rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.ane.yahoo.co.jp
 rd.e.sogou.com
@@ -2983,7 +2987,6 @@ recreativ.ru
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
-religioustolerance.org
 remotedu.cn
 rencai56.com
 renren2.maoyun.tv
@@ -3064,7 +3067,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3649,6 +3651,7 @@ wdgsl.com
 we.tm
 web.kuaisouwifi.com
 weblb-wg.gslb.spotify.com
+websd8.com
 weiguizhizuo.com
 weiqiqu.cn
 weixiangzu.cn
