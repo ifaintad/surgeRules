@@ -128,9 +128,9 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -156,6 +156,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -324,6 +325,7 @@ ad.intl.xiaomi.com
 ad.ipadview.com
 ad.jamba.net
 ad.jamster.co.uk
+ad.jamster.com
 ad.jsnbrynb.com
 ad.leadbolt.net
 ad.m.iqiyi.com
@@ -395,6 +397,7 @@ adm.265g.com
 adm.72zx.com
 adm.86wan.com
 adm.baidu.cn
+adm.icast.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
@@ -408,8 +411,10 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
+adres.myaora.net
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -593,6 +598,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -1161,6 +1167,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1576,7 +1583,6 @@ fthcz.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
-furl.net
 futuremessage.org
 fxc.aiquxs.com
 fxtducb.cn
@@ -1761,7 +1767,6 @@ hl.kuzu.com
 hl.quw18.com
 hm.baidu.cn
 hmma.baidu.cn
-hmoegirl.com
 hmp33.com
 hndiyikj.com
 hnxxjn.com
@@ -1912,6 +1917,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2857,7 +2863,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2872,6 +2877,7 @@ pornmm.net
 postimg.org
 powergg.top
 pp.sxjkc.cn
+pp2.pptv.com
 ppjia55.com
 ppurifier.game.xiaomi.com
 ppx.hgo7r.cn
@@ -2978,12 +2984,10 @@ rbywg.com
 rc.fthcz.com
 rc.haodongkeji.cn
 rc.xmcmn.com
-rcv.moogos.com
 rcyy3.kaopuwangjz.com
 rd.ane.yahoo.co.jp
 rd.e.sogou.com
 rdiqt.cn
-recreativ.ru
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
@@ -3255,7 +3259,6 @@ ssh.szxiuchang.com
 ssjy168.com
 ssl.hyhzy.cn
 ssl.ymapp.com
-ssp.86str.com
 ssp.daxueshengqiandai.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
@@ -3438,6 +3441,7 @@ ttts.leztc.com
 ttts.miyue17.com
 tu.njflfd.com
 tuadong.com
+tube911.com
 tui.orzdream.com
 tuiguang.178.com
 tuisong.baidu.cn
@@ -3456,7 +3460,6 @@ tweets.seraph.me
 twimg.edgesuite.net
 twindexx.com
 twit2d.com
-twitmania.com
 twldmx.com
 twstar.net
 twyac.org
@@ -3507,6 +3510,7 @@ un.52rkl.cn
 un.soarfi.cn
 un.winasdaq.com
 un1.takefoto.cn
+unblocker.yt
 unicast.msn.com
 union.dbba.cn
 union.mi.com
@@ -3683,6 +3687,7 @@ wifiapidd.51y5.net
 wifishow.ggsafe.com
 wiki.cnitter.com
 wiki.esu.im
+wiki.keso.cn
 wiki.moegirl.org
 wingy.site
 winwhispers.info
@@ -3712,6 +3717,7 @@ wqqsa.puzihua.com
 wqyd.org
 ws1.datouniao.com
 ws2.datouniao.com
+ws341.com
 wsjhk.com
 wsoe.kwiago.com
 wsp.marketgid.com
