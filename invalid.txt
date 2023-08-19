@@ -130,7 +130,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -231,7 +230,6 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.m.shuhuangge.org
 a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
@@ -413,6 +411,7 @@ adplay.tudou.com
 adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
+adres.myaora.net
 ads-api.videojj.com
 ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
@@ -424,6 +423,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -672,7 +672,6 @@ banners.beevpn.com
 banners.beted.com
 banners.expressindia.com
 base.filedot.xyz
-baxf.m.shuhuangge.org
 bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
@@ -796,7 +795,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -976,6 +974,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1134,6 +1133,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dazhantai.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.xhct66.com
@@ -1162,7 +1162,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1182,7 +1181,6 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
-djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1944,7 +1942,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -1995,6 +1992,7 @@ jjyy.gaopengqcdz.cn
 jkmxy.com
 jmonitor.jiuzhilan.com
 jmsyzj.com
+jndczg.com
 jobso.tv
 johtzj.com
 jossuer.net
@@ -2029,7 +2027,6 @@ js.paochala.net
 js.pub.tom.com
 js.pyangzi.com
 js.ruiwen.com
-js.saiqizhi.com
 js.soduso.cc
 js.soonyou123.com
 js.start1999.com
@@ -2336,7 +2333,6 @@ m.gujinyue.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
-m.heygugu.com
 m.hissq.com
 m.hk7799.net
 m.hmzsfmjc.com
@@ -2515,6 +2511,7 @@ mdrecv.app.cntvwb.cn
 me-cdn.effectivemeasure.net
 me.videojj.com
 mealsandsteals.sandiego6.com
+media.cheshi.com
 mediapro.pro.cn
 meetyourdevices.com
 megurineluka.com
@@ -2526,6 +2523,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2765,8 +2763,6 @@ orzistic.org
 otf.msn.com
 otnd.org
 ourdearamy.com
-ow.s1.shuhuangge.org
-ow.s2.shuhuangge.org
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2860,6 +2856,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3315,10 +3312,8 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
-sync2.audtd.com
 syncshop.cn
 syndication-o.twitter.com
 syofew6o.net
@@ -3370,7 +3365,6 @@ td.mpush.cn
 tdayi.com
 tdrec.youku.com
 tech2.in.com
-teco-mo.org
 teen.77rog.com
 terren.cntv.cn
 test.eduancm.com
@@ -3900,6 +3894,7 @@ yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
+youpai.org
 youthforfreechina.org
 youtubecn.com
 youxi.kugou.com
