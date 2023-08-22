@@ -255,6 +255,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -326,6 +327,7 @@ ad.jamster.co.uk
 ad.jsnbrynb.com
 ad.leadbolt.net
 ad.m.iqiyi.com
+ad.mediabong.net
 ad.mnt123.com
 ad.molitv.cn
 ad.naver.com
@@ -336,7 +338,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -423,7 +424,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -794,7 +794,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -902,6 +901,7 @@ cdn.aiclicash.com
 cdn.app.kachapt.cn
 cdn.app.liuxingyul.cn
 cdn.cooguo.com
+cdn.districtm.io
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
 cdn.jiuzhilan.com
@@ -1052,6 +1052,8 @@ creative.jdkic.com
 creative.ltheanine.cn
 creatives.summitconnect.co.uk
 crm-eve.b2b.alibaba-inc.com
+crmdynint-gcc.com
+crmdynint.com
 crossthewall.net
 crs.baidu.cn
 cs.dqwjzm.com
@@ -1180,6 +1182,7 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
+djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1238,6 +1241,7 @@ dp.559.cc
 dps.499.cn
 dps.shouji56.com
 dps.wtdtjs.com
+dpvc.39.net
 dqq.lnfund.org.cn
 dr.holaworld.cn
 drmcmm.baidu.cn
@@ -1508,7 +1512,6 @@ falundafa-sacramento.org
 falundata.org
 falunworld.net
 fangbinxing.com
-fangeming.com
 fangmincn.org
 fanqiangyakexi.net
 fansi365.com
@@ -1623,6 +1626,7 @@ gd.vodtw.com
 geekheart.info
 gen.alicdn.com
 geobanner.socialflirt.com
+getnormalizedurl.com
 gf1352.com
 gfh.ahfzly.com
 gfw.org.ua
@@ -1663,7 +1667,6 @@ good.ta80.com
 gooddns.info
 goodhope.school
 goods.tudou.com
-google.com.cu
 googlescholar.comUSA
 googlesile.com
 gopig.io
@@ -2199,6 +2202,7 @@ leorockwell.com
 lerosua.org
 lfyuanai.com
 li.anyysz.com
+liangziweixg.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -3901,7 +3905,6 @@ yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
-youpai.org
 youthforfreechina.org
 youtubecn.com
 youxi.kugou.com
