@@ -129,7 +129,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -338,6 +337,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -409,7 +409,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -424,6 +423,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
 adss.dotdo.net
@@ -439,6 +439,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -794,6 +795,7 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1117,7 +1119,6 @@ dairuqi.com
 daitdai.com
 dajusha.baywords.com
 dalailama.usc.edu
-dalailama80.org
 dandan11.top
 dandan13.top
 dandan15.top
@@ -1182,7 +1183,6 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
-djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1235,13 +1235,13 @@ down.91wangmeng.com
 down.bugeyu.com
 down.dashendown.com
 down.xiazaiyuan.net
+downlaod.xiaocen.com
 download.zhushou.sogou.com
 download3.123cw.cn
 dp.559.cc
 dps.499.cn
 dps.shouji56.com
 dps.wtdtjs.com
-dpvc.39.net
 dqq.lnfund.org.cn
 dr.holaworld.cn
 drmcmm.baidu.cn
@@ -1439,6 +1439,7 @@ e.zhuyuanp.top
 e.zjkdaikuan.com
 e.zunss.com
 e7001.com
+e7002.com
 e70123.com
 e704.net
 e708.net
@@ -1689,7 +1690,6 @@ gso0.com
 gt.yy.com
 gtmsdd.alicdn.com
 gtmucs.cn
-gts-vpn.com
 guaguass.org
 guang.lesports.com
 guangnianvpn.com
@@ -1742,6 +1742,7 @@ helloss.pw
 help.baotangwang.cn
 help.linksalpha.com
 helplinfen.com
+helpuyghursnow.org
 heungkongdiscuss.com
 hg417.bet
 hhly88.com
@@ -1877,6 +1878,7 @@ img.xcy8.com
 img.yingshidiguo.cn
 img.yuyue007.cn
 img.zsj18.com
+img.zuowen8.com
 img.zx590.com
 img01.taotaosou.cn
 img1.jintang114.org
@@ -1919,6 +1921,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -1948,7 +1951,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2438,7 +2440,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbinu.com
@@ -2530,6 +2531,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2548,7 +2550,6 @@ microsoftsiteselection.com
 mie99.net
 migrate.driveapi.micloud.xiaomi.net
 migu.kssws.ks-cdn.com
-mihua.org
 mike.cz.cc
 milk.yesky.com.cn
 mimg.7791.com.cn
@@ -2756,6 +2757,7 @@ on.maxspeedcdn.com
 one.520319.cn
 onecollector.cloudapp.aria
 onesoft.im
+onewhee.com
 onlifjj.net
 oomyv.com
 op00w.baiyangzs.com
@@ -3498,9 +3500,11 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ue.ueadlian.com
 uebawtz7.me
 uerzyr.cn
 ugg.keefung-zs.com
+ugg66.com
 uid.ksosoft.com
 uimg.27admin.com
 ujikdd041o.cn
@@ -3515,6 +3519,7 @@ un.soarfi.cn
 un.winasdaq.com
 un1.takefoto.cn
 unblocker.yt
+undm.qibulo.com
 unicast.msn.com
 union.dbba.cn
 union.mi.com
@@ -3556,6 +3561,7 @@ uu.zeverdg.com
 uvclick.com
 uyghurstudies.org
 v.dbncp.com
+v.e7002.com
 v.irs01.com
 v.l.youku.com
 v.oq68.com
@@ -3789,7 +3795,6 @@ xbzzzx.com
 xc.08an.com
 xc.mydrivers.com
 xcafe.in
-xcclzs.com
 xchgx.com
 xcyjzs.net
 xcyrc.com
@@ -3899,7 +3904,6 @@ yl850555.com
 ylads.yaolan.com
 ymcqb.com
 yndianju.com
-ynmbz.com
 yongyuelm.com
 yoo.yiiyoo.net
 youjia2016.com
@@ -3955,7 +3959,6 @@ zjhim.com
 zjm.zzmmkj.com
 zkaip.com
 zkrdy.com
-zlibcdn.com
 zlne800.com
 zlsw.nnjxqd.com
 zmj.guanqinjie.cn
