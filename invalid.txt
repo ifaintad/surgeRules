@@ -27,7 +27,6 @@
 1.jeasyui.net
 1.panduoduo.net
 1.qtmojo.cn
-1.rengshu.com
 1.tulaoshi.com
 1.tuxi.com.cn
 1.win7china.com
@@ -66,7 +65,6 @@
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
-2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
 201071.com
@@ -128,7 +126,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -154,7 +151,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -178,7 +174,6 @@
 818mov.com
 8269996.com
 8368661.com
-846.move7.com
 85058s.com
 8521448.com
 85655095.com
@@ -200,7 +195,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -236,7 +230,6 @@ a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
 a.nanhuwang.com
-a.qinghua5.com
 a.shczz.com
 a.shenchuang.com
 a.soonyou123.com
@@ -478,7 +471,6 @@ ahyau.com
 ahyuns.com
 ai-kan.net
 ai-wen.net
-ai.xinju.cc
 aid.chinayk.com
 aim.yoyi.com.cn
 air.yoyi.com.cn
@@ -676,7 +668,6 @@ banners.beevpn.com
 banners.beted.com
 banners.expressindia.com
 base.filedot.xyz
-bax.xiawu.com
 bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
@@ -691,7 +682,6 @@ bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
 bccyyc.com
-bd.ershenghuo.com
 bd.gow100.com
 bd.soarfi.cn
 bd.wayqq.cn
@@ -764,9 +754,11 @@ bllbaby.cn
 blog.cnyes.com
 blog.exblog.co.jp
 blog.istef.info
+blog.pathtosharepoint.com
 blog.sina.com.tw
 blog.syx86.cn
 blog.workflow.is
+blog.xuite.net
 blogad01.myweb.hinet.net
 blogad02.myweb.hinet.net
 blogs.libraryinformationtechnology.com
@@ -978,7 +970,6 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
-client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
@@ -1033,7 +1024,6 @@ counter.csdn.net
 counter.kingsoft.com
 couqm.com.cn
 cp.5jjx.net
-cp.ggyapp.com
 cp.greenxf.cn
 cp.jz5u.net
 cpc.sohu.com
@@ -1141,7 +1131,6 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dazhantai.com
-dbam.dashbida.com
 dc.csdn.net
 dc.xhct66.com
 dc2.csdn.net
@@ -1150,7 +1139,6 @@ dd.dante2007.com
 dd.mangofortune.net
 dd.sina.com.cn
 ddanq.com
-ddd.haodizhi666.com
 ddd.yuyouge.com
 ddg1277.com
 ddhw.info
@@ -1169,7 +1157,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1521,6 +1508,7 @@ falundafa-sacramento.org
 falundata.com
 falundata.org
 falunworld.net
+fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
 fansi365.com
@@ -1598,7 +1586,6 @@ fz863.com
 fzh999.com
 fzh999.net
 fzz.cloud.1234507.com
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -1609,7 +1596,6 @@ g.wrating.com
 g.x.cn.xtgreat.com
 g.zx-jsp.com
 g1.0573ren.com
-g1.08160.cn
 g1.corp.163.com
 g2.ousns.net
 g2q3e.cn
@@ -1963,6 +1949,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2048,6 +2035,7 @@ js.paochala.net
 js.pub.tom.com
 js.pyangzi.com
 js.ruiwen.com
+js.saiqizhi.com
 js.soduso.cc
 js.soonyou123.com
 js.start1999.com
@@ -2060,7 +2048,6 @@ js.xiansuper.com
 js.xtgreat.com
 js.ydeprint.com
 js.yixui.com
-js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
 js1.zuocai.tv
@@ -2218,7 +2205,6 @@ lerosua.org
 lfyuanai.com
 li.anyysz.com
 liangziweixg.com
-liba.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2229,7 +2215,6 @@ liujianshu.com
 live.tvpot.daum.net
 liveupdate.mac.sandai.net
 livingyourambition.com
-lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2885,6 +2870,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3097,6 +3083,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3289,7 +3276,6 @@ ssh.yezijizhang.com
 ssjy168.com
 ssl.hyhzy.cn
 ssl.ymapp.com
-ssp.08160.cn
 ssp.daxueshengqiandai.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
@@ -3426,7 +3412,6 @@ tiangoutai.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
-tibetan.fr
 timelog.moviebox.baofeng.com
 times.hinet.net
 tintuc101.com
@@ -3610,7 +3595,6 @@ ve.tsdlp.com
 vegent.cn
 vendor1.fitschigogerl.com
 vers80.com
-vfsforgit.org
 vft.com.tw
 vg02h8z1ul.me
 vi0.mzy2014.com
@@ -3639,6 +3623,7 @@ vista.tgbusdata.cn
 vj.x-ssp.com
 vjcyehtqm9.me
 vl8c4g7tmo.me
+vlog.xuite.net
 vns800600.net
 voachineseblog.com
 voila.refr.adgtw.orangeads.fr
@@ -3646,7 +3631,6 @@ vpnintouch.net
 vt.bjhdonline.com
 vtale.org
 vvlog.moviebox.baofeng.com
-vvv.ieduw.com
 vvvulqn7.com
 vwkhdi.cn
 vwws6.net
@@ -3666,7 +3650,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3839,7 +3822,6 @@ xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
-xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
 xianchawang.net
@@ -3886,7 +3868,6 @@ xtwjx.cn
 xtzxmy.com
 xul478.com
 xuzhiyong.net
-xx.m.gxwztv.com
 xxad.cc
 xxguan.cn
 xxp.gytygc.com
@@ -3916,7 +3897,6 @@ ydlnt.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
-yfcode.m.gxwztv.com
 yhtcd.com
 yidulive.net
 yigyx.com
