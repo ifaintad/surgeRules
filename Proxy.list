@@ -1888,7 +1888,6 @@ DOMAIN-SUFFIX,hkci.org.hk
 DOMAIN-SUFFIX,hkcmi.edu
 DOMAIN-SUFFIX,hkcnews.com
 DOMAIN-SUFFIX,hkcoc.com
-DOMAIN-SUFFIX,hkcoc.weather.com.hk
 DOMAIN-SUFFIX,hkdailynews.com.hk
 DOMAIN-SUFFIX,hkday.net
 DOMAIN-SUFFIX,hkdc.us
@@ -2119,6 +2118,7 @@ DOMAIN-SUFFIX,iownyour.org
 DOMAIN-SUFFIX,ipfire.org
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iphone4hongkong.com
+DOMAIN-SUFFIX,iphonehacks.com
 DOMAIN-SUFFIX,iphonetaiwan.org
 DOMAIN-SUFFIX,ipicture.ru
 DOMAIN-SUFFIX,ipjetable.net
@@ -2567,6 +2567,7 @@ DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
