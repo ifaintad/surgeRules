@@ -27,6 +27,7 @@
 1.jeasyui.net
 1.panduoduo.net
 1.qtmojo.cn
+1.rengshu.com
 1.tulaoshi.com
 1.tuxi.com.cn
 1.win7china.com
@@ -65,6 +66,7 @@
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
+2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
 201071.com
@@ -152,7 +154,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -437,7 +438,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -684,7 +684,6 @@ bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
 bccyyc.com
-bd.ershenghuo.com
 bd.gow100.com
 bd.soarfi.cn
 bd.wayqq.cn
@@ -777,6 +776,7 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
+boomssr.com
 borsendental.com
 br.hao123.com
 brakefluid.website
@@ -979,7 +979,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1138,6 +1137,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dazhantai.com
+dbam.dashbida.com
 dc.csdn.net
 dc.xhct66.com
 dc2.csdn.net
@@ -1164,7 +1164,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1184,6 +1183,7 @@ display.superbay.net
 distf.kankan.com
 diyxjd.com
 djorz.com
+djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1603,7 +1603,6 @@ g.wrating.com
 g.x.cn.xtgreat.com
 g.zx-jsp.com
 g1.0573ren.com
-g1.08160.cn
 g1.corp.163.com
 g2.ousns.net
 g2q3e.cn
@@ -1759,12 +1758,12 @@ hiad.vmall.com
 higfw.com
 hihiforum.com
 hihistory.net
+hilltopads.net
 himemix.net
 hjc1990.com
 hk-cdn.effectivemeasure.net
 hk.rd.yahoo.com
 hk32168.com
-hkcoc.weather.com.hk
 hkctu.org.hk
 hkgreenradio.org
 hkhrm.org.hk
@@ -1958,6 +1957,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2203,6 +2203,7 @@ ld.kuaigames.com
 lds.lenovomm.com
 ldy.350.com
 ldy.adqku.cn
+leaguehd.com
 leak.360.cn
 leeao.com.cn
 legaltech.law.com
@@ -2357,7 +2358,6 @@ m.hk7799.net
 m.hmzsfmjc.com
 m.hogyp.com
 m.hpfjy.com
-m.huanyuexpress.com
 m.huyulh.com
 m.ienkdago.cn
 m.infvb.com
@@ -2851,6 +2851,7 @@ photo.shyexiang.cn
 photo.welldex.cn
 photo.xunhuaji.cn
 photo.zhanhevr.cn
+phuquocservices.com
 pic.2u.com.cn
 pic.adver.com.tw
 pic.aihaogou.com.cn
@@ -2874,7 +2875,6 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
-pingbi.diudou.com
 pingshetrip.com
 pixiu.shangshufang.ksosoft.com
 playad.xjmg.com
@@ -3092,7 +3092,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3289,7 +3288,6 @@ ssh.yezijizhang.com
 ssjy168.com
 ssl.hyhzy.cn
 ssl.ymapp.com
-ssp.08160.cn
 ssp.daxueshengqiandai.com
 ssp.dmpdsp.com
 ssp.kjwx8.com
@@ -3487,7 +3485,6 @@ twblogger.com
 tweeplike.me
 tweepmag.com
 tweetmylast.fm
-tweetrans.com
 tweets.seraph.me
 twimg.edgesuite.net
 twindexx.com
@@ -3646,7 +3643,6 @@ vpnintouch.net
 vt.bjhdonline.com
 vtale.org
 vvlog.moviebox.baofeng.com
-vvv.ieduw.com
 vvvulqn7.com
 vwkhdi.cn
 vwws6.net
@@ -3666,6 +3662,7 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
+wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3675,6 +3672,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3974,6 +3972,7 @@ zgsddh.com
 zgty365.com
 zgzcjj.net
 zhanbin.net
+zhaozecheng.cn
 zheng.cs12d.com
 zhichi08.com
 zhinengluyou.com
