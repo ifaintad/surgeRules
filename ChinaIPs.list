@@ -6659,6 +6659,7 @@ IP-CIDR,118.145.106.0/23,no-resolve
 IP-CIDR,118.145.108.0/22,no-resolve
 IP-CIDR,118.145.112.0/20,no-resolve
 IP-CIDR,118.145.128.0/18,no-resolve
+IP-CIDR,118.145.128.0/20,no-resolve
 IP-CIDR,118.145.192.0/19,no-resolve
 IP-CIDR,118.145.224.0/22,no-resolve
 IP-CIDR,118.145.228.0/22,no-resolve
