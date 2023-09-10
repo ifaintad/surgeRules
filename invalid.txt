@@ -127,7 +127,6 @@
 51weidashi.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -201,7 +200,6 @@
 9566180.com
 9948000.com
 99909988.com
-99click.com
 9dtiny.cn
 9s6q.cn
 9wushuo.com
@@ -253,6 +251,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -336,6 +335,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -422,6 +422,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -473,6 +474,7 @@ ahyau.com
 ahyuns.com
 ai-kan.net
 ai-wen.net
+ai.xinju.cc
 aid.chinayk.com
 aim.yoyi.com.cn
 air.yoyi.com.cn
@@ -617,7 +619,6 @@ atm.sina.com
 atm.youku.com
 atomicblast.lol
 att.stargame.com
-aty.cp45.ott.cibntv.net
 aty.hd.sohu.com
 aty.sohu.com
 av.nightlife141.com
@@ -1165,6 +1166,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1507,7 +1509,6 @@ f6ce.com
 fa.corp.163.com
 facebook.br
 fail.hk
-fair.sogou.com
 falun.caltech.edu
 falundafa-sacramento.org
 falundata.com
@@ -1588,7 +1589,6 @@ fz863.com
 fzh999.com
 fzh999.net
 fzz.cloud.1234507.com
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -1923,6 +1923,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2114,6 +2115,7 @@ justicefortenzin.org
 jwqj.net
 jxad.jx163.com
 jxfxsw.com
+jxlog.istreamsche.com
 jxxiangchu.com
 jyc.njxczy.com
 jyd.fjzdmy.com
@@ -2172,7 +2174,6 @@ kr.sybspools.com
 ksdsuzhou.com
 kspcoin.com
 ksr.juuhe.com
-ktivn.uranus.sogou.com
 ktunions.com
 ktv0311.com
 kuaikaiapp.com
@@ -2203,12 +2204,10 @@ ld.kuaigames.com
 lds.lenovomm.com
 ldy.350.com
 ldy.adqku.cn
-leaguehd.com
 leak.360.cn
 legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
-lemonhd.org
 leorockwell.com
 lerosua.org
 lfyuanai.com
@@ -2388,7 +2387,6 @@ m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
-m.mightiger.net
 m.miiuv.com
 m.miupp.com
 m.mmkvi.com
@@ -2445,7 +2443,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbinu.com
@@ -2874,7 +2871,6 @@ picsinfog.com
 pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
-ping.acc.sogou.com
 ping.weiduofan.com
 pingshetrip.com
 pixiu.shangshufang.ksosoft.com
@@ -2882,7 +2878,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -2960,6 +2955,7 @@ qjfcdn1220.0101122.com
 qjjtc.com
 qlisv.siemens6es7.com
 qlmho.renhengshangmao.com
+qloer.com
 qlonglong.com
 qmkdy.com
 qoiusky.com
@@ -3095,7 +3091,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3113,7 +3108,6 @@ s1.iigushi.com
 s1.kutongji.com
 s1.mingmingtehui.com
 s1.nudezz.com
-s1.qiqutt.cn
 s1.qiqutt.com
 s1.tansuotv.com
 s1heng.com
@@ -3347,7 +3341,6 @@ surv.xbizmedia.com
 suvset.sohu.com
 sv719.dreamdays.cn
 sw.cailawyer.cn
-sw.mobile.sogou.com
 swpgjai.pop.weddingeeos.com
 swx.0.0.0.0.cn
 sy.jlhygy.com
@@ -3355,6 +3348,7 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 sync.tidaltv.com
@@ -3853,7 +3847,6 @@ xiaoshuo.kp53.cn
 xiaoyang.mobi
 xiaozhishi852.com
 xiaxuanfu.com
-xiazai.cdren.com
 xiazai.downok.com
 xibei70.com
 xihuashuale.com
