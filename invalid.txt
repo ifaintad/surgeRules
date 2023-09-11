@@ -127,6 +127,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -209,6 +210,7 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
+a.baiy.net
 a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
@@ -251,7 +253,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -286,6 +287,7 @@ abcnews.edgesuite.net
 abitno.linpie.com
 aboutgfw.com
 ac-gb.mgid.com
+ac.jiruan.net
 ac2.msn.com
 acasys88.cn
 access.njherald.com
@@ -335,7 +337,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -407,7 +408,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -422,7 +422,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -439,6 +438,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -600,6 +600,7 @@ as.baidu.cn
 as.yuewz.com
 ashiping.com
 asianspiss.com
+asiatoday.us
 ask.gaykes.com
 askynz.net
 assets.210189.com
@@ -631,6 +632,7 @@ ayabreya.xyz
 b-ok.africa
 b.53yao.com
 b.aowugame.com
+b.baiy.net
 b.e.f.ip6.arpa
 b.epinv.com
 b.flyreading.cn
@@ -677,6 +679,7 @@ bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
 bbdm.051661.com
+bbs.hanminzu.org
 bbs.hasi.wang
 bbs.netbig.com
 bbs.ozchinese.com
@@ -707,7 +710,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -982,9 +984,11 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
+cm.ctnsnet.com
 cm.mct01.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1081,6 +1085,7 @@ cz.ifeng0.com
 cz01016102.cg2017.com
 cz01016102.ms758.com
 czdqhyo1.net
+czxiangyue.com
 d.107788.com
 d.1391.com
 d.businessinsider.com
@@ -1140,6 +1145,7 @@ data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
 dazhantai.com
+dbam.dashbida.com
 dc.csdn.net
 dc.xhct66.com
 dc2.csdn.net
@@ -1166,7 +1172,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1205,6 +1210,7 @@ dlzjdesign.com
 dm.388g.cc
 dm.92to.com
 dm.aizhan.com
+dm.chalook.net
 dm.gbeik.com
 dm.jb51.net
 dm.jsyst.cn
@@ -1589,6 +1595,7 @@ fz863.com
 fzh999.com
 fzh999.net
 fzz.cloud.1234507.com
+g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -1719,7 +1726,6 @@ hanju18.net
 hanunyi.com
 hao123rt.com
 hapic1.jhkxwl.com
-happy-vpn.com
 hascosafety.com
 hbalx.cn
 hbdt.luomi.com
@@ -1923,7 +1929,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -1954,7 +1959,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.4hw.com.cn
 jb.asqql.com
 jb.dianshu119.com
@@ -2115,7 +2119,6 @@ justicefortenzin.org
 jwqj.net
 jxad.jx163.com
 jxfxsw.com
-jxlog.istreamsche.com
 jxxiangchu.com
 jyc.njxczy.com
 jyd.fjzdmy.com
@@ -2443,6 +2446,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbinu.com
@@ -2878,6 +2882,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3348,7 +3353,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 sync.tidaltv.com
@@ -3442,6 +3446,7 @@ tongqing2015.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
+torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3555,7 +3560,6 @@ unipaydl.wostore.cn
 unitedsocialpress.com
 unjs.jfcdns.com
 uns.soarfi.cn
-untraceable.us
 up.hiao.com
 update.coolyun.com
 update.juw37xqo3x.com
