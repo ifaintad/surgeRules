@@ -210,7 +210,6 @@ a.53yao.com
 a.5ykj.com
 a.armystar.com
 a.baidu.cn
-a.baiy.net
 a.beilamusi.com
 a.benshiw.net
 a.ckm.iqiyi.com
@@ -253,6 +252,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -262,6 +262,7 @@ a6s.1cakeclub.com
 a6s.modoupai.com
 a6s.ruyiqufu.com
 a6s.ve001nz.com
+a7shun.com
 a907907.com
 aa-gb.mgid.com
 aa.goodsblock.mgid.com
@@ -287,7 +288,6 @@ abcnews.edgesuite.net
 abitno.linpie.com
 aboutgfw.com
 ac-gb.mgid.com
-ac.jiruan.net
 ac2.msn.com
 acasys88.cn
 access.njherald.com
@@ -337,6 +337,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -408,6 +409,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -422,6 +424,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -438,7 +441,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -474,7 +476,6 @@ ahyau.com
 ahyuns.com
 ai-kan.net
 ai-wen.net
-ai.xinju.cc
 aid.chinayk.com
 aim.yoyi.com.cn
 air.yoyi.com.cn
@@ -632,7 +633,6 @@ ayabreya.xyz
 b-ok.africa
 b.53yao.com
 b.aowugame.com
-b.baiy.net
 b.e.f.ip6.arpa
 b.epinv.com
 b.flyreading.cn
@@ -679,7 +679,6 @@ bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
 bbdm.051661.com
-bbs.hanminzu.org
 bbs.hasi.wang
 bbs.netbig.com
 bbs.ozchinese.com
@@ -988,7 +987,6 @@ clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
-cm.ctnsnet.com
 cm.mct01.com
 cm.p4p.cn.yahoo.com
 cmule.org
@@ -1077,7 +1075,6 @@ cwpush.com
 cy123.cc
 cyad1.cyworld.com
 cyad123.com
-cyberghost.natado.com
 cycy.kxrxh.com
 cylinderlongcheng.com
 cytode.us
@@ -1172,6 +1169,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1210,7 +1208,6 @@ dlzjdesign.com
 dm.388g.cc
 dm.92to.com
 dm.aizhan.com
-dm.chalook.net
 dm.gbeik.com
 dm.jb51.net
 dm.jsyst.cn
@@ -1589,7 +1586,6 @@ fun.ynet.com
 funf.tw
 futuremessage.org
 fxc.aiquxs.com
-fxtducb.cn
 fydgold132.com
 fz863.com
 fzh999.com
@@ -1636,7 +1632,6 @@ gen.alicdn.com
 geobanner.socialflirt.com
 getnormalizedurl.com
 gf1352.com
-gfh.ahfzly.com
 gfw.org.ua
 gg.5173.com
 gg.amblrgg.live
@@ -1779,6 +1774,7 @@ hl.quw18.com
 hm.baidu.cn
 hmma.baidu.cn
 hmp33.com
+hmttoly.com
 hnxxjn.com
 holymountaincn.com
 home.so-net.net.tw
@@ -1959,6 +1955,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.4hw.com.cn
 jb.asqql.com
 jb.dianshu119.com
@@ -2507,7 +2504,6 @@ maildns.xyz
 mainbx.com
 maipinshangmao.com
 maisoncherry.com
-maplew.com
 market.178.com
 market.21cn.com
 mass.mall044.com
@@ -2540,6 +2536,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -3002,7 +2999,6 @@ raremovie.cc
 rating6.kingsoft-office-service.com
 raw.okwan.cn
 rbs.haiyunx.com
-rbywg.com
 rc.fthcz.com
 rc.haodongkeji.cn
 rc.xmcmn.com
@@ -3096,6 +3092,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3353,6 +3350,7 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
+sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 sync.tidaltv.com
@@ -3446,7 +3444,6 @@ tongqing2015.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3934,7 +3931,6 @@ ylads.yaolan.com
 ymcqb.com
 yndianju.com
 yongyuelm.com
-yoo.yiiyoo.net
 youjia2016.com
 youle.tom.com
 youmsm.com
@@ -3968,7 +3964,6 @@ zads.care2.com
 zae.gzzena.com
 zb.nxing.cn
 zbz.m.qxs.la
-zdnet.com.tw
 zeus.qj.net
 zgc66.com
 zgdfz6h7po.me
