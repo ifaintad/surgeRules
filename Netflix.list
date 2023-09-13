@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,netflix
 DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,us-west-2.amazonaws.com
 IP-CIDR,103.87.204.0/22,no-resolve
 IP-CIDR,107.23.255.0/26,no-resolve
@@ -250,6 +252,7 @@ IP-CIDR,15.164.243.0/28,no-resolve
 IP-CIDR,15.164.243.192/27,no-resolve
 IP-CIDR,15.164.243.32/27,no-resolve
 IP-CIDR,15.165.224.0/23,no-resolve
+IP-CIDR,15.168.105.144/28,no-resolve
 IP-CIDR,15.184.125.0/25,no-resolve
 IP-CIDR,15.184.125.128/26,no-resolve
 IP-CIDR,15.184.125.224/29,no-resolve

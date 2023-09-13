@@ -198,7 +198,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -409,7 +408,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -441,6 +439,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -591,6 +590,7 @@ appsrv1.madserving.com
 appsrv4.madserving.com
 appsupport.stargame.com
 apt.qumi.com
+aqgyju.cn
 aqqgli3vle.bid
 aqw.quanliyouxi.cn
 ar.hao123.com
@@ -709,6 +709,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -800,7 +801,6 @@ bt.xitongmonitor.com
 bt641499.gotoip4.com
 bthergyuan.com
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1141,7 +1141,6 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
-dazhantai.com
 dbam.dashbida.com
 dc.csdn.net
 dc.xhct66.com
@@ -1591,7 +1590,6 @@ fz863.com
 fzh999.com
 fzh999.net
 fzz.cloud.1234507.com
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -1925,6 +1923,7 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2096,7 +2095,6 @@ js84.enyayinxiang.com
 js883.hnfpgm.com
 js883.yongkang6.com
 js9318.bllzgqbyp.com
-jsadt.com
 jscdn.99pps.com
 jsjs.nthyn.com
 jskrnekewe.mofans.net
@@ -2264,6 +2262,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2536,7 +2535,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2615,6 +2613,7 @@ ms.ienkdaccessory.cn
 ms.jyhwt.cn
 ms.myyage.com
 msa.akadns6.net
+msg.c002.ottcn.com
 msg.m.letv.com
 msg1.video.qiyi.com
 msltzer.cn
@@ -2879,7 +2878,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3092,7 +3090,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3350,7 +3347,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 sync.tidaltv.com
@@ -3403,6 +3399,7 @@ tcpspeed.co
 tcsovi.org
 td.mpush.cn
 tdayi.com
+tdcv3.talkingdata.net
 tdrec.youku.com
 tech2.in.com
 teen.77rog.com
@@ -3436,6 +3433,7 @@ tjf.lyhuayun.com
 tjlog.ps.easou.com
 tk.baidu.cn
 tk.baidu.com
+tkd777.cn
 tkweb.baidu.com
 tngrnow.com
 tngrnow.net
