@@ -125,10 +125,8 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -198,7 +196,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -229,6 +226,7 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
+a.lz13.cn
 a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
@@ -252,7 +250,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -337,6 +334,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -417,7 +415,6 @@ ads.prd.ie.internal.unity3d.com
 ads.wasu.tv
 ads2.opensubtitles.org
 adscdn.baidu.cn
-adsclick.yx.js.cn
 adscript.gmarket.co.kr
 adse.test.ximalaya.com
 adsensor.org
@@ -475,7 +472,6 @@ ahyau.com
 ahyuns.com
 ai-kan.net
 ai-wen.net
-ai.xinju.cc
 aid.chinayk.com
 aim.yoyi.com.cn
 air.yoyi.com.cn
@@ -598,6 +594,7 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
+ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -891,8 +888,6 @@ cb.h5.coffeedak.cn
 cbjs.baidu.cn
 cbjslog.baidu.cn
 cbjslog.baidu.com
-cc.0133hao.net
-cc.1515788.net
 cc.365yigou.cn
 cc.700ok.net
 cc.dace.hupu.com
@@ -1143,7 +1138,6 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
-dbam.dashbida.com
 dc.csdn.net
 dc.xhct66.com
 dc2.csdn.net
@@ -1189,7 +1183,6 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
-djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1231,7 +1224,6 @@ dol.tianya.cn
 dol.tianyaui.cn
 dolphin.ftimg.net
 dolphin4.ftimg.net
-domed.shenbimall.com
 dontblockme.modaco.com
 dontmovetochina.com
 doubleclick.tv002.com
@@ -1665,7 +1657,6 @@ go.gotourls.bid
 go.nesnode.com
 goagent.codeplex.com
 godns.work
-gog9.qzdfc.com
 golden1.sohu.com
 gongmeng.info
 gongminliliang.com
@@ -1997,7 +1988,6 @@ jiawen88.com
 jiehantai.com
 jifeidandar.com
 jigong1024.com
-jingdian230.meilika.net
 jinsha11833.com
 jiu.njdkgm.com
 jiyou2014.com
@@ -2013,6 +2003,7 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
+jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2172,7 +2163,6 @@ kooyum.com
 kovjo.com
 kr.sybspools.com
 ksdsuzhou.com
-kspcoin.com
 ksr.juuhe.com
 ktunions.com
 ktv0311.com
@@ -2442,6 +2432,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbinu.com
@@ -3234,6 +3225,7 @@ sm.0.0.0.0.cn
 sm.toutiao.com
 sm1.todgo.com
 sm2.todgo.com
+smgru.net
 smxay.com
 smxsg.com
 snow001.com
@@ -3376,6 +3368,7 @@ t.youmi.net
 t1.visualrevenue.com
 t2.vbxx.net
 t70123.com
+t75.qyqc4s.com
 taat00889.com
 tamiaode.tk
 tangoutianxia.com
@@ -3542,7 +3535,6 @@ un.52rkl.cn
 un.soarfi.cn
 un.winasdaq.com
 un1.takefoto.cn
-unblocker.yt
 undm.qibulo.com
 unicast.msn.com
 union.dbba.cn
@@ -3636,7 +3628,6 @@ vjcyehtqm9.me
 vl8c4g7tmo.me
 vlog.xuite.net
 vns800600.net
-voachineseblog.com
 voila.refr.adgtw.orangeads.fr
 vpnintouch.net
 vt.bjhdonline.com
@@ -3888,6 +3879,7 @@ xxwkjl.com
 xxxy.biz
 xxyzwtsylw.com
 xy.shijialianzuishuai.com
+xycnz.com
 xyd.sxmdxy.com
 xyqptm.com
 xyrhd.com
