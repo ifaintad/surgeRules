@@ -127,6 +127,7 @@
 51weidashi.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -152,6 +153,7 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -196,6 +198,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -226,7 +229,6 @@ a.kejixun.com
 a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
-a.lz13.cn
 a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
@@ -334,7 +336,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -406,7 +407,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -420,7 +420,6 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
-adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -594,7 +593,6 @@ ar.hao123.com
 ar1.atwola.com
 ar7.atwola.com
 ar9.atwola.com
-ark.cp21.ott.cibntv.net
 as.baidu.cn
 as.yuewz.com
 ashiping.com
@@ -707,7 +705,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -994,6 +991,7 @@ cn.tatami-solutions.com
 cn.voa.mobi
 cn2.streetvoice.com
 cnetwidget.creativemark.co.uk
+cnhbxx.com
 cnineu.com
 cnpinzhuo.com
 cnsjx.net
@@ -1585,7 +1583,6 @@ fz863.com
 fzh999.com
 fzh999.net
 fzz.cloud.1234507.com
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -2003,7 +2000,6 @@ jobso.tv
 johtzj.com
 jossuer.net
 joyfuldoors.com
-jp.as.pptv.com
 jpg.cooguo.com
 jph.itiexue.net
 jrpt.jrptweb.org
@@ -2432,7 +2428,6 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
-m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbinu.com
@@ -3126,6 +3121,7 @@ savebt.net
 sax.mobile.sina.cn
 saxd.sina.com.cn
 saxxaz.taohuayuan8888.com
+say2.info
 sb88b.com
 sbw.ysjweb.com
 sc.58mingtian.cn
@@ -3338,7 +3334,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 sync.tidaltv.com
@@ -3662,7 +3657,6 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3783,7 +3777,6 @@ www.oxid.it
 www.wangruowang.org
 www9.effectivemeasure.net
 wwww.495495.com
-wwww.551144.com
 wwww.640640.com
 wwww.649649.com
 wx.paigu.com
@@ -3947,6 +3940,7 @@ yxszy.com
 yyffeicd.m.qxs.la
 yyii.org
 yyjxgm.net
+yyp17.com
 yyt.irs01.com
 yzh.jyjhkz.com
 z.clickvip.shop
