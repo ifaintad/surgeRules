@@ -1,6 +1,5 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
-001union.com
 0086555.com
 018520.com
 01daa.lubih.com
@@ -233,6 +232,7 @@ a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
 a.nanhuwang.com
+a.shangz99991.com
 a.shczz.com
 a.shenchuang.com
 a.soonyou123.com
@@ -252,6 +252,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -407,6 +408,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -420,6 +422,7 @@ adse.test.ximalaya.com
 adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
+adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -471,6 +474,7 @@ ahyau.com
 ahyuns.com
 ai-kan.net
 ai-wen.net
+ai.xinju.cc
 aid.chinayk.com
 aim.yoyi.com.cn
 air.yoyi.com.cn
@@ -705,6 +709,7 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
+bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -977,6 +982,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1136,6 +1142,7 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
+dbam.dashbida.com
 dc.csdn.net
 dc.xhct66.com
 dc2.csdn.net
@@ -1148,7 +1155,6 @@ ddd.yuyouge.com
 ddg1277.com
 ddhw.info
 ddkkrrla.m.qxs.la
-ddomm.com
 ddpxhq.cn
 ddrrccck.m.qxs.la
 de.dzribao.com
@@ -1162,7 +1168,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1500,7 +1505,6 @@ f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
 f5.dfcwg.com
 f56g.me
-f6ce.com
 fa.corp.163.com
 facebook.br
 fail.hk
@@ -1511,6 +1515,7 @@ falundata.org
 falunworld.net
 fangbinxing.com
 fangmincn.org
+fangong.forums-free.com
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
@@ -2018,6 +2023,7 @@ js.cnscdj.com
 js.daxueshengqiandai.com
 js.dkqapp.cn
 js.feitian001.com
+js.gewuwen.com
 js.hkslg520.com
 js.hslyqs.com
 js.icast.cn
@@ -2277,7 +2283,6 @@ m.bsnnk.com
 m.bvoer.com
 m.bvosv.com
 m.casbanlly.com
-m.ccunf.com
 m.cdfzcz.com
 m.chenhuia.com
 m.chexiw.com
@@ -2288,7 +2293,6 @@ m.daishuxy.com
 m.dante2007.com
 m.dbaiz.com
 m.dgaoz.com
-m.diogv.com
 m.djhhy.com
 m.dnfeu.com
 m.dsjre.com
@@ -2428,8 +2432,10 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
+m.vbieu.com
 m.vbinu.com
 m.vichc.com
 m.vouky.com
@@ -3210,6 +3216,7 @@ site.img.4tube.com
 sitebro.tw
 siteks.uk.to
 sj1.3987.com
+sjj.jsyjwj.com
 sjrt.org
 sjum.cn
 skatehot.net
@@ -3426,7 +3433,6 @@ tkweb.baidu.com
 tngrnow.com
 tngrnow.net
 tongji.qidian.com
-tongqing2015.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
@@ -3557,6 +3563,7 @@ urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
 user.tiankongzudui.com
+userapi.nytlog.com
 ushuarencity.echainhost.com
 usinfo.state.gov
 usr.mgid.com
@@ -3647,7 +3654,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3657,6 +3663,7 @@ wap.114so.cn
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
+wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3777,6 +3784,7 @@ www.oxid.it
 www.wangruowang.org
 www9.effectivemeasure.net
 wwww.495495.com
+wwww.551144.com
 wwww.640640.com
 wwww.649649.com
 wx.paigu.com
