@@ -125,7 +125,6 @@
 51jumintong.com
 51weidashi.com
 5207470.com
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -250,7 +249,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -434,6 +432,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -495,6 +494,7 @@ aliunion.cn.yahoo.com
 aliyunxin.com
 allervpn.com
 allnews.uodoo.com
+allyes.cn
 alog.umeng.co
 als.baidu.cn
 alvares.esportsheaven.com
@@ -860,7 +860,6 @@ c6.bjdianyue.com
 c77777777.com
 c8b.jcdb88.com
 ca.5173car.com
-cacaca.sp96878.com
 cache.xw126.com
 cachenotice.cp11.ott.cibntv.net
 cachesit.com
@@ -891,6 +890,7 @@ cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
 ccbaihehq.com
+ccdtr.org
 cdhoc.piyaji.cn
 cdn.5bong.com
 cdn.adapi.fotoable.com
@@ -971,6 +971,7 @@ client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
 clk.dxpmedia.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1583,7 +1584,6 @@ g1.0573ren.com
 g1.corp.163.com
 g2.ousns.net
 g2q3e.cn
-g9s.sgzs999.com
 gad.kugou.com
 galaxy.sogoucdn.com
 game.ifeng.com
@@ -1849,7 +1849,6 @@ img.kuwanpx.com
 img.meipic.net
 img.qdscgj.com
 img.qqgeshou.com
-img.sheyuansu.com
 img.supfast.net
 img.tan5858.com
 img.taotaosou.cn
@@ -1982,7 +1981,6 @@ jjxgly.com
 jjyy.gaopengqcdz.cn
 jkmxy.com
 jmonitor.jiuzhilan.com
-jndczg.com
 jobso.tv
 johtzj.com
 jossuer.net
@@ -2146,6 +2144,7 @@ ktunions.com
 ktv0311.com
 kuaikaiapp.com
 kuaipai666.cn
+kuwoyy.com
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
@@ -2224,7 +2223,6 @@ lwq.wangketuan.com
 lyhdream.com
 lyjk.1391.com
 lyrymy.com
-lz.chaelc.com
 m.027blzs.com
 m.0531mnk.net
 m.107279.com
@@ -2309,7 +2307,6 @@ m.guanren11.com
 m.guanren5.com
 m.guanren6.com
 m.guanren9.com
-m.gujinyue.com
 m.haowj.com.cn
 m.harbinbaojia.net
 m.hellomingpian.com
@@ -2364,7 +2361,6 @@ m.nernv.com
 m.niegg.com
 m.nmtouzi.com
 m.nnfiy.com
-m.nthtcs.com
 m.ntxiangtai.com
 m.nuxyz.cn
 m.nxypz.com
@@ -2385,7 +2381,6 @@ m.qiyunmuye.com
 m.qsove.com
 m.qusub.com
 m.qvxyz.com
-m.rhcapass.com
 m.ricpt.com
 m.rmuqvq.cn
 m.romgv.com
@@ -2820,7 +2815,6 @@ pic.moad.cn
 pic.neiyicun.net
 pic.new400.cn
 pic.pic-img.com
-pic.pxstda.com
 pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
@@ -2850,6 +2844,7 @@ pop.code.poyang.cn
 pop.sjk.ijinshan.com
 popupad.cn
 pornmm.net
+poskotanews.com
 postimg.org
 powergg.top
 pp.sxjkc.cn
@@ -3046,7 +3041,6 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
-s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3398,7 +3392,6 @@ tongji.qidian.com
 tono-oka.jp
 tool.btrabbit.la
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.jxnews.com.cn
 tqd.ntpddq.com
@@ -3685,7 +3678,6 @@ woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
 workerdemo.org.hk
-workersthebig.net
 wow-life.net
 wowips.com
 wowlegacy.ml
@@ -3748,7 +3740,6 @@ wxwm2.ikuailian.com
 wy.ce22d.cn
 wyhzzy.com
 wysa.2wxb5.cn
-wyt.wwetjy.com
 wyttech.cn
 wzaigo.com
 wzj.ywrjgzs.com
