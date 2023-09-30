@@ -192,7 +192,6 @@ DOMAIN-SUFFIX,apple.tt
 DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
-DOMAIN-SUFFIX,apple.xn--czr694b
 DOMAIN-SUFFIX,apple.xn--fiqs8s
 DOMAIN-SUFFIX,apple.xyz
 DOMAIN-SUFFIX,appleaccount.net
@@ -1419,7 +1418,6 @@ DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
 DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
-DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
 DOMAIN-SUFFIX,yourmonsterbeats.com
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
