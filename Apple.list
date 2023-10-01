@@ -192,6 +192,7 @@ DOMAIN-SUFFIX,apple.tt
 DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
+DOMAIN-SUFFIX,apple.xn--czr694b
 DOMAIN-SUFFIX,apple.xn--fiqs8s
 DOMAIN-SUFFIX,apple.xyz
 DOMAIN-SUFFIX,appleaccount.net
@@ -274,13 +275,10 @@ DOMAIN-SUFFIX,applenews.berlin
 DOMAIN-SUFFIX,applenews.hamburg
 DOMAIN-SUFFIX,applenews.tv
 DOMAIN-SUFFIX,applenewsformat.com
-DOMAIN-SUFFIX,appleone.audio
 DOMAIN-SUFFIX,appleone.blog
 DOMAIN-SUFFIX,appleone.chat
 DOMAIN-SUFFIX,appleone.cloud
 DOMAIN-SUFFIX,appleone.club
-DOMAIN-SUFFIX,appleone.community
-DOMAIN-SUFFIX,appleone.film
 DOMAIN-SUFFIX,appleone.guide
 DOMAIN-SUFFIX,appleone.host
 DOMAIN-SUFFIX,appleone.space
@@ -1413,9 +1411,7 @@ DOMAIN-SUFFIX,wwwmacbookair.com
 DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
-DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e
 DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
-DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
 DOMAIN-SUFFIX,yourmonsterbeats.com
