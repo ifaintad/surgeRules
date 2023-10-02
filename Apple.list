@@ -275,10 +275,13 @@ DOMAIN-SUFFIX,applenews.berlin
 DOMAIN-SUFFIX,applenews.hamburg
 DOMAIN-SUFFIX,applenews.tv
 DOMAIN-SUFFIX,applenewsformat.com
+DOMAIN-SUFFIX,appleone.audio
 DOMAIN-SUFFIX,appleone.blog
 DOMAIN-SUFFIX,appleone.chat
 DOMAIN-SUFFIX,appleone.cloud
 DOMAIN-SUFFIX,appleone.club
+DOMAIN-SUFFIX,appleone.community
+DOMAIN-SUFFIX,appleone.film
 DOMAIN-SUFFIX,appleone.guide
 DOMAIN-SUFFIX,appleone.host
 DOMAIN-SUFFIX,appleone.space
@@ -1412,8 +1415,10 @@ DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
+DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
 DOMAIN-SUFFIX,yourmonsterbeats.com
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
