@@ -1,5 +1,7 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list
 DOMAIN,asusrouter.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,detectportal.firefox.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
