@@ -1,7 +1,6 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
 0086555.com
-01.gxso.net
 018520.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -67,7 +66,6 @@
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
-2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
 201071.com
@@ -153,7 +151,6 @@
 6tsbe1zs.me
 706529.com
 73.sinawap.com
-743m1.11a12.com
 749808.com
 766ba.net
 77xtv.com
@@ -178,6 +175,7 @@
 818mov.com
 8269996.com
 8368661.com
+849558.com
 85058s.com
 8521448.com
 85655095.com
@@ -200,7 +198,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -232,7 +229,6 @@ a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
 a.lz13.cn
-a.m.gxwztv.com
 a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
@@ -340,7 +336,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -414,7 +409,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -693,7 +687,6 @@ bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
 bccyyc.com
-bd.ershenghuo.com
 bd.gow100.com
 bd.soarfi.cn
 bd.wayqq.cn
@@ -713,7 +706,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -783,7 +775,6 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
-booksc.xyz
 borsendental.com
 br.hao123.com
 brakefluid.website
@@ -804,6 +795,7 @@ bt641499.gotoip4.com
 bthergyuan.com
 btku.me
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -841,7 +833,6 @@ c.mobishu.com
 c.netu.tv
 c.ningbojipiao.com
 c.okmgy.cn
-c.panqis.cn
 c.panqishu.com
 c.piliangzhuce.cn
 c.ptffw.net
@@ -1020,7 +1011,6 @@ comet.yahoo.com
 config.mobisage.cn
 config.push.sogou.com
 connect.summit.co.uk
-cooguo.com
 cookiemapping.wrating.com
 coolnay.com
 cooolyi.cn
@@ -1169,7 +1159,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1249,6 +1238,7 @@ dqq.lnfund.org.cn
 dr.holaworld.cn
 drmcmm.baidu.cn
 drmcmm.baidu.com
+drmingxia.org
 drsunacademy.com
 drsw.m.yuyouge.com
 drvmy.ats68.cn
@@ -1510,7 +1500,6 @@ falundafa-sacramento.org
 falundata.com
 falundata.org
 falunworld.net
-fan.liuxiaoer.com
 fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
@@ -1653,7 +1642,6 @@ gmota.g188.net
 gmozomg.izihost.org
 go-pki.com
 go.gogolm.xyz
-go.gotourl.xyz
 go.gotourls.bid
 go.nesnode.com
 goagent.codeplex.com
@@ -1699,6 +1687,7 @@ guoshennet.com
 gyca9f.dahuangcheng.cn
 gzmjnx.cn
 gzqudou.com
+gzxnlk.com
 h.canmg.cn
 h.irs01.com
 h.laojiayoufang.com
@@ -1921,6 +1910,7 @@ ipic.staticsdo.com
 iportal.me
 iqiyi.irs01.com
 ironbigfools.compython.net
+irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -1950,7 +1940,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2098,6 +2087,7 @@ jumpe.58xmgys.com
 jumpm.58xmgys.com
 jundazulin.com
 junefourth-20.net
+junkucm.com
 juren0.com
 justicefortenzin.org
 jxad.jx163.com
@@ -2192,8 +2182,10 @@ leirentv.ca
 leju.sina.com.cn
 leorockwell.com
 lerosua.org
+lessplay.com
 lfyuanai.com
 li.anyysz.com
+lib.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2204,7 +2196,6 @@ live.tvpot.daum.net
 liveupdate.mac.sandai.net
 livingonline.us
 livingyourambition.com
-lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2515,7 +2506,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2681,7 +2671,6 @@ niwd.zhybw88.com
 njdijiani.com
 njs.imagicskin.com
 njs.myyage.com
-njs.reliancevalve.com
 njxczy.com
 nkeo.top
 nko.navy.mil
@@ -2856,6 +2845,7 @@ player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
+pm.sdaiv.com
 pmptrack-youku.gentags.net
 politicalconsultation.org
 pomhz.com
@@ -3062,6 +3052,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yjkyj.cn
@@ -3117,7 +3108,6 @@ scc.0.0.0.0.cn
 schborg.com
 schemas.android.com
 sciencelolb.com
-sciencenets.com
 scimg.27admin.com
 sclizhong.com
 script.vccoo.com
@@ -3189,7 +3179,6 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
-siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 sitebro.tw
 siteks.uk.to
@@ -3623,7 +3612,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3826,7 +3814,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
-xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpjkf888.com
 xpqfc.com
@@ -3868,6 +3855,7 @@ ydlnt.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
+yfxpcode.m.gxwztv.com
 yhtcd.com
 yidulive.net
 yigyx.com
