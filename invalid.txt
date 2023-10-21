@@ -66,6 +66,7 @@
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
+2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
 201071.com
@@ -125,6 +126,7 @@
 51jumintong.com
 51weidashi.com
 5207470.com
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -176,7 +178,7 @@
 818mov.com
 8269996.com
 8368661.com
-846.move7.com
+849558.com
 85058s.com
 8521448.com
 85655095.com
@@ -255,6 +257,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -683,7 +686,6 @@ bannera.kingsoft-office-service.com
 banners.beevpn.com
 banners.expressindia.com
 base.filedot.xyz
-bay.xiawu.com
 baycode.cn
 bb.tuku.cc
 bbcc.yxlady.com
@@ -698,7 +700,6 @@ bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
 bccyyc.com
-bd.ershenghuo.com
 bd.gow100.com
 bd.soarfi.cn
 bd.wayqq.cn
@@ -982,6 +983,7 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
@@ -1146,6 +1148,7 @@ data.apn.co.nz
 data.danmu.baofeng.com
 databank.air.yoyi.com.cn
 datax.baidu.com
+dbam.dashbida.com
 dc.csdn.net
 dc.liuliang100.com
 dc.vmoters.com
@@ -1173,7 +1176,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1191,6 +1193,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dl.client.baidu.com
 dl.eduancm.com
 dl.g.youku.com
@@ -1244,6 +1247,7 @@ down.91wangmeng.com
 down.bugeyu.com
 down.dashendown.com
 down.xiazaiyuan.net
+downlaod.xiaocen.com
 download.zhushou.sogou.com
 download3.123cw.cn
 dp.559.cc
@@ -1518,6 +1522,7 @@ falundata.com
 falundata.org
 falunworld.net
 fan-qiang.com
+fan.liuxiaoer.com
 fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
@@ -1642,10 +1647,12 @@ gg.haianw.com
 gg.jtertp.com
 gg.kugou.com
 gg.ptfish.com
+gg.sonhoo.com
 gg.stargame.com
 gg.yxdown.com
 gg.zhongyao1.com
 gg0376.com
+gg1.yszyz.com
 gg2.dss9927.com
 ggb.douguo.com
 ggdoubi.com
@@ -1962,7 +1969,6 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2380,7 +2386,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2441,6 +2446,7 @@ m.tick0.com
 m.tiojk.com
 m.tuopp.com
 m.twldmx.com
+m.txtxr.com
 m.ueram.com
 m.uissm.com
 m.vbinu.com
@@ -2454,7 +2460,6 @@ m.wgewj.cn
 m.wjhehaofc.com
 m.wkjhd.com
 m.wonwg.com
-m.wooboo.com.cn
 m.wrating.com
 m.wsxxu.com
 m.wxhh678.com
@@ -2670,7 +2675,6 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
-new.yokaunion.com
 news-imgpb.51y5.net
 news.docer.com
 news.hk.msn.com
@@ -2696,6 +2700,7 @@ ninjaproxy.ninja
 ninth.biz
 niwd.zhybw88.com
 njdijiani.com
+njmpacc.com
 njs.imagicskin.com
 njs.myyage.com
 njwxh.com
@@ -2863,6 +2868,7 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
+pingbi.diudou.com
 pingshetrip.com
 pixiu.shangshufang.ksosoft.com
 playad.xjmg.com
@@ -3003,6 +3009,7 @@ renren2.maoyun.tv
 res.cocounion.com
 res.dxpmedia.com
 res.icast.cn
+res.ipingke.com
 res.limei.com
 res3.feedsportal.com
 resetgey.com
@@ -3081,6 +3088,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yjkyj.cn
@@ -3186,6 +3194,7 @@ shke.kuuad.com
 shop.admin.yinyuetai.com
 shop.yinyuetai.com
 shoppingpartners2.futurenet.com
+show.qx15.com
 show.xiazai16.com
 showcase.vpsboard.com
 showing.hardwareheaven.com
@@ -3644,7 +3653,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3817,6 +3825,7 @@ xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
+xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
 xianchawang.net
@@ -3849,7 +3858,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
-xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpj8088.com
 xpjkf888.com
@@ -3889,6 +3897,7 @@ yatemy.cn
 ybp.yahoo.com
 ychml.com
 ychun03.com
+ydjs.zol.com.cn
 ydlnt.com
 yes1.feng.com
 yesbeby.whies.info
