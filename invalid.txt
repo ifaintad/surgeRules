@@ -1,7 +1,6 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
 0086555.com
-01.gxso.net
 018520.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -53,6 +52,7 @@
 176um.com
 17leyi.com
 17un.co
+186078.com
 1933000.com
 1989report.hkja.org.hk
 1998cdp.org
@@ -155,6 +155,7 @@
 706529.com
 71sem.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -178,6 +179,7 @@
 818mov.com
 8269996.com
 8368661.com
+849558.com
 85058s.com
 8521448.com
 85655095.com
@@ -201,6 +203,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9dtiny.cn
@@ -210,6 +213,7 @@ a-dxk.play.api.3g.youku.com
 a.198banjia.com
 a.53yao.com
 a.5ykj.com
+a.80982.org
 a.armystar.com
 a.baidu.cn
 a.beilamusi.com
@@ -217,6 +221,7 @@ a.benshiw.net
 a.ckm.iqiyi.com
 a.clipconverter.cc
 a.cn.duoyi.com
+a.dangdang.com
 a.dounanhuahui.com
 a.duanmeiwen.com
 a.e.f.ip6.arpa
@@ -255,6 +260,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -682,7 +688,6 @@ bannera.kingsoft-office-service.com
 banners.beevpn.com
 banners.expressindia.com
 base.filedot.xyz
-bax.xiawu.com
 bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
@@ -716,7 +721,6 @@ bdcode.gaosan.com
 bdd.hainan.net
 bdj.tianya.cn
 bdj.tianyaui.cn
-bdjiaoben.wmxa.cn
 bdjs.6237237.com
 bdjs.99.com.cn
 bdjs.faxingzhan.com
@@ -904,6 +908,7 @@ cc.xtgreat.com
 cc.yac8.com
 cca.mob.com
 ccbaihehq.com
+cccrir.com
 ccdtr.org
 cdgxq.com
 cdhoc.piyaji.cn
@@ -959,7 +964,6 @@ chmae.com
 chnhty.com
 ciajingman.com
 cindy17club.com
-cip6.czpush.com
 circlethebayfortibet.org
 cishantao.com
 citizenscommission.hk
@@ -1055,7 +1059,6 @@ cpro2.baidu.cn
 cpro2.baidu.com
 cpu-admin.baidu.com
 cpv.channelray
-cpv.czpush.com
 cpv.ty229.com
 cpva.cc
 cqfangduan.com
@@ -1172,7 +1175,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1515,7 +1517,6 @@ falundata.com
 falundata.org
 falunworld.net
 fan-qiang.com
-fan.liuxiaoer.com
 fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
@@ -1964,6 +1965,7 @@ jack.okkkk.com
 jackaow.com
 jandyx.com
 janwongphoto.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2175,7 +2177,6 @@ kuaikaiapp.com
 kuaipai666.cn
 kudifish.com
 kuwoyy.com
-kuyic.m.gxwztv.com
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
@@ -2222,12 +2223,12 @@ live.tvpot.daum.net
 liveupdate.mac.sandai.net
 livingonline.us
 livingyourambition.com
-lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
 lm.dawenxue.org
 lm.souid.com
+lmwap.awtks.com
 lnr2.com
 loandatec.com
 localnetwork.uop
@@ -2383,7 +2384,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2399,6 +2399,7 @@ m.nduop.com
 m.nejup.com
 m.nernv.com
 m.niegg.com
+m.nouaa.com
 m.ntxiangtai.com
 m.nuxyz.cn
 m.nwxzs.com
@@ -2864,14 +2865,15 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
-pingbi.diudou.com
 pingshetrip.com
 pixiu.shangshufang.ksosoft.com
+pj5189.com
 pj550077.com
 playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3195,7 +3197,6 @@ show.xiazai16.com
 showcase.vpsboard.com
 showing.hardwareheaven.com
 shows.21cn.com
-shtt.shuqw.com
 shucaihangjia.com
 shzyjbr.wtdtjs.rocks
 sicentlife.com
@@ -3307,7 +3308,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3341,7 +3341,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.fastclick.net
 sync.teamrtb.net
 sync.tidaltv.com
@@ -3352,6 +3351,7 @@ sytz1288.com
 szggdw.com
 szshouzhai.com
 szxc868.com
+szxpsg.com
 szyr474.com
 t.2d-c.cn
 t.adcrops.net
@@ -3483,6 +3483,7 @@ twb98.com
 twblogger.com
 tweeplike.me
 tweepmag.com
+tweetboner.biz
 tweetmylast.fm
 tweets.seraph.me
 twimg.edgesuite.net
@@ -3856,7 +3857,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
-xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpj8088.com
 xpjkf888.com
@@ -3960,7 +3960,6 @@ zgsddh.com
 zgty365.com
 zgzcjj.net
 zhanbin.net
-zheng.cs12d.com
 zhinengluyou.com
 zhongmeng.org
 zhreader.com

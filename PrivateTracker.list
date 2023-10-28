@@ -16,6 +16,7 @@ DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
 DOMAIN,carr.codes
+DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
@@ -26,9 +27,10 @@ DOMAIN,explodie.org
 DOMAIN,fe.dealclub.de
 DOMAIN,fh2.cmp-gaming.com
 DOMAIN,free.publictracker.xyz
-DOMAIN,hub.bugout.link
+DOMAIN,freedomalternative.com
 DOMAIN,incine.ru
 DOMAIN,ipv6.fuuuuuck.com
+DOMAIN,isk.richardsw.club
 DOMAIN,mail.artixlinux.org
 DOMAIN,movies.zsw.ca
 DOMAIN,new-line.net
@@ -50,11 +52,9 @@ DOMAIN,opentracker.io
 DOMAIN,p2p.0g.cx
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
-DOMAIN,pirate.hz.is
 DOMAIN,private.anonseed.com
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run-2.publictracker.xyz
@@ -79,7 +79,9 @@ DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.4.babico.name.tr
+DOMAIN,tracker.6.babico.name.tr
 DOMAIN,tracker.artixlinux.org
+DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
@@ -89,7 +91,6 @@ DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.filemail.com
@@ -98,6 +99,7 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
+DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.cf
@@ -121,7 +123,6 @@ DOMAIN,tracker.therarbg.com
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.zerobytes.xyz
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
