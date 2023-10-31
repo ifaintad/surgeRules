@@ -2567,6 +2567,7 @@ DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
@@ -2829,7 +2830,6 @@ DOMAIN-SUFFIX,ninjacloak.com
 DOMAIN-SUFFIX,nintendium.com
 DOMAIN-SUFFIX,nitter.cc
 DOMAIN-SUFFIX,nitter.net
-DOMAIN-SUFFIX,nitter.pussthecat.org
 DOMAIN-SUFFIX,niu.moe
 DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,njactb.org
@@ -4119,6 +4119,7 @@ DOMAIN-SUFFIX,twapperkeeper.com
 DOMAIN-SUFFIX,twaud.io
 DOMAIN-SUFFIX,twavi.com
 DOMAIN-SUFFIX,twbbs.org
+DOMAIN-SUFFIX,twblogger.com
 DOMAIN-SUFFIX,tweepguide.com
 DOMAIN-SUFFIX,tweepml.org
 DOMAIN-SUFFIX,tweetbackup.com
