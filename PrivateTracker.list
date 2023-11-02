@@ -15,7 +15,6 @@ DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
 DOMAIN,carr.codes
-DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
@@ -51,7 +50,6 @@ DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run-2.publictracker.xyz
@@ -69,7 +67,6 @@ DOMAIN,tamas3.ynh.fr
 DOMAIN,thinking.duckdns.org
 DOMAIN,thouvenin.cloud
 DOMAIN,tk1.trackerservers.com
-DOMAIN,tk1v6.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
@@ -79,7 +76,6 @@ DOMAIN,tracker.4.babico.name.tr
 DOMAIN,tracker.6.babico.name.tr
 DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.birkenwald.de
-DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
@@ -111,6 +107,7 @@ DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.swateam.org.uk
