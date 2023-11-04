@@ -1,7 +1,6 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
 0086555.com
-01.gxso.net
 018520.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -76,7 +75,6 @@
 2016bobo.cf
 2017.hk
 2017img.myxh999.com
-22.qingsongbar.com
 22lm.cc
 235123.net
 24haitao.net
@@ -158,6 +156,7 @@
 706529.com
 71sem.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -260,7 +259,6 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -424,7 +422,6 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
-adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -455,6 +452,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -524,6 +522,7 @@ alvares.esportsheaven.com
 am.zdnet.com.cn
 amazingmagics.com
 amnyemachen.org
+amoiist.com
 amps.yoyi.com.cn
 ams.fx678.com
 ana.tatahn.com
@@ -750,7 +749,6 @@ beijingzx.org
 beilamusi.com
 bes-progfree.com
 bestforchina.org
-bestvpnusa.com
 bgrndi.com
 bhjac.azvub.cn
 biantailajiao.in
@@ -794,7 +792,6 @@ bnews.co
 bob.crazyshit.com
 bobo.corp.163.com
 bole.shangshufang.ksosoft.com
-boomssr.com
 borsendental.com
 br.hao123.com
 brakefluid.website
@@ -1454,6 +1451,7 @@ e7002.com
 e70123.com
 e704.net
 e719.net
+eastturkistan-gov.org
 eastturkistancc.org
 echatu.com
 eclick.baidu.cn
@@ -2012,7 +2010,6 @@ jjx.xjtxcj.com
 jjxgly.com
 jjyy.gaopengqcdz.cn
 jkmxy.com
-jmgehn.cn
 jmonitor.jiuzhilan.com
 jnrsjm.com
 jobso.tv
@@ -2216,8 +2213,6 @@ lessplay.com
 lfyuanai.com
 lhafy.com
 li.anyysz.com
-lib.haotv8.com
-liba.haotv8.com
 libredd.it
 lightson.vpsboard.com
 lingdian98.com
@@ -2269,6 +2264,7 @@ m.0531mnk.net
 m.107279.com
 m.118ex.cn
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2465,7 +2461,6 @@ m.wgewj.cn
 m.wjhehaofc.com
 m.wkjhd.com
 m.wonwg.com
-m.wooboo.com.cn
 m.wrating.com
 m.wsxxu.com
 m.wxhh678.com
@@ -2709,6 +2704,7 @@ njdijiani.com
 njmpacc.com
 njs.imagicskin.com
 njs.myyage.com
+njs.reliancevalve.com
 njwxh.com
 njxczy.com
 nkeo.top
@@ -2877,6 +2873,7 @@ pindao.huoban.taobao.com
 ping.weiduofan.com
 pingshetrip.com
 pixiu.shangshufang.ksosoft.com
+pj5189.com
 pj550077.com
 playad.xjmg.com
 player.1800coupon.com
@@ -3222,7 +3219,6 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
-siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3413,6 +3409,7 @@ tdcv3.talkingdata.net
 tdrec.youku.com
 tech2.in.com
 teen.77rog.com
+telegram-cdn.org
 tellapart.com
 terren.cntv.cn
 test.eduancm.com
@@ -3572,7 +3569,6 @@ uranus.sohu.com
 urh.tylll.com
 urhu.cn
 url.222bz.com
-url.tudown.com
 urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
@@ -3646,7 +3642,6 @@ vpnintouch.net
 vt.bjhdonline.com
 vtale.org
 vvlog.moviebox.baofeng.com
-vvv.ieduw.com
 vvvulqn7.com
 vwkhdi.cn
 vz-cdn.trafficjunky.net
@@ -3666,7 +3661,6 @@ w5sac788c1.360doc.cn
 waigaobu.com
 waiwaier.com
 wallornot.org
-wan.360.cn
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3871,7 +3865,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
-xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpj8088.com
 xpjkf888.com
