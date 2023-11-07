@@ -128,7 +128,6 @@
 51jumintong.com
 51weidashi.com
 5207470.com
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -180,6 +179,7 @@
 818mov.com
 8269996.com
 8368661.com
+846.move7.com
 849558.com
 85058s.com
 8521448.com
@@ -259,6 +259,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -346,7 +347,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -370,6 +370,7 @@ ad.wappalyzer.com
 ad.winningpartner.com
 ad.xiaomi.com
 ad.xxguan.cn
+ad.ylunion.com
 ad.zdworks.com
 ad000000.com
 ad1.greedland.net
@@ -693,6 +694,7 @@ bannera.kingsoft-office-service.com
 banners.beevpn.com
 banners.expressindia.com
 base.filedot.xyz
+bax.xiawu.com
 bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
@@ -850,6 +852,7 @@ c.mobishu.com
 c.netu.tv
 c.ningbojipiao.com
 c.okmgy.cn
+c.panqis.cn
 c.panqishu.com
 c.piliangzhuce.cn
 c.ptffw.net
@@ -985,10 +988,12 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
 clk.dxpmedia.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1225,6 +1230,7 @@ dm.yjbys.com
 dm1.tom61.com
 dm50.yxlady.com
 dn3.ixinwei.com
+dn7788.com
 dnvus.com
 do.lymstsc.com
 do69ifsly4.me
@@ -1322,6 +1328,7 @@ e.diupp.com
 e.dnfeu.com
 e.dsjre.com
 e.dxmci.com
+e.dzairen.com
 e.e7001.com
 e.e70123.com
 e.ehxyz.com
@@ -1792,6 +1799,7 @@ hpqxznpb.bid
 hrcir.com
 hslyqs.com
 ht.www.sogou.com
+htfmbt.com
 html.350.com
 html.yuntzs.com
 hua-yue.net
@@ -1810,6 +1818,7 @@ hwt.player888.cn
 hxadt.com
 hxueu.code.weddingeeos.com
 hytgj.com
+hyz86.com
 hz.shouyoutv.com
 hz.youku.com
 hzaibi.com
@@ -1969,6 +1978,7 @@ jackaow.com
 jagcn.com
 jandyx.com
 janwongphoto.com
+jav23.com
 javmoo.xyz
 jb.asqql.com
 jb.dianshu119.com
@@ -2680,6 +2690,7 @@ network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
 new.ltheanine.cn
+new.yokaunion.com
 news-imgpb.51y5.net
 news.docer.com
 news.hk.msn.com
@@ -2809,6 +2820,7 @@ p.yizuya.com
 p.ynjczy.net
 p1.18zhongyao.com
 p1.qinsx.cn
+p2.hyz86.com
 p2.qinsx.cn
 p2.ykauto.cn
 p2pmid.baofeng.com
@@ -2950,6 +2962,7 @@ qanote.com
 qbyy010.com
 qchannel0d.cn
 qd.moutaihotel.cn
+qd.wanjuanba.com
 qd.x4399.com
 qeoa.hawbfa.com
 qgss8.com
@@ -3012,6 +3025,7 @@ rcyy3.kaopuwangjz.com
 rd.ane.yahoo.co.jp
 rd.e.sogou.com
 rdiqt.cn
+rec.moviebox.baofeng.net
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
@@ -3029,7 +3043,6 @@ rfir2.50w.me
 rh.code.jjyx.com
 rh.greenbetterkids.com
 richmedia.yimg.com
-river.zhidao.baidu.com
 rj.baidu.cn
 rj.baidu.com
 rk.rongchengxxw.com
@@ -3111,7 +3124,6 @@ s.zgclmw.cn
 s.zjhoudao.com
 s.zxwdw.com
 s1.cmfu.com
-s1.hiapk.com
 s1.hnhbyxdq.com
 s1.huiqituan.com
 s1.iigushi.com
@@ -3122,7 +3134,6 @@ s1.qiqutt.com
 s1.tansuotv.com
 s1heng.com
 s2.dnaxddnc.com
-s2.hiapk.com
 s2.kuaibaopay.com
 s2.mingmingtehui.com
 s2.yandui.com
@@ -3227,6 +3238,7 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
+siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3252,6 +3264,7 @@ soft.chaomeng8.com
 softsmirror.cf
 sohu.irs01.com
 sohu.wrating.com
+somennew.com
 sonicbbs.cc
 sonomoyo.com
 sorazone.net
@@ -3358,7 +3371,6 @@ sy.shongcheng.com
 sy.sxjxhg.com
 syilm.net
 symaj.cn
-sync-eu.exe.bid
 sync.extend.tv
 sync.fastclick.net
 sync.teamrtb.net
@@ -3659,7 +3671,6 @@ vz-cdn.trafficjunky.net
 w.bobocn.cn
 w.cube3d.cn
 w.homes.yahoo.net
-w.idaiwan.com
 w.jscsd.cn
 w.werpig.com
 w.x.baidu.com
@@ -3683,7 +3694,6 @@ wap.138lm.com
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
@@ -3980,6 +3990,7 @@ zgzcjj.net
 zhanbin.net
 zheng.cs12d.com
 zhinengluyou.com
+zhiyuanteam.com
 zhongmeng.org
 zhreader.com
 zhuba8.com
