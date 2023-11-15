@@ -60,7 +60,6 @@
 1d1px.net
 1e2hyl3b.wq42211.com
 1i580.com
-1lib.cloud
 1lib.tw
 1uandun.com
 2.0.192.in-addr.arpa
@@ -129,7 +128,6 @@
 51jumintong.com
 51weidashi.com
 5207470.com
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -158,6 +156,7 @@
 706529.com
 71sem.com
 73.sinawap.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -259,7 +258,9 @@ a1.gexing.me
 a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
+a2.b310.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -694,6 +695,7 @@ bannera.kingsoft-office-service.com
 banners.beevpn.com
 banners.expressindia.com
 base.filedot.xyz
+bax.xiawu.com
 bb.tuku.cc
 bbcc.yxlady.com
 bbcoe.cn
@@ -706,7 +708,7 @@ bbsfeed.com
 bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
-bd.ershenghuo.com
+bcex.ca
 bd.soarfi.cn
 bd.wayqq.cn
 bd1.365qilu.com
@@ -717,7 +719,6 @@ bd1.jobui.com
 bd1.nipic.com
 bd1.wowoqq.com
 bd2.52che.com
-bd2.flfgw.cn
 bd2.home8080.cn
 bd2.jobui.com
 bd2.nipic.com
@@ -816,7 +817,6 @@ bt641499.gotoip4.com
 bthergyuan.com
 btku.me
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -991,6 +991,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1176,7 +1177,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1194,6 +1194,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkdlsj.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1492,6 +1493,7 @@ eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
 evoke-windowsservices-tas.msedge
+ew16d.package12.com
 exp.17wo.cn
 exp.qumi.com
 ext.theglobalweb.com
@@ -1525,6 +1527,7 @@ falundata.com
 falundata.org
 falunworld.net
 fan-qiang.com
+fan.liuxiaoer.com
 fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
@@ -1603,7 +1606,6 @@ fz863.com
 fzh999.com
 fzh999.net
 fzz.cloud.1234507.com
-g.chuiyao.com
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -1660,7 +1662,6 @@ gg.stargame.com
 gg.yxdown.com
 gg.zhongyao1.com
 gg0376.com
-gg1.yszyz.com
 gg2.dss9927.com
 ggb.douguo.com
 ggdoubi.com
@@ -2175,7 +2176,6 @@ kn.archrug.com
 kn.barnfps.com
 kn.bjbrtc.com
 kn.chapnap.com
-kn.chgdf.cn
 kn.czzdf.com
 kn.gzcce.cn
 kn.qhdfxkj.com
@@ -2229,10 +2229,10 @@ leirentv.ca
 leju.sina.com.cn
 leorockwell.com
 lerosua.org
-lessplay.com
 lfyuanai.com
 lhafy.com
 li.anyysz.com
+liba.haotv8.com
 libredd.it
 lightson.vpsboard.com
 lingdian98.com
@@ -2245,6 +2245,7 @@ live.tvpot.daum.net
 liveupdate.mac.sandai.net
 livingonline.us
 livingyourambition.com
+lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2375,6 +2376,7 @@ m.hmzsfmjc.com
 m.hogyp.com
 m.hpfjy.com
 m.hsbkr.com
+m.huanyuexpress.com
 m.huyulh.com
 m.hyzui.com
 m.icyrd.com
@@ -2491,6 +2493,7 @@ m.xkqpco.com
 m.xlsschina15.net
 m.xmgysweb.com
 m.yangjingbang.net
+m.yicang8.com
 m.yingchengtou.com
 m.youweiprint.com
 m.yoyi.com.cn
@@ -2529,7 +2532,6 @@ maipinshangmao.com
 maisoncherry.com
 market.178.com
 market.21cn.com
-martincartoons.com
 mass.mall044.com
 match.rtbidder.net
 match.rundsp.com
@@ -2869,6 +2871,7 @@ photo.xunhuaji.cn
 photo.zhanhevr.cn
 pic.2u.com.cn
 pic.adver.com.tw
+pic.by175.com
 pic.casee.cn
 pic.eduancm.com
 pic.fengniao.com
@@ -2881,6 +2884,7 @@ pic.usingde.com
 pic1.onetad.com
 pic183025.images9999.com
 pic2.onetad.com
+pic2016.5442.com
 pic3.onetad.com
 pic494036.images9999.com
 pic8.onetad.com
@@ -3031,6 +3035,7 @@ rencai56.com
 renren2.maoyun.tv
 res.cocounion.com
 res.icast.cn
+res.ipingke.com
 res.limei.com
 res3.feedsportal.com
 resetgey.com
@@ -3302,6 +3307,7 @@ ssh.yezijizhang.com
 ssjy168.com
 ssl.hyhzy.cn
 ssl.ymapp.com
+ssp.4hw.com.cn
 ssp.chaohutechan.com
 ssp.daxueshengqiandai.com
 ssp.dmpdsp.com
@@ -3524,6 +3530,7 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3548,6 +3555,7 @@ ucxxii.com
 udata.mixmarket.biz
 udc.msn.com
 udrwyjpwjfeg.com
+ueadlian.com
 uebawtz7.me
 ugg.keefung-zs.com
 ugg66.com
@@ -3588,6 +3596,7 @@ uranus.sohu.com
 urh.tylll.com
 urhu.cn
 url.222bz.com
+url.tudown.com
 urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
@@ -3661,6 +3670,7 @@ vpnintouch.net
 vt.bjhdonline.com
 vtale.org
 vvlog.moviebox.baofeng.com
+vvv.ieduw.com
 vvvulqn7.com
 vwkhdi.cn
 vz-cdn.trafficjunky.net
@@ -3896,6 +3906,7 @@ xtcdbb.cn
 xtzxmy.com
 xul478.com
 xuzhiyong.net
+xx.m.gxwztv.com
 xxad.cc
 xxguan.cn
 xxhrd.com
