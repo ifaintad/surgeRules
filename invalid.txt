@@ -129,7 +129,6 @@
 51jumintong.com
 51weidashi.com
 5207470.com
-537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -674,7 +673,6 @@ b92.putniktravel.com
 b9377h.com
 b99u.top
 ba.fqzds.com
-baby.yf898.com
 bad1.51gxqm.com
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
@@ -995,7 +993,6 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1181,6 +1178,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1198,6 +1196,7 @@ dip.zgydjr.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkdlsj.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1225,6 +1224,7 @@ dm.jy135.com
 dm.ppzuowen.com
 dm.riji.cn
 dm.sanwen8.com
+dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
 dm50.yxlady.com
@@ -1327,6 +1327,7 @@ e.diupp.com
 e.dnfeu.com
 e.dsjre.com
 e.dxmci.com
+e.dzairen.com
 e.e7001.com
 e.e70123.com
 e.ehxyz.com
@@ -1663,6 +1664,7 @@ gg.stargame.com
 gg.yxdown.com
 gg.zhongyao1.com
 gg0376.com
+gg1.yszyz.com
 gg2.dss9927.com
 ggb.douguo.com
 ggdoubi.com
@@ -1881,7 +1883,6 @@ img.9duw.com
 img.ad.zhangyue.com
 img.adnyg.com
 img.cxxyft.com
-img.dydab.com
 img.ercfh.com
 img.gou.wpscdn.cn
 img.gz9d.com
@@ -2083,6 +2084,7 @@ js.xiansuper.com
 js.xtgreat.com
 js.ydeprint.com
 js.yixui.com
+js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
 js1.zuocai.tv
@@ -2200,6 +2202,7 @@ kuaikaiapp.com
 kuaipai666.cn
 kudifish.com
 kuwoyy.com
+kuyic.m.gxwztv.com
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
@@ -2247,6 +2250,7 @@ live.tvpot.daum.net
 liveupdate.mac.sandai.net
 livingonline.us
 livingyourambition.com
+lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2714,7 +2718,6 @@ ngodupdongchung.com
 nic.cz.cc
 nighost.org
 ninebox.cn
-ninjaproxy.ninja
 ninth.biz
 nitter.pussthecat.org
 niwd.zhybw88.com
@@ -3109,8 +3112,10 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
+s.yfycy.com
 s.yjkyj.cn
 s.youmi.net
 s.ysxufeng.com
@@ -3680,6 +3685,7 @@ waigaobu.com
 waiwaier.com
 wallornot.org
 wan.360.cn
+wan.sohu.com
 wangdaizao.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
@@ -3757,7 +3763,6 @@ woaizhongguo.cdn111222.com
 wodhid.com
 woesermiddle-way.net
 workerdemo.org.hk
-worldh5.gamehz.cn
 wow-life.net
 wowips.com
 wowlegacy.ml
@@ -3928,6 +3933,7 @@ ydlnt.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
+yfycy.com
 yhtcd.com
 yidulive.net
 yigyx.com
