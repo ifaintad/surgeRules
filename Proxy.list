@@ -176,6 +176,7 @@ DOMAIN-SUFFIX,airconsole.com
 DOMAIN-SUFFIX,airvpn.org
 DOMAIN-SUFFIX,aisex.com
 DOMAIN-SUFFIX,aiweiwei.com
+DOMAIN-SUFFIX,aiweiweiblog.com
 DOMAIN-SUFFIX,akademiye.org
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akiba-online.com
@@ -1785,7 +1786,6 @@ DOMAIN-SUFFIX,hacg.club
 DOMAIN-SUFFIX,hacg.in
 DOMAIN-SUFFIX,hacg.li
 DOMAIN-SUFFIX,hacg.me
-DOMAIN-SUFFIX,hacg.red
 DOMAIN-SUFFIX,hacken.cc
 DOMAIN-SUFFIX,hacker.org
 DOMAIN-SUFFIX,hackmd.io
@@ -3325,6 +3325,7 @@ DOMAIN-SUFFIX,religioustolerance.org
 DOMAIN-SUFFIX,renminbao.com
 DOMAIN-SUFFIX,renyurenquan.org
 DOMAIN-SUFFIX,research.google
+DOMAIN-SUFFIX,research.jmsc.hku.hk
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,resistchina.org
 DOMAIN-SUFFIX,retweetist.com
@@ -4535,7 +4536,6 @@ DOMAIN-SUFFIX,wiki.oauth.net
 DOMAIN-SUFFIX,wiki.phonegap.com
 DOMAIN-SUFFIX,wikileaks-forum.com
 DOMAIN-SUFFIX,wikileaks.ch
-DOMAIN-SUFFIX,wikileaks.com
 DOMAIN-SUFFIX,wikileaks.lu
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikileaks.pl
