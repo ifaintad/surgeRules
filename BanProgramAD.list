@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,ad-channel.wikawika.xyz
 DOMAIN-SUFFIX,ad-display.wikawika.xyz
 DOMAIN-SUFFIX,ad.docer.wps.cn
+DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
 DOMAIN-SUFFIX,ads.cdn.tvb.com
 DOMAIN-SUFFIX,ads.csdn.net
@@ -162,7 +163,6 @@ DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,theta.sogou.com
 DOMAIN-SUFFIX,tj.kugou.com
 DOMAIN-SUFFIX,tob-cms.bj.bcebos.com
-DOMAIN-SUFFIX,tongji.home.soufun.com
 DOMAIN-SUFFIX,tongji.meizu.com
 DOMAIN-SUFFIX,track.hujiang.com
 DOMAIN-SUFFIX,tui.weibo.com
@@ -190,4 +190,3 @@ DOMAIN-SUFFIX,youtube.112.2o7.net
 DOMAIN-SUFFIX,youtube.2cnt.net
 DOMAIN-SUFFIX,yule.sohu.com
 DOMAIN-SUFFIX,zhushou.2345.cn
-IP-CIDR,101.227.200.0/24,no-resolve

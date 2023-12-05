@@ -13,6 +13,7 @@ DOMAIN,bt.rer.lol
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
+DOMAIN,carr.codes
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -37,8 +38,10 @@ DOMAIN,nyaa.tracker.wf
 DOMAIN,odd-hd.fr
 DOMAIN,oh.fuuuuuck.com
 DOMAIN,open.acgnxtracker.com
+DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
@@ -48,7 +51,6 @@ DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
 DOMAIN,private.anonseed.com
 DOMAIN,public-tracker.cf
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run-2.publictracker.xyz
@@ -57,7 +59,6 @@ DOMAIN,ryjer.com
 DOMAIN,sabross.xyz
 DOMAIN,sanincode.com
 DOMAIN,static.54.161.216.95.clients.your-server.de
-DOMAIN,su-data.com
 DOMAIN,t.nyaatracker.com
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
@@ -84,12 +85,10 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
-DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
-DOMAIN,tracker.gcrreen.xyz
 DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
@@ -129,6 +128,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,trackers.mlsub.net
+DOMAIN,ts.populargamers.co.za
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
@@ -266,13 +266,3 @@ DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
-IP-CIDR,119.28.71.45/32,no-resolve
-IP-CIDR,184.105.151.166/32,no-resolve
-IP-CIDR,207.241.226.111/32,no-resolve
-IP-CIDR,207.241.231.226/32,no-resolve
-IP-CIDR,46.17.46.112/32,no-resolve
-IP-CIDR,49.12.76.8/32,no-resolve
-IP-CIDR,52.58.128.163/32,no-resolve
-IP-CIDR,91.216.110.52/32,no-resolve
-IP-CIDR6,2001:1b10:1000:8101:0:242:ac11:2/128,no-resolve
-IP-CIDR6,2001:470:1:189:0:1:2:3/128,no-resolve
