@@ -39,7 +39,8 @@ def get_raw_list(url, n_retries=5, token=None):
     resp = session.get(url, headers=headers)
     raw_list = [
         r.strip().replace(" ", "") for r in resp.content.decode().split("\n")
-        if r.strip() and not r.strip().startswith("#")]
+        if r.strip() and not r.strip().startswith("#")
+        and not len(r.split(",")) > 2]
 
     return raw_list
 
