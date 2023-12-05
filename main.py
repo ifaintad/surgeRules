@@ -40,7 +40,7 @@ def get_raw_list(url, n_retries=5, token=None):
     raw_list = [
         r.strip().replace(" ", "") for r in resp.content.decode().split("\n")
         if r.strip() and not r.strip().startswith("#")
-        and not len(r.split(",")) > 2]
+        and not len(r.split(",")) > 3 and not ("(" in r or ")" in r)]
 
     return raw_list
 
