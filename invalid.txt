@@ -1,6 +1,7 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
 0086555.com
+01.gxso.net
 018520.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -261,6 +262,7 @@ a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
 a3p4.net
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -343,7 +345,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -434,6 +435,7 @@ adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
 adshows.21cn.com
+adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -449,6 +451,7 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
+adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -579,7 +582,6 @@ apklog.cp11.ott.cibntv.net
 apnmedia.ask.com
 app.9yyg.cn
 app.abc000.today
-app.aplus.pptv.com
 app.eduancm.com
 app.evozi.com
 app.heywire.com
@@ -671,6 +673,7 @@ b9377h.com
 b99u.top
 ba.fqzds.com
 bad1.51gxqm.com
+badao37.net
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
@@ -807,6 +810,7 @@ brcache.madthumbs.com
 breeze.olclient.baofeng.com
 breezily168.com
 brizads.com
+bs.5442.com
 bs14.9669.cn
 bsdev.cn
 bshare.optimix.asia
@@ -1001,6 +1005,7 @@ clickstrip.6wav.es
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1186,7 +1191,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1538,7 +1542,6 @@ fangmincn.org
 fanqiangyakexi.net
 fansi365.com
 farm-cn.plista.com
-fastapi.net
 fastly.bench.cedexis.com
 fastpopunder.com
 fathionmall.com
@@ -1702,7 +1705,6 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
-gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -1723,6 +1725,7 @@ guaguass.org
 guang.lesports.com
 guangnianvpn.com
 guanjia.baidu.com
+guduopu.com
 guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
@@ -2218,6 +2221,7 @@ kuaikaiapp.com
 kuaipai666.cn
 kudifish.com
 kuwoyy.com
+kuyic.m.gxwztv.com
 kuzai.cooguo.com
 kxmav2.com
 kxrxh.com
@@ -2983,7 +2987,6 @@ qanote.com
 qbyy010.com
 qchannel0d.cn
 qd.moutaihotel.cn
-qd.wanjuanba.com
 qd.x4399.com
 qeoa.hawbfa.com
 qgss8.com
@@ -3133,6 +3136,7 @@ s.wapadv.com
 s.wrating.com
 s.wxktv.cn
 s.x.cn.xtgreat.com
+s.xcfe.cn
 s.xinghao89.com
 s.xmcmn.com
 s.yfycy.com
@@ -3423,6 +3427,7 @@ t2.vbxx.net
 t70123.com
 taat00889.com
 tactics.bainv.net
+taiwanjustice.com
 tajxgs.com
 tamiaode.tk
 tangoutianxia.com
@@ -3472,6 +3477,7 @@ thyvjboy.com
 thywords.com.tw
 tiads.time.com
 tiangoutai.com
+tianqi777.com
 tianti.io
 tianyantong.org.cn
 tianyanzs.com
@@ -3494,7 +3500,6 @@ tool.btrabbit.la
 toourbb.com
 top267.com
 tor.blingblingsquad.net
-torrentz.eu
 total.xinmin.cn
 toutiao.2haha.com
 toutiao.jxnews.com.cn
@@ -3806,6 +3811,7 @@ ws7j.com
 wsjhk.com
 wsoe.kwiago.com
 wsp.marketgid.com
+wtcpm.com
 wth.lenovomm.com
 wtpn.twenga.co.uk
 wtpn.twenga.de
@@ -3885,7 +3891,6 @@ xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
-xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
 xianchawang.net
@@ -3918,7 +3923,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
-xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpj8088.com
 xpjkf888.com
@@ -3962,7 +3966,6 @@ yeahteentube.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
-yfxpcode.m.gxwztv.com
 yfycy.com
 yhtcd.com
 yidulive.net
@@ -4013,7 +4016,6 @@ yzytb.com
 z.clickvip.shop
 zads.care2.com
 zae.gzzena.com
-zb.nxing.cn
 zbz.m.qxs.la
 zeus.qj.net
 zgdfz6h7po.me
