@@ -12641,6 +12641,7 @@ IP-CIDR,211.167.44.8/29,no-resolve
 IP-CIDR,211.167.45.0/24,no-resolve
 IP-CIDR,211.167.46.0/23,no-resolve
 IP-CIDR,211.167.48.0/20,no-resolve
+IP-CIDR,211.167.64.0/18,no-resolve
 IP-CIDR,211.167.8.0/21,no-resolve
 IP-CIDR,211.22.33.112/31,no-resolve
 IP-CIDR,211.22.33.224/31,no-resolve
