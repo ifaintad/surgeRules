@@ -15,8 +15,8 @@ BAN_PROGRAM_AD = {
 BANNING_RULES = [ADBLOCK, ADBLOCK3, HIJACKING, BAN_PROGRAM_AD]
 
 CHATGPT = {
-    "url": "https://raw.githubusercontent.com/ifaintad/surgeRules/build/ChatGPT.list",  # noqa
-    "domain_keywords": [],
+    "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/filter/OpenAI.list",  # noqa
+    "domain_keywords": ["openaicom-api"],
 }
 
 SPECIAL_PROXY_RULES_BEFORE_DIRECT = [
