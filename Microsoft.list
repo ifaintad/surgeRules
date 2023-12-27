@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,apihub-internal.cn
 DOMAIN-SUFFIX,apisof.net
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,applicationinsights.io
 DOMAIN-SUFFIX,applicationinsights.net
 DOMAIN-SUFFIX,appserviceenvironment.cn
@@ -76,6 +77,8 @@ DOMAIN-SUFFIX,azuredigitaltwins.net
 DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurefd.us
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
@@ -107,6 +110,7 @@ DOMAIN-SUFFIX,binads.com
 DOMAIN-SUFFIX,binb.com
 DOMAIN-SUFFIX,binf.com
 DOMAIN-SUFFIX,bing
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bing123.com
