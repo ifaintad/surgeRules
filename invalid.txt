@@ -126,7 +126,6 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 537901.com
 559gp.com
@@ -180,6 +179,7 @@
 818mov.com
 8269996.com
 8368661.com
+846.move7.com
 85058s.com
 8521448.com
 85655095.com
@@ -437,7 +437,6 @@ adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
 adshows.21cn.com
-adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -453,7 +452,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -930,6 +928,7 @@ ccbaihehq.com
 cccrir.com
 cdgxq.com
 cdig.info
+cdn.5bong.com
 cdn.adapi.fotoable.com
 cdn.adsk2.co
 cdn.aiclicash.com
@@ -1008,18 +1007,17 @@ clicklog.moviebox.baofeng.net
 clicks.beap.bc.yahoo.com
 clicks.superpages.com
 clickstrip.6wav.es
+client.88tours.com
 client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
 clk.dxpmedia.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
 cm.eyereturn.com
 cm.mct01.com
 cm.p4p.cn.yahoo.com
-cmshow.gtimg.cn
 cmule.org
 cn.api.push.le.com
 cn.dayabook.com
@@ -1098,7 +1096,6 @@ crs.baidu.cn
 cs.dqwjzm.com
 csbew.com
 csqiulong.com
-ct.210189.com
 ctfriend.net
 cuihua.org
 cupid.iqiyi.com
@@ -1198,7 +1195,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
 dh54wf.xyz
@@ -1266,6 +1262,7 @@ down.91wangmeng.com
 down.bugeyu.com
 down.dashendown.com
 down.xiazaiyuan.net
+downlaod.xiaocen.com
 download.zhushou.sogou.com
 download3.123cw.cn
 dp.559.cc
@@ -1676,6 +1673,7 @@ gg.stargame.com
 gg.yxdown.com
 gg.zhongyao1.com
 gg0376.com
+gg1.yszyz.com
 gg2.dss9927.com
 ggb.douguo.com
 ggdoubi.com
@@ -1708,6 +1706,7 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
+gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -2138,6 +2137,7 @@ js50.yxlady.com
 js5162.yongkang6.com
 js6882.mengchengbao.com
 js7004.hnfpgm.com
+js7129.dlkjgjmy.com
 js7129.shxqeps.com
 js7152.shxqeps.com
 js74.0937jyg.com
@@ -2269,6 +2269,7 @@ lerosua.org
 lfyuanai.com
 lhafy.com
 li.anyysz.com
+liba.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2441,6 +2442,7 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2929,6 +2931,7 @@ pictures.playboy.com
 pimg1.126.net
 pindao.huoban.taobao.com
 ping.weiduofan.com
+pingbi.diudou.com
 pingshetrip.com
 pixiu.shangshufang.ksosoft.com
 pj550077.com
@@ -3066,7 +3069,6 @@ rcyy3.kaopuwangjz.com
 rd.ane.yahoo.co.jp
 rd.e.sogou.com
 rdiqt.cn
-recreativ.ru
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
@@ -3280,6 +3282,7 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
+siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3327,7 +3330,6 @@ spt.dictionary.com
 sqd.jstdjq.com
 sqext.com
 sqtpks3.1391.com
-srcf.ucam.org
 srhuafeng.com
 srocket.us
 srv.thespacereporter.com
@@ -3873,6 +3875,7 @@ www.kindleren.com
 www.lamenhu.com
 www.wangruowang.org
 wwww.495495.com
+wwww.551144.com
 wwww.640640.com
 wwww.649649.com
 wx.paigu.com
@@ -3917,6 +3920,7 @@ xhmrv.com
 xhsxgmt.cn
 xhsxgnt.cn
 xhtd.99hg.wang
+xi.liuxiaoer.com
 xia.huishenghuiying.com
 xia.jihehuaban.com
 xianchawang.net
@@ -4052,7 +4056,6 @@ zgsddh.com
 zgty365.com
 zgzcjj.net
 zhanbin.net
-zheng.cs12d.com
 zhenlibu1984.com
 zhinengluyou.com
 zhiyuanteam.com
