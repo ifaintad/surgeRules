@@ -114,6 +114,25 @@ if extra_repo and extra_repo_token:
         "token": extra_repo_token
     }
 
+
+    SING_BOX_PACKAGES_ALWAYS_DIRECT = {
+        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/always_direct_packages",
+        "file_name": "AlwaysDirectPackages.list",
+        "has_prefix": False,
+        "filter_top_level_banned_domain": False,
+        "token": extra_repo_token,
+        "is_package": True
+    }
+
+    SING_BOX_PACKAGES_ALWAYS_PROXY = {
+        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/always_proxy_packages",
+        "file_name": "AlwaysProxyPackages.list",
+        "has_prefix": False,
+        "filter_top_level_banned_domain": False,
+        "token": extra_repo_token,
+        "is_package": True
+    }
+
     EXCLUDE_RULES = {
         "url": f"https://raw.githubusercontent.com/{extra_repo}/main/rules_exclude",
         "token": extra_repo_token

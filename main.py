@@ -143,7 +143,7 @@ class RuleSets:
 class RuleItem:
     def __init__(self, url, file_name=None, n_retries=10, has_prefix=True,
                  domain_keywords=None,
-                 filter_top_level_banned_domain=False, token=None):
+                 filter_top_level_banned_domain=False, token=None, is_package=False):
 
         raw_list = get_raw_list(url, n_retries=n_retries, token=token)
 
@@ -153,6 +153,7 @@ class RuleItem:
         self.filter_top_level_banned_domain = filter_top_level_banned_domain
 
         self.file_name = file_name or urlsplit(url).path.split("/")[-1]
+        self.is_package = is_package
 
         if token is None:
             self.ref_url = url
@@ -188,6 +189,9 @@ class RuleItem:
                 if r.startswith("DOMAIN-SUFFIX,")]
         else:
             ret = self.raw_list
+
+        if self.is_package:
+            return []
 
         return [
             r.lstrip(".").rstrip(".")
@@ -288,6 +292,20 @@ class RuleItem:
                 [f"DOMAIN-SUFFIX,{tld}" for tld in TOP_LEVEL_DOMAINS])
 
         rule_list = sorted(list(set(rule_list)))
+
+        with open(os.path.join(output_dir, self.file_name), "w") as f:
+            f.write("\n".join(sorted(rule_list)))
+
+    def write_packages(self, output_dir):
+        rule_list = self.list[:]
+        if self.ref_url:
+            rule_list.insert(0, f"# Based on {self.ref_url}")
+        else:
+            rule_list.insert(0, f"# Based on a private repo (unknown)")
+
+        rule_list = sorted(list(set(rule_list)))
+
+        rule_list = [f"PACKAGE-NAME,{r}" for r in rule_list]
 
         with open(os.path.join(output_dir, self.file_name), "w") as f:
             f.write("\n".join(sorted(rule_list)))
@@ -407,6 +425,12 @@ class SurgeRules:
             ruleset_obj = RuleItem(n_retries=self.n_retries, **ruleset)
             ruleset_obj.update_list([])
             ruleset_obj.write_rules(self.output_dir)
+
+        for ruleset in [
+                rulesets.SING_BOX_PACKAGES_ALWAYS_DIRECT,
+                rulesets.SING_BOX_PACKAGES_ALWAYS_PROXY]:
+            ruleset_obj = RuleItem(n_retries=self.n_retries, **ruleset)
+            ruleset_obj.write_packages(self.output_dir)
 
     def build_extra_proxy_list(
             self, proxy_rule_set: RuleSets, exist_rules, invalid_domains):
