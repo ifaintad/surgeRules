@@ -298,14 +298,13 @@ class RuleItem:
 
     def write_packages(self, output_dir):
         rule_list = self.list[:]
+        rule_list = sorted(list(set(rule_list)))
+        rule_list = [f"PACKAGE-NAME,{r}" for r in rule_list]
+
         if self.ref_url:
             rule_list.insert(0, f"# Based on {self.ref_url}")
         else:
             rule_list.insert(0, f"# Based on a private repo (unknown)")
-
-        rule_list = sorted(list(set(rule_list)))
-
-        rule_list = [f"PACKAGE-NAME,{r}" for r in rule_list]
 
         with open(os.path.join(output_dir, self.file_name), "w") as f:
             f.write("\n".join(sorted(rule_list)))
