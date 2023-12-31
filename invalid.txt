@@ -1,7 +1,6 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
 0086555.com
-01.gxso.net
 018520.com
 01daa.lubih.com
 01daa.lutgh.com
@@ -65,7 +64,6 @@
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
-2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
 201071.com
@@ -128,6 +126,7 @@
 51jumintong.com
 51weidashi.com
 5207470.com
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -179,6 +178,7 @@
 818mov.com
 8269996.com
 8368661.com
+846.move7.com
 85058s.com
 8521448.com
 85655095.com
@@ -237,7 +237,6 @@ a.lolwot.com
 a.ltdnc.com
 a.lwinl.com
 a.lz13.cn
-a.m.gxwztv.com
 a.market.xiaomi.com
 a.mct01.com
 a.mjlnbx.cn
@@ -368,6 +367,7 @@ ad.wappalyzer.com
 ad.winningpartner.com
 ad.xiaomi.com
 ad.xxguan.cn
+ad.ylunion.com
 ad.zdworks.com
 ad000000.com
 ad1.greedland.net
@@ -686,6 +686,7 @@ baidujs.cnys.com
 baidutv.baidu.com
 baiduzhidahao.cc
 baiwanchuangyi.com
+baixing.me
 bakgeekhome.tk
 banlv.baidu.com
 banner.automotiveworld.com
@@ -713,12 +714,13 @@ bbsfeed.com
 bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
+bcjxf.bugsevent.com
+bd.ershenghuo.com
 bd.soarfi.cn
 bd.wayqq.cn
 bd1.365qilu.com
 bd1.52che.com
 bd1.fengdu100.com
-bd1.flfgw.cn
 bd1.home8080.cn
 bd1.jobui.com
 bd1.nipic.com
@@ -1012,6 +1014,7 @@ client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
 clk.dxpmedia.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1124,6 +1127,7 @@ d.mingyihui.net
 d.ruiwen.com
 d.thelocal.com
 d.tjgxzs.com
+d.tonghua5.com
 d.yjbys.com
 d.yoyi.com.cn
 d1b183sg0nvnuh.cloudfront.net
@@ -1217,6 +1221,7 @@ display.adhudong.com
 display.superbay.net
 distf.kankan.com
 diyxjd.com
+djs.baomihua.com
 dkdlsj.com
 dl.client.baidu.com
 dl.eduancm.com
@@ -1245,7 +1250,6 @@ dm.riji.cn
 dm.sanwen8.com
 dm.yjbys.com
 dm1.tom61.com
-dm50.jkyd.net
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
@@ -1277,6 +1281,7 @@ dps.shouji56.com
 dps.wtdtjs.com
 dqq.lnfund.org.cn
 dr.holaworld.cn
+drdj.m.gxwztv.com
 drmcmm.baidu.cn
 drmcmm.baidu.com
 drmingxia.org
@@ -1348,6 +1353,7 @@ e.diupp.com
 e.dnfeu.com
 e.dsjre.com
 e.dxmci.com
+e.dzairen.com
 e.e7001.com
 e.e70123.com
 e.ehxyz.com
@@ -1503,6 +1509,7 @@ ein.51yingfa.com
 eiv.baidu.cn
 ellawine.org
 emss.zjhim.com
+emule-ed2k.com
 engagedaily.org
 epochtimes.ie
 epro.sohu.com
@@ -1524,7 +1531,6 @@ ext.theglobalweb.com
 extmoney.i1608.com
 extstat.com
 eyd77s.com
-eyereturn.com
 ezine.oupeng.com
 ezpc.tk
 f.f70123.com
@@ -1714,6 +1720,7 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
+gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -1931,6 +1938,7 @@ img.wan.sogou.com
 img.xa9t.com
 img.xcy8.com
 img.xiacaidd.com
+img.yingshidiguo.cn
 img.yuyue007.cn
 img.zsj18.com
 img.zuowen8.com
@@ -2269,11 +2277,13 @@ leak.360.cn
 legaltech.law.com
 leirentv.ca
 leju.sina.com.cn
+lele999.com
 leorockwell.com
 lerosua.org
 lfyuanai.com
 lhafy.com
 li.anyysz.com
+lib.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2324,7 +2334,6 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2447,7 +2456,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2944,7 +2952,6 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
-player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3268,6 +3275,7 @@ shke.kuuad.com
 shop.admin.yinyuetai.com
 shop.yinyuetai.com
 shoppingpartners2.futurenet.com
+show.qx15.com
 show.xiazai16.com
 showcase.vpsboard.com
 showing.hardwareheaven.com
@@ -3286,7 +3294,6 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
-siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3958,7 +3965,6 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
-xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpj8088.com
 xpjkf888.com

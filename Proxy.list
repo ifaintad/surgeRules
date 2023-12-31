@@ -371,7 +371,6 @@ DOMAIN-SUFFIX,badjojo.com
 DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,baijie.org
 DOMAIN-SUFFIX,bailandaily.com
-DOMAIN-SUFFIX,baixing.me
 DOMAIN-SUFFIX,baizhi.org
 DOMAIN-SUFFIX,banana-vpn.com
 DOMAIN-SUFFIX,band.us
@@ -639,6 +638,7 @@ DOMAIN-SUFFIX,cafepress.com
 DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,calameo.com
 DOMAIN-SUFFIX,calebelston.com
+DOMAIN-SUFFIX,calendarz.com
 DOMAIN-SUFFIX,calgarychinese.ca
 DOMAIN-SUFFIX,calgarychinese.com
 DOMAIN-SUFFIX,calgarychinese.net
@@ -695,6 +695,7 @@ DOMAIN-SUFFIX,cdcparty.com
 DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
 DOMAIN-SUFFIX,cdn.helixstudios.net
 DOMAIN-SUFFIX,cdn.printfriendly.com
@@ -1212,7 +1213,6 @@ DOMAIN-SUFFIX,emaga.com
 DOMAIN-SUFFIX,emanna.com
 DOMAIN-SUFFIX,emilylau.org.hk
 DOMAIN-SUFFIX,empfil.com
-DOMAIN-SUFFIX,emule-ed2k.com
 DOMAIN-SUFFIX,emulefans.com
 DOMAIN-SUFFIX,emuparadise.me
 DOMAIN-SUFFIX,en.favotter.net
@@ -1597,6 +1597,7 @@ DOMAIN-SUFFIX,geek-art.net
 DOMAIN-SUFFIX,geekerhome.com
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,geocities.com
 DOMAIN-SUFFIX,geph.io
@@ -1986,6 +1987,8 @@ DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,hudatoriq.web.id
 DOMAIN-SUFFIX,hudson.org
 DOMAIN-SUFFIX,huffingtonpost.com
+DOMAIN-SUFFIX,huffpost.com
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huhaitai.com
 DOMAIN-SUFFIX,huhamhire.com
 DOMAIN-SUFFIX,huhangfei.com
@@ -4462,6 +4465,7 @@ DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,wav.tv
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,wd.bible
 DOMAIN-SUFFIX,wearehairy.com
 DOMAIN-SUFFIX,wearn.com
 DOMAIN-SUFFIX,web.dev
