@@ -1,5 +1,4 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list
-DOMAIN,00.alarmasqueretaro.com
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,6.pocketnet.app
@@ -64,6 +63,7 @@ DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
 DOMAIN,thinking.duckdns.org
+DOMAIN,thouvenin.cloud
 DOMAIN,tk1.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
@@ -87,7 +87,6 @@ DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrreen.xyz
-DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.cf
