@@ -402,7 +402,6 @@ DOMAIN-SUFFIX,bbnradio.org
 DOMAIN-SUFFIX,bbs-tw.com
 DOMAIN-SUFFIX,bbs.brockbbs.com
 DOMAIN-SUFFIX,bbs.cantonese.asia
-DOMAIN-SUFFIX,bbs.ecstart.com
 DOMAIN-SUFFIX,bbs.hanminzu.org
 DOMAIN-SUFFIX,bbs.huasing.org
 DOMAIN-SUFFIX,bbs.junglobal.net
@@ -467,6 +466,7 @@ DOMAIN-SUFFIX,bigmoney.biz
 DOMAIN-SUFFIX,bignews.org
 DOMAIN-SUFFIX,bigone.com
 DOMAIN-SUFFIX,bigsound.org
+DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,billypan.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binux.me
@@ -793,7 +793,6 @@ DOMAIN-SUFFIX,chinese-memorial.org
 DOMAIN-SUFFIX,chinese.donga.com
 DOMAIN-SUFFIX,chinese.engadget.com
 DOMAIN-SUFFIX,chinese.irib.ir
-DOMAIN-SUFFIX,chinese.soifind.com
 DOMAIN-SUFFIX,chinesedaily.com
 DOMAIN-SUFFIX,chinesedailynews.com
 DOMAIN-SUFFIX,chinesedemocracy.com
@@ -1542,7 +1541,6 @@ DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,furbo.org
 DOMAIN-SUFFIX,furhhdl.org
 DOMAIN-SUFFIX,furinkan.com
-DOMAIN-SUFFIX,furl.net
 DOMAIN-SUFFIX,futurechinaforum.org
 DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuyin.net
@@ -1861,7 +1859,6 @@ DOMAIN-SUFFIX,hizb-ut-tahrir.org
 DOMAIN-SUFFIX,hizbuttahrir.org
 DOMAIN-SUFFIX,hjclub.info
 DOMAIN-SUFFIX,hk-pub.com
-DOMAIN-SUFFIX,hk.frienddy.com
 DOMAIN-SUFFIX,hk.geocities.com
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.hao123img.com
@@ -2569,7 +2566,6 @@ DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
@@ -3824,6 +3820,7 @@ DOMAIN-SUFFIX,teamamericany.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
+DOMAIN-SUFFIX,teco-hk.org
 DOMAIN-SUFFIX,teco-mo.org
 DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,teeniefuck.net
