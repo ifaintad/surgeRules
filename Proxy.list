@@ -278,7 +278,6 @@ DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkplz.com
-DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,aplusvpn.com
 DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
@@ -402,6 +401,7 @@ DOMAIN-SUFFIX,bbnradio.org
 DOMAIN-SUFFIX,bbs-tw.com
 DOMAIN-SUFFIX,bbs.brockbbs.com
 DOMAIN-SUFFIX,bbs.cantonese.asia
+DOMAIN-SUFFIX,bbs.ecstart.com
 DOMAIN-SUFFIX,bbs.hanminzu.org
 DOMAIN-SUFFIX,bbs.huasing.org
 DOMAIN-SUFFIX,bbs.junglobal.net
@@ -793,6 +793,7 @@ DOMAIN-SUFFIX,chinese-memorial.org
 DOMAIN-SUFFIX,chinese.donga.com
 DOMAIN-SUFFIX,chinese.engadget.com
 DOMAIN-SUFFIX,chinese.irib.ir
+DOMAIN-SUFFIX,chinese.soifind.com
 DOMAIN-SUFFIX,chinesedaily.com
 DOMAIN-SUFFIX,chinesedailynews.com
 DOMAIN-SUFFIX,chinesedemocracy.com
@@ -987,6 +988,7 @@ DOMAIN-SUFFIX,dalailamafoundation.org
 DOMAIN-SUFFIX,dalailamahindi.com
 DOMAIN-SUFFIX,dalailamainaustralia.org
 DOMAIN-SUFFIX,dalailamajapanese.com
+DOMAIN-SUFFIX,dalailamaprotesters.info
 DOMAIN-SUFFIX,dalailamaquotes.org
 DOMAIN-SUFFIX,dalailamatrust.org
 DOMAIN-SUFFIX,dalailamavisit.org.nz
@@ -1541,6 +1543,7 @@ DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,furbo.org
 DOMAIN-SUFFIX,furhhdl.org
 DOMAIN-SUFFIX,furinkan.com
+DOMAIN-SUFFIX,furl.net
 DOMAIN-SUFFIX,futurechinaforum.org
 DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuyin.net
@@ -1859,6 +1862,7 @@ DOMAIN-SUFFIX,hizb-ut-tahrir.org
 DOMAIN-SUFFIX,hizbuttahrir.org
 DOMAIN-SUFFIX,hjclub.info
 DOMAIN-SUFFIX,hk-pub.com
+DOMAIN-SUFFIX,hk.frienddy.com
 DOMAIN-SUFFIX,hk.geocities.com
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.hao123img.com
@@ -1933,7 +1937,6 @@ DOMAIN-SUFFIX,honven.xyz
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,hoover.org
 DOMAIN-SUFFIX,hoovers.com
-DOMAIN-SUFFIX,hopedialogue.org
 DOMAIN-SUFFIX,hopto.org
 DOMAIN-SUFFIX,hornygamer.com
 DOMAIN-SUFFIX,hornytrip.com
@@ -2566,6 +2569,7 @@ DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
