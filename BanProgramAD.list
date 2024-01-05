@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,ad-channel.wikawika.xyz
 DOMAIN-SUFFIX,ad-display.wikawika.xyz
 DOMAIN-SUFFIX,ad.docer.wps.cn
-DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
 DOMAIN-SUFFIX,ads.cdn.tvb.com
 DOMAIN-SUFFIX,ads.csdn.net
@@ -61,7 +60,6 @@ DOMAIN-SUFFIX,cpro.baidustatic.com
 DOMAIN-SUFFIX,ctr.hd.sohu.com
 DOMAIN-SUFFIX,d.g.mi.com
 DOMAIN-SUFFIX,dispatcher.upmc.uc.cn
-DOMAIN-SUFFIX,dl.2345.cn
 DOMAIN-SUFFIX,dmp.sina.com.cn
 DOMAIN-SUFFIX,download.2345.cn
 DOMAIN-SUFFIX,dup.baidustatic.com
@@ -75,7 +73,6 @@ DOMAIN-SUFFIX,g.tbcdn.cn
 DOMAIN-SUFFIX,game.51yund.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,gridsum-vd.cntv.cn
-DOMAIN-SUFFIX,houtai.2345.cn
 DOMAIN-SUFFIX,hub5btmain.sandai.net
 DOMAIN-SUFFIX,hub5emu.sandai.net
 DOMAIN-SUFFIX,hydra.alibaba.com
@@ -86,7 +83,6 @@ DOMAIN-SUFFIX,ic.snssdk.com
 DOMAIN-SUFFIX,info.wps.cn
 DOMAIN-SUFFIX,itsdata.map.baidu.com
 DOMAIN-SUFFIX,jiagu.360.cn
-DOMAIN-SUFFIX,jifen.2345.cn
 DOMAIN-SUFFIX,jifendownload.2345.cn
 DOMAIN-SUFFIX,jobsfe.funshion.com
 DOMAIN-SUFFIX,jrclick.jd.com
@@ -109,7 +105,6 @@ DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
 DOMAIN-SUFFIX,media.cheshi.com
 DOMAIN-SUFFIX,meta.video.qiyi.com
 DOMAIN-SUFFIX,mg09.zhaopin.com
-DOMAIN-SUFFIX,minipage.2345.cn
 DOMAIN-SUFFIX,monitor.qq.com
 DOMAIN-SUFFIX,omgmta1.qq.com
 DOMAIN-SUFFIX,ozone.10jqka.com.cn
@@ -181,7 +176,6 @@ DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,uu.qq.com
 DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 DOMAIN-SUFFIX,vv84.bj.bcebos.com
-DOMAIN-SUFFIX,wan.2345.cn
 DOMAIN-SUFFIX,wbapp.uve.weibo.com
 DOMAIN-SUFFIX,wenku-cms.bj.bcebos.com
 DOMAIN-SUFFIX,wl.hd.sohu.com
@@ -190,5 +184,4 @@ DOMAIN-SUFFIX,ykrectab.youku.com
 DOMAIN-SUFFIX,youtube.112.2o7.net
 DOMAIN-SUFFIX,youtube.2cnt.net
 DOMAIN-SUFFIX,yule.sohu.com
-DOMAIN-SUFFIX,zhushou.2345.cn
 IP-CIDR,101.227.200.0/24,no-resolve
