@@ -52,6 +52,19 @@ except Exception:
     exclude_rules = []
 
 
+def get_cloudflare_ip_list():
+    _ips_list = []
+    for ip_list in [rulesets.CLOUDFLARE_IPV4, rulesets.CLOUDFLARE_IPV6]:
+        _ips_list.extend(get_raw_list(ip_list))
+
+    _ips_list = set(list(_ips_list))
+
+    return [f"IP-CIDR,{ip},no-resolve" for ip in _ips_list]
+
+
+cloudflare_ip_list = get_cloudflare_ip_list()
+
+
 FORCE_DOMAIN_KEYWORDS = {
     "google", "blogspot", "facebook", "pinterest",
     "googleapis"}
@@ -141,11 +154,12 @@ class RuleSets:
 
 
 class RuleItem:
-    def __init__(self, url, file_name=None, n_retries=10, has_prefix=True,
+    def __init__(self, url=None, file_name=None, n_retries=10, has_prefix=True,
                  domain_keywords=None,
-                 filter_top_level_banned_domain=False, token=None, is_package=False):
+                 filter_top_level_banned_domain=False, token=None, is_package=False,
+                 raw_list=None):
 
-        raw_list = get_raw_list(url, n_retries=n_retries, token=token)
+        raw_list = raw_list or get_raw_list(url, n_retries=n_retries, token=token)
 
         self.raw_list = [r for r in raw_list if r not in exclude_rules]
 
@@ -430,6 +444,10 @@ class SurgeRules:
                 rulesets.SING_BOX_PACKAGES_ALWAYS_PROXY]:
             ruleset_obj = RuleItem(n_retries=self.n_retries, **ruleset)
             ruleset_obj.write_packages(self.output_dir)
+
+        cloudflare_ruleset_obj = RuleItem(
+            file_name="CloudFlareIP.list", raw_list=cloudflare_ip_list)
+        cloudflare_ruleset_obj.write_rules(self.output_dir)
 
     def build_extra_proxy_list(
             self, proxy_rule_set: RuleSets, exist_rules, invalid_domains):

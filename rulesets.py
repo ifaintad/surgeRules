@@ -137,3 +137,7 @@ if extra_repo and extra_repo_token:
         "url": f"https://raw.githubusercontent.com/{extra_repo}/main/rules_exclude",
         "token": extra_repo_token
     }
+
+
+CLOUDFLARE_IPV4 = "https://raw.githubusercontent.com/XIU2/CloudflareSpeedTest/master/ip.txt"
+CLOUDFLARE_IPV6 = "https://raw.githubusercontent.com/XIU2/CloudflareSpeedTest/master/ipv6.txt"
