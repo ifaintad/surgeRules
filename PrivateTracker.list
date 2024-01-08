@@ -1,6 +1,5 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list
 DOMAIN,1337.abcvg.info
-DOMAIN,1c.premierzal.ru
 DOMAIN,6.pocketnet.app
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,acxx.de
@@ -56,7 +55,6 @@ DOMAIN,share.camoe.cn
 DOMAIN,su-data.com
 DOMAIN,t.acg.rip
 DOMAIN,t.nyaatracker.com
-DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
 DOMAIN,thinking.duckdns.org
@@ -70,7 +68,6 @@ DOMAIN,tracker.anima.nz
 DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
@@ -136,8 +133,11 @@ DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
 DOMAIN,x.t-1.org
 DOMAIN,y.paranoid.agency
+DOMAIN,yahor.of.by
 DOMAIN,yolo.liberbear.com
 DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,chdbits
+DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,1ptba.com
@@ -157,14 +157,13 @@ DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,bittorrent.com
-DOMAIN-SUFFIX,blutopia.xyz
+DOMAIN-SUFFIX,blutopia.cc
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,bwtorrents.tv
 DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
-DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,cinemageddon.net
 DOMAIN-SUFFIX,cinematik.net
 DOMAIN-SUFFIX,cinemaz.to
@@ -219,7 +218,6 @@ DOMAIN-SUFFIX,landof.tv
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,lemonhd.org
 DOMAIN-SUFFIX,lztr.me
-DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,msg.vg
