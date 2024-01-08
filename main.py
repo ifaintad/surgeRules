@@ -434,7 +434,8 @@ class SurgeRules:
         for ruleset in [
                 rulesets.DOMAIN_SUFFIX_ALWAYS_PROXY,
                 rulesets.DOMAIN_SUFFIX_ALWAYS_BAN,
-                rulesets.DOMAIN_SUFFIX_ALWAYS_DIRECT]:
+                rulesets.DOMAIN_SUFFIX_ALWAYS_DIRECT,
+                rulesets.DOMAIN_SUFFIX_NO_EDGE_TUNNEL]:
             ruleset_obj = RuleItem(n_retries=self.n_retries, **ruleset)
             ruleset_obj.update_list([])
             ruleset_obj.write_rules(self.output_dir)
