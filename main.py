@@ -65,9 +65,7 @@ def get_cloudflare_ip_list():
 cloudflare_ip_list = get_cloudflare_ip_list()
 
 
-FORCE_DOMAIN_KEYWORDS = {
-    "google", "blogspot", "facebook", "pinterest",
-    "googleapis"}
+FORCE_DOMAIN_KEYWORDS = {"facebook", "pinterest"}
 
 TOP_LEVEL_DOMAINS = {
     "au",

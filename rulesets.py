@@ -58,6 +58,11 @@ DISNEY_PLUS = {
     "domain_keywords": ["disney", "disneymagicmoments", "20thcenturystudios"],
 }
 
+GOOGLE = {
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
+    "domain_keywords": ["google", "googleapis", "blogspot"],
+}
+
 TELEGRAM = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list",
     "domain_keywords": ["nicegram", "telegram"],
@@ -65,7 +70,7 @@ TELEGRAM = {
 
 
 IP_RESTRICTED_RULES = [
-    YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM
+    GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM
 ]
 
 
