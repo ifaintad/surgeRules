@@ -1,7 +1,6 @@
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 0.in-addr.arpa
 0086555.com
-01.gxso.net
 010xk.com
 018520.com
 01daa.lubih.com
@@ -29,6 +28,7 @@
 1.jeasyui.net
 1.panduoduo.net
 1.qtmojo.cn
+1.rengshu.com
 1.tuxi.com.cn
 1.win7china.com
 1.wps.cn
@@ -67,6 +67,7 @@
 2.bashenghuo.com
 2.heiyange.com
 2.mobixs.cn
+2.rengshu.com
 2.tuxi.com.cn
 2.win7china.com
 201071.com
@@ -127,7 +128,9 @@
 51dql.com
 51jumintong.com
 51weidashi.com
+51yes.com
 5207470.com
+52lubo.cn
 537901.com
 559gp.com
 5675146.com
@@ -156,7 +159,6 @@
 71sem.com
 73.sinawap.com
 743m1.11a12.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -180,7 +182,6 @@
 818mov.com
 8269996.com
 8368661.com
-846.move7.com
 85058s.com
 8521448.com
 85655095.com
@@ -260,6 +261,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -359,7 +361,6 @@ ad.thepaper.cn
 ad.thisav.com
 ad.userporn.com
 ad.vidaroo.com
-ad.vryeye.com
 ad.walkgame.com
 ad.wappalyzer.com
 ad.winningpartner.com
@@ -419,6 +420,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -713,11 +715,13 @@ bbsfeed.com
 bbsimages.zkxf119.com
 bc.geocities.yahoo.co.jp
 bcast.co.nz
+bd.ershenghuo.com
 bd.soarfi.cn
 bd.wayqq.cn
 bd1.365qilu.com
 bd1.52che.com
 bd1.fengdu100.com
+bd1.flfgw.cn
 bd1.home8080.cn
 bd1.jobui.com
 bd1.nipic.com
@@ -1016,6 +1020,7 @@ cloudpush.iqiyi.com
 cm.eyereturn.com
 cm.mct01.com
 cm.p4p.cn.yahoo.com
+cmshow.gtimg.cn
 cmule.org
 cn.api.push.le.com
 cn.dayabook.com
@@ -1196,6 +1201,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1243,9 +1249,9 @@ dm.jy135.com
 dm.ppzuowen.com
 dm.riji.cn
 dm.sanwen8.com
+dm.sb580.com
 dm.yjbys.com
 dm1.tom61.com
-dm50.jkyd.net
 dm50.yxlady.com
 dn3.ixinwei.com
 dnvus.com
@@ -1279,6 +1285,7 @@ dps.shouji56.com
 dps.wtdtjs.com
 dqq.lnfund.org.cn
 dr.holaworld.cn
+drdj.m.gxwztv.com
 drmcmm.baidu.cn
 drmcmm.baidu.com
 drmingxia.org
@@ -1350,7 +1357,6 @@ e.diupp.com
 e.dnfeu.com
 e.dsjre.com
 e.dxmci.com
-e.dzairen.com
 e.e7001.com
 e.e70123.com
 e.ehxyz.com
@@ -1528,6 +1534,7 @@ ext.theglobalweb.com
 extmoney.i1608.com
 extstat.com
 eyd77s.com
+eyereturn.com
 ezine.oupeng.com
 ezpc.tk
 f.f70123.com
@@ -1551,7 +1558,6 @@ falundafa-sacramento.org
 falundata.com
 falundata.org
 falunworld.net
-fan.liuxiaoer.com
 fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
@@ -1686,6 +1692,7 @@ gg.stargame.com
 gg.yxdown.com
 gg.zhongyao1.com
 gg0376.com
+gg1.yszyz.com
 gg2.dss9927.com
 ggb.douguo.com
 ggdoubi.com
@@ -1980,11 +1987,11 @@ inte.sohu.com
 inte.theta.sogoucdn.com
 ip2.pxene.com
 ipalter.com
+iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2018,6 +2025,7 @@ jagcn.com
 jandyx.com
 janwongphoto.com
 japanfirst.asianfreeforum.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2119,6 +2127,7 @@ js.xiansuper.com
 js.xtgreat.com
 js.ydeprint.com
 js.yixui.com
+js.ylunion.com
 js.zyrfanli.com
 js1.2abc8.com
 js1.zuocai.tv
@@ -2147,6 +2156,7 @@ js50.yxlady.com
 js5162.yongkang6.com
 js6882.mengchengbao.com
 js7004.hnfpgm.com
+js7129.dlkjgjmy.com
 js7129.shxqeps.com
 js7152.shxqeps.com
 js74.0937jyg.com
@@ -2279,6 +2289,8 @@ lerosua.org
 lfyuanai.com
 lhafy.com
 li.anyysz.com
+lib.haotv8.com
+liba.haotv8.com
 lightson.vpsboard.com
 lingdian98.com
 linkbide.com
@@ -2291,6 +2303,7 @@ liveupdate.mac.sandai.net
 livingonline.us
 livingyourambition.com
 ljrtb.cn
+lkf1.m.sanhao3.com
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -2604,6 +2617,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2695,7 +2709,6 @@ msphoneclick.kuwo.cn
 mstzym.com
 msypr.com
 mtj.baidu.cn
-mtl.ttsqgs.com
 mtty-cdn.mtty.xin
 mtw.tl
 mubite.cn
@@ -2743,6 +2756,7 @@ network.business.com
 network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
+new.yokaunion.com
 news-imgpb.51y5.net
 news.docer.com
 news.hk.msn.com
@@ -2764,7 +2778,6 @@ ngodupdongchung.com
 nic.cz.cc
 nighost.org
 ninebox.cn
-ninth.biz
 nitter.pussthecat.org
 niwd.zhybw88.com
 njdijiani.com
@@ -2855,6 +2868,7 @@ orzistic.org
 otf.msn.com
 otnd.org
 ourdearamy.com
+oversea.istarshine.com
 ox.furaffinity.net
 oyzsverimywg.com
 p-log.ykimg.com
@@ -2915,6 +2929,7 @@ pei-ads.playboy.com
 pentoy.hk
 pf.h5game.cn
 photo.dhford.cn
+photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
@@ -3022,6 +3037,7 @@ qanote.com
 qbyy010.com
 qchannel0d.cn
 qd.moutaihotel.cn
+qd.wanjuanba.com
 qd.x4399.com
 qeoa.hawbfa.com
 qgadmin.qcpp1.net
@@ -3089,6 +3105,7 @@ rcyy3.kaopuwangjz.com
 rd.ane.yahoo.co.jp
 rd.e.sogou.com
 rdiqt.cn
+recreativ.ru
 red.bayimg.net
 redballoonsolidarity.org
 regist.fotoable.com
@@ -3304,6 +3321,7 @@ sina.yinstar.org
 sinaaliyun.cn
 sinonet.ca
 sinopitt.info
+siqwqjza.m.yikanxiaoshuo.net
 site.img.4tube.com
 siteks.uk.to
 sj1.3987.com
@@ -3547,6 +3565,7 @@ tool.btrabbit.la
 toourbb.com
 top267.com
 tor.blingblingsquad.net
+torrentz.eu
 total.xinmin.cn
 toutiao.2haha.com
 toutiao.jxnews.com.cn
@@ -3764,6 +3783,7 @@ w1.diaoyou.com
 w3.yinyuehu.cn
 w3989.com
 w5sac788c1.360doc.cn
+w6061.move7.com
 w65p.com
 waigaobu.com
 waiwaier.com
@@ -3979,6 +3999,7 @@ xmnmeu.cn
 xmpush.xiaomi.com
 xmrts.com
 xoredi.com
+xpcy.m.gxwztv.com
 xpe.cxaerp.com
 xpj8088.com
 xpjkf888.com
@@ -4004,6 +4025,7 @@ xyqptm.com
 xyrhd.com
 xyy.code.weddingeeos.com
 xyy69.com
+xyy69.info
 xzq.greenxf.net
 xzzyi.com
 y.3957957.com
@@ -4018,10 +4040,10 @@ yatemy.cn
 ybp.yahoo.com
 ychun03.com
 ydlnt.com
-yeahteentube.com
 yes1.feng.com
 yesbeby.whies.info
 yess.imneinei.com
+yfxpcode.m.gxwztv.com
 yhtcd.com
 yidulive.net
 yigyx.com
@@ -4131,7 +4153,6 @@ zyzc9.com
 zzbaowen.com
 zzsx8.com
 zzy.mipujia.com
-zzy1.mipujia.com
 zzy1.quyaoya.com
 zzz7.52896368.com
 zzzzz4.52896368.com
