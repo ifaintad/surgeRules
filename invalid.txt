@@ -156,6 +156,7 @@
 71sem.com
 73.sinawap.com
 743m1.11a12.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -688,6 +689,7 @@ baiduzhidahao.cc
 baiwanchuangyi.com
 baixing.me
 bakgeekhome.tk
+bangkokpost.com
 banlv.baidu.com
 banner.automotiveworld.com
 banner.cooguo.com
@@ -824,6 +826,7 @@ bt641499.gotoip4.com
 bthergyuan.com
 btku.me
 btlaunch.baidu.com
+business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -963,6 +966,7 @@ ch.shvoong.com
 chadegongxiao.com
 changsa.net
 chapm25.com
+chat.gle
 chengzhao95511.com
 chenpokong.net
 chenwen7788.com
@@ -1198,6 +1202,7 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
+dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1218,6 +1223,7 @@ distf.kankan.com
 distribution.qcpp1.net
 distribution.qpdp1.net
 diyxjd.com
+djs.baomihua.com
 dkdlsj.com
 dl.2345.cn
 dl.client.baidu.com
@@ -1520,7 +1526,6 @@ event.ksosoft.com
 eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
-evise.com
 evoke-windowsservices-tas.msedge
 exp.17wo.cn
 exp.qumi.com
@@ -1528,7 +1533,6 @@ ext.theglobalweb.com
 extmoney.i1608.com
 extstat.com
 eyd77s.com
-eyereturn.com
 ezine.oupeng.com
 ezpc.tk
 f.f70123.com
@@ -1556,6 +1560,7 @@ fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
 fansi365.com
+fastapi.net
 fastly.bench.cedexis.com
 fastpopunder.com
 fathionmall.com
@@ -1623,6 +1628,7 @@ ft.pnop.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
+furl.net
 futuremessage.org
 fxc.aiquxs.com
 fydgold132.com
@@ -1719,7 +1725,6 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
-gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -1745,7 +1750,6 @@ guduopu.com
 guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
-guo.media
 guoshennet.com
 gyca9f.dahuangcheng.cn
 gzmjnx.cn
@@ -2024,7 +2028,6 @@ jagcn.com
 jandyx.com
 janwongphoto.com
 japanfirst.asianfreeforum.com
-jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2461,6 +2464,7 @@ m.lzytt.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
+m.mightiger.net
 m.miiuv.com
 m.miupp.com
 m.mmkvi.com
@@ -2611,6 +2615,7 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
+metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2921,6 +2926,7 @@ pei-ads.playboy.com
 pentoy.hk
 pf.h5game.cn
 photo.dhford.cn
+photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
@@ -2958,6 +2964,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3557,6 +3564,7 @@ toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
 tracker.yhd.com
+trafficmp.com
 trans.wenweipo.com
 tree.logger.baofeng.com
 trialofccp.org
@@ -3610,6 +3618,7 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
+u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3835,7 +3844,6 @@ wifiapidd.51y5.net
 wifishow.ggsafe.com
 wiki.esu.im
 wiki.moegirl.org
-wikileaks.com
 willw.net
 wingy.site
 winwhispers.info
