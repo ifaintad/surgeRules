@@ -126,9 +126,9 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
+537901.com
 559gp.com
 5675146.com
 58.xgo.com.cn
@@ -156,7 +156,6 @@
 71sem.com
 73.sinawap.com
 743m1.11a12.com
-749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -258,6 +257,7 @@ a1.huanqiumil.com
 a1.huiqituan.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -341,6 +341,7 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
+ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -432,6 +433,7 @@ adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
 adshows.21cn.com
+adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -822,7 +824,6 @@ bt641499.gotoip4.com
 bthergyuan.com
 btku.me
 btlaunch.baidu.com
-business.92wy.com
 buugaa.com
 bwsj.hk
 bx.optimix.asia
@@ -1197,7 +1198,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1374,7 +1374,6 @@ e.hk7799.net
 e.hmhqp.com
 e.hogyp.com
 e.hpzyl.com
-e.huaas.com
 e.hunpp.com
 e.huoas.com
 e.hurnt.com
@@ -1521,6 +1520,7 @@ event.ksosoft.com
 eventlog.hd.baofeng.com
 events-api.outfit7.net
 events.pingan.com
+evise.com
 evoke-windowsservices-tas.msedge
 exp.17wo.cn
 exp.qumi.com
@@ -1745,6 +1745,7 @@ guduopu.com
 guess.h.qhimg.com
 gug.ku6cdn.com
 gugulonger.cn
+guo.media
 guoshennet.com
 gyca9f.dahuangcheng.cn
 gzmjnx.cn
@@ -1853,6 +1854,7 @@ hudong.pl.youku.com
 huiyi.in
 humanding.com
 hungerstrikeforaids.org
+huobi.me
 huodong.pl.youku.com
 huodong.vip.youku.com
 hwt.player888.cn
@@ -1880,6 +1882,7 @@ ib.adnxs.co
 ibanners.empoweredcomms.com.au
 ibit.am
 ibros.org
+icast.cn
 ico.58pic.com
 idcqi.com
 idealads.net
@@ -1982,6 +1985,7 @@ inte.sohu.com
 inte.theta.sogoucdn.com
 ip2.pxene.com
 ipalter.com
+iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
@@ -2132,7 +2136,6 @@ js123.0937jyg.com
 js1516.0937jyg.com
 js1517.0937jyg.com
 js205.dupinpu.com
-js2254.hfxcsl.cn
 js2553.xjzyq.com
 js257.0937jyg.com
 js2672.xjzyq.com
@@ -2295,7 +2298,6 @@ live.tvpot.daum.net
 liveupdate.mac.sandai.net
 livingonline.us
 livingyourambition.com
-ljrtb.cn
 ll.gxsky.com
 ll.hudong.com
 ll.songlaoban.cn
@@ -3678,7 +3680,6 @@ urls.api.twitter.com
 us.bannyat.com
 us.bs.serving-sys.com
 user.tiankongzudui.com
-userapi.nytlog.com
 ushuarencity.echainhost.com
 usinfo.state.gov
 usr.mgid.com
@@ -3711,6 +3712,7 @@ vdapprecv.app.cntvwb.cn
 vds.rightster.com
 ve.tsdlp.com
 vegent.cn
+velkaepocha.sk
 vendor1.fitschigogerl.com
 vers80.com
 vft.com.tw
