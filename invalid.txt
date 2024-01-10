@@ -146,6 +146,7 @@
 6615338.cn
 66992949.com
 6728812.com
+68665565.com
 69duk.com
 6a4cc.lubue.com
 6a4cc.luvbq.com
@@ -342,7 +343,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -487,7 +487,6 @@ ahyau.com
 ahyuns.com
 ai-kan.net
 ai-wen.net
-ai.xinju.cc
 aid.chinayk.com
 aim.yoyi.com.cn
 air.yoyi.com.cn
@@ -678,7 +677,6 @@ badao37.net
 bai3.gushiwen.org
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
-baidu.cybcyw.com
 baidu.dsp.tansuotv.com
 baidu.greenxf.cn
 baidu.jz5u.net
@@ -689,7 +687,6 @@ baiduzhidahao.cc
 baiwanchuangyi.com
 baixing.me
 bakgeekhome.tk
-bangkokpost.com
 banlv.baidu.com
 banner.automotiveworld.com
 banner.cooguo.com
@@ -797,6 +794,7 @@ blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogs.yahoo.co.jp
 blogspot.cat
+blogspot.com.by
 blogtd.net
 bluehatnights.com
 bmfinn.com
@@ -929,7 +927,6 @@ cca.mob.com
 ccbaihehq.com
 cccrir.com
 cdgxq.com
-cdig.info
 cdn.5bong.com
 cdn.adapi.fotoable.com
 cdn.adsk2.co
@@ -966,7 +963,6 @@ ch.shvoong.com
 chadegongxiao.com
 changsa.net
 chapm25.com
-chat.gle
 chengzhao95511.com
 chenpokong.net
 chenwen7788.com
@@ -1021,7 +1017,6 @@ cloudpush.iqiyi.com
 cm.eyereturn.com
 cm.mct01.com
 cm.p4p.cn.yahoo.com
-cmshow.gtimg.cn
 cmule.org
 cn.api.push.le.com
 cn.dayabook.com
@@ -1202,7 +1197,6 @@ delivery.dmkt-sp.jp
 demo.opera-mini.net
 derekhsu.homeip.net
 dev-push.m.youku.com
-dev.tg.youxi.com
 dfc1.benbaisteel.com
 dfx.shhuixiangwuliu.com
 dh.holaworld.cn
@@ -1223,7 +1217,6 @@ distf.kankan.com
 distribution.qcpp1.net
 distribution.qpdp1.net
 diyxjd.com
-djs.baomihua.com
 dkdlsj.com
 dl.2345.cn
 dl.client.baidu.com
@@ -1394,6 +1387,7 @@ e.ishowms.com
 e.jiirz.com
 e.jioeg.com
 e.jkert.com
+e.jltdbyq.com
 e.jnsdkjzs.com
 e.joyxv.com
 e.juyzr.com
@@ -1560,7 +1554,6 @@ fangbinxing.com
 fangmincn.org
 fanqiangyakexi.net
 fansi365.com
-fastapi.net
 fastly.bench.cedexis.com
 fastpopunder.com
 fathionmall.com
@@ -1628,14 +1621,12 @@ ft.pnop.com
 fuckcnnic.net
 fun.ynet.com
 funf.tw
-furl.net
 futuremessage.org
 fxc.aiquxs.com
 fydgold132.com
 fz863.com
 fzh999.com
 fzh999.net
-g.ad8.cc
 g.corp.163.com
 g.ousns.net
 g.rs.yoyi.com.cn
@@ -1725,6 +1716,7 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
+gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -1989,7 +1981,6 @@ inte.sohu.com
 inte.theta.sogoucdn.com
 ip2.pxene.com
 ipalter.com
-iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
@@ -2028,6 +2019,7 @@ jagcn.com
 jandyx.com
 janwongphoto.com
 japanfirst.asianfreeforum.com
+jav23.com
 jb.asqql.com
 jb.dianshu119.com
 jb.eastlady.cn
@@ -2187,7 +2179,6 @@ juren0.com
 justicefortenzin.org
 jxad.jx163.com
 jxfxsw.com
-jxlog.istreamsche.com
 jxxiangchu.com
 jyc.njxczy.com
 jyd.fjzdmy.com
@@ -2339,6 +2330,7 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2445,6 +2437,7 @@ m.jieyixiu.com
 m.jiirz.com
 m.jioeg.com
 m.jkert.com
+m.jltdbyq.com
 m.joyxv.com
 m.juyzr.com
 m.jwiyr.com
@@ -2461,10 +2454,10 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
+m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
-m.mightiger.net
 m.miiuv.com
 m.miupp.com
 m.mmkvi.com
@@ -2592,7 +2585,6 @@ mass.mall044.com
 match.rtbidder.net
 match.rundsp.com
 matching.targeterra.com
-material.istreamsche.com
 material.mtty.xin
 mathable.io
 mathiew-badimon.com
@@ -2615,7 +2607,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -2926,7 +2917,6 @@ pei-ads.playboy.com
 pentoy.hk
 pf.h5game.cn
 photo.dhford.cn
-photo.lyghjzs.cn
 photo.qianerbai.cn
 photo.shyexiang.cn
 photo.welldex.cn
@@ -3058,6 +3048,7 @@ qoiusky.com
 qp.yunanfuwuqi.com
 qq.guansenff.cn
 qq.irs01.com
+qq.tapiche.cn
 qqx.cqqytgpt.com
 qt002x.corp.youdao.com
 qtweeter.com
@@ -3066,7 +3057,6 @@ qualysapi.qpdp1.net
 qualysguard.qcpp1.net
 qualysguard.qpdp1.net
 quannengshen.org
-queene.cn
 quitccp.net
 qutaobi.com
 quw18.com
@@ -3488,7 +3478,6 @@ taiwanjustice.com
 tajxgs.com
 tamiaode.tk
 tangoutianxia.com
-tanxlog.istreamsche.com
 tanzanite.infomine.com
 taobaly.cn
 taobayun.cn
@@ -3564,7 +3553,6 @@ toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
 tracker.yhd.com
-trafficmp.com
 trans.wenweipo.com
 tree.logger.baofeng.com
 trialofccp.org
@@ -3618,7 +3606,6 @@ tyx.xtzxmy.com
 tz.zjhoudao.com
 tzbtw.com
 u.cnzol.com
-u.ddvip.com
 u.qijipc.com
 u.talkingdata.net
 u.xcy8.com
@@ -3783,7 +3770,6 @@ waigaobu.com
 waiwaier.com
 wallornot.org
 wan.2345.cn
-wan.360.cn
 wan.sohu.com
 wangdaizao.com
 wangmeng.baidu.cn
@@ -4055,6 +4041,7 @@ yongyuelm.com
 youle.tom.com
 youmsm.com
 youthforfreechina.org
+youtube.com.by
 youtubecn.com
 youxi.kugou.com
 youzehui.com
@@ -4072,6 +4059,7 @@ yun.sifuhe.cn
 yun1.yahoo001.com
 yunanfuwuqi.com
 yunpifu.cn
+yuyue008.cn
 yxs.tymsyx.com
 yxszy.com
 yyffeicd.m.qxs.la
