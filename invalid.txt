@@ -126,7 +126,6 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -135,6 +134,7 @@
 58.xgo.com.cn
 5814889.com
 58lm.vip
+58mingri.cn
 5aimiku.com
 5dg.me
 5dian.org
@@ -158,6 +158,7 @@
 71sem.com
 73.sinawap.com
 743m1.11a12.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -205,6 +206,7 @@
 91xry.com
 91zgm.com
 95105012.com
+9566180.com
 9948000.com
 99909988.com
 9s6q.cn
@@ -257,6 +259,7 @@ a1.azg168.cn
 a1.gexing.me
 a1.huanqiumil.com
 a1.huiqituan.com
+a1.liuxue86.com
 a1.vdolady.com
 a2.huanqiumil.com
 a4.b2b168.com
@@ -451,7 +454,6 @@ adv2.downsave.com
 advapi.ahtv.cn
 adwasu.wasu.tv
 adweb.test.ximalaya.com
-adwhirl.com
 adx-api.hupu.com
 adx.dlads.cn
 adx.kat.ph
@@ -759,7 +761,6 @@ beerto.cn
 beijingzx.org
 beilamusi.com
 bell.wiki
-berlinerbericht.de
 bes-progfree.com
 bestforchina.org
 bgrndi.com
@@ -908,7 +909,6 @@ canvas.thenextweb.com
 caob5.info
 caolvch.com
 cas.clickability.com
-castplatform.com
 catalog.video.msn.com
 catch.gift
 catfightpayperview.xxx
@@ -1225,7 +1225,6 @@ distf.kankan.com
 distribution.qcpp1.net
 distribution.qpdp1.net
 diyxjd.com
-djs.baomihua.com
 dkdlsj.com
 dl.2345.cn
 dl.client.baidu.com
@@ -2223,6 +2222,7 @@ kldmm.com
 klsdmr.com
 klz28.com
 kmwqxqh.com
+kn.aishake.cn
 kn.archrug.com
 kn.barnfps.com
 kn.bjbrtc.com
@@ -2339,7 +2339,6 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2463,7 +2462,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2730,7 +2728,6 @@ n.cosbot.cn
 n.ma.social-touch.com
 n.wjr1x.cn
 n.yfi8.com
-naacoalition.org
 nai.cpxkvc.com
 namemek.com
 nav.winasdaq.com
@@ -2754,7 +2751,6 @@ network.business.com
 network.sofeminine.co.uk
 networkedblogs.com
 neverforget8964.org
-new.ltheanine.cn
 news-imgpb.51y5.net
 news.docer.com
 news.hk.msn.com
@@ -2963,6 +2959,7 @@ playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
+player.insuranceandhealth.com
 plays.com.tw
 plmkolp.m.58xs.tw
 plz.jandan.net
@@ -3285,6 +3282,7 @@ share.gzdsw.com
 sharpdaily.com.hk
 sharrysweb.com
 shenghuo.xiaomi.com
+shenleyuni.com
 shenyian.net
 shglegle.com
 shili.downxia.com
@@ -3777,7 +3775,6 @@ waigaobu.com
 waiwaier.com
 wallornot.org
 wan.2345.cn
-wan.360.cn
 wan.sohu.com
 wangdaizao.com
 wangmeng.baidu.cn
