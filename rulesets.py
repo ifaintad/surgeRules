@@ -68,9 +68,13 @@ TELEGRAM = {
     "domain_keywords": ["nicegram", "telegram"],
 }
 
+DOCKER = {
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list",
+}
+
 
 IP_RESTRICTED_RULES = [
-    GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM
+    GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM, DOCKER
 ]
 
 
