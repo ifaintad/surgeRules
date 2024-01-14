@@ -126,7 +126,6 @@
 51dql.com
 51jumintong.com
 51weidashi.com
-51yes.com
 5207470.com
 52lubo.cn
 537901.com
@@ -207,7 +206,6 @@
 91xry.com
 91zgm.com
 95105012.com
-9566180.com
 9948000.com
 99909988.com
 9s6q.cn
@@ -263,7 +261,6 @@ a1.huiqituan.com
 a1.liuxue86.com
 a1.vdolady.com
 a2.huanqiumil.com
-a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -347,7 +344,6 @@ ad.pchome.com.tw
 ad.pixnet.in
 ad.player.baidu.com
 ad.proxy.sh
-ad.qun.qq.com
 ad.r.worldssl.net
 ad.rambler.ru
 ad.reachlocal.com
@@ -1016,14 +1012,12 @@ client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
 clk.dxpmedia.com
-clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
 cm.eyereturn.com
 cm.mct01.com
 cm.p4p.cn.yahoo.com
-cmshow.gtimg.cn
 cmule.org
 cn.api.push.le.com
 cn.dayabook.com
@@ -1224,6 +1218,7 @@ distf.kankan.com
 distribution.qcpp1.net
 distribution.qpdp1.net
 diyxjd.com
+djs.baomihua.com
 dkdlsj.com
 dl.2345.cn
 dl.client.baidu.com
@@ -1275,6 +1270,7 @@ dowei.org
 down.91wangmeng.com
 down.bugeyu.com
 down.xiazaiyuan.net
+downlaod.xiaocen.com
 download.qcpp1.net
 download.qpdp1.net
 download.zhushou.sogou.com
@@ -1547,7 +1543,6 @@ f1.pig66.com
 f1c.i.biquge5200.com
 f3.mi-stat.gslb.mi-idc.com
 f56g.me
-f70123.com
 f8272.com
 fa.corp.163.com
 facebook.br
@@ -1723,7 +1718,6 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
-gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -1992,7 +1986,6 @@ iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2338,13 +2331,13 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.12306media.com
+m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
 m.51xmgys.com
 m.52tushuo.com
 m.551144.com
-m.640640.com
 m.7180443.com
 m.77vcd.com
 m.abfirst.cn
@@ -2454,7 +2447,6 @@ m.kewro.com
 m.khuoy.com
 m.kl6636.net
 m.kubiqq.com
-m.lancedu.com
 m.laojiayoufang.com
 m.lfdydk.com
 m.lovezhishou.com
@@ -2465,7 +2457,6 @@ m.lzytt.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
-m.mightiger.net
 m.miiuv.com
 m.miupp.com
 m.mmkvi.com
@@ -3236,7 +3227,6 @@ sc.shayugg.com
 scanservice1.qcpp1.net
 scanservice1.qpdp1.net
 scc.0.0.0.0.cn
-sccdn.f2zd.com
 schborg.com
 schemas.android.com
 sciencelolb.com
@@ -3415,7 +3405,6 @@ stat.tudou.com
 stat.youku.com
 static.comico.tw
 static.duoshuo.com
-static.g.pptv.com
 static.ku6.com
 static1.kewaishu.info
 static8.pmadx.com
@@ -3560,7 +3549,6 @@ toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
 tracker.yhd.com
-trafficmp.com
 trans.wenweipo.com
 tree.logger.baofeng.com
 trialofccp.org
@@ -3788,7 +3776,6 @@ wap.138lm.com
 wap.bytdzsw.com
 wap.cmgame.com
 wap.moad.cn
-wap.mpush.qq.com
 wap.txwdn.com
 wap001.bytravel.cn
 wap3.ucweb.com
