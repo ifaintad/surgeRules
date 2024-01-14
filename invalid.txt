@@ -159,6 +159,7 @@
 71sem.com
 73.sinawap.com
 743m1.11a12.com
+749808.com
 766ba.net
 77xtv.com
 7891655.cn
@@ -262,6 +263,7 @@ a1.huiqituan.com
 a1.liuxue86.com
 a1.vdolady.com
 a2.huanqiumil.com
+a4.b2b168.com
 a4.yeshj.com
 a5.yeshj.com
 a6.bjdianyue.com
@@ -422,6 +424,7 @@ adnetpub.yaolan.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adplay.tudou.com
+adpro.cn
 adpub.yaolan.com
 adpubs.yaolan.com
 adres.myaora.net
@@ -436,6 +439,7 @@ adsensor.org
 adserve2.tom.com
 adshare.freedocast.com
 adshows.21cn.com
+adsmind.tc.qq.com
 adsmogo.org
 adsor.openrunner.com
 adsremote.scrippsnetworks.com
@@ -557,6 +561,7 @@ api.dsp.yhd.com
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
+api.goulegu.com
 api.joybj.com
 api.ketedata.com
 api.leadbolt.net
@@ -1011,6 +1016,7 @@ client.stats.yinyuetai.com
 client.tenddata.com
 cliushow.com
 clk.dxpmedia.com
+clk.uunt.com
 cloakpoint.com
 clotfun.mobi
 cloudpush.iqiyi.com
@@ -1054,6 +1060,7 @@ config.push.sogou.com
 connect.summit.co.uk
 cookiemapping.wrating.com
 coolnay.com
+coolncute.com
 cooolyi.cn
 cop.my
 coro.benbaisteel.com
@@ -1375,6 +1382,7 @@ e.hmhqp.com
 e.hogyp.com
 e.hpzyl.com
 e.hunpp.com
+e.huoas.com
 e.hurnt.com
 e.hyzui.com
 e.icyrd.com
@@ -1717,6 +1725,7 @@ googlesile.com
 goproxing.net
 gou.wps.cn
 goupaoerdai.com
+gouwubang.com
 gouzhibao.cn
 govids.net
 gp.jstv.com
@@ -1981,11 +1990,11 @@ inte.sohu.com
 inte.theta.sogoucdn.com
 ip2.pxene.com
 ipalter.com
+iphonehacks.com
 iphonelog.shouji.baofeng.com
 ipic.staticsdo.com
 iqiyi.irs01.com
 ironbigfools.compython.net
-irs01.net
 ishop789.com
 ishowbg.com
 itaboo.info
@@ -2331,7 +2340,6 @@ m.027blzs.com
 m.0531mnk.net
 m.107279.com
 m.12306media.com
-m.1768.com
 m.1919388.net
 m.28487.net
 m.495495.com
@@ -2364,6 +2372,7 @@ m.bvoer.com
 m.bvosv.com
 m.casbanlly.com
 m.cdfzcz.com
+m.cenrs.com
 m.chenhuia.com
 m.chexiw.com
 m.cjieh.com
@@ -2454,7 +2463,6 @@ m.lusrg.cn
 m.lyjz001.com
 m.lzida.com
 m.lzytt.com
-m.maopuzw.com
 m.mgogo.com
 m.mgsue.cn
 m.miaoxinqipei.com
@@ -2604,7 +2612,6 @@ menghuanzs.com
 mengmengdas.com
 mergersandinquisitions.org
 meripet.biz
-metacafe.com
 mg.5pk
 mg.yadro.ru
 mgldzcls.com
@@ -3551,6 +3558,7 @@ toutiao.jxnews.com.cn
 tqd.ntpddq.com
 tracker.baidu.com
 tracker.yhd.com
+trafficmp.com
 trans.wenweipo.com
 tree.logger.baofeng.com
 trialofccp.org
@@ -3897,6 +3905,7 @@ www.gmiddle.net
 www.kindleren.com
 www.lamenhu.com
 www.wangruowang.org
+wwww.495495.com
 wwww.551144.com
 wwww.640640.com
 wwww.649649.com
