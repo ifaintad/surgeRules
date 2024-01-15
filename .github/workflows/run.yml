@@ -1,6 +1,11 @@
 name: Build Surge rules data files
 on:
   workflow_dispatch:
+    inputs:
+      skip_check_invalid_domains:
+        description: 'Skip check invalid.txt file? (yes/no)'
+        required: true
+        default: 'yes'
   schedule:
     - cron: "0 18 * * *"
   push:
@@ -17,10 +22,26 @@ jobs:
         with:
           python-version: 3.9
 
+      - name: Checkout release branch
+        if: (github.event_name == 'workflow_dispatch' && github.event.inputs.skip_check_invalid_domains == 'yes') || (github.event_name == 'schedule' && github.event.schedule != '0 18 * * 0')
+        uses: actions/checkout@v3
+        with:
+          ref: release
+
+      - name: Copy file to working directory
+        if: (github.event_name == 'workflow_dispatch' && github.event.inputs.skip_check_invalid_domains == 'yes') || (github.event_name == 'schedule' && github.event.schedule != '0 18 * * 0')
+        run: cp publish/invalid.txt /tmp
+
       - name: Checkout to "build" branch
         uses: actions/checkout@v3
         with:
           ref: build
+
+      - name: Copy file to working directory
+        if: (github.event_name == 'workflow_dispatch' && github.event.inputs.skip_check_invalid_domains == 'yes') || (github.event_name == 'schedule' && github.event.schedule != '0 18 * * 0')
+        run: |
+          mkdir -p ./publish
+          cp /tmp/invalid.txt ./publish/
 
       - name: Run build
         env:
