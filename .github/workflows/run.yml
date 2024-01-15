@@ -30,7 +30,7 @@ jobs:
 
       - name: Copy file to working directory
         if: (github.event_name == 'workflow_dispatch' && github.event.inputs.skip_check_invalid_domains == 'yes') || (github.event_name == 'schedule' && github.event.schedule != '0 18 * * 0')
-        run: cp publish/invalid.txt /tmp
+        run: cp ./invalid.txt /tmp
 
       - name: Checkout to "build" branch
         uses: actions/checkout@v3
