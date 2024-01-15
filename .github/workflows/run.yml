@@ -97,6 +97,18 @@ jobs:
         id: git-branch-name
         uses: EthanSK/git-branch-name-action@v1
 
+      - name: Trigger sing-box-geosite build action
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.TIGGER_GITHUB_ACTION_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'ifaintad',
+              repo: 'sing-box-geosite',
+              workflow_id: 'sync.yml',
+              ref: 'main'
+            })
+
       - name: Trigger deploy action
         uses: actions/github-script@v6
         with:
