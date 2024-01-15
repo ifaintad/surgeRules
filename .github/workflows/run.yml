@@ -4,7 +4,7 @@ on:
     inputs:
       skip_check_invalid_domains:
         description: 'Skip check invalid.txt file? (yes/no)'
-        required: true
+        required: false
         default: 'yes'
   schedule:
     - cron: "0 18 * * *"
