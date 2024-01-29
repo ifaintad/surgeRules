@@ -69,7 +69,7 @@ TELEGRAM = {
 }
 
 TWITTER = {
-    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list",
+    "url": "https://raw.githubusercontent.com/ifaintad/ios_rule_script/master/rule/Surge/Twitter/Twitter.list",
     "domain_keywords": ["twitter"],
 }
 
