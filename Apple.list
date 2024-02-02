@@ -20,7 +20,6 @@ PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCSe
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,Music
-PROCESS-NAME,News
 PROCESS-NAME,TV
 PROCESS-NAME,WeatherWidget
 PROCESS-NAME,apsd
@@ -30,7 +29,6 @@ PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,fmfd
 PROCESS-NAME,mapspushd
 PROCESS-NAME,netbiosd
-PROCESS-NAME,storedownloadd
 PROCESS-NAME,trustd
 USER-AGENT,*FindMyiPhone?
 USER-AGENT,*Music?
