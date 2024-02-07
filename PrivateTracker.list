@@ -42,13 +42,13 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
@@ -63,6 +63,7 @@ DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
 DOMAIN,thinking.duckdns.org
+DOMAIN,tk.greedland.net
 DOMAIN,tk1.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
@@ -110,6 +111,7 @@ DOMAIN,tracker.srv00.com
 DOMAIN,tracker.swateam.org.uk
 DOMAIN,tracker.t-rb.org
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.com
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
@@ -131,7 +133,6 @@ DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
 DOMAIN,uraniumhexafluori.de
-DOMAIN,v6-tracker.0g.cx
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
