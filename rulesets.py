@@ -58,6 +58,11 @@ DISNEY_PLUS = {
     "domain_keywords": ["disney", "disneymagicmoments", "20thcenturystudios"],
 }
 
+SPOTIFY = {
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list",
+    "domain_keywords": ["-spotify-", "spotify.com"],
+}
+
 GOOGLE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
     "domain_keywords": ["google", "googleapis", "blogspot"],
@@ -79,7 +84,7 @@ DOCKER = {
 
 
 IP_RESTRICTED_RULES = [
-    GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, TELEGRAM, TWITTER, DOCKER
+    GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, SPOTIFY, TELEGRAM, TWITTER, DOCKER
 ]
 
 
