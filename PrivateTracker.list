@@ -25,6 +25,7 @@ DOMAIN,explodie.org
 DOMAIN,fe.dealclub.de
 DOMAIN,fh2.cmp-gaming.com
 DOMAIN,free.publictracker.xyz
+DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.fuuuuuck.com
 DOMAIN,ipv6.rer.lol
 DOMAIN,mail.artixlinux.org
@@ -43,12 +44,15 @@ DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
+DOMAIN,open.va.wiki
 DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
+DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pirate.t-1.org
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -69,6 +73,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.qfruiti.com
 DOMAIN,tr.qfruiti.in
+DOMAIN,tr.ready4.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.anima.nz
 DOMAIN,tracker.artixlinux.org
@@ -89,7 +94,9 @@ DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrreen.xyz
+DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
+DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.cf
 DOMAIN,tracker.lilithraws.org
@@ -97,6 +104,7 @@ DOMAIN,tracker.loligirl.cn
 DOMAIN,tracker.mirrorbay.org
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.netmap.top
 DOMAIN,tracker.openbittorrent.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -108,7 +116,6 @@ DOMAIN,tracker.srv00.com
 DOMAIN,tracker.swateam.org.uk
 DOMAIN,tracker.t-rb.org
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.com
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
