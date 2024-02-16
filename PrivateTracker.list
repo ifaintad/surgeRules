@@ -51,6 +51,7 @@ DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
+DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pirate.t-1.org
 DOMAIN,public.tracker.vraphim.com
@@ -97,16 +98,14 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrreen.xyz
 DOMAIN,tracker.imgoingto.icu
-DOMAIN,tracker.ipfsscan.io
+DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.lilithraws.cf
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.loligirl.cn
 DOMAIN,tracker.mirrorbay.org
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.openbittorrent.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -127,6 +126,7 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.com
