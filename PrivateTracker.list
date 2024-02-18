@@ -50,11 +50,9 @@ DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
-DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pirate.t-1.org
 DOMAIN,public.tracker.vraphim.com
-DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -69,7 +67,6 @@ DOMAIN,t1.hloli.org
 DOMAIN,tamas3.ynh.fr
 DOMAIN,tk.greedland.net
 DOMAIN,tk1.trackerservers.com
-DOMAIN,torrent.hificode.in
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
@@ -83,13 +80,13 @@ DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.filemail.com
@@ -97,6 +94,7 @@ DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrreen.xyz
+DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -126,6 +124,7 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.com
