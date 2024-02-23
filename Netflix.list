@@ -1057,8 +1057,6 @@ IP-CIDR,52.7.0.0/16,no-resolve
 IP-CIDR,52.72.0.0/16,no-resolve
 IP-CIDR,52.76.127.0/24,no-resolve
 IP-CIDR,52.78.247.128/26,no-resolve
-IP-CIDR,52.82.128.0/23,no-resolve
-IP-CIDR,52.82.134.0/23,no-resolve
 IP-CIDR,52.88.0.0/15,no-resolve
 IP-CIDR,54.0.0.0/16,no-resolve
 IP-CIDR,54.148.0.0/15,no-resolve
