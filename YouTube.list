@@ -22,10 +22,6 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
-USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtube*
-USER-AGENT,com.google.ios.youtubemusic*
