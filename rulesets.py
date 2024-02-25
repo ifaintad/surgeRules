@@ -45,6 +45,11 @@ DIRECT_RULES = [
 ]
 
 # media rules
+
+YOUTUBE_MUSIC = {
+    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list",
+}
+
 YOUTUBE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list",
     "domain_keywords": ["youtube", "youtubego"],
@@ -84,7 +89,7 @@ DOCKER = {
 
 
 IP_RESTRICTED_RULES = [
-    GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, SPOTIFY, TELEGRAM, TWITTER, DOCKER
+    YOUTUBE_MUSIC, GOOGLE, YOUTUBE, NETFLIX, DISNEY_PLUS, SPOTIFY, TELEGRAM, TWITTER, DOCKER
 ]
 
 
