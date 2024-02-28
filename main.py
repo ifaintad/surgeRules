@@ -270,7 +270,7 @@ class RuleItem:
                  if not is_of_domain(u, domain_keywords_readonly)
                  and not is_banned_top_level_domains(u)]
 
-        rules = [f"DOMAIN-SUFFIX,{url}" for url in _urls]
+        rules = [f"DOMAIN-SUFFIX,{url}" for url in _urls if not url.endswith(".")]
 
         return [r for r in rules if r not in exist_rules]
 
