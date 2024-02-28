@@ -309,7 +309,6 @@ DOMAIN-SUFFIX,ad.audio-ak.cdn.spotify.com
 DOMAIN-SUFFIX,ad.doubleclick.net
 DOMAIN-SUFFIX,ad.video-ak.cdn.spotify.com
 DOMAIN-SUFFIX,ad3.adfarm1.adition.com
-DOMAIN-SUFFIX,adclick.g.doublecklick.
 DOMAIN-SUFFIX,adclick.g.doublecklick.net
 DOMAIN-SUFFIX,ade.googlesyndication.com
 DOMAIN-SUFFIX,adeventtracker.spotify.com
@@ -360,13 +359,11 @@ DOMAIN-SUFFIX,alien.spotify.net
 DOMAIN-SUFFIX,ams1-ib.adnxs.com
 DOMAIN-SUFFIX,analytics.admob.com
 DOMAIN-SUFFIX,analytics.google.com
-DOMAIN-SUFFIX,analytics.spotify.
 DOMAIN-SUFFIX,analytics.spotify.com
 DOMAIN-SUFFIX,andromache.ash.spotify.com
 DOMAIN-SUFFIX,andromache.ash1.spotify.com
 DOMAIN-SUFFIX,anemone.ash.spotify.com
 DOMAIN-SUFFIX,anemone.ash1.spotify.com
-DOMAIN-SUFFIX,anycast.pixel.adsafeprotected.
 DOMAIN-SUFFIX,anycast.pixel.adsafeprotected.com
 DOMAIN-SUFFIX,ap.gslb.spotify.com
 DOMAIN-SUFFIX,ap.spotify.com
@@ -442,7 +439,6 @@ DOMAIN-SUFFIX,audio4-akp.spotify.com.edgesuite.net
 DOMAIN-SUFFIX,auditdesk-server.spotify.com
 DOMAIN-SUFFIX,axp.spotify.com
 DOMAIN-SUFFIX,b.admob.com
-DOMAIN-SUFFIX,b.scorecardresearch.
 DOMAIN-SUFFIX,b.scorecardresearch.com
 DOMAIN-SUFFIX,b0.audio-ak.cdn.spotify.com
 DOMAIN-SUFFIX,b0.video-ak.cdn.spotify.com
@@ -484,11 +480,9 @@ DOMAIN-SUFFIX,bf.video-ak.cdn.spotify.com
 DOMAIN-SUFFIX,bid.g.doubleclick.net
 DOMAIN-SUFFIX,blog.spotify.com
 DOMAIN-SUFFIX,bloodhound.spotify.com
-DOMAIN-SUFFIX,bounceexchange.
 DOMAIN-SUFFIX,bounceexchange.com
 DOMAIN-SUFFIX,brandsnews.spotify.com
 DOMAIN-SUFFIX,broadcast.admob.com
-DOMAIN-SUFFIX,bs.serving-sys.
 DOMAIN-SUFFIX,bs.serving-sys.com
 DOMAIN-SUFFIX,bsams.eyeblaster.akadns.net
 DOMAIN-SUFFIX,bundling-integration.spotify.com
@@ -559,11 +553,9 @@ DOMAIN-SUFFIX,comscorenetworks.net
 DOMAIN-SUFFIX,concerts-hometile-images.scdn.co
 DOMAIN-SUFFIX,concerts.scdn.co
 DOMAIN-SUFFIX,configuration.ma.tune.com
-DOMAIN-SUFFIX,content.bitsontherun.
 DOMAIN-SUFFIX,content.bitsontherun.com
 DOMAIN-SUFFIX,core-ash-001.ash.spotify.com
 DOMAIN-SUFFIX,core-ash-001.ash1.spotify.com
-DOMAIN-SUFFIX,core.insightexpressai.
 DOMAIN-SUFFIX,core.insightexpressai.com
 DOMAIN-SUFFIX,corp.tune.com
 DOMAIN-SUFFIX,cp.tune.com
@@ -596,12 +588,10 @@ DOMAIN-SUFFIX,d1.audio-ak.cdn.spotify.com
 DOMAIN-SUFFIX,d1.video-ak.cdn.spotify.com
 DOMAIN-SUFFIX,d2.audio-ak.cdn.spotify.com
 DOMAIN-SUFFIX,d2.video-ak.cdn.spotify.com
-DOMAIN-SUFFIX,d2gi7ultltnc2u.cloudfront.
 DOMAIN-SUFFIX,d2gi7ultltnc2u.cloudfront.net
 DOMAIN-SUFFIX,d3.audio-ak.cdn.spotify.com
 DOMAIN-SUFFIX,d3.video-ak.cdn.spotify.com
 DOMAIN-SUFFIX,d361oi6ppvq2ym.cloudfront.net
-DOMAIN-SUFFIX,d3rt1990lpmkn.cloudfront.
 DOMAIN-SUFFIX,d3rt1990lpmkn.cloudfront.net
 DOMAIN-SUFFIX,d3rt199lpmkn.cloudfront.net
 DOMAIN-SUFFIX,d4.audio-ak.cdn.spotify.com
@@ -653,7 +643,6 @@ DOMAIN-SUFFIX,df.audio-ak.cdn.spotify.com
 DOMAIN-SUFFIX,df.video-ak.cdn.spotify.com
 DOMAIN-SUFFIX,digitalassetlinks.googleapis.c
 DOMAIN-SUFFIX,docs.spotify.com
-DOMAIN-SUFFIX,doubleclick.
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,download.scdn.co
 DOMAIN-SUFFIX,download.spotify.com
@@ -760,13 +749,11 @@ DOMAIN-SUFFIX,gew1-accesspoint-b-wjjm.ap.spotify.com
 DOMAIN-SUFFIX,gew1.ap.spotify.com
 DOMAIN-SUFFIX,global-dealer-ssl.spotify.com
 DOMAIN-SUFFIX,googleadapis.l.google.com
-DOMAIN-SUFFIX,googleads.g.doubleclick.
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,googleads4.g.doubleclick.net
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,groups.spotify.com
-DOMAIN-SUFFIX,gtssl2-ocsp.geotrust.
 DOMAIN-SUFFIX,gtssl2-ocsp.geotrust.com
 DOMAIN-SUFFIX,guc-dealer-ssl.spotify.com
 DOMAIN-SUFFIX,guc-dealer.spotify.com
@@ -816,7 +803,6 @@ DOMAIN-SUFFIX,iria.ash1.spotify.com
 DOMAIN-SUFFIX,j.admob.com
 DOMAIN-SUFFIX,jm.moatads.com
 DOMAIN-SUFFIX,jp.admob.com
-DOMAIN-SUFFIX,js.moatads.
 DOMAIN-SUFFIX,js.moatads.com
 DOMAIN-SUFFIX,json.moatads.com
 DOMAIN-SUFFIX,jsonp.moatads.com
@@ -843,7 +829,6 @@ DOMAIN-SUFFIX,links.spotify.com
 DOMAIN-SUFFIX,live-tile-images.scdn.co
 DOMAIN-SUFFIX,live.adyen.com
 DOMAIN-SUFFIX,live.spotify.com
-DOMAIN-SUFFIX,log.spotify.
 DOMAIN-SUFFIX,log.spotify.com
 DOMAIN-SUFFIX,log2.spotify.com
 DOMAIN-SUFFIX,logtest.moatads.com
@@ -859,7 +844,6 @@ DOMAIN-SUFFIX,mail.spotify.com
 DOMAIN-SUFFIX,mail2.comscore.com
 DOMAIN-SUFFIX,market.spotify.com
 DOMAIN-SUFFIX,marketer.comscore.com
-DOMAIN-SUFFIX,media-match.
 DOMAIN-SUFFIX,media-match.com
 DOMAIN-SUFFIX,media-router-flurry7.prod.medi
 DOMAIN-SUFFIX,media-router-flurry7.prod.media.wg1.b.yahoo.com
@@ -916,7 +900,6 @@ DOMAIN-SUFFIX,o.admob.com
 DOMAIN-SUFFIX,o1.em.spotify.com
 DOMAIN-SUFFIX,o11.em.spotify.com
 DOMAIN-SUFFIX,oktascimserver.spotify.com
-DOMAIN-SUFFIX,omaze.
 DOMAIN-SUFFIX,omaze.com
 DOMAIN-SUFFIX,opensource.spotify.com
 DOMAIN-SUFFIX,ops-prod.us-west-2.k8s.ops.tune.com
@@ -927,15 +910,12 @@ DOMAIN-SUFFIX,p1.vip.sc9.admob.com
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.c
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,pagead.l.doubleclick.net
-DOMAIN-SUFFIX,pagead2.googlesyndication.
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
-DOMAIN-SUFFIX,pagead46.l.doubleclick.
 DOMAIN-SUFFIX,pagead46.l.doubleclick.net
 DOMAIN-SUFFIX,paix1.sc1.admob.com
 DOMAIN-SUFFIX,partner-provisioning.spotify.com
 DOMAIN-SUFFIX,partner-service-testing.spotify.com
 DOMAIN-SUFFIX,partner-service.spotify.com
-DOMAIN-SUFFIX,partner.googleadservices.
 DOMAIN-SUFFIX,partner.googleadservices.com
 DOMAIN-SUFFIX,partnerad.l.doubleclick.net
 DOMAIN-SUFFIX,partnerportal.spotify.com
@@ -965,7 +945,6 @@ DOMAIN-SUFFIX,prod.spotify.map.fastly.net
 DOMAIN-SUFFIX,prod.spotify.map.fastlylb.net
 DOMAIN-SUFFIX,profile-images.scdn.co
 DOMAIN-SUFFIX,pt.admob.com
-DOMAIN-SUFFIX,pubads.g.doubleclick.
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,px.moatads.com
 DOMAIN-SUFFIX,q.admob.com
@@ -977,7 +956,6 @@ DOMAIN-SUFFIX,r.admob.com
 DOMAIN-SUFFIX,r.scdn.co
 DOMAIN-SUFFIX,r2.vip.sc9.admob.com
 DOMAIN-SUFFIX,r5---sn-5hnednlr.gvt1.com
-DOMAIN-SUFFIX,redirector.gvt1.
 DOMAIN-SUFFIX,redirector.gvt1.com
 DOMAIN-SUFFIX,reports.crashlytics.com
 DOMAIN-SUFFIX,repository-origin.spotify.com
@@ -986,7 +964,6 @@ DOMAIN-SUFFIX,request.api.cp.tune.com
 DOMAIN-SUFFIX,rmd.admob.com
 DOMAIN-SUFFIX,rosevear.ash.spotify.com
 DOMAIN-SUFFIX,rosevear.ash1.spotify.com
-DOMAIN-SUFFIX,rp-lb-766892831.us-east-1.elb.
 DOMAIN-SUFFIX,rp-lb-766892831.us-east-1.elb.amazonaws.com
 DOMAIN-SUFFIX,rt-vrrp-pub.ash.spotify.com
 DOMAIN-SUFFIX,rt-vrrp-pub.ash1.spotify.com
@@ -997,7 +974,6 @@ DOMAIN-SUFFIX,s.admob.com
 DOMAIN-SUFFIX,s.moatads.com
 DOMAIN-SUFFIX,s.update.moatads.com
 DOMAIN-SUFFIX,s0-2mdn-net.l.google.com
-DOMAIN-SUFFIX,s0.2mdn.
 DOMAIN-SUFFIX,s0.2mdn.net
 DOMAIN-SUFFIX,samatha.ash.spotify.com
 DOMAIN-SUFFIX,samatha.ash1.spotify.com
@@ -1018,7 +994,6 @@ DOMAIN-SUFFIX,seen-on-screen.thewhizmarketin
 DOMAIN-SUFFIX,seen-on-screen.thewhizmarketing.com
 DOMAIN-SUFFIX,sejs.moatads.com
 DOMAIN-SUFFIX,server-54-23-216-23.mrs5.r.cloudfront.net
-DOMAIN-SUFFIX,server-54-230-216-203.mrs50.r.
 DOMAIN-SUFFIX,server-54-230-216-203.mrs50.r.cloudfront.net
 DOMAIN-SUFFIX,settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
 DOMAIN-SUFFIX,settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
@@ -1090,7 +1065,6 @@ DOMAIN-SUFFIX,terraform-modules-test.intercom.io
 DOMAIN-SUFFIX,thisis-images.scdn.co
 DOMAIN-SUFFIX,tic1.vip.sc9.admob.com
 DOMAIN-SUFFIX,timecapsule.spotify.com
-DOMAIN-SUFFIX,tpc.googlesyndication.
 DOMAIN-SUFFIX,tpc.googlesyndication.com
 DOMAIN-SUFFIX,track.leanlab.co
 DOMAIN-SUFFIX,tracking.admobsphere.com
@@ -1117,7 +1091,6 @@ DOMAIN-SUFFIX,upsell.scdn.co
 DOMAIN-SUFFIX,upv4.moatads.com
 DOMAIN-SUFFIX,useradmin.spotify.com
 DOMAIN-SUFFIX,v.admob.com
-DOMAIN-SUFFIX,v.jwpcdn.
 DOMAIN-SUFFIX,v.jwpcdn.com
 DOMAIN-SUFFIX,v3.moatads.com
 DOMAIN-SUFFIX,v4.moatads.com
@@ -1125,7 +1098,6 @@ DOMAIN-SUFFIX,vast.moatads.com
 DOMAIN-SUFFIX,vastx.moatads.com
 DOMAIN-SUFFIX,via.intercom.io
 DOMAIN-SUFFIX,video-ad-stats.googlesyndicati
-DOMAIN-SUFFIX,video-ad-stats.googlesyndication.
 DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
 DOMAIN-SUFFIX,video-akp-cdn-spotify-com.akamaized.net
 DOMAIN-SUFFIX,video-fa-b.cdn.spotify.com
@@ -1144,7 +1116,6 @@ DOMAIN-SUFFIX,wab.spotify.com
 DOMAIN-SUFFIX,wap.admob.com
 DOMAIN-SUFFIX,waps.admob.com
 DOMAIN-SUFFIX,wave.spotify.com
-DOMAIN-SUFFIX,weblb-wg.gslb.spotify.
 DOMAIN-SUFFIX,webplayersupport.spotify.com
 DOMAIN-SUFFIX,welcome-images.scdn.co
 DOMAIN-SUFFIX,wendy.admob.com
@@ -1162,9 +1133,7 @@ DOMAIN-SUFFIX,www.admob.com
 DOMAIN-SUFFIX,www.admob.com.akadns.net
 DOMAIN-SUFFIX,www.comscore.com
 DOMAIN-SUFFIX,www.cp.tune.com
-DOMAIN-SUFFIX,www.googleadservices.
 DOMAIN-SUFFIX,www.googleadservices.com
-DOMAIN-SUFFIX,www.googletagservices.
 DOMAIN-SUFFIX,www.googletagservices.com
 DOMAIN-SUFFIX,www.intercom.io
 DOMAIN-SUFFIX,www.interia.pl
