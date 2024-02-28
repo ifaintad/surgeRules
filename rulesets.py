@@ -12,7 +12,15 @@ ADBLOCK3 = {
 BAN_PROGRAM_AD = {
     "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"}
 
-BANNING_RULES = [ADBLOCK, ADBLOCK3, HIJACKING, BAN_PROGRAM_AD]
+SPOTIFY_AD = {
+    "url": "https://raw.githubusercontent.com/Jigsaw88/Spotify-Ad-List/main/Spotify%20Adblock.txt",
+    "file_name": "SpotifyAD.list",
+    "has_prefix": False,
+    "filter_top_level_banned_domain": False,
+}
+
+
+BANNING_RULES = [ADBLOCK, ADBLOCK3, HIJACKING, BAN_PROGRAM_AD, SPOTIFY_AD]
 
 CHATGPT = {
     "url": "https://raw.githubusercontent.com/Toperlock/Quantumult/main/filter/OpenAI.list",  # noqa
