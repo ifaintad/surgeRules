@@ -13,7 +13,6 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
-DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -55,10 +54,10 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,pirate.t-1.org
 DOMAIN,public.publictracker.xyz
 DOMAIN,public.tracker.vraphim.com
-DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
+DOMAIN,run-2.publictracker.xyz
 DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
@@ -82,14 +81,11 @@ DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.anima.nz
 DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.auctor.tv
-DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.cloudit.top
-DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.filemail.com
@@ -108,7 +104,6 @@ DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
 DOMAIN,tracker.opentrackr.org
-DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.picotorrent.one
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
@@ -124,6 +119,7 @@ DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
+DOMAIN,tracker.vds.nz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
@@ -137,7 +133,6 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
-DOMAIN,u6.trakx.crim.ist
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
