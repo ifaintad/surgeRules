@@ -1,7 +1,6 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
-DOMAIN,6.pocketnet.app
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aarsen.me
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -52,7 +51,6 @@ DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pirate.t-1.org
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -73,7 +71,6 @@ DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.qfruiti.com
-DOMAIN,tr.qfruiti.in
 DOMAIN,track3r.site
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
@@ -86,6 +83,7 @@ DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.farted.net
@@ -93,6 +91,7 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
+DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -123,6 +122,7 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vds.nz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.com
