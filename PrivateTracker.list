@@ -13,10 +13,10 @@ DOMAIN,bt.ptlsp.com
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
-DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
+DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,epider.me
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
@@ -44,13 +44,11 @@ DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
 DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
-DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pirate.t-1.org
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -59,7 +57,6 @@ DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,shahidrazi.online
-DOMAIN,su-data.com
 DOMAIN,t.acg.rip
 DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
@@ -70,6 +67,7 @@ DOMAIN,tk1.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.qfruiti.com
 DOMAIN,tr.qfruiti.in
 DOMAIN,track3r.site
@@ -77,7 +75,6 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.anima.nz
 DOMAIN,tracker.artixlinux.org
-DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
@@ -85,14 +82,13 @@ DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
+DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
-DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -122,7 +118,6 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vds.nz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.com
@@ -138,6 +133,7 @@ DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
+DOMAIN,www.wareztorrent.com
 DOMAIN,yolo.liberbear.com
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
