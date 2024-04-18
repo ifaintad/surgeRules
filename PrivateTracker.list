@@ -13,6 +13,7 @@ DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bubu.mapfactor.com
 DOMAIN,bvarf.tracker.sh
+DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -23,11 +24,11 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fh2.cmp-gaming.com
 DOMAIN,free.publictracker.xyz
+DOMAIN,inferno.demonoid.is
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.fuuuuuck.com
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
-DOMAIN,jutone.com
 DOMAIN,martin-gebhardt.eu
 DOMAIN,moonburrow.club
 DOMAIN,movies.zsw.ca
@@ -40,6 +41,7 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.free-tracker.ga
+DOMAIN,open.publictracker.xyz
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
@@ -57,6 +59,7 @@ DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run-2.publictracker.xyz
 DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
+DOMAIN,shahidrazi.online
 DOMAIN,su-data.com
 DOMAIN,t.acg.rip
 DOMAIN,t.peer-exchange.download
@@ -67,7 +70,9 @@ DOMAIN,tk.greedland.net
 DOMAIN,tk1.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.qfruiti.com
 DOMAIN,track3r.site
 DOMAIN,tracker-udp.gbitt.info
@@ -91,7 +96,6 @@ DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrreen.xyz
-DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -112,11 +116,11 @@ DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-rb.org
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.com
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vds.nz
 DOMAIN,tracker.yemekyedim.com
@@ -129,7 +133,6 @@ DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
-DOMAIN,trackers.mlsub.net
 DOMAIN,trackers.ptlsp.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u.peer-exchange.download
