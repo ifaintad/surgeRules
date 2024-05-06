@@ -23,7 +23,7 @@ SPOTIFY_AD = {
 BANNING_RULES = [ADBLOCK, ADBLOCK3, HIJACKING, BAN_PROGRAM_AD, SPOTIFY_AD]
 
 CHATGPT = {
-    "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list",  # noqa
+    "url": "https://raw.githubusercontent.com/ifaintad/Quantumult/main/filter/OpenAI.list",  # noqa
     "domain_keywords": ["openaicom-api"],
 }
 
