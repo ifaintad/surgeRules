@@ -63,7 +63,6 @@ DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,t.overflow.biz
 DOMAIN,t.peer-exchange.download
-DOMAIN,t1.aag.moe
 DOMAIN,tamas3.ynh.fr
 DOMAIN,tk.greedland.net
 DOMAIN,tk1.trackerservers.com
@@ -97,12 +96,9 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gcrreen.xyz
-DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jamesthebard.net
-DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.loligirl.cn
@@ -122,10 +118,10 @@ DOMAIN,tracker.t-rb.org
 DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.com
-DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
+DOMAIN,tracker.vds.nz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.ctix.cn
@@ -135,7 +131,6 @@ DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
-DOMAIN,trackers.mlsub.net
 DOMAIN,trackers.ptlsp.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u.peer-exchange.download
@@ -143,6 +138,7 @@ DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
+DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
 DOMAIN-KEYWORD,announce
