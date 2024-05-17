@@ -146,14 +146,6 @@ if extra_repo and extra_repo_token:
         "token": extra_repo_token
     }
 
-    DOMAIN_SUFFIX_NO_EDGE_TUNNEL = {
-        "url": f"https://raw.githubusercontent.com/{extra_repo}/main/no_edge_tunnel",
-        "file_name": "NoEdgeTunnel.list",
-        "has_prefix": False,
-        "filter_top_level_banned_domain": False,
-        "token": extra_repo_token
-    }
-
     SING_BOX_PACKAGES_ALWAYS_DIRECT = {
         "url": f"https://raw.githubusercontent.com/{extra_repo}/main/always_direct_packages",
         "file_name": "AlwaysDirectPackages.list",
