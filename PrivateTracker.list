@@ -43,6 +43,7 @@ DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
+DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
@@ -62,14 +63,17 @@ DOMAIN,tk1.trackerservers.com
 DOMAIN,tk2.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
 DOMAIN,torrents.artixlinux.org
+DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.birkenwald.de
+DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
@@ -88,7 +92,6 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.jamesthebard.net
