@@ -19,7 +19,6 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fh2.cmp-gaming.com
-DOMAIN,fosstorrents.com
 DOMAIN,inferno.demonoid.is
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.fuuuuuck.com
@@ -40,6 +39,7 @@ DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
+DOMAIN,open.publictracker.xyz
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
@@ -49,6 +49,7 @@ DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.publictracker.xyz
 DOMAIN,public.tracker.vraphim.com
+DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -56,18 +57,18 @@ DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,t.overflow.biz
+DOMAIN,t.peer-exchange.download
 DOMAIN,t1.aag.moe
 DOMAIN,tamas3.ynh.fr
-DOMAIN,tk.greedland.net
 DOMAIN,tk1.trackerservers.com
 DOMAIN,tk2.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
-DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tracker-udp.gbitt.info
+DOMAIN,tracker-us.silksa.co.za
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
@@ -94,6 +95,7 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
+DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jamesthebard.net
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
@@ -106,7 +108,6 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.silksa.co.za
-DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
@@ -115,6 +116,7 @@ DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
