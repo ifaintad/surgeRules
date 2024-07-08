@@ -1,8 +1,8 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list
 DOMAIN,asusrouter.com
-DOMAIN,cp.cloudflare.com
-DOMAIN,detectportal.firefox.com
+DOMAIN,connect.rom.miui.com
 DOMAIN,instant.arubanetworks.com
+DOMAIN,oasisauth.h3c.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,www.asusrouter.com
@@ -90,7 +90,9 @@ DOMAIN-SUFFIX,98.100.in-addr.arpa
 DOMAIN-SUFFIX,99.100.in-addr.arpa
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,cp.cloudflare.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
+DOMAIN-SUFFIX,detectportal.firefox.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,leike.cc
@@ -102,7 +104,9 @@ DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,ping.archlinux.org
 DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,push.services.mozilla.com
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,test.steampowered.com
