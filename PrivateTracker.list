@@ -1,15 +1,17 @@
 # Based on https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
-DOMAIN,aegir.sexy
 DOMAIN,amigacity.xyz
 DOMAIN,bandito.byterunner.io
+DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,bittorrent.service.gongt.me
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
+DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -18,10 +20,8 @@ DOMAIN,epider.me
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
-DOMAIN,free.publictracker.xyz
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.rer.lol
-DOMAIN,isk.richardsw.club
 DOMAIN,jutone.com
 DOMAIN,leet-tracker.moe
 DOMAIN,mail.artixlinux.org
@@ -43,6 +43,7 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.x2k.ru
@@ -54,6 +55,7 @@ DOMAIN,seedpeer.net
 DOMAIN,t.overflow.biz
 DOMAIN,t1.aag.moe
 DOMAIN,tamas3.ynh.fr
+DOMAIN,threads.canofsocks.com
 DOMAIN,tk.greedland.net
 DOMAIN,tk2.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
@@ -63,10 +65,12 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
+DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.birkenwald.de
+DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
@@ -118,7 +122,6 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,trackers.mlsub.net
 DOMAIN,trackers.run
 DOMAIN,ttk2.nbaonlineservice.com
-DOMAIN,u.peer-exchange.download
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,www.all4nothin.net
