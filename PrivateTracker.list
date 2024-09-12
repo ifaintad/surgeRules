@@ -20,8 +20,9 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,free.publictracker.xyz
-DOMAIN,freedomalternative.com
 DOMAIN,ipv4.rer.lol
+DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
 DOMAIN,jutone.com
 DOMAIN,jvavav.com
@@ -57,7 +58,6 @@ DOMAIN,t.overflow.biz
 DOMAIN,t1.aag.moe
 DOMAIN,tamas3.ynh.fr
 DOMAIN,tk.greedland.net
-DOMAIN,tk1.trackerservers.com
 DOMAIN,tk2.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
 DOMAIN,torrents.artixlinux.org
@@ -70,7 +70,6 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-us.silksa.co.za
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
@@ -116,7 +115,6 @@ DOMAIN,tracker.vds.nz
 DOMAIN,tracker.xor.st
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
