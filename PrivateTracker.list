@@ -28,16 +28,13 @@ DOMAIN,jutone.com
 DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,mathkangaroo.jp
-DOMAIN,mc.itscraftsoftware.my.id
 DOMAIN,moonburrow.club
+DOMAIN,new-line.net
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,odd-hd.fr
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
-DOMAIN,open.publictracker.xyz
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
@@ -45,7 +42,9 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
+DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -65,6 +64,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
+DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-us.silksa.co.za
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -72,7 +72,6 @@ DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
@@ -98,6 +97,7 @@ DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.jamesthebard.net
 DOMAIN,tracker.k.vu
+DOMAIN,tracker.kmzs123.tk
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.mywaifu.best
@@ -109,10 +109,12 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xor.st
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
@@ -129,11 +131,11 @@ DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,wepzone.net
-DOMAIN,wg.mortis.me
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
+DOMAIN,z.mercax.com
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,m-team
