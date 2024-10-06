@@ -9,6 +9,7 @@ DOMAIN,bt.rer.lol
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
+DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -19,7 +20,6 @@ DOMAIN,explodie.org
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.rer.lol
 DOMAIN,jutone.com
-DOMAIN,jvavav.com
 DOMAIN,martin-gebhardt.eu
 DOMAIN,moonburrow.club
 DOMAIN,new-line.net
@@ -35,6 +35,7 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
@@ -44,14 +45,13 @@ DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
-DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,tk2.trackerservers.com
+DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
-DOMAIN,tr1.aag.moe
 DOMAIN,tr2.trkb.ru
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
@@ -67,6 +67,7 @@ DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.ddunlimited.net
+DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.edkj.club
@@ -81,8 +82,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.jamesthebard.net
-DOMAIN,tracker.k.vu
-DOMAIN,tracker.kmzs123.cf
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.mywaifu.best
@@ -90,6 +89,7 @@ DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.peckservers.com
 DOMAIN,tracker.pmman.tech
+DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
@@ -105,7 +105,6 @@ DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
-DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
