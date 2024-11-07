@@ -5,7 +5,6 @@ DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,aegir.sexy
 DOMAIN,amigacity.xyz
-DOMAIN,api.clasificadosrapidos.com
 DOMAIN,api.ipv4online.uk
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -24,13 +23,14 @@ DOMAIN,discord.heihachi.pw
 DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
+DOMAIN,explodie.org
 DOMAIN,finbytes.org
 DOMAIN,fleira.no
-DOMAIN,freedomalternative.com
 DOMAIN,ftp.pet
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
+DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
@@ -61,9 +61,7 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,rfc5746.mywaifu.best
 DOMAIN,run.publictracker.xyz
-DOMAIN,ryjer.com
 DOMAIN,saltwood.top
 DOMAIN,seeders-paradise.org
 DOMAIN,seedpeer.net
@@ -78,12 +76,14 @@ DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,tk2v6.trackerservers.com
+DOMAIN,tk4.leechshield.link
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr.zukizuki.org
 DOMAIN,tr1.aag.moe
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
@@ -91,6 +91,7 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-us.silksa.co.za
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
+DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
@@ -135,6 +136,7 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -158,6 +160,7 @@ DOMAIN,tracker810.xyz
 DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
+DOMAIN,u6.trakx.crim.ist
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
