@@ -7,7 +7,6 @@ DOMAIN,api.ipv4online.uk
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
-DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
@@ -26,12 +25,12 @@ DOMAIN,ftp.pet
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
+DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,jutone.com
 DOMAIN,kiryuu-test.mywaifu.best
 DOMAIN,martin-gebhardt.eu
 DOMAIN,mathkangaroo.jp
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,odd-hd.fr
@@ -52,6 +51,7 @@ DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
+DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,saltwood.top
 DOMAIN,seeders-paradise.org
@@ -151,7 +151,6 @@ DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
-DOMAIN,yahor.of.by
 DOMAIN,z.mercax.com
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
