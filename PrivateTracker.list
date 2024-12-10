@@ -6,6 +6,7 @@ DOMAIN,amigacity.xyz
 DOMAIN,api.ipv4online.uk
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
@@ -14,7 +15,6 @@ DOMAIN,buny.uk
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,discord.heihachi.pw
 DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
@@ -25,9 +25,10 @@ DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,jutone.com
-DOMAIN,kiryuu-test.mywaifu.best
+DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,mathkangaroo.jp
 DOMAIN,ns1.monolithindustries.com
@@ -62,6 +63,7 @@ DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -70,6 +72,7 @@ DOMAIN,tr1.aag.moe
 DOMAIN,tr2.trkb.ru
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
+DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.beeimg.com
@@ -84,7 +87,6 @@ DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.deadorbit.nl
-DOMAIN,tracker.dev-null.rocks
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
@@ -105,6 +107,7 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
@@ -118,8 +121,8 @@ DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.vds.nz
 DOMAIN,tracker.vraphim.com
