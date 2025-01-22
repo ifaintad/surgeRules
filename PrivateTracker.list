@@ -6,6 +6,7 @@ DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,api.ipv4online.uk
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
@@ -31,6 +32,8 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
+DOMAIN,new-line.net
+DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
@@ -48,7 +51,7 @@ DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
-DOMAIN,rfc5746.mywaifu.best
+DOMAIN,retracker.x2k.ru
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,share.hkg-fansub.info
@@ -59,6 +62,8 @@ DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.tracker.durukanbal.com
+DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -66,6 +71,7 @@ DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
+DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
@@ -74,6 +80,7 @@ DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.corpscorp.online
+DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
@@ -88,6 +95,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kmzs123.tk
 DOMAIN,tracker.kuroy.me
+DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
@@ -108,6 +116,8 @@ DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
+DOMAIN,tracker.valete.tf
+DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
@@ -115,6 +125,9 @@ DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
+DOMAIN,tracker2.itzmx.com
+DOMAIN,tracker3.itzmx.com
+DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
@@ -248,3 +261,6 @@ DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
+IP-CIDR,207.241.226.111/32,no-resolve
+IP-CIDR,207.241.231.226/32,no-resolve
+IP-CIDR,52.58.128.163/32,no-resolve
