@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,1991way.com
 DOMAIN-SUFFIX,1bao.org
 DOMAIN-SUFFIX,1dumb.com
 DOMAIN-SUFFIX,1eew.com
+DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,1mobile.com
 DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,1pondo.tv
@@ -172,7 +173,6 @@ DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai.binwang.me
-DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
@@ -1734,6 +1734,7 @@ DOMAIN-SUFFIX,gluckman.com
 DOMAIN-SUFFIX,glype.com
 DOMAIN-SUFFIX,gmgard.com
 DOMAIN-SUFFIX,gmll.org
+DOMAIN-SUFFIX,gmp4.com
 DOMAIN-SUFFIX,gnci.org.hk
 DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,go-to-zlibrary.se
@@ -2071,6 +2072,7 @@ DOMAIN-SUFFIX,hyperrate.com
 DOMAIN-SUFFIX,hypothes.is
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,i.lithium.com
 DOMAIN-SUFFIX,i1.hk
 DOMAIN-SUFFIX,i818hk.com
@@ -3057,6 +3059,7 @@ DOMAIN-SUFFIX,omnitalk.org
 DOMAIN-SUFFIX,omny.fm
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
@@ -3233,6 +3236,7 @@ DOMAIN-SUFFIX,pkqjiasu.com
 DOMAIN-SUFFIX,pkuanvil.com
 DOMAIN-SUFFIX,placemix.com
 DOMAIN-SUFFIX,play-asia.com
+DOMAIN-SUFFIX,play.google
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
 DOMAIN-SUFFIX,player.fm
@@ -3350,6 +3354,7 @@ DOMAIN-SUFFIX,pullfolio.com
 DOMAIN-SUFFIX,punyu.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureconcepts.net
+DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purepdf.com
 DOMAIN-SUFFIX,purevpn.com
@@ -3376,6 +3381,7 @@ DOMAIN-SUFFIX,qidian.ca
 DOMAIN-SUFFIX,qiwen.lu
 DOMAIN-SUFFIX,qixianglu.cn
 DOMAIN-SUFFIX,qkshare.com
+DOMAIN-SUFFIX,qmp4.com
 DOMAIN-SUFFIX,qoos.com
 DOMAIN-SUFFIX,qpoe.com
 DOMAIN-SUFFIX,qq.co.za
@@ -3503,9 +3509,11 @@ DOMAIN-SUFFIX,rtalabel.org
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,rthk.org.hk
 DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
+DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,rukor.org
 DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
@@ -4985,7 +4993,12 @@ DOMAIN-SUFFIX,yx51.net
 DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,z-lib.fo
+DOMAIN-SUFFIX,z-lib.gd
+DOMAIN-SUFFIX,z-lib.gl
 DOMAIN-SUFFIX,z-lib.io
+DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zamimg.com
