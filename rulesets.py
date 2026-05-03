@@ -78,7 +78,7 @@ SPOTIFY = {
 
 GOOGLE = {
     "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
-    "domain_keywords": ["google", "googleapis", "blogspot"],
+    "domain_keywords": ["google", "googleapis", "blogspot", "antigravity-unleash", "antigravity", "goog"],
 }
 
 TELEGRAM = {
